@@ -3,65 +3,228 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daily UFCle: Guess the Fighter</title>
+    <title>Tale of the Tape: Daily UFC Guess</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Oswald:wght=700&display=swap" rel="stylesheet">
     <style>
-        /* Basic Styling and Layout (You have full freedom to style this) */
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background: #f4f4f4; color: #333; margin: 0; padding: 20px; }
-        .container { max-width: 800px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); }
-        h1 { color: #f00; text-align: center; margin-bottom: 20px; }
-        .input-area { display: flex; gap: 10px; margin-bottom: 20px; }
-        #fighter-input { flex-grow: 1; padding: 10px; border: 2px solid #ccc; border-radius: 5px; }
-        #guess-button { background-color: #f00; color: white; border: none; padding: 10px 15px; border-radius: 5px; cursor: pointer; transition: background-color 0.3s; }
-        #guess-button:hover { background-color: #cc0000; }
-        .results-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
-        .results-table th, .results-table td { padding: 10px; border: 1px solid #ddd; text-align: center; }
-        .results-table th { background-color: #eee; }
+        /* --- General Reset & Fonts --- */
+        :root {
+            --color-dark: #1e1e1e;
+            --color-medium: #2a2a2a;
+            --color-light: #f4f4f4;
+            --color-accent: #f00; /* UFC Red */
+            --color-text-light: #ddd;
+            
+            --color-green: #38b000; /* Success */
+            --color-yellow: #ffc300; /* Closer */
+            --color-red: #d00000; /* Far Off / Danger */
+            
+            --padding-base: 20px;
+        }
+
+        body { 
+            font-family: 'Roboto', sans-serif; 
+            background: var(--color-dark); 
+            color: var(--color-text-light); 
+            margin: 0; 
+            padding: 0; 
+        }
+
+        /* --- Layout & Structure --- */
+        .container { 
+            max-width: 900px; 
+            margin: 0 auto; 
+            padding: var(--padding-base); 
+        }
+
+        header { 
+            background: var(--color-medium); 
+            padding: 30px 0; 
+            border-bottom: 3px solid var(--color-accent);
+            margin-bottom: var(--padding-base);
+        }
+
+        h1 { 
+            font-family: 'Oswald', sans-serif;
+            color: var(--color-accent); 
+            text-align: center; 
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        .section-box {
+            background: var(--color-medium);
+            padding: var(--padding-base);
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            margin-bottom: var(--padding-base);
+        }
+
+        /* --- Input & Buttons --- */
+        .input-area { 
+            display: flex; 
+            gap: 10px; 
+            margin-bottom: 20px; 
+            position: relative;
+        }
+
+        #fighter-input { 
+            flex-grow: 1; 
+            padding: 12px; 
+            border: 2px solid var(--color-medium); 
+            border-radius: 5px; 
+            background: var(--color-dark);
+            color: var(--color-text-light);
+            font-size: 1.1em;
+            transition: border-color 0.3s;
+        }
+        #fighter-input:focus {
+            outline: none;
+            border-color: var(--color-accent);
+        }
+
+        .action-button { 
+            background-color: var(--color-accent); 
+            color: var(--color-light); 
+            border: none; 
+            padding: 12px 18px; 
+            border-radius: 5px; 
+            cursor: pointer; 
+            font-weight: bold;
+            text-transform: uppercase;
+            transition: background-color 0.3s, opacity 0.3s;
+        }
+        .action-button:hover { background-color: #cc0000; }
+        .action-button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+        /* --- Autocomplete List --- */
+        #autocomplete-container {
+            position: absolute;
+            top: 100%; /* Position below the input field */
+            left: 0;
+            right: 0;
+            z-index: 100;
+        }
+        .autocomplete-list { 
+            background: var(--color-dark); 
+            border: 1px solid var(--color-accent); 
+            max-height: 250px; 
+            overflow-y: auto; 
+            border-top: none;
+            border-radius: 0 0 5px 5px;
+        }
+        .autocomplete-item { 
+            padding: 10px; 
+            cursor: pointer; 
+            display: flex; 
+            align-items: center; 
+            border-bottom: 1px solid var(--color-medium); 
+        }
+        .autocomplete-item:hover { 
+            background: var(--color-medium); 
+        }
+        .autocomplete-item img { 
+            width: 30px; 
+            height: 30px; 
+            border-radius: 50%; 
+            margin-right: 10px; 
+            object-fit: cover; 
+            border: 1px solid var(--color-accent);
+        }
+
+        /* --- Results Table --- */
+        .results-table { 
+            width: 100%; 
+            border-collapse: collapse; 
+        }
+        .results-table th, .results-table td { 
+            padding: 10px; 
+            border: 1px solid var(--color-dark); 
+            text-align: center; 
+            font-size: 0.9em;
+        }
+        .results-table th { 
+            background-color: var(--color-medium);
+            color: var(--color-accent);
+            font-family: 'Oswald', sans-serif;
+            text-transform: uppercase;
+        }
         
-        /* Color Coding for Results */
-        .color-red { background-color: #ffcccc; color: #a00; }    /* Far off */
-        .color-yellow { background-color: #fffacd; color: #a90; } /* Closer */
-        .color-green { background-color: #ccffcc; color: #0a0; }  /* Correct */
+        /* Color Coding */
+        .color-red-bg { background-color: var(--color-red); color: white; }
+        .color-yellow-bg { background-color: var(--color-yellow); color: var(--color-dark); }
+        .color-green-bg { background-color: var(--color-green); color: white; }
         
         /* Arrow Styling */
-        .arrow { font-size: 1.2em; margin-left: 5px; }
-        .up-arrow { color: #f00; } /* Secret fighter is HIGHER */
-        .down-arrow { color: #f00; } /* Secret fighter is LOWER */
+        .arrow { font-size: 1.1em; margin-left: 5px; font-weight: 700; }
+        .up-arrow { color: white; } 
+        .down-arrow { color: white; } 
+        
+        /* --- Status Message --- */
+        .status-message { 
+            text-align: center; 
+            font-weight: bold; 
+            margin-top: var(--padding-base); 
+            padding: 15px; 
+            border-radius: 5px; 
+            font-size: 1.2em;
+        }
+        .win { background-color: var(--color-green); color: white; }
+        .lose { background-color: var(--color-red); color: white; }
 
-        .status-message { text-align: center; font-weight: bold; margin-top: 20px; padding: 10px; border-radius: 5px; }
-        .win { background-color: #ccffcc; color: #0a0; }
-        .lose { background-color: #ffcccc; color: #a00; }
+        /* --- About Section --- */
+        #about-section h2 { 
+            color: var(--color-accent); 
+            border-bottom: 1px solid var(--color-accent); 
+            padding-bottom: 5px;
+            font-family: 'Oswald', sans-serif;
+        }
+        #about-section p { 
+            line-height: 1.6; 
+            margin-bottom: 15px;
+        }
 
-        /* Autocomplete List */
-        .autocomplete-list { position: absolute; background: white; border: 1px solid #ccc; max-height: 200px; overflow-y: auto; z-index: 100; width: calc(800px - 40px); }
-        .autocomplete-item { padding: 10px; cursor: pointer; display: flex; align-items: center; border-bottom: 1px solid #eee; }
-        .autocomplete-item:hover { background: #f0f0f0; }
-        .autocomplete-item img { width: 30px; height: 30px; border-radius: 50%; margin-right: 10px; object-fit: cover; }
-
-        /* Footer */
-        .footer { text-align: center; margin-top: 30px; font-size: 0.8em; color: #888; }
-
+        /* --- Footer --- */
+        .footer { 
+            text-align: center; 
+            margin-top: 40px; 
+            padding-top: 20px;
+            font-size: 0.8em; 
+            color: #888; 
+            border-top: 1px solid #3a3a3a;
+        }
+        .footer a {
+            color: var(--color-accent);
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
 
+<header>
+    <h1>Tale of the Tape</h1>
+</header>
+
 <div class="container">
-    <header>
-        <h1>🥊 UFCle: Guess the Fighter</h1>
-    </header>
-
-    <div id="game-info">
-        <p>Guess the mystery UFC fighter in 5 attempts!</p>
+    <div id="game-controls" class="section-box">
+        <h2>Fighter Guess</h2>
+        <p>Guess the mystery UFC fighter in 5 attempts. Compare your selection's stats to the hidden fighter!</p>
         <p id="guesses-remaining">Guesses Remaining: 5</p>
+
+        <div class="input-area">
+            <input type="text" id="fighter-input" placeholder="Start typing a fighter's name (e.g., Hen)...">
+            <button id="guess-button" class="action-button">Submit Guess</button>
+            <button id="practice-button" class="action-button">Practice Mode</button>
+        </div>
+        <div id="autocomplete-container"></div>
     </div>
 
-    <div class="input-area">
-        <input type="text" id="fighter-input" placeholder="Start typing a fighter's name...">
-        <button id="guess-button">Guess</button>
-        <button id="practice-button">Practice Game</button>
-    </div>
-    <div id="autocomplete-container"></div>
-
-    <div id="results">
+    <div id="results" class="section-box">
+        <h2>Guess History</h2>
         <table class="results-table">
             <thead>
                 <tr>
@@ -82,6 +245,25 @@
     </div>
 
     <div id="status" class="status-message"></div>
+
+    <div id="about-section" class="section-box">
+        <h2>Data Source and Game Information</h2>
+        <p>
+            **The Data:** All fighter statistics and ranking information are scraped nightly at midnight EST from the official **UFC Rankings** page and individual **UFC Athlete Profile** pages using a custom Python script. This ensures the game is based on the most up-to-date data available.
+        </p>
+        <p>
+            **How Comparison Works:**
+            <ul>
+                <li>**Green:** Exact match in value or category (Division, Rank).</li>
+                <li>**Yellow:** The statistic is *close* to the secret fighter's value (within 10-50% difference).</li>
+                <li>**Red:** The statistic is far off (more than 50% difference).</li>
+                <li>**Arrows (▲ or ▼):** The arrow indicates the direction the secret fighter's stat lies. 
+                    A **▼** means your guessed stat is too **High**, and the secret fighter's stat is **Lower**.
+                    A **▲** means your guessed stat is too **Low**, and the secret fighter's stat is **Higher**.
+                </li>
+            </ul>
+        </p>
+    </div>
 </div>
 
 <footer class="footer">
@@ -96,11 +278,11 @@
         guesses: [],
         maxGuesses: 5,
         isGameOver: false,
-        isPracticeMode: false
+        isPracticeMode: false,
+        validFighterNames: [] // List of valid names for quick lookup
     };
 
     // --- Key Fighter Stats for Comparison (Numeric and need comparison logic) ---
-    // Stat Name: [Display Name, Unit Conversion Multiplier]
     const COMPARISON_STATS = {
         'SLpM': 'SLpM',
         'SApM': 'SApM',
@@ -110,7 +292,9 @@
     };
     
     // --- Non-Comparison Stats (Check for exact match) ---
-    const EXACT_MATCH_STATS = ['Division', 'Rank', 'Stance'];
+    // Removed Record and Stance from this list to prevent coloring in the loop, leaving only the important ones
+    const EXACT_MATCH_STATS = ['Division', 'Rank']; 
+
 
     // --- Utility Functions ---
 
@@ -128,7 +312,8 @@
             }
 
             GAME_STATE.allFighters = data.fighter_data;
-            // Determine the fighter to guess: use the daily fighter unless in practice mode
+            GAME_STATE.validFighterNames = Object.keys(data.fighter_data); // Populate the name list
+            
             const dailyFighterName = data.daily_fighter?.Name;
             if (dailyFighterName && GAME_STATE.allFighters[dailyFighterName]) {
                  GAME_STATE.dailyFighter = GAME_STATE.allFighters[dailyFighterName];
@@ -137,60 +322,59 @@
                  startPracticeGame();
                  return;
             }
-            console.log("Game data loaded. Daily Fighter is set.");
         } catch (error) {
             console.error("Error fetching or processing game data:", error);
-            document.getElementById('status').textContent = "Error loading game data. Please check back later.";
+            document.getElementById('status').textContent = "Error loading game data. Please ensure the GitHub Action has run successfully.";
             GAME_STATE.isGameOver = true;
         }
     }
 
     /** Converts 'MM:SS' time string to total seconds (for math comparisons). */
     function timeToSeconds(timeStr) {
-        if (!timeStr || timeStr === 'N/A') return 0;
+        if (!timeStr || timeStr.trim() === 'N/A') return 0;
         const parts = timeStr.split(':');
         if (parts.length === 2) {
             return parseInt(parts[0]) * 60 + parseInt(parts[1]);
         }
-        return parseFloat(timeStr) || 0; // fallback for non-MM:SS formats
+        return parseFloat(timeStr) || 0; 
     }
 
     /** Gets the comparison value for a stat (number or 0 if N/A). */
     function getStatValue(fighter, statKey) {
         const val = fighter[statKey];
-        if (statKey === 'Fight_Time_Seconds') {
-            return parseFloat(val) || 0;
-        }
         // Handle numeric stats which might be strings
         return parseFloat(val) || 0;
     }
 
-    /** Clears and resets the game state for a new daily or practice game. */
-    function resetGame() {
+    /** Clears and resets the game state. */
+    function resetGame(isPractice) {
         GAME_STATE.guesses = [];
         GAME_STATE.isGameOver = false;
+        GAME_STATE.isPracticeMode = isPractice;
         document.getElementById('guesses-tbody').innerHTML = '';
         document.getElementById('status').innerHTML = '';
         document.getElementById('fighter-input').value = '';
+        document.getElementById('guess-button').disabled = false;
+        document.getElementById('fighter-input').disabled = false;
         updateGuessesRemaining();
     }
 
     /** Starts a practice game with a random fighter. */
     function startPracticeGame() {
-        resetGame();
-        GAME_STATE.isPracticeMode = true;
-        const fighterNames = Object.keys(GAME_STATE.allFighters);
+        resetGame(true);
+        const fighterNames = GAME_STATE.validFighterNames;
         const randomName = fighterNames[Math.floor(Math.random() * fighterNames.length)];
         GAME_STATE.dailyFighter = GAME_STATE.allFighters[randomName];
-        document.getElementById('status').textContent = `Starting Practice Game! Guess the fighter.`;
-        console.log(`Practice fighter is: ${randomName}`);
+        document.getElementById('status').className = 'status-message';
+        document.getElementById('status').textContent = `Practice Mode: Guess the fighter (Not saved).`;
+        // console.log(`Practice fighter is: ${randomName}`);
     }
 
     /** Updates the displayed number of guesses left. */
     function updateGuessesRemaining() {
         const remaining = GAME_STATE.maxGuesses - GAME_STATE.guesses.length;
         document.getElementById('guesses-remaining').textContent = `Guesses Remaining: ${remaining}`;
-        if (remaining === 0 && !GAME_STATE.isGameOver) {
+        if (remaining <= 0 && !GAME_STATE.isGameOver) {
             endGame(false);
         }
     }
@@ -198,7 +382,6 @@
 
     // --- Game Logic ---
 
-    /** Handles the main guess submission. */
     function handleGuess() {
         if (GAME_STATE.isGameOver) return;
 
@@ -213,23 +396,21 @@
             return;
         }
 
-        if (GAME_STATE.guesses.includes(guessName)) {
+        if (GAME_STATE.guesses.includes(guessedFighter.Name)) {
             alert("You have already guessed this fighter.");
             return;
         }
 
         // Add to guesses and process
-        GAME_STATE.guesses.push(guessName);
+        GAME_STATE.guesses.push(guessedFighter.Name);
         processGuess(guessedFighter);
         inputEl.value = ''; // Clear input field
+        document.getElementById('autocomplete-container').innerHTML = ''; // Clear autocomplete
 
         if (guessedFighter.Name === GAME_STATE.dailyFighter.Name) {
             endGame(true);
         } else {
             updateGuessesRemaining();
-            if (GAME_STATE.guesses.length >= GAME_STATE.maxGuesses) {
-                endGame(false);
-            }
         }
     }
 
@@ -237,25 +418,25 @@
     function processGuess(guessedFighter) {
         const secret = GAME_STATE.dailyFighter;
         let rowHtml = `<tr>`;
-        let allStatsCorrect = true;
 
         // 1. Fighter Name and Picture (First Column)
         const picUrl = guessedFighter.Picture_URL || 'N/A';
-        rowHtml += `<td><div style="display:flex;align-items:center;"><img src="${picUrl}" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 5px;">${guessedFighter.Name}</div></td>`;
+        rowHtml += `<td><div style="display:flex;align-items:center;"><img src="${picUrl}" onerror="this.style.opacity='0'" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 5px; border: 1px solid var(--color-accent);" alt="Fighter Photo">${guessedFighter.Name}</div></td>`;
 
-        // 2. Division & Rank (Exact Match)
+        // 2. Exact Match Stats (Division & Rank)
         ['Division', 'Rank'].forEach(stat => {
             let className = '';
             if (guessedFighter[stat] === secret[stat]) {
-                className = 'color-green';
+                className = 'color-green-bg';
             }
             rowHtml += `<td class="${className}">${guessedFighter[stat]}</td>`;
-            if (guessedFighter[stat] !== secret[stat]) {
-                allStatsCorrect = false;
-            }
         });
 
-        // 3. Comparison Stats (Numeric/Arrow)
+        // 3. Comparison Stats (Record, Numeric/Arrow)
+
+        // Record (No comparison color needed, just displayed)
+        rowHtml += `<td>${guessedFighter.Record || 'N/A'}</td>`;
+
         for (const statKey in COMPARISON_STATS) {
             const guessVal = getStatValue(guessedFighter, statKey);
             const secretVal = getStatValue(secret, statKey);
@@ -263,53 +444,47 @@
             let className = '';
             let arrowHtml = '';
 
-            // Calculate difference for color scale (Red: Far, Yellow: Closer, Green: Exact)
             if (guessVal === secretVal) {
-                className = 'color-green';
-            } else if (secretVal === 0) { // If secret fighter stat is N/A, can't compare
-                className = 'color-yellow'; 
-                arrowHtml = '';
+                className = 'color-green-bg';
+            } else if (secretVal === 0) {
+                 // If the secret stat is N/A (0), we can't make a useful comparison, set to neutral/yellow.
+                className = 'color-yellow-bg';
+                arrowHtml = 'N/A';
             } else {
-                allStatsCorrect = false;
-
                 const diff = Math.abs(guessVal - secretVal);
                 const isHigher = guessVal > secretVal;
 
-                // Threshold logic (arbitrary example, can be fine-tuned)
-                // Use a percentage difference for a better scale
+                // Color scale logic based on percentage difference from the secret value
                 const percentageDiff = diff / secretVal;
                 
-                if (percentageDiff > 0.5) {
-                    className = 'color-red'; // More than 50% off
-                } else if (percentageDiff > 0.1) {
-                    className = 'color-yellow'; // More than 10% off
+                if (percentageDiff >= 0.5) {
+                    className = 'color-red-bg'; // 50% or more off
+                } else if (percentageDiff >= 0.1) {
+                    className = 'color-yellow-bg'; // 10% to 50% off
                 } else {
-                    className = 'color-yellow'; // 10% or less off
+                    className = 'color-green-bg'; // Less than 10% off (close enough to show green/near green)
                 }
 
-                // Add arrow
+                // Add arrow: Up arrow means the secret is HIGHER (guess is too low)
                 arrowHtml = isHigher 
-                    ? '<span class="arrow up-arrow">▲</span>' // Guess is higher, secret is lower
-                    : '<span class="arrow down-arrow">▼</span>'; // Guess is lower, secret is higher
+                    ? '<span class="arrow down-arrow">▼</span>' // Guess is higher, secret is lower
+                    : '<span class="arrow up-arrow">▲</span>'; // Guess is lower, secret is higher
             }
 
             // Display value (revert fight time back to MM:SS for display)
             let displayVal = guessedFighter[statKey];
             if (statKey === 'Fight_Time_Seconds') {
-                const minutes = Math.floor(displayVal / 60);
-                const seconds = displayVal % 60;
+                const timeInSeconds = guessedFighter.Fight_Time_Seconds;
+                const minutes = Math.floor(timeInSeconds / 60);
+                const seconds = Math.round(timeInSeconds % 60);
                 displayVal = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
             }
 
             rowHtml += `<td class="${className}">${displayVal} ${arrowHtml}</td>`;
         }
         
-        // 4. Record (Exact match, but only for display consistency)
-        rowHtml += `<td>${guessedFighter.Record}</td>`;
-
         rowHtml += `</tr>`;
         
-        // Insert the new guess row at the top of the table body
         document.getElementById('guesses-tbody').insertAdjacentHTML('afterbegin', rowHtml);
     }
 
@@ -321,17 +496,21 @@
 
         if (isWin) {
             statusEl.className = 'status-message win';
-            statusEl.innerHTML = `🎉 **CORRECT!** You guessed the fighter: **${dailyFighterName}**! 🎉`;
-            // Simple confetti effect (can be replaced with a library)
-            document.body.style.backgroundColor = '#ccffcc';
-            setTimeout(() => document.body.style.backgroundColor = '#f4f4f4', 3000);
+            // Using a simple symbol instead of an emoji
+            statusEl.innerHTML = `✅ **CORRECT!** You defeated the mystery fighter: **${dailyFighterName}**!`;
+            // Subtle change in background to signal win
+            document.body.style.background = `linear-gradient(45deg, ${var(--color-dark)}, ${var(--color-green)})`;
         } else {
             statusEl.className = 'status-message lose';
-            statusEl.innerHTML = `❌ **GAME OVER!** The fighter was **${dailyFighterName}**. Better luck tomorrow!`;
+            statusEl.innerHTML = `❌ **GAME OVER!** The secret fighter was **${dailyFighterName}**.`;
+            document.body.style.background = `linear-gradient(45deg, ${var(--color-dark)}, ${var(--color-red)})`;
         }
 
         document.getElementById('guess-button').disabled = true;
         document.getElementById('fighter-input').disabled = true;
+        
+        // Return to normal background after a moment
+        setTimeout(() => document.body.style.background = var(--color-dark), 5000);
     }
 
 
@@ -342,30 +521,32 @@
         const containerEl = document.getElementById('autocomplete-container');
 
         inputEl.addEventListener('input', function() {
-            const val = this.value.toLowerCase();
+            const val = this.value.toLowerCase().trim();
             containerEl.innerHTML = ''; // Clear previous list
             if (!val) return;
 
-            const matches = Object.values(GAME_STATE.allFighters)
-                .filter(fighter => fighter.Name.toLowerCase().includes(val))
-                .slice(0, 10); // Limit to 10 results
+            // Search for matches in first name, last name, or full name
+            const matches = GAME_STATE.validFighterNames
+                .filter(name => name.toLowerCase().includes(val))
+                .slice(0, 8); // Limit to 8 results
 
             if (matches.length === 0) return;
 
             const listEl = document.createElement('div');
             listEl.className = 'autocomplete-list';
             
-            matches.forEach(fighter => {
+            matches.forEach(name => {
+                const fighter = GAME_STATE.allFighters[name];
                 const item = document.createElement('div');
                 item.className = 'autocomplete-item';
-                // Add picture if available
-                const picUrl = fighter.Picture_URL || ''; 
-                item.innerHTML = `<img src="${picUrl}" onerror="this.style.display='none'" alt="${fighter.Name}"><span>${fighter.Name}</span>`;
+                const picUrl = fighter?.Picture_URL || ''; 
+                // onerror will hide the image if the URL is broken or 'N/A'
+                item.innerHTML = `<img src="${picUrl}" onerror="this.style.display='none'" alt="${name}"><span>${name}</span>`;
                 
                 item.addEventListener('click', () => {
-                    inputEl.value = fighter.Name;
+                    inputEl.value = name;
                     containerEl.innerHTML = '';
-                    handleGuess(); // Optionally auto-guess on click
+                    handleGuess(); 
                 });
                 listEl.appendChild(item);
             });
@@ -387,14 +568,20 @@
         await fetchGameData();
         setupAutocomplete();
         document.getElementById('guess-button').addEventListener('click', handleGuess);
-        document.getElementById('practice-button').addEventListener('click', startPracticeGame);
+        document.getElementById('practice-button').addEventListener('click', () => startPracticeGame());
 
         // Allow pressing Enter in the input field to submit
         document.getElementById('fighter-input').addEventListener('keypress', function(e) {
             if (e.key === 'Enter') {
+                e.preventDefault(); // Prevent default form submission
                 document.getElementById('guess-button').click();
             }
         });
+        
+        // Initialize the daily fighter status
+        if(GAME_STATE.dailyFighter) {
+            resetGame(false);
+        }
     });
 
 </script>
