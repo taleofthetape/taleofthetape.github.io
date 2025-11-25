@@ -1,15 +1,18 @@
 name: Daily UFC Fighter Scraper and Game Update
 
 on:
+  # Schedule: Runs every day at 05:00 UTC. 
+  # This corresponds to midnight (12:00 AM) EST/EDT, making it a new "daily" run.
   schedule:
-    # Runs at 5:00 AM UTC every day. This corresponds to 12:00 AM EST (midnight).
-    # Adjust to '04 5 * * *' if needed for EDT/Daylight Saving Time.
-    - cron: '0 5 * * *'
+    - cron: '0 5 * * *' 
+  
+  # Allows you to manually trigger the workflow from the GitHub Actions tab for testing.
   workflow_dispatch:
 
 jobs:
   scrape_and_update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -17,23 +20,23 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11' # Specify a common, recent Python version
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # We need requests for simple GET and BeautifulSoup/lxml for parsing HTML.
-          # selenium and webdriver are usually overkill for this.
-          pip install requests lxml beautifulsoup4 pandas
+          # REQUIRED: requests, beautifulsoup4, and lxml (for XPath)
+          pip install requests beautifulsoup4 lxml
 
       - name: Run Python scraping and game logic script
+        # This step executes scraper_logic.py, which updates game_data.json on the server.
         run: python scraper_logic.py
 
       - name: Commit and push changes
-        uses: stefanprodan/commit-and-push-action@v2
+        # This action automatically detects and commits changes to game_data.json.
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # This commits the updated game_data.json and any other output files
-          commit_message: 'Automated: Update daily fighter data'
-          branch: main # Or your main branch name
-          # Using the GITHUB_TOKEN is sufficient for this.
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Only commit the file that was updated by the scraper
+          file_pattern: 'game_data.json' 
+          commit_message: "Automated: Update daily fighter data"
+          # The GitHub token is automatically available to the Action.
