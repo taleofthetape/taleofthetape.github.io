@@ -7,7 +7,8 @@ import random
 import os
 import time
 from datetime import datetime
-from typing import List, Dict, Union, Any # Added for clarity
+from lxml import html
+from typing import List, Dict, Union, Any
 
 # ------------------ CONFIG ------------------ #
 
@@ -19,8 +20,9 @@ PRODUCTION_OUTPUT_FILE = "game_data.json"
 
 PAST_DAYS_LIMIT = 7
 REQUEST_SLEEP = 1.0  # Increased sleep slightly for safer server interactions
-# Headers mimicking a legitimate browser/scraper
+
 HEADERS = {
+    # Using a standard browser User-Agent is less likely to be blocked than the custom one
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 TaleOfTheTapeBot",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.5",
@@ -31,11 +33,9 @@ HEADERS = {
 def get_soup(url: str) -> Union[BeautifulSoup, None]:
     """Fetch a URL and return BeautifulSoup object, or None on error."""
     try:
-        print(f" [HTTP] GET {url}")
-        resp = requests.get(url, headers=HEADERS, timeout=20)
+        print(f"  [HTTP] GET {url}")
+        resp = requests.get(url, headers=HEADERS, timeout=15)
         resp.raise_for_status()
-        # Add a slight pause here to prevent rapid sequence of requests
-        time.sleep(0.5) 
         return BeautifulSoup(resp.content, "html.parser")
     except requests.RequestException as e:
         print(f"!!! HTTP ERROR for {url}: {e}")
@@ -65,7 +65,6 @@ def load_game_data(file_name: str) -> Dict[str, Any]:
                 data = json.load(f)
                 if isinstance(data, dict):
                     print(f"Loaded existing data from {file_name}")
-                    # Ensure all keys exist
                     data.setdefault("daily_fighter", {})
                     data.setdefault("past_fighters", [])
                     data.setdefault("fighter_data", {})
@@ -87,6 +86,8 @@ def save_game_data(data: Dict[str, Any], file_name: str) -> None:
 
 
 # ------------------ RANKINGS SCRAPER ------------------ #
+# Note: The rankings scraper uses BeautifulSoup, which is fine since the
+# rankings page HTML structure seems to be stable.
 
 def scrape_rankings() -> List[Dict[str, Any]]:
     """
@@ -104,7 +105,7 @@ def scrape_rankings() -> List[Dict[str, Any]]:
 
     fighters: List[Dict[str, Any]] = []
 
-    # Use the more current selector first, then fall back to the older one
+    # Use primary and fallback selectors for division blocks
     division_blocks = soup.select("div.view-grouping")
     if not division_blocks:
         division_blocks = soup.select("div.c-rankings__content > div.c-rankings__division")
@@ -116,12 +117,10 @@ def scrape_rankings() -> List[Dict[str, Any]]:
     for block in division_blocks:      
         division_name = None
 
-        # Try current selector for header
+        # Determine division name
         header = block.select_one("div.view-grouping-header")
         if header and header.get_text(strip=True):
             division_name = header.get_text(strip=True)
-
-        # Try fallback selector for header (for the c-rankings__division blocks)
         if not division_name:
             cap_h4 = block.select_one("table caption h4")
             if cap_h4 and cap_h4.get_text(strip=True):
@@ -132,7 +131,7 @@ def scrape_rankings() -> List[Dict[str, Any]]:
 
         print(f"  -- Processing Division: {division_name} --")
 
-        # 🔥 SKIP WOMEN'S DIVISIONS for the men's game
+        # 🔥 SKIP WOMEN'S DIVISIONS
         if division_name.strip().lower().startswith("women"):
             print(f"    Skipping women's division: {division_name}")
             continue
@@ -142,9 +141,7 @@ def scrape_rankings() -> List[Dict[str, Any]]:
             print("    !! No <table> found in this division block.")
             continue
 
-        # -------------------------
-        # Champion (from caption h5 a)
-        # -------------------------
+        # Champion
         champ_anchor = table.select_one("caption h5 a")
         if champ_anchor:
             champ_name = champ_anchor.get_text(strip=True)
@@ -159,16 +156,12 @@ def scrape_rankings() -> List[Dict[str, Any]]:
             })
             print(f"    > Champion: {champ_name}")
 
-        # -------------------------
-        # Ranked fighters (tbody rows)
-        # -------------------------
+        # Ranked fighters
         rows = table.select("tbody tr")
         found_in_division = 0
 
         for row in rows:
-            # Rank: td[1]
             rank_td = row.select_one("td:nth-of-type(1)")
-            # Name: td[2] a
             name_a = row.select_one("td:nth-of-type(2) a")
 
             if not rank_td or not name_a:
@@ -179,8 +172,8 @@ def scrape_rankings() -> List[Dict[str, Any]]:
             href = name_a.get("href", "")
             profile_url = BASE_URL + href if href.startswith("/") else href or None
 
-            # Only accept real numeric ranks (or "P4P")
-            if not rank_text or (not rank_text[0].isdigit() and rank_text.upper() != "P4P"):
+            # Only accept real numeric ranks (or P4P)
+            if not rank_text or (not rank_text[0].isdigit() and rank_text.upper() not in ["P4P", "C"]):
                 continue
 
             fighters.append({
@@ -199,86 +192,91 @@ def scrape_rankings() -> List[Dict[str, Any]]:
     return fighters
 
 # ------------------ FIGHTER STATS SCRAPER ------------------ #
+# Note: This section uses lxml and XPaths, matching your working code.
 
 def scrape_fighter_stats(name: str, profile_url: Union[str, None]) -> Union[Dict[str, Any], None]:
     """
-    Scrape stats for a fighter.
+    Scrape stats for a fighter using lxml and XPaths.
     """
-
     if not profile_url:
         print(f"!!! No profile URL for {name}, skipping stats scrape.")
         return None
 
     print(f"\n--- Scraping Stats for {name} ---")
-    soup = get_soup(profile_url)
-    if soup is None:
-        print(f"!!! Error fetching stats page for {name}")
+    try:
+        print(f"  [HTTP] GET {profile_url}")
+        resp = requests.get(profile_url, headers=HEADERS, timeout=20)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        print(f"!!! HTTP error fetching {profile_url} for {name}: {e}")
         return None
 
-    # Helpers
-    def safe_select_text(sel_list: List[str]) -> str:
-        for sel in sel_list:
-            el = soup.select_one(sel)
-            if el and el.get_text(strip=True):
-                return el.get_text(strip=True)
-        return "N/A"
+    try:
+        # Parse content using lxml's parser
+        tree = html.fromstring(resp.content)
+    except Exception as e:
+        print(f"!!! Error parsing HTML for {name}: {e}")
+        return None
 
-    def find_avg_fight_time() -> str:
-        li_candidates = soup.select("li.c-overlap__list-item, li.c-view-details__item")
-        for li in li_candidates:
-            text = li.get_text(" ", strip=True)
-            if "Avg. Fight Time" in text:
-                val = li.select_one("span.c-overlap__number, span.c-view-details__value")
-                if val and val.get_text(strip=True):
-                    return val.get_text(strip=True)
-        return "N/A"
-    
-    # Helper for image URL
-    def find_image_url() -> str:
-        img = soup.select_one("img.e-person--image, img.c-hero__image, img[typeof~='foaf:Image']")
-        return img.get("src") if img and img.get("src") else "N/A"
+    def xp_text(path: str) -> str:
+        """Helper to safely extract text content using XPath."""
+        try:
+            res = tree.xpath(path)
+            if not res:
+                return "N/A"
+            # Get text content, handling both element and text node results
+            return str(res[0].text_content()).strip()
+        except Exception:
+            return "N/A"
 
+    def xp_attr(path: str) -> str:
+        """Helper to safely extract attribute value using XPath."""
+        try:
+            res = tree.xpath(path)
+            if not res:
+                return "N/A"
+            # The result for an attribute path is often a string list
+            return str(res[0]).strip()
+        except Exception:
+            return "N/A"
 
-    # Core stats 
+    # --- XPaths from your working code ---
+
     stats = {
         "Name": name,
         "Profile_URL": profile_url,
 
-        "Record": safe_select_text([
-            "div.c-bio__row--record p.c-bio__text",
-            "span.c-hero__headline-suffix",
-            "p.c-bio__text"
-        ]),
-
-        "Picture_URL": find_image_url(),
-
-        "SLpM": safe_select_text([
-            "div[data-stat='slpm'] div.c-overlap__stats-value",
-            "div.c-stat-compare__group:nth-of-type(1) dd"
-        ]),
-        "SApM": safe_select_text([
-            "div[data-stat='sapm'] div.c-overlap__stats-value",
-            "div.c-stat-compare__group:nth-of-type(2) dd"
-        ]),
-        "TD_Avg": safe_select_text([
-            "div[data-stat='td-avg'] div.c-overlap__stats-value",
-            "div.c-stat-compare__group:nth-of-type(3) dd"
-        ]),
-        "Sub_Avg": safe_select_text([
-            "div[data-stat='sub-avg'] div.c-overlap__stats-value",
-            "div.c-stat-compare__group:nth-of-type(4) dd"
-        ]),
+        "Picture_URL": xp_attr(
+            '/html/body/div[1]/div/main/div[1]/div/div/div/div/div[1]/div/div/div[3]/div[1]/div/div/section/ul/li/article/div[2]/div/div/div/div[1]/div/img/@src'
+        ),
+        "Record": xp_text(
+            '/html/body/div[1]/div/main/div[1]/div/div/div/div/div[1]/div/div/div[1]/div[2]/p[2]'
+        ),
+        "SLpM": xp_text(
+            '/html/body/div[1]/div/main/div[1]/div/div/div/div/div[3]/div/div/div[2]/div[4]/div/div[1]/div[1]/div[1]'
+        ),
+        "SApM": xp_text(
+            '/html/body/div[1]/div/main/div[1]/div/div/div/div/div[3]/div/div/div[2]/div[4]/div/div[1]/div[2]/div[1]'
+        ),
+        "TD_Avg": xp_text(
+            '/html/body/div[1]/div/main/div[1]/div/div/div/div/div[3]/div/div/div[2]/div[4]/div/div[2]/div[1]/div[1]'
+        ),
+        "Sub_Avg": xp_text(
+            '/html/body/div[1]/div/main/div[1]/div/div/div/div/div[3]/div/div/div[2]/div[4]/div/div[2]/div[2]/div[1]'
+        ),
+        "Fight_Time": xp_text(
+            '/html/body/div[1]/div/main/div[1]/div/div/div/div/div[3]/div/div/div[2]/div[5]/div/div[3]/div[2]/div[1]'
+        ),
     }
-
-    stats["Fight_Time"] = find_avg_fight_time()
+    
     stats["Fight_Time_Seconds"] = time_to_seconds(stats["Fight_Time"])
 
-    # Filter out completely empty stats before saving
+    # Filter out totally empty / useless results
     final_stats = {k: v for k, v in stats.items() if v not in [None, "", "N/A", "-"]}
-    final_stats["Name"] = name # Ensure name is always included even if others fail
+    final_stats["Name"] = name # Ensure name is present
 
-    print(f"  > Stats Extracted: {len(final_stats)} keys.")
-    return final_stats if len(final_stats) > 1 else None
+    print(f"  > Final Stats Extracted: {len(final_stats)} keys.")
+    return final_stats if len(final_stats) > 2 else None
 
 
 # ------------------ GAME LOGIC ------------------ #
@@ -301,7 +299,7 @@ def scrape_all_ranked_fighters_into_data(game_data: Dict[str, Any]) -> Dict[str,
 
     print("\n--- Starting detailed fighter stats scraping ---")
     
-    # Use list() for consistent iteration while allowing iteration
+    # Use list() for consistent iteration 
     for i, (name, info) in enumerate(list(fighter_index.items()), start=1):
         print(f"\n[{i}/{len(fighter_index)}] {name}")
 
@@ -313,7 +311,7 @@ def scrape_all_ranked_fighters_into_data(game_data: Dict[str, Any]) -> Dict[str,
 
         if not should_rescrape:
             print("  Skipping (already have stats with Record).")
-            # Ensure Division/Rank are updated in case they moved
+            # Update Division/Rank/URL in case they moved
             game_data["fighter_data"][name].update({
                 "Division": info.get("Division"),
                 "Rank": info.get("Rank"),
@@ -331,7 +329,7 @@ def scrape_all_ranked_fighters_into_data(game_data: Dict[str, Any]) -> Dict[str,
         else:
             print(f"!!! Failed to scrape stats for {name}, leaving old/empty data.")
 
-        # Pause between individual fighter requests to be polite
+        # Pause between individual fighter requests
         time.sleep(REQUEST_SLEEP)
 
     print("\n--- Detailed scraping complete ---")
