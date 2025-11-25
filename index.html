@@ -3,250 +3,417 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tale of the Tape: The Daily Fighter Guess</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Oswald:wght=700&display=swap" rel="stylesheet">
+    <title>TALE OF THE TAPE: CLASSIFIED</title>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    
     <style>
-        /* --- General Variables & Fonts --- */
+        /* --- TACTICAL THEME VARIABLES --- */
         :root {
-            --color-black: #0d0d0d;
-            --color-slate: #232a31;
-            --color-grey: #4c5663;
-            --color-accent-red: #cc0000; 
-            --color-text-primary: #f8f8f8;
+            --bg-color: #0b0c10;
+            --panel-bg: #1f2833;
+            --text-main: #c5c6c7;
+            --accent-cyan: #66fcf1;
+            --accent-dim: #45a29e;
             
-            --color-success: #2ecc71; /* Green */
-            --color-neutral: #f1c40f; /* Yellow/Gold */
-            --color-failure: #e74c3c; /* Red */
+            --success-color: #00ff41; /* Hacker Green */
+            --warning-color: #ffb700; /* Amber */
+            --danger-color: #ff003c;  /* Cyberpunk Red */
             
-            --border-radius: 4px;
-            --padding-unit: 15px;
+            --border-radius: 2px; /* Sharp corners */
+            --scanline-color: rgba(0, 0, 0, 0.5);
         }
 
+        /* --- GLOBAL RESET & LAYOUT --- */
+        * { box-sizing: border-box; }
+        
         body { 
-            font-family: 'Roboto', sans-serif; 
-            background: var(--color-black); 
-            color: var(--color-text-primary); 
+            font-family: 'Share Tech Mono', monospace; 
+            background-color: var(--bg-color); 
+            color: var(--text-main); 
             margin: 0; 
             padding: 0; 
             min-height: 100vh;
+            /* Subtle scanline background effect */
+            background-image: linear-gradient(0deg, transparent 24%, var(--scanline-color) 25%, var(--scanline-color) 26%, transparent 27%, transparent 74%, var(--scanline-color) 75%, var(--scanline-color) 76%, transparent 77%, transparent), linear-gradient(90deg, transparent 24%, var(--scanline-color) 25%, var(--scanline-color) 26%, transparent 27%, transparent 74%, var(--scanline-color) 75%, var(--scanline-color) 76%, transparent 77%, transparent);
+            background-size: 50px 50px;
         }
 
-        /* --- Header & Layout --- */
-        .header-bar { 
-            background: var(--color-slate); 
-            border-bottom: 5px solid var(--color-accent-red);
-            padding: 40px 0; 
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
-            margin-bottom: 20px;
+        .main-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
         }
 
-        h1 { 
+        /* --- HEADER --- */
+        header {
+            text-align: center;
+            padding: 40px 0;
+            border-bottom: 2px solid var(--accent-dim);
+            margin-bottom: 30px;
+            position: relative;
+        }
+
+        h1 {
             font-family: 'Oswald', sans-serif;
-            color: var(--color-text-primary); 
-            text-align: center; 
-            text-transform: uppercase;
-            letter-spacing: 5px;
+            font-size: 3.5rem;
             margin: 0;
-            font-size: 3em;
-            text-shadow: 2px 2px 5px var(--color-accent-red);
+            color: var(--accent-cyan);
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            text-shadow: 0 0 10px rgba(102, 252, 241, 0.5);
         }
 
-        .container { 
-            max-width: 1100px; 
-            margin: 0 auto; 
-            padding: 0 var(--padding-unit); 
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 20px;
+        .subtitle {
+            font-size: 1.2rem;
+            color: var(--accent-dim);
+            letter-spacing: 2px;
+            margin-top: 10px;
         }
 
+        /* --- PANELS --- */
         .panel {
-            background: var(--color-slate);
-            padding: var(--padding-unit);
-            border-radius: var(--border-radius);
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
-            border: 1px solid var(--color-grey);
+            background: rgba(31, 40, 51, 0.9);
+            border: 1px solid var(--accent-dim);
+            padding: 25px;
+            margin-bottom: 25px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.5);
+            position: relative;
+        }
+        
+        /* Decoration lines on corners */
+        .panel::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0;
+            width: 10px; height: 10px;
+            border-top: 2px solid var(--accent-cyan);
+            border-left: 2px solid var(--accent-cyan);
+        }
+        .panel::after {
+            content: '';
+            position: absolute;
+            bottom: 0; right: 0;
+            width: 10px; height: 10px;
+            border-bottom: 2px solid var(--accent-cyan);
+            border-right: 2px solid var(--accent-cyan);
         }
 
-        /* --- Input & Controls --- */
-        .controls-grid {
+        h2 {
+            font-family: 'Oswald', sans-serif;
+            color: var(--text-main);
+            border-bottom: 1px solid var(--accent-dim);
+            padding-bottom: 10px;
+            margin-top: 0;
+            text-transform: uppercase;
+        }
+
+        /* --- SEARCH AREA (Fixed Positioning Issue) --- */
+        .search-wrapper {
+            position: relative; /* CRITICAL: Creates a context for absolute children */
             display: flex;
             gap: 10px;
-            position: relative;
-            margin-bottom: 5px;
+            margin-top: 20px;
+            z-index: 1000;
+        }
+
+        #fighter-input {
+            flex-grow: 1;
+            background: #000;
+            border: 1px solid var(--accent-dim);
+            color: var(--accent-cyan);
+            padding: 15px;
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 1.2rem;
+            outline: none;
         }
         
-        #fighter-input { 
-            flex-grow: 1; 
-            padding: 12px; 
-            border: 2px solid var(--color-grey); 
-            border-radius: var(--border-radius); 
-            background: var(--color-black);
-            color: var(--color-text-primary);
-            font-size: 1em;
-            transition: border-color 0.3s;
-        }
         #fighter-input:focus {
-            outline: none;
-            border-color: var(--color-accent-red);
+            border-color: var(--accent-cyan);
+            box-shadow: 0 0 8px var(--accent-dim);
         }
 
-        .cta-button { 
-            background-color: var(--color-accent-red); 
-            color: var(--color-text-primary); 
-            border: none; 
-            padding: 12px 18px; 
-            border-radius: var(--border-radius); 
-            cursor: pointer; 
-            font-weight: bold;
+        .btn {
+            background: var(--accent-dim);
+            color: #000;
+            border: none;
+            padding: 0 30px;
+            font-family: 'Oswald', sans-serif;
+            font-size: 1.2rem;
+            cursor: pointer;
             text-transform: uppercase;
-            letter-spacing: 1px;
-            transition: background-color 0.2s;
-            white-space: nowrap;
+            font-weight: bold;
+            transition: all 0.2s;
         }
-        .cta-button:hover { background-color: #a00000; }
-        .cta-button:disabled { opacity: 0.6; cursor: not-allowed; }
 
-        /* --- Autocomplete List --- */
+        .btn:hover {
+            background: var(--accent-cyan);
+            box-shadow: 0 0 10px var(--accent-cyan);
+        }
+        
+        .btn:disabled {
+            background: #333;
+            color: #555;
+            cursor: not-allowed;
+            box-shadow: none;
+        }
+
+        /* --- AUTOCOMPLETE DROPDOWN --- */
         #autocomplete-container {
             position: absolute;
-            top: 100%; 
+            top: 100%; /* Pushes it exactly below the input */
             left: 0;
-            right: 0;
-            z-index: 100;
-        }
-        .autocomplete-list { 
-            background: var(--color-black); 
-            border: 1px solid var(--color-accent-red); 
-            max-height: 200px; 
-            overflow-y: auto; 
+            /* Instead of right: 0, we can match width of input if desired, 
+               or let it span full width. Let's make it span the input width. */
+            width: 100%; 
+            background: #0b0c10;
+            border: 1px solid var(--accent-cyan);
             border-top: none;
-            border-radius: 0 0 var(--border-radius) var(--border-radius);
+            max-height: 300px;
+            overflow-y: auto;
+            z-index: 2000;
+            display: none; /* Hidden by default */
         }
-        .autocomplete-item { 
-            padding: 10px; 
-            cursor: pointer; 
-            display: flex; 
-            align-items: center; 
-            border-bottom: 1px solid var(--color-grey); 
-            transition: background-color 0.1s;
-        }
-        .autocomplete-item:hover { 
-            background: var(--color-slate); 
-        }
-        .autocomplete-item img { 
-            width: 35px; 
-            height: 35px; 
-            border-radius: 50%; 
-            margin-right: 10px; 
-            object-fit: cover; 
-            border: 2px solid var(--color-accent-red);
-            transition: border-color 0.3s;
+        
+        #autocomplete-container.active {
+            display: block;
         }
 
-        /* --- Results Table --- */
-        .results-table { 
-            width: 100%; 
-            border-collapse: collapse; 
-            margin-top: var(--padding-unit);
+        .autocomplete-item {
+            padding: 12px;
+            border-bottom: 1px solid #333;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            transition: background 0.1s;
+        }
+
+        .autocomplete-item:hover {
+            background: var(--accent-dim);
+            color: #000;
+        }
+
+        .autocomplete-item img {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            margin-right: 15px;
+            border: 1px solid var(--accent-cyan);
+            object-fit: cover;
+            background: #000;
+        }
+
+        /* --- RESULTS TABLE --- */
+        .table-container {
             overflow-x: auto;
         }
-        .results-table th, .results-table td { 
-            padding: 10px 8px; 
-            border: 1px solid var(--color-grey); 
-            text-align: center; 
+
+        table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0 10px; /* Space between rows for card effect */
+        }
+
+        th {
+            text-align: center;
+            padding: 15px;
+            font-family: 'Oswald', sans-serif;
+            letter-spacing: 1px;
+            color: var(--accent-dim);
+            text-transform: uppercase;
+            font-size: 0.9rem;
+        }
+
+        tbody tr {
+            /* Rows start invisible for animation */
+        }
+
+        td {
+            background: #121212;
+            padding: 15px 10px;
+            text-align: center;
+            border-top: 1px solid #333;
+            border-bottom: 1px solid #333;
+            vertical-align: middle;
+            
+            /* Initial state for animation */
+            opacity: 0; 
+            transform: translateY(-10px);
+            transition: none; /* Controlled by JS/Keyframes */
+        }
+
+        /* First and Last child border rounding for "card" look */
+        td:first-child { border-left: 1px solid #333; border-radius: 4px 0 0 4px; }
+        td:last-child { border-right: 1px solid #333; border-radius: 0 4px 4px 0; }
+
+        td img {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            border: 2px solid #333;
+            vertical-align: middle;
+        }
+        
+        .fighter-name-cell {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 5px;
+            font-weight: bold;
             font-size: 0.9em;
-            white-space: nowrap;
         }
-        .results-table th { 
-            background-color: var(--color-grey);
-            color: var(--color-text-primary);
-            font-family: 'Oswald', sans-serif;
-            text-transform: uppercase;
-            font-weight: 700;
-        }
-        
-        /* Color Coding (Themed Backgrounds) */
-        .bg-success { background-color: var(--color-success); color: var(--color-black); font-weight: 700; }
-        .bg-neutral { background-color: var(--color-neutral); color: var(--color-black); font-weight: 700; }
-        .bg-failure { background-color: var(--color-failure); color: var(--color-text-primary); font-weight: 700; }
-        
-        /* Arrow Styling - Using the requested Unicode symbols */
-        .arrow { font-size: 1.2em; margin-left: 5px; line-height: 0; }
-        .arrow-up { color: var(--color-text-primary); } 
-        .arrow-down { color: var(--color-text-primary); } 
-        
-        /* --- Status and Info Sections --- */
-        .status-message { 
-            text-align: center; 
-            font-weight: bold; 
-            margin-top: var(--padding-unit); 
-            padding: 18px; 
-            border-radius: var(--border-radius); 
-            font-size: 1.2em;
-        }
-        .status-win { background-color: var(--color-success); color: var(--color-black); }
-        .status-lose { background-color: var(--color-failure); color: var(--color-text-primary); }
 
-        #info-panel h2 { 
-            color: var(--color-accent-red); 
-            border-bottom: 1px solid var(--color-grey); 
-            padding-bottom: 5px;
-            font-family: 'Oswald', sans-serif;
+        /* --- ANIMATION CLASSES --- */
+        
+        /* The animation keyframe */
+        @keyframes flipReveal {
+            0% {
+                opacity: 0;
+                transform: perspective(400px) rotateX(90deg);
+                background-color: #fff; /* Flash white */
+            }
+            100% {
+                opacity: 1;
+                transform: perspective(400px) rotateX(0deg);
+            }
+        }
+
+        /* Class added by JS to trigger animation */
+        .reveal-cell {
+            animation: flipReveal 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+        }
+
+        /* --- COMPARISON COLORS (Applied after reveal) --- */
+        .bg-correct {
+            background-color: rgba(0, 255, 65, 0.15) !important;
+            border-color: var(--success-color) !important;
+            color: var(--success-color);
+            box-shadow: inset 0 0 15px rgba(0, 255, 65, 0.1);
+            text-shadow: 0 0 5px var(--success-color);
+        }
+
+        .bg-close {
+            background-color: rgba(255, 183, 0, 0.15) !important;
+            border-color: var(--warning-color) !important;
+            color: var(--warning-color);
+        }
+
+        .bg-wrong {
+            background-color: rgba(255, 0, 60, 0.1) !important;
+            color: var(--danger-color); /* Red Text */
+        }
+
+        .arrow {
+            font-size: 1.5em;
+            display: block;
+            line-height: 1;
+        }
+
+        /* --- GUESS COUNTER --- */
+        .hud-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .hud-box {
+            background: #000;
+            border: 1px solid var(--accent-dim);
+            padding: 10px;
+            text-align: center;
+        }
+        
+        .hud-label {
+            font-size: 0.8rem;
+            color: #666;
             text-transform: uppercase;
         }
-        #info-panel ul {
+        
+        .hud-value {
+            font-size: 1.5rem;
+            color: var(--accent-cyan);
+            font-weight: bold;
+        }
+
+        /* --- END GAME STATUS --- */
+        #status-message {
+            margin-top: 20px;
+            padding: 20px;
+            text-align: center;
+            font-size: 1.5rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            display: none; /* Hidden until game over */
+        }
+        
+        .status-win {
+            background: rgba(0, 255, 65, 0.2);
+            border: 2px solid var(--success-color);
+            color: var(--success-color);
+            box-shadow: 0 0 20px var(--success-color);
+        }
+        
+        .status-lose {
+            background: rgba(255, 0, 60, 0.2);
+            border: 2px solid var(--danger-color);
+            color: var(--danger-color);
+            box-shadow: 0 0 20px var(--danger-color);
+        }
+
+        /* --- INFO SECTION --- */
+        .info-content ul {
             list-style: none;
-            padding-left: 0;
+            padding: 0;
         }
-        #info-panel li {
-            margin-bottom: 10px;
-        }
-
-        /* --- Footer --- */
-        .footer { 
-            text-align: center; 
-            margin-top: 40px; 
-            padding: 20px 0;
-            font-size: 0.8em; 
-            color: #888; 
-        }
-        .footer a {
-            color: var(--color-accent-red);
-            text-decoration: none;
+        .info-content li {
+            margin-bottom: 15px;
+            border-left: 3px solid var(--accent-dim);
+            padding-left: 15px;
         }
 
     </style>
 </head>
 <body>
 
-<div class="header-bar">
-    <h1>TALE OF THE TAPE</h1>
-</div>
-
-<div class="container">
+<div class="main-container">
     
-    <div id="game-panel" class="panel">
-        <h2>Initiate Guess Protocol</h2>
-        <p>Identify the mystery fighter in **5 attempts** based on their core statistics.</p>
-        <div id="guesses-remaining" style="color: var(--color-accent-red); font-weight: bold; margin-bottom: 15px;">Guesses Remaining: 5</div>
+    <header>
+        <h1>TALE OF THE TAPE</h1>
+        <div class="subtitle">Daily Classified Fighter Database</div>
+    </header>
 
-        <div class="controls-grid">
-            <input type="text" id="fighter-input" placeholder="Enter Fighter Name...">
-            <button id="guess-button" class="cta-button">Submit</button>
-            <button id="practice-button" class="cta-button">Practice</button>
+    <div class="panel">
+        <div class="hud-grid">
+            <div class="hud-box">
+                <div class="hud-label">Attempts Remaining</div>
+                <div class="hud-value" id="guesses-remaining">7</div>
+            </div>
+            <div class="hud-box">
+                <div class="hud-label">Database Status</div>
+                <div class="hud-value" id="db-status">ONLINE</div>
+            </div>
         </div>
-        <div id="autocomplete-container"></div>
+
+        <h2>Select Target</h2>
         
+        <div class="search-wrapper">
+            <input type="text" id="fighter-input" placeholder="ENTER FIGHTER CALLSIGN..." autocomplete="off">
+            <button id="guess-button" class="btn">ENGAGE</button>
+            <button id="practice-button" class="btn" style="background: #333;">TRAINING</button>
+            
+            <div id="autocomplete-container"></div>
+        </div>
     </div>
-    
-    <div id="results-panel" class="panel">
-        <h2>Tape Comparison History</h2>
-        <div id="results-scroll-container" style="overflow-x: auto;">
-            <table class="results-table">
+
+    <div id="status-message"></div>
+
+    <div class="panel">
+        <h2>Comparison Data Stream</h2>
+        <div class="table-container">
+            <table id="results-table">
                 <thead>
                     <tr>
-                        <th>Fighter</th>
+                        <th>Identity</th>
                         <th>Division</th>
                         <th>Rank</th>
                         <th>Record</th>
@@ -261,353 +428,356 @@
                     </tbody>
             </table>
         </div>
-        <div id="status" class="status-message"></div>
     </div>
-    
-    <div id="info-panel" class="panel">
-        <h2>Operation Briefing</h2>
+
+    <div class="panel info-content">
+        <h2>Mission Briefing</h2>
         <ul>
-            <li>**Data Source:** All statistical data is scraped nightly from the official **UFC.com** rankings and athlete pages, ensuring daily accuracy.</li>
-            <li>**Data Update:** The data is pulled by a GitHub Action that runs every night at **midnight EST**. If the game seems stuck, the data might be updating.</li>
-            <li>**Comparison Guide:**
-                <ul>
-                    <li style="color: var(--color-success);">**GREEN:** Exact match or very close (less than 10% difference).</li>
-                    <li style="color: var(--color-neutral);">**YELLOW/GOLD:** Close proximity (10% to 50% difference).</li>
-                    <li style="color: var(--color-failure);">**RED:** Significant deviation (more than 50% difference).</li>
-                </ul>
-            </li>
-            <li>**Arrow Guide (Unicode):**
-                <ul>
-                    <li>**&#8595; (DOWN):** Your guessed stat is **Higher** than the secret fighter's stat. The secret fighter is **LOWER**.</li>
-                    <li>**&#8593; (UP):** Your guessed stat is **Lower** than the secret fighter's stat. The secret fighter is **HIGHER**.</li>
-                </ul>
+            <li><strong style="color:var(--success-color)">GREEN:</strong> Match Confirmed. Exact value or category.</li>
+            <li><strong style="color:var(--warning-color)">AMBER:</strong> Close Proximity. Value is within threshold.</li>
+            <li><strong style="color:var(--danger-color)">RED:</strong> Negative Match. Significant deviation.</li>
+            <li><strong>ARROWS:</strong> Indicates direction of target value relative to guess. 
+                <br>&#8593; (UP): Target is HIGHER. 
+                <br>&#8595; (DOWN): Target is LOWER.
             </li>
         </ul>
+        <div style="text-align: center; margin-top: 20px; font-size: 0.8rem; color: #555;">
+            SYSTEM MAINTAINED BY <a href="https://github.com/zwinship" style="color:var(--accent-cyan); text-decoration: none;">ZWINSHIP</a> | DATA REFRESH: 0500 UTC
+        </div>
     </div>
-    
+
 </div>
 
-<footer class="footer">
-    Developed by <a href="https://github.com/zwinship" target="_blank">zwinship</a> | Data provided by UFC.com Scraper.
-</footer>
-
 <script>
-    // --- Global Game State ---
+    // --- CONFIGURATION ---
+    const CONFIG = {
+        maxGuesses: 7, // UPDATED TO 7
+        animationDelay: 400, // Milliseconds between revealing each cell (The 1-by-1 effect)
+        comparisonStats: {
+            'SLpM': 'SLpM',
+            'SApM': 'SApM',
+            'TD_Avg': 'TD Avg',
+            'Sub_Avg': 'Sub Avg',
+            'Fight_Time_Seconds': 'Fight Time'
+        }
+    };
+
+    // --- STATE ---
     let GAME_STATE = {
         dailyFighter: null,
         allFighters: {},
         guesses: [],
-        maxGuesses: 5,
         isGameOver: false,
-        isPracticeMode: false,
-        validFighterNames: []
+        validFighterNames: [],
+        isAnimating: false // Prevents double submission during animation
     };
-    
-    // --- Key Fighter Stats for Comparison (Numeric) ---
-    const COMPARISON_STATS = {
-        'SLpM': 'SLpM',
-        'SApM': 'SApM',
-        'TD_Avg': 'TD Avg',
-        'Sub_Avg': 'Sub Avg',
-        'Fight_Time_Seconds': 'Fight Time'
-    };
-    
-    // --- Utility Functions ---
 
-    /** Fetches data from the JSON file. */
+    // --- UTILS ---
+    const getEl = (id) => document.getElementById(id);
+
     async function fetchGameData() {
         try {
-            // Append a timestamp to prevent caching
             const response = await fetch('game_data.json?' + new Date().getTime());
             const data = await response.json();
             
-            // Process Fight Time to seconds for comparison (important for numeric comparison)
+            // Pre-process fight times
             for (const name in data.fighter_data) {
-                const fighter = data.fighter_data[name];
-                // Check if Fight_Time exists before processing
-                if(fighter.Fight_Time) {
-                    fighter.Fight_Time_Seconds = timeToSeconds(fighter.Fight_Time);
-                } else {
-                    fighter.Fight_Time_Seconds = 0;
-                }
+                const f = data.fighter_data[name];
+                f.Fight_Time_Seconds = timeToSeconds(f.Fight_Time);
             }
 
             GAME_STATE.allFighters = data.fighter_data;
-            GAME_STATE.validFighterNames = Object.keys(data.fighter_data); 
+            GAME_STATE.validFighterNames = Object.keys(data.fighter_data).sort();
             
-            const dailyFighterName = data.daily_fighter?.Name;
-            if (dailyFighterName && GAME_STATE.allFighters[dailyFighterName]) {
-                 GAME_STATE.dailyFighter = GAME_STATE.allFighters[dailyFighterName];
+            if (data.daily_fighter && GAME_STATE.allFighters[data.daily_fighter.Name]) {
+                GAME_STATE.dailyFighter = GAME_STATE.allFighters[data.daily_fighter.Name];
             } else {
-                 document.getElementById('status').textContent = "ERROR: Daily data is missing. Starting Practice Mode.";
-                 startPracticeGame();
-                 return;
+                startPracticeGame();
             }
         } catch (error) {
-            console.error("Error fetching or processing game data:", error);
-            document.getElementById('status').textContent = "ERROR: Failed to load game data. Ensure 'game_data.json' exists.";
-            GAME_STATE.isGameOver = true;
+            console.error(error);
+            getEl('db-status').textContent = "OFFLINE (ERR)";
+            getEl('db-status').style.color = "var(--danger-color)";
         }
     }
 
-    /** Converts 'MM:SS' time string to total seconds. */
     function timeToSeconds(timeStr) {
         if (!timeStr || timeStr.trim() === 'N/A') return 0;
         const parts = timeStr.split(':');
-        if (parts.length === 2) {
-            return parseInt(parts[0]) * 60 + parseInt(parts[1]);
-        }
-        return parseFloat(timeStr) || 0; 
+        return parts.length === 2 ? parseInt(parts[0]) * 60 + parseInt(parts[1]) : 0;
     }
 
-    /** Gets the comparison value for a stat (number or 0 if N/A). */
-    function getStatValue(fighter, statKey) {
-        const val = fighter[statKey];
-        return parseFloat(val) || 0;
-    }
-
-    /** Clears and resets the game state. */
     function resetGame(isPractice) {
         GAME_STATE.guesses = [];
         GAME_STATE.isGameOver = false;
-        GAME_STATE.isPracticeMode = isPractice;
-        document.getElementById('guesses-tbody').innerHTML = '';
-        document.getElementById('status').innerHTML = '';
-        document.getElementById('fighter-input').value = '';
-        document.getElementById('guess-button').disabled = false;
-        document.getElementById('fighter-input').disabled = false;
-        document.getElementById('status').className = 'status-message';
-
-        updateGuessesRemaining();
+        GAME_STATE.isAnimating = false;
+        getEl('guesses-tbody').innerHTML = '';
+        getEl('status-message').style.display = 'none';
+        getEl('fighter-input').value = '';
+        getEl('fighter-input').disabled = false;
+        getEl('guess-button').disabled = false;
+        updateGuessesUI();
 
         if (isPractice) {
-            document.getElementById('status').textContent = `PRACTICE MODE ENABLED. Guess the random fighter.`;
+            getEl('db-status').textContent = "PRACTICE MODE";
+            getEl('db-status').style.color = "var(--warning-color)";
         } else {
-             document.getElementById('status').textContent = `Awaiting guess...`;
+            getEl('db-status').textContent = "DAILY TARGET";
+            getEl('db-status').style.color = "var(--success-color)";
         }
     }
 
-    /** Starts a practice game with a random fighter. */
     function startPracticeGame() {
+        if (!GAME_STATE.validFighterNames.length) return;
+        const randomName = GAME_STATE.validFighterNames[Math.floor(Math.random() * GAME_STATE.validFighterNames.length)];
+        GAME_STATE.dailyFighter = GAME_STATE.allFighters[randomName];
         resetGame(true);
-        const fighterNames = GAME_STATE.validFighterNames;
-        if (fighterNames.length === 0) {
-            document.getElementById('status').textContent = "ERROR: No fighter data available for practice.";
+    }
+
+    function updateGuessesUI() {
+        const remaining = CONFIG.maxGuesses - GAME_STATE.guesses.length;
+        getEl('guesses-remaining').textContent = remaining;
+    }
+
+    // --- CORE GAMEPLAY ---
+
+    function handleGuess() {
+        // Prevent interaction if game over or currently animating previous guess
+        if (GAME_STATE.isGameOver || GAME_STATE.isAnimating) return;
+
+        const input = getEl('fighter-input');
+        const name = input.value.trim();
+        const fighter = GAME_STATE.allFighters[name];
+
+        if (!fighter) {
+            alert("FIGHTER NOT FOUND IN DATABASE");
             return;
         }
-        const randomName = fighterNames[Math.floor(Math.random() * fighterNames.length)];
-        GAME_STATE.dailyFighter = GAME_STATE.allFighters[randomName];
+        if (GAME_STATE.guesses.includes(fighter.Name)) {
+            alert("DUPLICATE ENTRY REJECTED");
+            return;
+        }
+
+        // Lock Input during animation
+        GAME_STATE.isAnimating = true;
+        input.value = '';
+        getEl('autocomplete-container').classList.remove('active');
+        getEl('guess-button').disabled = true;
+
+        GAME_STATE.guesses.push(fighter.Name);
+        updateGuessesUI();
+
+        // Start the Complex Animation Sequence
+        createAndAnimateRow(fighter);
     }
 
-    /** Updates the displayed number of guesses left. */
-    function updateGuessesRemaining() {
-        const remaining = GAME_STATE.maxGuesses - GAME_STATE.guesses.length;
-        document.getElementById('guesses-remaining').textContent = `Guesses Remaining: ${remaining}`;
-        if (remaining <= 0 && !GAME_STATE.isGameOver) {
+    // --- ANIMATION LOGIC ---
+
+    function createAndAnimateRow(guessedFighter) {
+        const secret = GAME_STATE.dailyFighter;
+        const tbody = getEl('guesses-tbody');
+        const tr = document.createElement('tr');
+        
+        // Define data cells structure
+        // We pre-calculate classes but DON'T add them yet, or add them and wait to trigger animation
+        const cellsData = [];
+
+        // 1. Identity Cell
+        cellsData.push({
+            html: `<div class="fighter-name-cell">
+                     <img src="${guessedFighter.Picture_URL}" onerror="this.src='https://www.ufc.com/themes/custom/ufc/assets/img/no-profile-image.png'">
+                     <span>${guessedFighter.Name}</span>
+                   </div>`,
+            class: ''
+        });
+
+        // 2. Division & Rank (Exact Match Logic)
+        ['Division', 'Rank'].forEach(key => {
+            const isMatch = guessedFighter[key] === secret[key];
+            cellsData.push({
+                html: guessedFighter[key] || 'N/A',
+                class: isMatch ? 'bg-correct' : 'bg-wrong'
+            });
+        });
+
+        // 3. Record (Display Only)
+        cellsData.push({ html: guessedFighter.Record || 'N/A', class: '' });
+
+        // 4. Numeric Stats
+        for (const [key, label] of Object.entries(CONFIG.comparisonStats)) {
+            const guessVal = parseFloat(guessedFighter[key]) || 0;
+            const secretVal = parseFloat(secret[key]) || 0;
+            
+            let cssClass = 'bg-wrong';
+            let arrow = '';
+            
+            if (guessVal === secretVal && guessVal !== 0) {
+                cssClass = 'bg-correct';
+            } else if (secretVal !== 0) {
+                const diff = Math.abs(guessVal - secretVal);
+                const percentDiff = diff / secretVal;
+
+                if (percentDiff < 0.25) cssClass = 'bg-close'; // < 25% diff
+                
+                // Logic: If guess > secret, Secret is Lower (Down Arrow)
+                arrow = guessVal > secretVal 
+                    ? '<span class="arrow">&#8595;</span>' 
+                    : '<span class="arrow">&#8593;</span>';
+            }
+
+            // Format Fight Time for display
+            let displayVal = guessedFighter[key];
+            if (key === 'Fight_Time_Seconds') {
+                 const m = Math.floor(guessVal / 60);
+                 const s = Math.round(guessVal % 60);
+                 displayVal = `${m}:${s < 10 ? '0'+s : s}`;
+            }
+
+            cellsData.push({
+                html: `${displayVal} ${arrow}`,
+                class: cssClass
+            });
+        }
+
+        // --- RENDER & ANIMATE LOOP ---
+        
+        // 1. Create empty TDs first
+        cellsData.forEach(data => {
+            const td = document.createElement('td');
+            td.innerHTML = data.html;
+            // Store the final color class in a dataset attribute to apply later
+            td.dataset.finalClass = data.class;
+            tr.appendChild(td);
+        });
+
+        // Insert row at top
+        tbody.insertBefore(tr, tbody.firstChild);
+
+        // 2. Loop through TDs and trigger reveal with delay
+        const tds = tr.querySelectorAll('td');
+        let completedAnimations = 0;
+
+        tds.forEach((td, index) => {
+            setTimeout(() => {
+                // Add the animation class
+                td.classList.add('reveal-cell');
+                
+                // When animation starts, allow the background color to show
+                if (td.dataset.finalClass) {
+                    // Use a slight timeout inside so color appears as card flips
+                    setTimeout(() => td.classList.add(td.dataset.finalClass), 200); 
+                }
+
+                // Check for completion
+                completedAnimations++;
+                if (completedAnimations === tds.length) {
+                    // Animation sequence finished. Check Game Over state.
+                    // Allow a slight pause for user to digest result
+                    setTimeout(() => checkGameState(guessedFighter), 500);
+                }
+
+            }, index * CONFIG.animationDelay); // This creates the 1-by-1 effect
+        });
+    }
+
+    function checkGameState(guessedFighter) {
+        GAME_STATE.isAnimating = false;
+        getEl('guess-button').disabled = false;
+
+        if (guessedFighter.Name === GAME_STATE.dailyFighter.Name) {
+            endGame(true);
+        } else if (GAME_STATE.guesses.length >= CONFIG.maxGuesses) {
             endGame(false);
         }
     }
 
-    // --- Game Logic ---
-
-    function handleGuess() {
-        if (GAME_STATE.isGameOver) return;
-
-        const inputEl = document.getElementById('fighter-input');
-        const guessName = inputEl.value.trim();
-        
-        // Find the fighter object based on the name from the full list
-        const guessedFighter = GAME_STATE.allFighters[guessName]; 
-
-        if (!guessedFighter) {
-            alert("Please select a valid fighter from the autocomplete list.");
-            return;
-        }
-
-        if (GAME_STATE.guesses.includes(guessedFighter.Name)) {
-            alert("This fighter has already been submitted to the tape.");
-            return;
-        }
-
-        // Add to guesses and process
-        GAME_STATE.guesses.push(guessedFighter.Name);
-        processGuess(guessedFighter);
-        inputEl.value = ''; // Clear input field
-        document.getElementById('autocomplete-container').innerHTML = ''; // Clear autocomplete
-
-        if (guessedFighter.Name === GAME_STATE.dailyFighter.Name) {
-            endGame(true);
-        } else {
-            updateGuessesRemaining();
-        }
-    }
-
-    /** Compares the guessed fighter's stats to the secret fighter's stats. */
-    function processGuess(guessedFighter) {
-        const secret = GAME_STATE.dailyFighter;
-        let rowHtml = `<tr>`;
-
-        // 1. Fighter Name and Picture (First Column)
-        const picUrl = guessedFighter.Picture_URL || '';
-        rowHtml += `<td><div style="display:flex;align-items:center;"><img src="${picUrl}" onerror="this.style.opacity='0'" alt="Fighter Photo">${guessedFighter.Name}</div></td>`;
-
-        // 2. Exact Match Stats (Division & Rank)
-        ['Division', 'Rank'].forEach(stat => {
-            let className = '';
-            if (guessedFighter[stat] === secret[stat]) {
-                className = 'bg-success';
-            }
-            rowHtml += `<td class="${className}">${guessedFighter[stat] || 'N/A'}</td>`;
-        });
-
-        // 3. Record (No color comparison, just displayed)
-        rowHtml += `<td>${guessedFighter.Record || 'N/A'}</td>`;
-
-        // 4. Comparison Stats (Numeric/Arrow)
-        for (const statKey in COMPARISON_STATS) {
-            const guessVal = getStatValue(guessedFighter, statKey);
-            const secretVal = getStatValue(secret, statKey);
-
-            let className = '';
-            let arrowHtml = '';
-            let displayVal = guessedFighter[statKey];
-
-            if (guessVal === secretVal && guessVal !== 0) {
-                className = 'bg-success';
-            } else if (secretVal === 0) { 
-                className = 'bg-neutral';
-                arrowHtml = 'N/A';
-            } else {
-                const diff = Math.abs(guessVal - secretVal);
-                const isHigher = guessVal > secretVal;
-
-                // Color scale logic based on percentage difference from the secret value
-                const percentageDiff = diff / secretVal;
-                
-                if (percentageDiff >= 0.5) {
-                    className = 'bg-failure'; // 50% or more off
-                } else if (percentageDiff >= 0.1) {
-                    className = 'bg-neutral'; // 10% to 50% off
-                } else {
-                    className = 'bg-success'; // Less than 10% off (close enough)
-                }
-
-                // Add requested Unicode arrow:
-                // Down arrow (&#8595;) means guess is too HIGH (secret is LOWER)
-                // Up arrow (&#8593;) means guess is too LOW (secret is HIGHER)
-                arrowHtml = isHigher 
-                    ? '<span class="arrow arrow-down">&#8595;</span>'
-                    : '<span class="arrow arrow-up">&#8593;</span>';
-            }
-
-            // Display fight time in MM:SS format
-            if (statKey === 'Fight_Time_Seconds') {
-                const timeInSeconds = guessedFighter.Fight_Time_Seconds;
-                const minutes = Math.floor(timeInSeconds / 60);
-                const seconds = Math.round(timeInSeconds % 60);
-                displayVal = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
-            }
-
-            rowHtml += `<td class="${className}">${displayVal} ${arrowHtml}</td>`;
-        }
-        
-        rowHtml += `</tr>`;
-        
-        document.getElementById('guesses-tbody').insertAdjacentHTML('afterbegin', rowHtml);
-    }
-
-    /** Ends the game (win or loss). */
     function endGame(isWin) {
         GAME_STATE.isGameOver = true;
-        const statusEl = document.getElementById('status');
-        const dailyFighterName = GAME_STATE.dailyFighter.Name;
+        getEl('fighter-input').disabled = true;
+        getEl('guess-button').disabled = true;
+
+        const msgBox = getEl('status-message');
+        msgBox.style.display = 'block';
 
         if (isWin) {
-            statusEl.className = 'status-message status-win';
-            statusEl.innerHTML = `&#9989; **SUCCESS!** The mystery fighter was ${dailyFighterName}. Tape Confirmed!`;
+            msgBox.className = 'status-win';
+            msgBox.innerHTML = `<div>MISSION ACCOMPLISHED</div><div style="font-size:0.8em">TARGET IDENTIFIED: ${GAME_STATE.dailyFighter.Name}</div>`;
         } else {
-            statusEl.className = 'status-message status-lose';
-            statusEl.innerHTML = `&#10060; **ELIMINATED!** The secret fighter was ${dailyFighterName}. Try again tomorrow.`;
+            msgBox.className = 'status-lose';
+            msgBox.innerHTML = `<div>MISSION FAILED</div><div style="font-size:0.8em">TARGET WAS: ${GAME_STATE.dailyFighter.Name}</div>`;
         }
-
-        document.getElementById('guess-button').disabled = true;
-        document.getElementById('fighter-input').disabled = true;
-        document.getElementById('practice-button').disabled = true;
     }
 
-
-    // --- Autocomplete Functionality ---
+    // --- AUTOCOMPLETE LOGIC ---
 
     function setupAutocomplete() {
-        const inputEl = document.getElementById('fighter-input');
-        const containerEl = document.getElementById('autocomplete-container');
+        const input = getEl('fighter-input');
+        const list = getEl('autocomplete-container');
 
-        inputEl.addEventListener('input', function() {
+        input.addEventListener('input', function() {
             const val = this.value.toLowerCase().trim();
-            containerEl.innerHTML = ''; 
-            if (!val || GAME_STATE.validFighterNames.length === 0) return;
-
-            // Filter fighters whose name includes the typed string (case-insensitive)
-            const matches = GAME_STATE.validFighterNames
-                .filter(name => name.toLowerCase().includes(val))
-                .sort()
-                .slice(0, 8); 
-
-            if (matches.length === 0) return;
-
-            const listEl = document.createElement('div');
-            listEl.className = 'autocomplete-list';
+            list.innerHTML = '';
             
-            matches.forEach(name => {
-                const fighter = GAME_STATE.allFighters[name];
-                const item = document.createElement('div');
-                item.className = 'autocomplete-item';
-                const picUrl = fighter?.Picture_URL || ''; 
-                // Using fighter.Name directly as the key ensures consistency
-                item.dataset.fighterName = name; 
-                
-                item.innerHTML = `<img src="${picUrl}" onerror="this.style.display='none'" alt="${name}"><span>${name}</span>`;
-                
-                item.addEventListener('click', (e) => {
-                    const selectedName = e.currentTarget.dataset.fighterName;
-                    inputEl.value = selectedName;
-                    containerEl.innerHTML = '';
-                    handleGuess(); 
+            if (!val) {
+                list.classList.remove('active');
+                return;
+            }
+
+            const matches = GAME_STATE.validFighterNames
+                .filter(n => n.toLowerCase().includes(val))
+                .slice(0, 6); // Limit results
+
+            if (matches.length > 0) {
+                list.classList.add('active');
+                matches.forEach(name => {
+                    const f = GAME_STATE.allFighters[name];
+                    const div = document.createElement('div');
+                    div.className = 'autocomplete-item';
+                    div.innerHTML = `<img src="${f.Picture_URL}" onerror="this.style.opacity=0">${name}`;
+                    div.onclick = () => {
+                        input.value = name;
+                        list.classList.remove('active');
+                        handleGuess();
+                    };
+                    list.appendChild(div);
                 });
-                listEl.appendChild(item);
-            });
-
-            containerEl.appendChild(listEl);
-        });
-
-        // Close the autocomplete list when clicking outside
-        document.addEventListener('click', function(e) {
-            if (e.target !== inputEl && !e.target.closest('.autocomplete-list')) {
-                containerEl.innerHTML = '';
+            } else {
+                list.classList.remove('active');
             }
         });
-    }
 
-    // --- Initialization ---
-
-    document.addEventListener('DOMContentLoaded', async () => {
-        await fetchGameData();
-        setupAutocomplete();
-        document.getElementById('guess-button').addEventListener('click', handleGuess);
-        document.getElementById('practice-button').addEventListener('click', () => startPracticeGame());
-
-        // Listen for Enter key on the input field
-        document.getElementById('fighter-input').addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') {
-                e.preventDefault(); 
-                document.getElementById('guess-button').click();
+        // Close on outside click
+        document.addEventListener('click', (e) => {
+            if (e.target !== input && e.target !== list) {
+                list.classList.remove('active');
             }
         });
         
-        // Initialize the daily fighter status if data loaded successfully
-        if(GAME_STATE.dailyFighter) {
-            resetGame(false);
-        }
+        // Enter key
+        input.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                // If autocomplete is open and has 1 match, pick it
+                if (list.classList.contains('active') && list.children.length > 0) {
+                     list.children[0].click();
+                } else {
+                     // Otherwise just submit what's in box (if valid)
+                     const exactMatch = GAME_STATE.validFighterNames.find(n => n.toLowerCase() === input.value.toLowerCase().trim());
+                     if(exactMatch) {
+                         input.value = exactMatch;
+                         handleGuess();
+                     }
+                }
+            }
+        });
+    }
+
+    // --- INIT ---
+    document.addEventListener('DOMContentLoaded', () => {
+        fetchGameData();
+        setupAutocomplete();
+        getEl('guess-button').onclick = handleGuess;
+        getEl('practice-button').onclick = startPracticeGame;
     });
 
 </script>
