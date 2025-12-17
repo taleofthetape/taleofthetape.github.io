@@ -1,21 +1,22 @@
 {
     "daily_fighter": {
-        "Name": "Michael Chandler",
-        "Profile_URL": "https://www.ufc.com/athlete/michael-chandler",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHANDLER_MICHAEL_04-12.png?itok=5kKJoIMh",
-        "Record": "23-10-0 (W-L-D)",
-        "SLpM": "4.04",
-        "SApM": "4.52",
-        "TD_Avg": "1.96",
-        "Sub_Avg": "0.56",
-        "Fight_Time": "09:37",
-        "Fight_Time_Seconds": 577,
+        "Name": "Far\u00e8s Ziam",
+        "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=1scrZ8m1",
+        "Record": "18-4-0 (W-L-D)",
+        "SLpM": "2.87",
+        "SApM": "1.53",
+        "TD_Avg": "1.73",
+        "Sub_Avg": "0.46",
+        "Fight_Time": "13:01",
+        "Fight_Time_Seconds": 781,
         "Division": "Lightweight",
-        "Rank": "12",
-        "Selected_Date": "2025-12-17T18:24:30.365576Z"
+        "Rank": "15",
+        "Selected_Date": "2025-12-17T18:54:23.033421Z"
     },
     "past_fighters": [
-        "Giga Chikadze"
+        "Giga Chikadze",
+        "Michael Chandler"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1868,7 +1869,8 @@
             "Fight_Time": "13:01",
             "Fight_Time_Seconds": 781,
             "Division": "Lightweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2025-12-17T18:54:23.033421Z"
         },
         "Joe Pyfer": {
             "Name": "Joe Pyfer",
