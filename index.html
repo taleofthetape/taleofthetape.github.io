@@ -15,15 +15,14 @@
             --accent-cyan: #66fcf1;
             --accent-dim: #45a29e;
             
-            --success-color: #00ff41; /* Hacker Green */
-            --warning-color: #ffb700; /* Amber */
-            --danger-color: #ff003c;  /* Cyberpunk Red */
+            --success-color: #00ff41;
+            --warning-color: #ffb700;
+            --danger-color: #ff003c;
             
-            --border-radius: 2px; /* Sharp corners */
+            --border-radius: 2px;
             --scanline-color: rgba(0, 0, 0, 0.5);
         }
 
-        /* --- GLOBAL RESET & LAYOUT --- */
         * { box-sizing: border-box; }
         
         body { 
@@ -33,7 +32,6 @@
             margin: 0; 
             padding: 0; 
             min-height: 100vh;
-            /* Subtle scanline background effect */
             background-image: linear-gradient(0deg, transparent 24%, var(--scanline-color) 25%, var(--scanline-color) 26%, transparent 27%, transparent 74%, var(--scanline-color) 75%, var(--scanline-color) 76%, transparent 77%, transparent), linear-gradient(90deg, transparent 24%, var(--scanline-color) 25%, var(--scanline-color) 26%, transparent 27%, transparent 74%, var(--scanline-color) 75%, var(--scanline-color) 76%, transparent 77%, transparent);
             background-size: 50px 50px;
         }
@@ -44,7 +42,6 @@
             padding: 20px;
         }
 
-        /* --- HEADER --- */
         header {
             text-align: center;
             padding: 40px 0;
@@ -70,7 +67,6 @@
             margin-top: 10px;
         }
 
-        /* --- PANELS --- */
         .panel {
             background: rgba(31, 40, 51, 0.9);
             border: 1px solid var(--accent-dim);
@@ -80,7 +76,6 @@
             position: relative;
         }
         
-        /* Decoration lines on corners */
         .panel::before {
             content: '';
             position: absolute;
@@ -107,16 +102,14 @@
             text-transform: uppercase;
         }
 
-        /* --- SEARCH AREA (Fixed Positioning Issue) --- */
         .search-wrapper {
-            position: relative; /* CRITICAL: Creates a context for absolute children */
+            position: relative;
             display: flex;
             gap: 10px;
             margin-top: 20px;
             z-index: 1000;
         }
 
-        /* Mobile layout - buttons on top, input below */
         @media (max-width: 768px) {
             .search-wrapper {
                 flex-direction: column-reverse;
@@ -130,9 +123,12 @@
             .button-row .btn {
                 flex: 1;
             }
+            
+            td[data-label="Division"] {
+                padding-top: 35px !important;
+            }
         }
 
-        /* Desktop layout - keep buttons on right */
         @media (min-width: 769px) {
             .button-row {
                 display: contents;
@@ -180,10 +176,9 @@
             box-shadow: none;
         }
 
-        /* --- AUTOCOMPLETE DROPDOWN --- */
         #autocomplete-container {
             position: absolute;
-            top: 100%; /* Pushes it exactly below the input */
+            top: 100%;
             left: 0;
             width: 100%; 
             background: #0b0c10;
@@ -192,7 +187,7 @@
             max-height: 300px;
             overflow-y: auto;
             z-index: 2000;
-            display: none; /* Hidden by default */
+            display: none;
         }
         
         #autocomplete-container.active {
@@ -223,7 +218,6 @@
             background: #000;
         }
 
-        /* --- RESULTS TABLE --- */
         .table-container {
             overflow-x: auto;
         }
@@ -231,10 +225,9 @@
         table {
             width: 100%;
             border-collapse: separate;
-            border-spacing: 0 10px; /* Space between rows for card effect */
+            border-spacing: 0 10px;
         }
 
-        /* Mobile - stack table cells vertically */
         @media (max-width: 768px) {
             table, thead, tbody, th, td, tr {
                 display: block;
@@ -299,10 +292,6 @@
             font-size: 0.9rem;
         }
 
-        tbody tr {
-            /* Rows start invisible for animation */
-        }
-
         td {
             background: #121212;
             padding: 15px 10px;
@@ -310,14 +299,11 @@
             border-top: 1px solid #333;
             border-bottom: 1px solid #333;
             vertical-align: middle;
-            
-            /* Initial state for animation */
             opacity: 0; 
             transform: translateY(-10px);
-            transition: none; /* Controlled by JS/Keyframes */
+            transition: none;
         }
 
-        /* First and Last child border rounding for "card" look */
         td:first-child { border-left: 1px solid #333; border-radius: 4px 0 0 4px; }
         td:last-child { border-right: 1px solid #333; border-radius: 0 4px 4px 0; }
 
@@ -339,14 +325,11 @@
             font-size: 0.9em;
         }
 
-        /* --- ANIMATION CLASSES --- */
-        
-        /* The animation keyframe */
         @keyframes flipReveal {
             0% {
                 opacity: 0;
                 transform: perspective(400px) rotateX(90deg);
-                background-color: #fff; /* Flash white */
+                background-color: #fff;
             }
             100% {
                 opacity: 1;
@@ -354,12 +337,10 @@
             }
         }
 
-        /* Class added by JS to trigger animation */
         .reveal-cell {
             animation: flipReveal 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
         }
 
-        /* --- COMPARISON COLORS (Applied after reveal) --- */
         .bg-correct {
             background-color: rgba(0, 255, 65, 0.15) !important;
             border-color: var(--success-color) !important;
@@ -376,7 +357,7 @@
 
         .bg-wrong {
             background-color: rgba(255, 0, 60, 0.1) !important;
-            color: var(--danger-color); /* Red Text */
+            color: var(--danger-color);
         }
 
         .arrow {
@@ -385,7 +366,6 @@
             line-height: 1;
         }
 
-        /* --- GUESS COUNTER --- */
         .hud-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -412,7 +392,6 @@
             font-weight: bold;
         }
 
-        /* --- END GAME STATUS --- */
         #status-message {
             margin-top: 20px;
             padding: 20px;
@@ -420,7 +399,7 @@
             font-size: 1.5rem;
             text-transform: uppercase;
             letter-spacing: 2px;
-            display: none; /* Hidden until game over */
+            display: none;
         }
         
         .status-win {
@@ -437,7 +416,6 @@
             box-shadow: 0 0 20px var(--danger-color);
         }
 
-        /* --- INFO SECTION --- */
         .info-content ul {
             list-style: none;
             padding: 0;
@@ -458,7 +436,6 @@
     <header>
         <h1>TALE OF THE TAPE</h1>
         <div class="subtitle">Daily UFC Fighter Comparison</div>
-
     </header>
 
     <div class="panel">
@@ -488,7 +465,7 @@
 
     <div id="status-message"></div>
 
-    <div class="panel">
+    <div class="panel" id="results-panel">
         <h2>Comparison Results</h2>
         <div class="table-container">
             <table id="results-table">
@@ -505,8 +482,7 @@
                         <th>Fight Time</th>
                     </tr>
                 </thead>
-                <tbody id="guesses-tbody">
-                    </tbody>
+                <tbody id="guesses-tbody"></tbody>
             </table>
         </div>
     </div>
@@ -522,14 +498,12 @@
         </ul>
         <div style="text-align: center; margin-top: 20px; font-size: 0.8rem; color: #555;">
            Built by <a href="https://github.com/zwinship" style="color:var(--accent-cyan); text-decoration: none;">Zach Winship</a> | Data refresh: 05:00 UTC
-
         </div>
     </div>
 
 </div>
 
 <script>
-    // --- CONFIGURATION ---
     const CONFIG = {
         maxGuesses: 10,
         animationDelay: 400,
@@ -542,7 +516,6 @@
         }
     };
 
-    // Division weight mapping (lower number = lighter division)
     const DIVISION_ORDER = {
         'Strawweight': 1,
         'Flyweight': 2,
@@ -555,7 +528,6 @@
         'Heavyweight': 9
     };
 
-    // --- STATE ---
     let GAME_STATE = {
         dailyFighter: null,
         originalDailyFighter: null,
@@ -567,7 +539,6 @@
         isPracticeMode: false
     };
 
-    // --- UTILS ---
     const getEl = (id) => document.getElementById(id);
 
     async function fetchGameData() {
@@ -575,7 +546,6 @@
             const response = await fetch('game_data.json?' + new Date().getTime());
             const data = await response.json();
             
-            // Pre-process fight times and wins
             for (const name in data.fighter_data) {
                 const f = data.fighter_data[name];
                 f.Fight_Time_Seconds = timeToSeconds(f.Fight_Time);
@@ -663,8 +633,6 @@
         getEl('guesses-remaining').textContent = remaining;
     }
 
-    // --- CORE GAMEPLAY ---
-
     function handleGuess() {
         if (GAME_STATE.isGameOver || GAME_STATE.isAnimating) return;
 
@@ -692,8 +660,6 @@
         createAndAnimateRow(fighter);
     }
 
-    // --- ANIMATION LOGIC ---
-
     function createAndAnimateRow(guessedFighter) {
         const secret = GAME_STATE.dailyFighter;
         const tbody = getEl('guesses-tbody');
@@ -701,7 +667,6 @@
         
         const cellsData = [];
 
-        // 1. Identity Cell
         cellsData.push({
             html: `<div class="fighter-name-cell">
                      <img src="${guessedFighter.Picture_URL}" onerror="this.src='https://www.ufc.com/themes/custom/ufc/assets/img/no-profile-image.png'">
@@ -711,7 +676,6 @@
             label: 'Identity'
         });
 
-        // 2. Division (with arrows based on weight class order)
         const guessDivOrder = DIVISION_ORDER[guessedFighter.Division] || 0;
         const secretDivOrder = DIVISION_ORDER[secret.Division] || 0;
         let divClass = 'bg-wrong';
@@ -731,7 +695,6 @@
             label: 'Division'
         });
 
-        // 3. Rank (text hint – lower number is better)
         const guessRank = parseInt(guessedFighter.Rank) || 0;
         const secretRank = parseInt(secret.Rank) || 0;
         let rankClass = 'bg-wrong';
@@ -743,8 +706,6 @@
         } else if (guessRank !== 0 && secretRank !== 0) {
             const diff = Math.abs(guessRank - secretRank);
             if (diff <= 3) rankClass = 'bg-close';
-
-            // BETTER = target rank is closer to 1
             rankHint = guessRank > secretRank ? 'BETTER' : 'WORSE';
         }
 
@@ -759,7 +720,6 @@
             label: 'Rank'
         });
 
-        // 4. Wins (with arrows)
         const guessWins = guessedFighter.Wins || 0;
         const secretWins = secret.Wins || 0;
         let winsClass = 'bg-wrong';
@@ -782,7 +742,6 @@
             label: 'Wins'
         });
 
-        // 5. Numeric Stats
         for (const [key, label] of Object.entries(CONFIG.comparisonStats)) {
             const guessVal = parseFloat(guessedFighter[key]) || 0;
             const secretVal = parseFloat(secret[key]) || 0;
@@ -817,8 +776,6 @@
             });
         }
 
-        // --- RENDER & ANIMATE LOOP ---
-        
         cellsData.forEach(data => {
             const td = document.createElement('td');
             td.innerHTML = data.html;
@@ -853,6 +810,13 @@
         GAME_STATE.isAnimating = false;
         getEl('guess-button').disabled = false;
 
+        if (window.innerWidth <= 768) {
+            setTimeout(() => {
+                const resultsPanel = getEl('results-panel');
+                resultsPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }, 300);
+        }
+
         if (guessedFighter.Name === GAME_STATE.dailyFighter.Name) {
             endGame(true);
         } else if (GAME_STATE.guesses.length >= CONFIG.maxGuesses) {
@@ -877,11 +841,8 @@
             msgBox.className = 'status-lose';
             msgBox.innerHTML = `<div>Game Over</div>
             <div style="font-size:0.8em">The fighter was ${GAME_STATE.dailyFighter.Name}</div>`;
-
         }
     }
-
-    // --- AUTOCOMPLETE LOGIC ---
 
     function setupAutocomplete() {
         const input = getEl('fighter-input');
@@ -941,7 +902,6 @@
         });
     }
 
-    // --- INIT ---
     document.addEventListener('DOMContentLoaded', () => {
         fetchGameData();
         setupAutocomplete();
