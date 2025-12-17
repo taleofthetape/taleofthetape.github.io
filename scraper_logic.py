@@ -1,11 +1,10 @@
-# Save this content as 'scraper_logic.py'
-
 import requests
 from bs4 import BeautifulSoup
 import json
 import random
 import os
 import time
+import re
 from datetime import datetime
 from lxml import html
 from typing import List, Dict, Union, Any
@@ -19,14 +18,24 @@ BASE_URL = "https://www.ufc.com"
 PRODUCTION_OUTPUT_FILE = "game_data.json"
 
 PAST_DAYS_LIMIT = 7
-REQUEST_SLEEP = 1.0  # Increased sleep slightly for safer server interactions
+REQUEST_SLEEP = 1.0
 
 HEADERS = {
-    # Using a standard browser User-Agent is less likely to be blocked than the custom one
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 TaleOfTheTapeBot",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.5",
 }
+
+# --- IMAGE XPATHS (SLOT A AND SLOT B) ---
+XPATH_SLOT_A = (
+    "/html/body/div[1]/div/main/div[1]/div/div/div/div/div[4]/div[2]/div/div"
+    "/section/ul/li[1]/article/div[1]/div/div/div/div[1]/a/div/img/@src"
+)
+
+XPATH_SLOT_B = (
+    "/html/body/div[1]/div/main/div[1]/div/div/div/div/div[4]/div[2]/div/div"
+    "/section/ul/li[1]/article/div[1]/div/div/div/div[2]/a/div/img/@src"
+)
 
 # ------------------ UTILITIES ------------------ #
 
@@ -55,6 +64,26 @@ def time_to_seconds(time_str: str) -> int:
         return minutes * 60 + seconds
     except ValueError:
         return 0
+
+
+def normalize(text: str) -> str:
+    """Normalize text by removing all non-alphabetic characters and converting to lowercase."""
+    return re.sub(r"[^a-z]", "", text.lower())
+
+
+def filename_matches_fighter(url: str, fighter_name: str) -> bool:
+    """Check if the image URL filename matches the fighter's name."""
+    if not url:
+        return False
+
+    # Extract filename from URL and normalize it
+    fname = normalize(url.split("/")[-1])
+    
+    # Normalize each part of the fighter's name
+    parts = [normalize(p) for p in fighter_name.split()]
+
+    # All name parts should be present in the filename
+    return all(p in fname for p in parts)
 
 
 def load_game_data(file_name: str) -> Dict[str, Any]:
@@ -86,8 +115,6 @@ def save_game_data(data: Dict[str, Any], file_name: str) -> None:
 
 
 # ------------------ RANKINGS SCRAPER ------------------ #
-# Note: The rankings scraper uses BeautifulSoup, which is fine since the
-# rankings page HTML structure seems to be stable.
 
 def scrape_rankings() -> List[Dict[str, Any]]:
     """
@@ -191,8 +218,36 @@ def scrape_rankings() -> List[Dict[str, Any]]:
 
     return fighters
 
-# ------------------ FIGHTER STATS SCRAPER ------------------ #
-# Note: This section uses lxml and XPaths, matching your working code.
+
+# ------------------ FIGHTER STATS SCRAPER (WITH FIXED IMAGE LOGIC) ------------------ #
+
+def scrape_fighter_image(tree: html.HtmlElement, fighter_name: str) -> str:
+    """
+    Extract fighter image using Slot A/B logic with filename matching.
+    Returns the best matching image URL or "N/A".
+    """
+    # Try to extract both slot URLs
+    slot_a = tree.xpath(XPATH_SLOT_A)
+    slot_b = tree.xpath(XPATH_SLOT_B)
+
+    a_url = slot_a[0] if slot_a else None
+    b_url = slot_b[0] if slot_b else None
+
+    print(f"  Image Slot A: {a_url}")
+    print(f"  Image Slot B: {b_url}")
+
+    # Check which slot matches the fighter's name
+    if filename_matches_fighter(a_url, fighter_name):
+        print(f"  ✅ Image match found in Slot A")
+        return a_url
+    elif filename_matches_fighter(b_url, fighter_name):
+        print(f"  ✅ Image match found in Slot B")
+        return b_url
+    else:
+        # Fallback to Slot A if no match found
+        print(f"  ⚠️ No filename match — falling back to Slot A")
+        return a_url if a_url else "N/A"
+
 
 def scrape_fighter_stats(name: str, profile_url: Union[str, None]) -> Union[Dict[str, Any], None]:
     """
@@ -224,31 +279,18 @@ def scrape_fighter_stats(name: str, profile_url: Union[str, None]) -> Union[Dict
             res = tree.xpath(path)
             if not res:
                 return "N/A"
-            # Get text content, handling both element and text node results
             return str(res[0].text_content()).strip()
         except Exception:
             return "N/A"
 
-    def xp_attr(path: str) -> str:
-        """Helper to safely extract attribute value using XPath."""
-        try:
-            res = tree.xpath(path)
-            if not res:
-                return "N/A"
-            # The result for an attribute path is often a string list
-            return str(res[0]).strip()
-        except Exception:
-            return "N/A"
+    # --- Extract Image Using Fixed Logic ---
+    picture_url = scrape_fighter_image(tree, name)
 
-    # --- XPaths from your working code ---
-
+    # --- XPaths for Other Stats ---
     stats = {
         "Name": name,
         "Profile_URL": profile_url,
-
-        "Picture_URL": xp_attr(
-            '/html/body/div[1]/div/main/div[1]/div/div/div/div/div[1]/div/div/div[3]/div[1]/div/div/section/ul/li/article/div[2]/div/div/div/div[1]/div/img/@src'
-        ),
+        "Picture_URL": picture_url,
         "Record": xp_text(
             '/html/body/div[1]/div/main/div[1]/div/div/div/div/div[1]/div/div/div[1]/div[2]/p[2]'
         ),
@@ -273,7 +315,11 @@ def scrape_fighter_stats(name: str, profile_url: Union[str, None]) -> Union[Dict
 
     # Filter out totally empty / useless results
     final_stats = {k: v for k, v in stats.items() if v not in [None, "", "N/A", "-"]}
-    final_stats["Name"] = name # Ensure name is present
+    final_stats["Name"] = name  # Ensure name is present
+    
+    # Keep Picture_URL even if it's "N/A" for debugging purposes
+    if "Picture_URL" not in final_stats:
+        final_stats["Picture_URL"] = picture_url
 
     print(f"  > Final Stats Extracted: {len(final_stats)} keys.")
     return final_stats if len(final_stats) > 2 else None
