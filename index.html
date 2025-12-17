@@ -125,7 +125,8 @@
             }
             
             td[data-label="Division"] {
-                padding-top: 35px !important;
+                padding-top: 20px !important;
+                line-height: 1.8;
             }
         }
 
@@ -265,6 +266,7 @@
                 text-align: left;
                 font-weight: bold;
                 color: var(--accent-dim);
+                text-shadow: none !important;
             }
             
             td:last-child {
@@ -657,6 +659,14 @@
         GAME_STATE.guesses.push(fighter.Name);
         updateGuessesUI();
 
+        // Scroll to results immediately on mobile
+        if (window.innerWidth <= 768) {
+            setTimeout(() => {
+                const resultsPanel = getEl('results-panel');
+                resultsPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }, 100);
+        }
+
         createAndAnimateRow(fighter);
     }
 
@@ -809,13 +819,6 @@
     function checkGameState(guessedFighter) {
         GAME_STATE.isAnimating = false;
         getEl('guess-button').disabled = false;
-
-        if (window.innerWidth <= 768) {
-            setTimeout(() => {
-                const resultsPanel = getEl('results-panel');
-                resultsPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            }, 300);
-        }
 
         if (guessedFighter.Name === GAME_STATE.dailyFighter.Name) {
             endGame(true);
