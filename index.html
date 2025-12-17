@@ -365,9 +365,10 @@
             padding: 0;
         }
         .info-content li {
-            margin-bottom: 15px;
+            margin-bottom: 8px;
             border-left: 3px solid var(--accent-dim);
             padding-left: 15px;
+            line-height: 1.4;
         }
 
     </style>
@@ -436,10 +437,7 @@
             <li><strong style="color:var(--success-color)">Green:</strong> Exact match.</li>
             <li><strong style="color:var(--warning-color)">Amber:</strong> Close value.</li>
             <li><strong style="color:var(--danger-color)">Red:</strong> Not a match.</li>
-            <li><strong>Arrows:</strong> Show whether the correct value is higher or lower.</li>
-                <br>&#8593; (UP): Target is HIGHER. 
-                <br>&#8595; (DOWN): Target is LOWER.
-            </li>
+            <li><strong>Arrows:</strong> Show whether the correct value is higher or lower. &#8593; (UP): Target is HIGHER. &#8595; (DOWN): Target is LOWER.</li>
         </ul>
         <div style="text-align: center; margin-top: 20px; font-size: 0.8rem; color: #555;">
            Built by <a href="https://github.com/zwinship" style="color:var(--accent-cyan); text-decoration: none;">Zach Winship</a> | Data refresh: 05:00 UTC
@@ -479,11 +477,13 @@
     // --- STATE ---
     let GAME_STATE = {
         dailyFighter: null,
+        originalDailyFighter: null,
         allFighters: {},
         guesses: [],
         isGameOver: false,
         validFighterNames: [],
-        isAnimating: false
+        isAnimating: false,
+        isPracticeMode: false
     };
 
     // --- UTILS ---
@@ -506,6 +506,7 @@
             
             if (data.daily_fighter && GAME_STATE.allFighters[data.daily_fighter.Name]) {
                 GAME_STATE.dailyFighter = GAME_STATE.allFighters[data.daily_fighter.Name];
+                GAME_STATE.originalDailyFighter = GAME_STATE.dailyFighter;
             } else {
                 startPracticeGame();
             }
@@ -532,6 +533,7 @@
         GAME_STATE.guesses = [];
         GAME_STATE.isGameOver = false;
         GAME_STATE.isAnimating = false;
+        GAME_STATE.isPracticeMode = isPractice;
         getEl('guesses-tbody').innerHTML = '';
         getEl('status-message').style.display = 'none';
         getEl('fighter-input').value = '';
@@ -539,12 +541,17 @@
         getEl('guess-button').disabled = false;
         updateGuessesUI();
 
+        const practiceBtn = getEl('practice-button');
         if (isPractice) {
             getEl('db-status').textContent = "PRACTICE MODE";
             getEl('db-status').style.color = "var(--warning-color)";
+            practiceBtn.textContent = "EXIT PRACTICE";
+            practiceBtn.style.background = "var(--danger-color)";
         } else {
             getEl('db-status').textContent = "DAILY TARGET";
             getEl('db-status').style.color = "var(--success-color)";
+            practiceBtn.textContent = "PRACTICE";
+            practiceBtn.style.background = "#333";
         }
     }
 
@@ -553,6 +560,21 @@
         const randomName = GAME_STATE.validFighterNames[Math.floor(Math.random() * GAME_STATE.validFighterNames.length)];
         GAME_STATE.dailyFighter = GAME_STATE.allFighters[randomName];
         resetGame(true);
+    }
+
+    function exitPracticeMode() {
+        if (GAME_STATE.originalDailyFighter) {
+            GAME_STATE.dailyFighter = GAME_STATE.originalDailyFighter;
+            resetGame(false);
+        }
+    }
+
+    function togglePracticeMode() {
+        if (GAME_STATE.isPracticeMode) {
+            exitPracticeMode();
+        } else {
+            startPracticeGame();
+        }
     }
 
     function updateGuessesUI() {
@@ -837,7 +859,7 @@
         fetchGameData();
         setupAutocomplete();
         getEl('guess-button').onclick = handleGuess;
-        getEl('practice-button').onclick = startPracticeGame;
+        getEl('practice-button').onclick = togglePracticeMode;
     });
 
 </script>
