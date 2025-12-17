@@ -1,12 +1,11 @@
 name: Daily UFC Fighter Scraper and Game Update
 
+permissions:
+  contents: write
+
 on:
-  # Schedule: Runs every day at 05:00 UTC. 
-  # This corresponds to midnight (12:00 AM) EST/EDT, making it a new "daily" run.
   schedule:
-    - cron: '0 5 * * *' 
-  
-  # Allows you to manually trigger the workflow from the GitHub Actions tab for testing.
+    - cron: '0 5 * * *'
   workflow_dispatch:
 
 jobs:
