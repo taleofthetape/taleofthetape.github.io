@@ -1,20 +1,22 @@
 {
     "daily_fighter": {
-        "Name": "Giga Chikadze",
-        "Profile_URL": "https://www.ufc.com/athlete/giga-chikadze",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHIKADZE_GIGA_04-26.png?itok=xRi_8YaW",
-        "Record": "15-5-0 (W-L-D)",
-        "SLpM": "3.82",
-        "SApM": "3.48",
-        "TD_Avg": "0.19",
-        "Sub_Avg": "0.19",
-        "Fight_Time": "13:24",
-        "Fight_Time_Seconds": 804,
-        "Division": "Featherweight",
-        "Rank": "15",
-        "Selected_Date": "2025-11-25T21:19:11.232469Z"
+        "Name": "Michael Chandler",
+        "Profile_URL": "https://www.ufc.com/athlete/michael-chandler",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHANDLER_MICHAEL_04-12.png?itok=5kKJoIMh",
+        "Record": "23-10-0 (W-L-D)",
+        "SLpM": "4.04",
+        "SApM": "4.52",
+        "TD_Avg": "1.96",
+        "Sub_Avg": "0.56",
+        "Fight_Time": "09:37",
+        "Fight_Time_Seconds": 577,
+        "Division": "Lightweight",
+        "Rank": "12",
+        "Selected_Date": "2025-12-17T18:24:30.365576Z"
     },
-    "past_fighters": [],
+    "past_fighters": [
+        "Giga Chikadze"
+    ],
     "fighter_data": {
         "Islam Makhachev": {
             "Name": "Islam Makhachev",
@@ -56,7 +58,7 @@
             "Fight_Time": "17:08",
             "Fight_Time_Seconds": 1028,
             "Division": "Bantamweight",
-            "Rank": "C"
+            "Rank": "1"
         },
         "Khamzat Chimaev": {
             "Name": "Khamzat Chimaev",
@@ -84,7 +86,7 @@
             "Fight_Time": "12:37",
             "Fight_Time_Seconds": 757,
             "Division": "Flyweight",
-            "Rank": "C"
+            "Rank": "1"
         },
         "Alex Pereira": {
             "Name": "Alex Pereira",
@@ -234,7 +236,7 @@
             "Fight_Time": "13:46",
             "Fight_Time_Seconds": 826,
             "Division": "Flyweight",
-            "Rank": "1"
+            "Rank": "C"
         },
         "Brandon Moreno": {
             "Name": "Brandon Moreno",
@@ -248,7 +250,7 @@
             "Fight_Time": "17:08",
             "Fight_Time_Seconds": 1028,
             "Division": "Flyweight",
-            "Rank": "2"
+            "Rank": "5"
         },
         "Brandon Royval": {
             "Name": "Brandon Royval",
@@ -262,7 +264,7 @@
             "Fight_Time": "12:18",
             "Fight_Time_Seconds": 738,
             "Division": "Flyweight",
-            "Rank": "3"
+            "Rank": "4"
         },
         "Amir Albazi": {
             "Name": "Amir Albazi",
@@ -276,7 +278,7 @@
             "Fight_Time": "14:25",
             "Fight_Time_Seconds": 865,
             "Division": "Flyweight",
-            "Rank": "4"
+            "Rank": "6"
         },
         "Tatsuro Taira": {
             "Name": "Tatsuro Taira",
@@ -290,7 +292,7 @@
             "Fight_Time": "11:05",
             "Fight_Time_Seconds": 665,
             "Division": "Flyweight",
-            "Rank": "5"
+            "Rank": "3"
         },
         "Manel Kape": {
             "Name": "Manel Kape",
@@ -304,7 +306,7 @@
             "Fight_Time": "12:00",
             "Fight_Time_Seconds": 720,
             "Division": "Flyweight",
-            "Rank": "6"
+            "Rank": "2"
         },
         "Asu Almabayev": {
             "Name": "Asu Almabayev",
@@ -444,7 +446,7 @@
             "Fight_Time": "13:57",
             "Fight_Time_Seconds": 837,
             "Division": "Bantamweight",
-            "Rank": "1"
+            "Rank": "2"
         },
         "Sean O'Malley": {
             "Name": "Sean O'Malley",
@@ -458,7 +460,7 @@
             "Fight_Time": "11:19",
             "Fight_Time_Seconds": 679,
             "Division": "Bantamweight",
-            "Rank": "2"
+            "Rank": "3"
         },
         "Petr Yan": {
             "Name": "Petr Yan",
@@ -472,7 +474,7 @@
             "Fight_Time": "17:08",
             "Fight_Time_Seconds": 1028,
             "Division": "Bantamweight",
-            "Rank": "3"
+            "Rank": "C"
         },
         "Cory Sandhagen": {
             "Name": "Cory Sandhagen",
@@ -584,7 +586,7 @@
             "Fight_Time": "11:33",
             "Fight_Time_Seconds": 693,
             "Division": "Bantamweight",
-            "Rank": "11"
+            "Rank": "10"
         },
         "Rob Font": {
             "Name": "Rob Font",
@@ -780,7 +782,7 @@
             "Fight_Time": "12:59",
             "Fight_Time_Seconds": 779,
             "Division": "Featherweight",
-            "Rank": "10"
+            "Rank": "11"
         },
         "Jean Silva": {
             "Name": "Jean Silva",
@@ -794,7 +796,7 @@
             "Fight_Time": "08:34",
             "Fight_Time_Seconds": 514,
             "Division": "Featherweight",
-            "Rank": "11"
+            "Rank": "10"
         },
         "Patricio Pitbull": {
             "Name": "Patricio Pitbull",
@@ -822,7 +824,7 @@
             "Fight_Time": "12:49",
             "Fight_Time_Seconds": 769,
             "Division": "Featherweight",
-            "Rank": "13"
+            "Rank": "14"
         },
         "David Onama": {
             "Name": "David Onama",
@@ -836,7 +838,7 @@
             "Fight_Time": "11:09",
             "Fight_Time_Seconds": 669,
             "Division": "Featherweight",
-            "Rank": "14"
+            "Rank": "15"
         },
         "Giga Chikadze": {
             "Name": "Giga Chikadze",
@@ -963,7 +965,8 @@
             "Fight_Time": "09:37",
             "Fight_Time_Seconds": 577,
             "Division": "Lightweight",
-            "Rank": "11"
+            "Rank": "12",
+            "Selected_Date": "2025-12-17T18:24:30.365576Z"
         },
         "Beneil Dariush": {
             "Name": "Beneil Dariush",
@@ -977,7 +980,7 @@
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
             "Division": "Lightweight",
-            "Rank": "12"
+            "Rank": "11"
         },
         "Grant Dawson": {
             "Name": "Grant Dawson",
@@ -1033,7 +1036,7 @@
             "Fight_Time": "14:45",
             "Fight_Time_Seconds": 885,
             "Division": "Welterweight",
-            "Rank": "2"
+            "Rank": "3"
         },
         "Shavkat Rakhmonov": {
             "Name": "Shavkat Rakhmonov",
@@ -1047,7 +1050,7 @@
             "Fight_Time": "10:44",
             "Fight_Time_Seconds": 644,
             "Division": "Welterweight",
-            "Rank": "3"
+            "Rank": "2"
         },
         "Michael Morales": {
             "Name": "Michael Morales",
@@ -1173,7 +1176,7 @@
             "Fight_Time": "16:57",
             "Fight_Time_Seconds": 1017,
             "Division": "Welterweight",
-            "Rank": "13"
+            "Rank": "14"
         },
         "Geoff Neal": {
             "Name": "Geoff Neal",
@@ -1187,7 +1190,7 @@
             "Fight_Time": "09:52",
             "Fight_Time_Seconds": 592,
             "Division": "Welterweight",
-            "Rank": "14"
+            "Rank": "13"
         },
         "Daniel Rodriguez": {
             "Name": "Daniel Rodriguez",
@@ -1397,7 +1400,7 @@
             "Fight_Time": "08:59",
             "Fight_Time_Seconds": 539,
             "Division": "Middleweight",
-            "Rank": "15"
+            "Rank": "14"
         },
         "Ji\u0159\u00ed Proch\u00e1zka": {
             "Name": "Ji\u0159\u00ed Proch\u00e1zka",
@@ -1463,7 +1466,7 @@
             "Sub_Avg": "73\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
-            "Rank": "6"
+            "Rank": "7"
         },
         "Azamat Murzakanov": {
             "Name": "Azamat Murzakanov",
@@ -1477,7 +1480,7 @@
             "Fight_Time": "07:51",
             "Fight_Time_Seconds": 471,
             "Division": "Light Heavyweight",
-            "Rank": "7"
+            "Rank": "6"
         },
         "Dominick Reyes": {
             "Name": "Dominick Reyes",
@@ -1491,7 +1494,7 @@
             "Fight_Time": "07:21",
             "Fight_Time_Seconds": 441,
             "Division": "Light Heavyweight",
-            "Rank": "8"
+            "Rank": "9"
         },
         "Volkan Oezdemir": {
             "Name": "Volkan Oezdemir",
@@ -1505,7 +1508,7 @@
             "Fight_Time": "09:25",
             "Fight_Time_Seconds": 565,
             "Division": "Light Heavyweight",
-            "Rank": "9"
+            "Rank": "8"
         },
         "Aleksandar Raki\u0107": {
             "Name": "Aleksandar Raki\u0107",
@@ -1519,7 +1522,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Light Heavyweight",
-            "Rank": "10"
+            "Rank": "11"
         },
         "Bogdan Guskov": {
             "Name": "Bogdan Guskov",
@@ -1531,7 +1534,7 @@
             "Sub_Avg": "50\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
-            "Rank": "11"
+            "Rank": "10"
         },
         "Johnny Walker": {
             "Name": "Johnny Walker",
@@ -1795,6 +1798,90 @@
             "Fight_Time": "01:02",
             "Fight_Time_Seconds": 62,
             "Division": "Heavyweight",
+            "Rank": "15"
+        },
+        "Payton Talbott": {
+            "Name": "Payton Talbott",
+            "Profile_URL": "https://www.ufc.com/athlete/payton-talbott",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/CEJUDO_HENRY_12-06.png?itok=q0OqYxkP",
+            "Record": "11-1-0 (W-L-D)",
+            "SLpM": "6.62",
+            "SApM": "3.41",
+            "TD_Avg": "0.78",
+            "Sub_Avg": "0.20",
+            "Fight_Time": "10:57",
+            "Fight_Time_Seconds": 657,
+            "Division": "Bantamweight",
+            "Rank": "11"
+        },
+        "Montel Jackson": {
+            "Name": "Montel Jackson",
+            "Profile_URL": "https://www.ufc.com/athlete/montel-jackson",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
+            "Record": "15-3-0 (W-L-D)",
+            "SLpM": "3.09",
+            "SApM": "1.40",
+            "TD_Avg": "3.00",
+            "Sub_Avg": "0.32",
+            "Fight_Time": "10:46",
+            "Fight_Time_Seconds": 646,
+            "Division": "Bantamweight",
+            "Rank": "15"
+        },
+        "Kevin Vallejos": {
+            "Name": "Kevin Vallejos",
+            "Profile_URL": "https://www.ufc.com/athlete/kevin-vallejos",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/CHIKADZE_GIGA_12-13.png?itok=jZogYGtn",
+            "Record": "16-1-0 (W-L-D)",
+            "SLpM": "5.78",
+            "SApM": "4.71",
+            "TD_Avg": "0.71",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "08:24",
+            "Fight_Time_Seconds": 504,
+            "Division": "Featherweight",
+            "Rank": "13"
+        },
+        "Manuel Torres": {
+            "Name": "Manuel Torres",
+            "Profile_URL": "https://www.ufc.com/athlete/manuel-torres",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/DAWSON_GRANT_12-06.png?itok=3y9LNow4",
+            "Record": "17-3-0 (W-L-D)",
+            "SLpM": "7.29",
+            "SApM": "4.08",
+            "TD_Avg": "1.72",
+            "Sub_Avg": "0.86",
+            "Fight_Time": "02:29",
+            "Fight_Time_Seconds": 149,
+            "Division": "Lightweight",
+            "Rank": "13"
+        },
+        "Far\u00e8s Ziam": {
+            "Name": "Far\u00e8s Ziam",
+            "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=1scrZ8m1",
+            "Record": "18-4-0 (W-L-D)",
+            "SLpM": "2.87",
+            "SApM": "1.53",
+            "TD_Avg": "1.73",
+            "Sub_Avg": "0.46",
+            "Fight_Time": "13:01",
+            "Fight_Time_Seconds": 781,
+            "Division": "Lightweight",
+            "Rank": "15"
+        },
+        "Joe Pyfer": {
+            "Name": "Joe Pyfer",
+            "Profile_URL": "https://www.ufc.com/athlete/joe-pyfer",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/MAGOMEDOV_ABUS_10-04.png?itok=WVmZIIYv",
+            "Record": "15-3-0 (W-L-D)",
+            "SLpM": "3.47",
+            "SApM": "3.05",
+            "TD_Avg": "1.23",
+            "Sub_Avg": "1.02",
+            "Fight_Time": "08:10",
+            "Fight_Time_Seconds": 490,
+            "Division": "Middleweight",
             "Rank": "15"
         }
     }
