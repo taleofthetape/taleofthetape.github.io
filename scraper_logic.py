@@ -1,3 +1,5 @@
+# Save this content as 'scraper_logic.py'
+
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -353,7 +355,12 @@ def scrape_all_ranked_fighters_into_data(game_data: Dict[str, Any]) -> Dict[str,
         existing = game_data["fighter_data"].get(name)
 
         # Rescrape if we don't have the fighter OR if their record is missing/empty
-        should_rescrape = not existing or not existing.get("Record")
+        should_rescrape = (
+            not existing
+            or not existing.get("Record")
+            or not existing.get("Picture_URL")
+            or not filename_matches_fighter(existing.get("Picture_URL"), name)
+        )
 
         if not should_rescrape:
             print("  Skipping (already have stats with Record).")
