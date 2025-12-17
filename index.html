@@ -116,6 +116,29 @@
             z-index: 1000;
         }
 
+        /* Mobile layout - buttons on top, input below */
+        @media (max-width: 768px) {
+            .search-wrapper {
+                flex-direction: column-reverse;
+            }
+            
+            .button-row {
+                display: flex;
+                gap: 10px;
+            }
+            
+            .button-row .btn {
+                flex: 1;
+            }
+        }
+
+        /* Desktop layout - keep buttons on right */
+        @media (min-width: 769px) {
+            .button-row {
+                display: contents;
+            }
+        }
+
         #fighter-input {
             flex-grow: 1;
             background: #000;
@@ -209,6 +232,61 @@
             width: 100%;
             border-collapse: separate;
             border-spacing: 0 10px; /* Space between rows for card effect */
+        }
+
+        /* Mobile - stack table cells vertically */
+        @media (max-width: 768px) {
+            table, thead, tbody, th, td, tr {
+                display: block;
+            }
+            
+            thead tr {
+                position: absolute;
+                top: -9999px;
+                left: -9999px;
+            }
+            
+            tr {
+                margin-bottom: 20px;
+                border: 1px solid #333;
+                border-radius: 4px;
+                overflow: hidden;
+            }
+            
+            td {
+                border: none !important;
+                border-bottom: 1px solid #333 !important;
+                position: relative;
+                padding-left: 50%;
+                text-align: right;
+                border-radius: 0 !important;
+            }
+            
+            td:before {
+                content: attr(data-label);
+                position: absolute;
+                left: 10px;
+                width: 45%;
+                padding-right: 10px;
+                white-space: nowrap;
+                text-align: left;
+                font-weight: bold;
+                color: var(--accent-dim);
+            }
+            
+            td:last-child {
+                border-bottom: none !important;
+            }
+            
+            .fighter-name-cell {
+                flex-direction: row;
+                justify-content: flex-end;
+                padding-left: 10px;
+            }
+            
+            td:first-child:before {
+                content: none;
+            }
         }
 
         th {
@@ -399,8 +477,10 @@
         
         <div class="search-wrapper">
             <input type="text" id="fighter-input" placeholder="Enter fighter name..." autocomplete="off">
-            <button id="guess-button" class="btn">SUBMIT</button>
-            <button id="practice-button" class="btn" style="background: #333;">PRACTICE</button>
+            <div class="button-row">
+                <button id="guess-button" class="btn">SUBMIT</button>
+                <button id="practice-button" class="btn" style="background: #333;">PRACTICE</button>
+            </div>
             
             <div id="autocomplete-container"></div>
         </div>
@@ -626,7 +706,8 @@
                      <img src="${guessedFighter.Picture_URL}" onerror="this.src='https://www.ufc.com/themes/custom/ufc/assets/img/no-profile-image.png'">
                      <span>${guessedFighter.Name}</span>
                    </div>`,
-            class: ''
+            class: '',
+            label: 'Identity'
         });
 
         // 2. Division (with arrows based on weight class order)
@@ -645,7 +726,8 @@
         
         cellsData.push({
             html: `${guessedFighter.Division || 'N/A'} ${divArrow}`,
-            class: divClass
+            class: divClass,
+            label: 'Division'
         });
 
         // 3. Rank (text hint – lower number is better)
@@ -672,7 +754,8 @@
                     ${rankHint}
                 </div>
             `,
-            class: rankClass
+            class: rankClass,
+            label: 'Rank'
         });
 
         // 4. Wins (with arrows)
@@ -694,7 +777,8 @@
         
         cellsData.push({
             html: `${guessWins} ${winsArrow}`,
-            class: winsClass
+            class: winsClass,
+            label: 'Wins'
         });
 
         // 5. Numeric Stats
@@ -727,7 +811,8 @@
 
             cellsData.push({
                 html: `${displayVal} ${arrow}`,
-                class: cssClass
+                class: cssClass,
+                label: label
             });
         }
 
@@ -737,6 +822,7 @@
             const td = document.createElement('td');
             td.innerHTML = data.html;
             td.dataset.finalClass = data.class;
+            td.dataset.label = data.label;
             tr.appendChild(td);
         });
 
