@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TALE OF THE TAPE: CLASSIFIED</title>
+    <title>TALE OF THE TAPE</title>
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
     
     <style>
@@ -378,7 +378,8 @@
     
     <header>
         <h1>TALE OF THE TAPE</h1>
-        <div class="subtitle">Daily Classified Fighter Database</div>
+        <div class="subtitle">Daily UFC Fighter Comparison</div>
+
     </header>
 
     <div class="panel">
@@ -393,10 +394,10 @@
             </div>
         </div>
 
-        <h2>Select Target</h2>
+        <h2>Choose a Fighter</h2>
         
         <div class="search-wrapper">
-            <input type="text" id="fighter-input" placeholder="ENTER FIGHTER CALLSIGN..." autocomplete="off">
+            <input type="text" id="fighter-input" placeholder="Enter fighter name..." autocomplete="off">
             <button id="guess-button" class="btn">SUBMIT</button>
             <button id="practice-button" class="btn" style="background: #333;">PRACTICE</button>
             
@@ -407,7 +408,7 @@
     <div id="status-message"></div>
 
     <div class="panel">
-        <h2>Comparison Data Stream</h2>
+        <h2>Comparison Results</h2>
         <div class="table-container">
             <table id="results-table">
                 <thead>
@@ -430,18 +431,19 @@
     </div>
 
     <div class="panel info-content">
-        <h2>Mission Briefing</h2>
+        <h2>How to Play</h2>
         <ul>
-            <li><strong style="color:var(--success-color)">GREEN:</strong> Match Confirmed. Exact value or category.</li>
-            <li><strong style="color:var(--warning-color)">AMBER:</strong> Close Proximity. Value is within threshold.</li>
-            <li><strong style="color:var(--danger-color)">RED:</strong> Negative Match. Significant deviation.</li>
-            <li><strong>ARROWS:</strong> Indicates direction of target value relative to guess. 
+            <li><strong style="color:var(--success-color)">Green:</strong> Exact match.</li>
+            <li><strong style="color:var(--warning-color)">Amber:</strong> Close value.</li>
+            <li><strong style="color:var(--danger-color)">Red:</strong> Not a match.</li>
+            <li><strong>Arrows:</strong> Show whether the correct value is higher or lower.</li>
                 <br>&#8593; (UP): Target is HIGHER. 
                 <br>&#8595; (DOWN): Target is LOWER.
             </li>
         </ul>
         <div style="text-align: center; margin-top: 20px; font-size: 0.8rem; color: #555;">
-            SYSTEM MAINTAINED BY <a href="https://github.com/zwinship" style="color:var(--accent-cyan); text-decoration: none;">ZWINSHIP</a> | DATA REFRESH: 0500 UTC
+           Built by <a href="https://github.com/zwinship" style="color:var(--accent-cyan); text-decoration: none;">Zach Winship</a> | Data refresh: 05:00 UTC
+
         </div>
     </div>
 
@@ -450,7 +452,7 @@
 <script>
     // --- CONFIGURATION ---
     const CONFIG = {
-        maxGuesses: 7,
+        maxGuesses: 10,
         animationDelay: 400,
         comparisonStats: {
             'SLpM': 'SLpM',
@@ -624,26 +626,30 @@
             class: divClass
         });
 
-        // 3. Rank (with arrows - lower number is better)
+        // 3. Rank (text hint – lower number is better)
         const guessRank = parseInt(guessedFighter.Rank) || 0;
         const secretRank = parseInt(secret.Rank) || 0;
         let rankClass = 'bg-wrong';
-        let rankArrow = '';
-        
+        let rankHint = '';
+
         if (guessRank === secretRank && guessRank !== 0) {
             rankClass = 'bg-correct';
+            rankHint = 'MATCH';
         } else if (guessRank !== 0 && secretRank !== 0) {
             const diff = Math.abs(guessRank - secretRank);
             if (diff <= 3) rankClass = 'bg-close';
-            
-            // If guess > secret, target rank is LOWER (better), show down arrow
-            rankArrow = guessRank > secretRank 
-                ? '<span class="arrow">&#8595;</span>' 
-                : '<span class="arrow">&#8593;</span>';
+
+            // BETTER = target rank is closer to 1
+            rankHint = guessRank > secretRank ? 'BETTER' : 'WORSE';
         }
-        
+
         cellsData.push({
-            html: `${guessedFighter.Rank || 'N/A'} ${rankArrow}`,
+            html: `
+                ${guessedFighter.Rank || 'N/A'}
+                <div style="font-size:0.65em; opacity:0.75; margin-top:4px;">
+                    ${rankHint}
+                </div>
+            `,
             class: rankClass
         });
 
@@ -755,10 +761,14 @@
 
         if (isWin) {
             msgBox.className = 'status-win';
-            msgBox.innerHTML = `<div>MISSION ACCOMPLISHED</div><div style="font-size:0.8em">TARGET IDENTIFIED: ${GAME_STATE.dailyFighter.Name}</div>`;
+            msgBox.innerHTML = `<div>Correct!</div>
+            <div style="font-size:0.8em">The fighter was ${GAME_STATE.dailyFighter.Name}</div>`;
+
         } else {
             msgBox.className = 'status-lose';
-            msgBox.innerHTML = `<div>MISSION FAILED</div><div style="font-size:0.8em">TARGET WAS: ${GAME_STATE.dailyFighter.Name}</div>`;
+            msgBox.innerHTML = `<div>Game Over</div>
+            <div style="font-size:0.8em">The fighter was ${GAME_STATE.dailyFighter.Name}</div>`;
+
         }
     }
 
