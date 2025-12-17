@@ -1,25 +1,26 @@
 {
     "daily_fighter": {
-        "Name": "Ciryl Gane",
-        "Profile_URL": "https://www.ufc.com/athlete/ciryl-gane",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GANE_CIRYL_10-25.png?itok=L3b-4RSq",
-        "Record": "13-2-0 (W-L-D)",
-        "SLpM": "5.29",
-        "SApM": "2.33",
-        "TD_Avg": "0.68",
-        "Sub_Avg": "0.60",
-        "Fight_Time": "13:30",
-        "Fight_Time_Seconds": 810,
-        "Division": "Heavyweight",
-        "Rank": "1",
-        "Selected_Date": "2025-12-17T19:41:31.563092Z"
+        "Name": "Manuel Torres",
+        "Profile_URL": "https://www.ufc.com/athlete/manuel-torres",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/TORRES_MANUEL_12-06.png?itok=UUURt0dW",
+        "Record": "17-3-0 (W-L-D)",
+        "SLpM": "7.29",
+        "SApM": "4.08",
+        "TD_Avg": "1.72",
+        "Sub_Avg": "0.86",
+        "Fight_Time": "02:29",
+        "Fight_Time_Seconds": 149,
+        "Division": "Lightweight",
+        "Rank": "13",
+        "Selected_Date": "2025-12-17T19:53:29.355986Z"
     },
     "past_fighters": [
         "Giga Chikadze",
         "Michael Chandler",
         "Far\u00e8s Ziam",
         "Ilia Topuria",
-        "Henry Cejudo"
+        "Henry Cejudo",
+        "Ciryl Gane"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1861,7 +1862,8 @@
             "Fight_Time": "02:29",
             "Fight_Time_Seconds": 149,
             "Division": "Lightweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2025-12-17T19:53:29.355986Z"
         },
         "Far\u00e8s Ziam": {
             "Name": "Far\u00e8s Ziam",
