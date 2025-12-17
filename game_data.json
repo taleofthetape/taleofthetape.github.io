@@ -1,18 +1,18 @@
 {
     "daily_fighter": {
-        "Name": "Manuel Torres",
-        "Profile_URL": "https://www.ufc.com/athlete/manuel-torres",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/TORRES_MANUEL_12-06.png?itok=UUURt0dW",
-        "Record": "17-3-0 (W-L-D)",
-        "SLpM": "7.29",
-        "SApM": "4.08",
-        "TD_Avg": "1.72",
-        "Sub_Avg": "0.86",
-        "Fight_Time": "02:29",
-        "Fight_Time_Seconds": 149,
-        "Division": "Lightweight",
-        "Rank": "13",
-        "Selected_Date": "2025-12-17T19:53:29.355986Z"
+        "Name": "Carlos Ulberg",
+        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
+        "Record": "14-1-0 (W-L-D)",
+        "SLpM": "6.54",
+        "SApM": "4.04",
+        "TD_Avg": "0.55",
+        "Sub_Avg": "0.18",
+        "Fight_Time": "07:27",
+        "Fight_Time_Seconds": 447,
+        "Division": "Light Heavyweight",
+        "Rank": "3",
+        "Selected_Date": "2025-12-17T20:36:55.521222Z"
     },
     "past_fighters": [
         "Giga Chikadze",
@@ -20,7 +20,8 @@
         "Far\u00e8s Ziam",
         "Ilia Topuria",
         "Henry Cejudo",
-        "Ciryl Gane"
+        "Ciryl Gane",
+        "Manuel Torres"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1435,7 +1436,8 @@
             "Fight_Time": "07:27",
             "Fight_Time_Seconds": 447,
             "Division": "Light Heavyweight",
-            "Rank": "3"
+            "Rank": "3",
+            "Selected_Date": "2025-12-17T20:36:55.521222Z"
         },
         "Khalil Rountree Jr.": {
             "Name": "Khalil Rountree Jr.",
