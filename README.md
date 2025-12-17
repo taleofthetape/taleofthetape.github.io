@@ -1,7 +1,7 @@
 # Tale of the Tape
 
 A daily UFC fighter guessing game, test your MMA knowledge by identifying a mystery fighter based on their stats!
----
+
 All the other UFC daily games are kind of shit, so I built my own. Have fun!
 
 ## How to Play
