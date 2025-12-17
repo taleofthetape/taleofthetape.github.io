@@ -1,24 +1,25 @@
 {
     "daily_fighter": {
-        "Name": "Henry Cejudo",
-        "Profile_URL": "https://www.ufc.com/athlete/henry-cejudo",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/CEJUDO_HENRY_02-22.png?itok=GOyCcJLq",
-        "Record": "16-5-0 (W-L-D)",
-        "SLpM": "3.82",
-        "SApM": "3.46",
-        "TD_Avg": "1.84",
-        "Sub_Avg": "0.15",
-        "Fight_Time": "13:34",
-        "Fight_Time_Seconds": 814,
-        "Division": "Bantamweight",
-        "Rank": "10",
-        "Selected_Date": "2025-12-17T19:03:30.805020Z"
+        "Name": "Ciryl Gane",
+        "Profile_URL": "https://www.ufc.com/athlete/ciryl-gane",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GANE_CIRYL_10-25.png?itok=L3b-4RSq",
+        "Record": "13-2-0 (W-L-D)",
+        "SLpM": "5.29",
+        "SApM": "2.33",
+        "TD_Avg": "0.68",
+        "Sub_Avg": "0.60",
+        "Fight_Time": "13:30",
+        "Fight_Time_Seconds": 810,
+        "Division": "Heavyweight",
+        "Rank": "1",
+        "Selected_Date": "2025-12-17T19:41:31.563092Z"
     },
     "past_fighters": [
         "Giga Chikadze",
         "Michael Chandler",
         "Far\u00e8s Ziam",
-        "Ilia Topuria"
+        "Ilia Topuria",
+        "Henry Cejudo"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1607,7 +1608,8 @@
             "Fight_Time": "13:30",
             "Fight_Time_Seconds": 810,
             "Division": "Heavyweight",
-            "Rank": "1"
+            "Rank": "1",
+            "Selected_Date": "2025-12-17T19:41:31.563092Z"
         },
         "Alexander Volkov": {
             "Name": "Alexander Volkov",
