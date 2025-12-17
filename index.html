@@ -162,8 +162,6 @@
             position: absolute;
             top: 100%; /* Pushes it exactly below the input */
             left: 0;
-            /* Instead of right: 0, we can match width of input if desired, 
-               or let it span full width. Let's make it span the input width. */
             width: 100%; 
             background: #0b0c10;
             border: 1px solid var(--accent-cyan);
@@ -251,6 +249,7 @@
             border-radius: 50%;
             border: 2px solid #333;
             vertical-align: middle;
+            object-fit: cover;
         }
         
         .fighter-name-cell {
@@ -416,7 +415,7 @@
                         <th>Identity</th>
                         <th>Division</th>
                         <th>Rank</th>
-                        <th>Record</th>
+                        <th>Wins</th>
                         <th>SLpM</th>
                         <th>SApM</th>
                         <th>TD Avg</th>
@@ -451,8 +450,8 @@
 <script>
     // --- CONFIGURATION ---
     const CONFIG = {
-        maxGuesses: 7, // UPDATED TO 7
-        animationDelay: 400, // Milliseconds between revealing each cell (The 1-by-1 effect)
+        maxGuesses: 7,
+        animationDelay: 400,
         comparisonStats: {
             'SLpM': 'SLpM',
             'SApM': 'SApM',
@@ -462,6 +461,19 @@
         }
     };
 
+    // Division weight mapping (lower number = lighter division)
+    const DIVISION_ORDER = {
+        'Strawweight': 1,
+        'Flyweight': 2,
+        'Bantamweight': 3,
+        'Featherweight': 4,
+        'Lightweight': 5,
+        'Welterweight': 6,
+        'Middleweight': 7,
+        'Light Heavyweight': 8,
+        'Heavyweight': 9
+    };
+
     // --- STATE ---
     let GAME_STATE = {
         dailyFighter: null,
@@ -469,7 +481,7 @@
         guesses: [],
         isGameOver: false,
         validFighterNames: [],
-        isAnimating: false // Prevents double submission during animation
+        isAnimating: false
     };
 
     // --- UTILS ---
@@ -480,10 +492,11 @@
             const response = await fetch('game_data.json?' + new Date().getTime());
             const data = await response.json();
             
-            // Pre-process fight times
+            // Pre-process fight times and wins
             for (const name in data.fighter_data) {
                 const f = data.fighter_data[name];
                 f.Fight_Time_Seconds = timeToSeconds(f.Fight_Time);
+                f.Wins = extractWins(f.Record);
             }
 
             GAME_STATE.allFighters = data.fighter_data;
@@ -499,6 +512,12 @@
             getEl('db-status').textContent = "OFFLINE (ERR)";
             getEl('db-status').style.color = "var(--danger-color)";
         }
+    }
+
+    function extractWins(record) {
+        if (!record || record === 'N/A') return 0;
+        const match = record.match(/^(\d+)-/);
+        return match ? parseInt(match[1]) : 0;
     }
 
     function timeToSeconds(timeStr) {
@@ -542,7 +561,6 @@
     // --- CORE GAMEPLAY ---
 
     function handleGuess() {
-        // Prevent interaction if game over or currently animating previous guess
         if (GAME_STATE.isGameOver || GAME_STATE.isAnimating) return;
 
         const input = getEl('fighter-input');
@@ -558,7 +576,6 @@
             return;
         }
 
-        // Lock Input during animation
         GAME_STATE.isAnimating = true;
         input.value = '';
         getEl('autocomplete-container').classList.remove('active');
@@ -567,7 +584,6 @@
         GAME_STATE.guesses.push(fighter.Name);
         updateGuessesUI();
 
-        // Start the Complex Animation Sequence
         createAndAnimateRow(fighter);
     }
 
@@ -578,8 +594,6 @@
         const tbody = getEl('guesses-tbody');
         const tr = document.createElement('tr');
         
-        // Define data cells structure
-        // We pre-calculate classes but DON'T add them yet, or add them and wait to trigger animation
         const cellsData = [];
 
         // 1. Identity Cell
@@ -591,19 +605,71 @@
             class: ''
         });
 
-        // 2. Division & Rank (Exact Match Logic)
-        ['Division', 'Rank'].forEach(key => {
-            const isMatch = guessedFighter[key] === secret[key];
-            cellsData.push({
-                html: guessedFighter[key] || 'N/A',
-                class: isMatch ? 'bg-correct' : 'bg-wrong'
-            });
+        // 2. Division (with arrows based on weight class order)
+        const guessDivOrder = DIVISION_ORDER[guessedFighter.Division] || 0;
+        const secretDivOrder = DIVISION_ORDER[secret.Division] || 0;
+        let divClass = 'bg-wrong';
+        let divArrow = '';
+        
+        if (guessedFighter.Division === secret.Division) {
+            divClass = 'bg-correct';
+        } else if (guessDivOrder !== 0 && secretDivOrder !== 0) {
+            divArrow = guessDivOrder > secretDivOrder 
+                ? '<span class="arrow">&#8595;</span>' 
+                : '<span class="arrow">&#8593;</span>';
+        }
+        
+        cellsData.push({
+            html: `${guessedFighter.Division || 'N/A'} ${divArrow}`,
+            class: divClass
         });
 
-        // 3. Record (Display Only)
-        cellsData.push({ html: guessedFighter.Record || 'N/A', class: '' });
+        // 3. Rank (with arrows - lower number is better)
+        const guessRank = parseInt(guessedFighter.Rank) || 0;
+        const secretRank = parseInt(secret.Rank) || 0;
+        let rankClass = 'bg-wrong';
+        let rankArrow = '';
+        
+        if (guessRank === secretRank && guessRank !== 0) {
+            rankClass = 'bg-correct';
+        } else if (guessRank !== 0 && secretRank !== 0) {
+            const diff = Math.abs(guessRank - secretRank);
+            if (diff <= 3) rankClass = 'bg-close';
+            
+            // If guess > secret, target rank is LOWER (better), show down arrow
+            rankArrow = guessRank > secretRank 
+                ? '<span class="arrow">&#8595;</span>' 
+                : '<span class="arrow">&#8593;</span>';
+        }
+        
+        cellsData.push({
+            html: `${guessedFighter.Rank || 'N/A'} ${rankArrow}`,
+            class: rankClass
+        });
 
-        // 4. Numeric Stats
+        // 4. Wins (with arrows)
+        const guessWins = guessedFighter.Wins || 0;
+        const secretWins = secret.Wins || 0;
+        let winsClass = 'bg-wrong';
+        let winsArrow = '';
+        
+        if (guessWins === secretWins && guessWins !== 0) {
+            winsClass = 'bg-correct';
+        } else if (secretWins !== 0) {
+            const diff = Math.abs(guessWins - secretWins);
+            if (diff <= 3) winsClass = 'bg-close';
+            
+            winsArrow = guessWins > secretWins 
+                ? '<span class="arrow">&#8595;</span>' 
+                : '<span class="arrow">&#8593;</span>';
+        }
+        
+        cellsData.push({
+            html: `${guessWins} ${winsArrow}`,
+            class: winsClass
+        });
+
+        // 5. Numeric Stats
         for (const [key, label] of Object.entries(CONFIG.comparisonStats)) {
             const guessVal = parseFloat(guessedFighter[key]) || 0;
             const secretVal = parseFloat(secret[key]) || 0;
@@ -617,15 +683,13 @@
                 const diff = Math.abs(guessVal - secretVal);
                 const percentDiff = diff / secretVal;
 
-                if (percentDiff < 0.25) cssClass = 'bg-close'; // < 25% diff
+                if (percentDiff < 0.25) cssClass = 'bg-close';
                 
-                // Logic: If guess > secret, Secret is Lower (Down Arrow)
                 arrow = guessVal > secretVal 
                     ? '<span class="arrow">&#8595;</span>' 
                     : '<span class="arrow">&#8593;</span>';
             }
 
-            // Format Fight Time for display
             let displayVal = guessedFighter[key];
             if (key === 'Fight_Time_Seconds') {
                  const m = Math.floor(guessVal / 60);
@@ -641,42 +705,32 @@
 
         // --- RENDER & ANIMATE LOOP ---
         
-        // 1. Create empty TDs first
         cellsData.forEach(data => {
             const td = document.createElement('td');
             td.innerHTML = data.html;
-            // Store the final color class in a dataset attribute to apply later
             td.dataset.finalClass = data.class;
             tr.appendChild(td);
         });
 
-        // Insert row at top
         tbody.insertBefore(tr, tbody.firstChild);
 
-        // 2. Loop through TDs and trigger reveal with delay
         const tds = tr.querySelectorAll('td');
         let completedAnimations = 0;
 
         tds.forEach((td, index) => {
             setTimeout(() => {
-                // Add the animation class
                 td.classList.add('reveal-cell');
                 
-                // When animation starts, allow the background color to show
                 if (td.dataset.finalClass) {
-                    // Use a slight timeout inside so color appears as card flips
                     setTimeout(() => td.classList.add(td.dataset.finalClass), 200); 
                 }
 
-                // Check for completion
                 completedAnimations++;
                 if (completedAnimations === tds.length) {
-                    // Animation sequence finished. Check Game Over state.
-                    // Allow a slight pause for user to digest result
                     setTimeout(() => checkGameState(guessedFighter), 500);
                 }
 
-            }, index * CONFIG.animationDelay); // This creates the 1-by-1 effect
+            }, index * CONFIG.animationDelay);
         });
     }
 
@@ -725,7 +779,7 @@
 
             const matches = GAME_STATE.validFighterNames
                 .filter(n => n.toLowerCase().includes(val))
-                .slice(0, 6); // Limit results
+                .slice(0, 6);
 
             if (matches.length > 0) {
                 list.classList.add('active');
@@ -746,22 +800,18 @@
             }
         });
 
-        // Close on outside click
         document.addEventListener('click', (e) => {
             if (e.target !== input && e.target !== list) {
                 list.classList.remove('active');
             }
         });
         
-        // Enter key
         input.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') {
                 e.preventDefault();
-                // If autocomplete is open and has 1 match, pick it
                 if (list.classList.contains('active') && list.children.length > 0) {
                      list.children[0].click();
                 } else {
-                     // Otherwise just submit what's in box (if valid)
                      const exactMatch = GAME_STATE.validFighterNames.find(n => n.toLowerCase() === input.value.toLowerCase().trim());
                      if(exactMatch) {
                          input.value = exactMatch;
