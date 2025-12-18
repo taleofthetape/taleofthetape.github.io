@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Carlos Ulberg",
-        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
-        "Record": "14-1-0 (W-L-D)",
-        "SLpM": "6.54",
-        "SApM": "4.04",
-        "TD_Avg": "0.55",
-        "Sub_Avg": "0.18",
-        "Fight_Time": "07:27",
-        "Fight_Time_Seconds": 447,
+        "Name": "Magomed Ankalaev",
+        "Profile_URL": "https://www.ufc.com/athlete/magomed-ankalaev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/ANKALAEV_MAGOMED_03-08.png?itok=ojT4l7_3",
+        "Record": "21-2-1 (W-L-D)",
+        "SLpM": "3.65",
+        "SApM": "2.59",
+        "TD_Avg": "0.79",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:49",
+        "Fight_Time_Seconds": 709,
         "Division": "Light Heavyweight",
-        "Rank": "3",
-        "Selected_Date": "2025-12-17T20:36:55.521222Z"
+        "Rank": "1",
+        "Selected_Date": "2025-12-18T05:48:22.989417Z"
     },
     "past_fighters": [
-        "Giga Chikadze",
         "Michael Chandler",
         "Far\u00e8s Ziam",
         "Ilia Topuria",
         "Henry Cejudo",
         "Ciryl Gane",
-        "Manuel Torres"
+        "Manuel Torres",
+        "Carlos Ulberg"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -187,7 +187,8 @@
             "Fight_Time": "11:49",
             "Fight_Time_Seconds": 709,
             "Division": "Light Heavyweight",
-            "Rank": "1"
+            "Rank": "1",
+            "Selected_Date": "2025-12-18T05:48:22.989417Z"
         },
         "Arman Tsarukyan": {
             "Name": "Arman Tsarukyan",
