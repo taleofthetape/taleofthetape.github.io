@@ -762,12 +762,16 @@
             let cssClass = 'bg-wrong';
             let arrow = '';
             
-            if (guessVal === secretVal && guessVal !== 0) {
+            // Check if both values are actual numbers (not just 0 from N/A)
+            const guessIsValid = guessedFighter[key] !== undefined && guessedFighter[key] !== null && guessedFighter[key] !== 'N/A';
+            const secretIsValid = secret[key] !== undefined && secret[key] !== null && secret[key] !== 'N/A';
+            
+            if (guessIsValid && secretIsValid && guessVal === secretVal) {
                 cssClass = 'bg-correct';
-            } else if (secretVal !== 0) {
+            } else if (secretIsValid && guessVal !== secretVal) {
                 const diff = Math.abs(guessVal - secretVal);
-                const percentDiff = diff / secretVal;
-
+                const percentDiff = secretVal !== 0 ? diff / secretVal : (diff === 0 ? 0 : 1);
+        
                 if (percentDiff < 0.25) cssClass = 'bg-close';
                 
                 arrow = guessVal > secretVal 
