@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Magomed Ankalaev",
-        "Profile_URL": "https://www.ufc.com/athlete/magomed-ankalaev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/ANKALAEV_MAGOMED_03-08.png?itok=ojT4l7_3",
-        "Record": "21-2-1 (W-L-D)",
-        "SLpM": "3.65",
-        "SApM": "2.59",
-        "TD_Avg": "0.79",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:49",
-        "Fight_Time_Seconds": 709,
-        "Division": "Light Heavyweight",
-        "Rank": "1",
-        "Selected_Date": "2025-12-18T05:48:22.989417Z"
+        "Name": "Charles Johnson",
+        "Profile_URL": "https://www.ufc.com/athlete/charles-johnson",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/JOHNSON_CHARLES_08-23.png?itok=1PhHPTBj",
+        "Record": "18-7-0 (W-L-D)",
+        "SLpM": "4.73",
+        "SApM": "3.78",
+        "TD_Avg": "0.56",
+        "Sub_Avg": "0.38",
+        "Fight_Time": "13:17",
+        "Fight_Time_Seconds": 797,
+        "Division": "Flyweight",
+        "Rank": "13",
+        "Selected_Date": "2025-12-19T05:45:45.840264Z"
     },
     "past_fighters": [
-        "Michael Chandler",
         "Far\u00e8s Ziam",
         "Ilia Topuria",
         "Henry Cejudo",
         "Ciryl Gane",
         "Manuel Torres",
-        "Carlos Ulberg"
+        "Carlos Ulberg",
+        "Magomed Ankalaev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -412,7 +412,8 @@
             "Fight_Time": "13:17",
             "Fight_Time_Seconds": 797,
             "Division": "Flyweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2025-12-19T05:45:45.840264Z"
         },
         "Bruno Silva": {
             "Name": "Bruno Silva",
