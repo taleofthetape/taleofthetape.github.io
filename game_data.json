@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mauricio Ruffy",
-        "Profile_URL": "https://www.ufc.com/athlete/mauricio-ruffy",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/RUFFY_MAURICIO_09-06.png?itok=15LtP1OI",
-        "Record": "12-2-0 (W-L-D)",
-        "SLpM": "3.84",
-        "SApM": "4.16",
-        "TD_Avg": "0.00",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "08:54",
-        "Fight_Time_Seconds": 534,
-        "Division": "Lightweight",
-        "Rank": "14",
-        "Selected_Date": "2025-12-20T05:41:25.894860Z"
+        "Name": "Montel Jackson",
+        "Profile_URL": "https://www.ufc.com/athlete/montel-jackson",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/JACKSON_MONTEL_10-11.png?itok=0ZwOrQZp",
+        "Record": "15-3-0 (W-L-D)",
+        "SLpM": "3.09",
+        "SApM": "1.40",
+        "TD_Avg": "3.00",
+        "Sub_Avg": "0.32",
+        "Fight_Time": "10:46",
+        "Fight_Time_Seconds": 646,
+        "Division": "Bantamweight",
+        "Rank": "15",
+        "Selected_Date": "2025-12-21T05:42:10.283543Z"
     },
     "past_fighters": [
-        "Ilia Topuria",
         "Henry Cejudo",
         "Ciryl Gane",
         "Manuel Torres",
         "Carlos Ulberg",
         "Magomed Ankalaev",
-        "Charles Johnson"
+        "Charles Johnson",
+        "Mauricio Ruffy"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1839,7 +1839,8 @@
             "Fight_Time": "10:46",
             "Fight_Time_Seconds": 646,
             "Division": "Bantamweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2025-12-21T05:42:10.283543Z"
         },
         "Kevin Vallejos": {
             "Name": "Kevin Vallejos",
