@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Aleksandar Raki\u0107",
-        "Profile_URL": "https://www.ufc.com/athlete/aleksandar-rakic",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/RAKIC_ALEKSANDAR_10-25.png?itok=NywfyYoI",
-        "Record": "14-6-0 (W-L-D)",
-        "SLpM": "4.13",
-        "SApM": "2.86",
-        "TD_Avg": "0.64",
-        "Sub_Avg": "0.13",
-        "Fight_Time": "10:41",
-        "Fight_Time_Seconds": 641,
-        "Division": "Light Heavyweight",
-        "Rank": "11",
-        "Selected_Date": "2025-12-22T05:48:46.045480Z"
+        "Name": "Ilia Topuria",
+        "Profile_URL": "https://www.ufc.com/athlete/ilia-topuria",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/TOPURIA_ILIA_BELT_10-26.png?itok=ZD8DFM6O",
+        "Record": "17-0-0 (W-L-D)",
+        "SLpM": "4.81",
+        "SApM": "3.83",
+        "TD_Avg": "1.96",
+        "Sub_Avg": "1.07",
+        "Fight_Time": "09:22",
+        "Fight_Time_Seconds": 562,
+        "Division": "Lightweight",
+        "Rank": "C",
+        "Selected_Date": "2025-12-23T05:50:21.654292Z"
     },
     "past_fighters": [
-        "Ciryl Gane",
         "Manuel Torres",
         "Carlos Ulberg",
         "Magomed Ankalaev",
         "Charles Johnson",
         "Mauricio Ruffy",
-        "Montel Jackson"
+        "Montel Jackson",
+        "Aleksandar Raki\u0107"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -51,7 +51,7 @@
             "Fight_Time_Seconds": 562,
             "Division": "Lightweight",
             "Rank": "C",
-            "Selected_Date": "2025-12-17T18:58:25.879476Z"
+            "Selected_Date": "2025-12-23T05:50:21.654292Z"
         },
         "Merab Dvalishvili": {
             "Name": "Merab Dvalishvili",
