@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Gilbert Burns",
-        "Profile_URL": "https://www.ufc.com/athlete/gilbert-burns",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/BURNS_GILBERT_05-17.png?itok=13uv-egH",
-        "Record": "22-9-0 (W-L-D)",
-        "SLpM": "3.15",
-        "SApM": "3.64",
-        "TD_Avg": "2.12",
-        "Sub_Avg": "0.46",
-        "Fight_Time": "12:21",
-        "Fight_Time_Seconds": 741,
-        "Division": "Welterweight",
-        "Rank": "12",
-        "Selected_Date": "2025-12-24T05:49:28.670986Z"
+        "Name": "Sergei Pavlovich",
+        "Profile_URL": "https://www.ufc.com/athlete/sergei-pavlovich",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAVLOVICH_SERGEI_08-23.png?itok=uB20GaaY",
+        "Record": "20-3-0 (W-L-D)",
+        "SLpM": "4.43",
+        "SApM": "3.62",
+        "TD_Avg": "0.48",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "05:42",
+        "Fight_Time_Seconds": 342,
+        "Division": "Heavyweight",
+        "Rank": "3",
+        "Selected_Date": "2025-12-25T05:49:19.496898Z"
     },
     "past_fighters": [
-        "Carlos Ulberg",
         "Magomed Ankalaev",
         "Charles Johnson",
         "Mauricio Ruffy",
         "Montel Jackson",
         "Aleksandar Raki\u0107",
-        "Ilia Topuria"
+        "Ilia Topuria",
+        "Gilbert Burns"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1645,7 +1645,8 @@
             "Fight_Time": "05:42",
             "Fight_Time_Seconds": 342,
             "Division": "Heavyweight",
-            "Rank": "3"
+            "Rank": "3",
+            "Selected_Date": "2025-12-25T05:49:19.496898Z"
         },
         "Curtis Blaydes": {
             "Name": "Curtis Blaydes",
