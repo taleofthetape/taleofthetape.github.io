@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Sergei Pavlovich",
-        "Profile_URL": "https://www.ufc.com/athlete/sergei-pavlovich",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAVLOVICH_SERGEI_08-23.png?itok=uB20GaaY",
-        "Record": "20-3-0 (W-L-D)",
-        "SLpM": "4.43",
-        "SApM": "3.62",
-        "TD_Avg": "0.48",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "05:42",
-        "Fight_Time_Seconds": 342,
-        "Division": "Heavyweight",
-        "Rank": "3",
-        "Selected_Date": "2025-12-25T05:49:19.496898Z"
+        "Name": "Daniel Rodriguez",
+        "Profile_URL": "https://www.ufc.com/athlete/daniel-rodriguez",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/RODRIGUEZ_DANIEL_07-19.png?itok=OsWgy8_k",
+        "Record": "20-5-0 (W-L-D)",
+        "SLpM": "7.20",
+        "SApM": "5.40",
+        "TD_Avg": "0.51",
+        "Sub_Avg": "0.08",
+        "Fight_Time": "11:50",
+        "Fight_Time_Seconds": 710,
+        "Division": "Welterweight",
+        "Rank": "15",
+        "Selected_Date": "2025-12-26T05:46:32.708613Z"
     },
     "past_fighters": [
-        "Magomed Ankalaev",
         "Charles Johnson",
         "Mauricio Ruffy",
         "Montel Jackson",
         "Aleksandar Raki\u0107",
         "Ilia Topuria",
-        "Gilbert Burns"
+        "Gilbert Burns",
+        "Sergei Pavlovich"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1216,7 +1216,8 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Welterweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2025-12-26T05:46:32.708613Z"
         },
         "Nassourdine Imavov": {
             "Name": "Nassourdine Imavov",
