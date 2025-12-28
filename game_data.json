@@ -1,27 +1,23 @@
 {
     "daily_fighter": {
-        "Name": "Carlos Ulberg",
-        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
-        "Record": "14-1-0 (W-L-D)",
-        "SLpM": "6.54",
-        "SApM": "4.04",
-        "TD_Avg": "0.55",
-        "Sub_Avg": "0.18",
-        "Fight_Time": "07:27",
-        "Fight_Time_Seconds": 447,
-        "Division": "Light Heavyweight",
-        "Rank": "3",
-        "Selected_Date": "2025-12-27T05:29:18.784032Z"
+        "Name": "Jack Della Maddalena",
+        "Profile_URL": "https://www.ufc.com/athlete/jack-della-maddalena",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/DELLA_MADDALENA_JACK_05-10.png?itok=uiP2z2FD",
+        "Record": "18-3-0 (W-L-D)",
+        "SLpM": "Standing \n      0 (0 %)",
+        "Fight_Time_Seconds": 0,
+        "Division": "Welterweight",
+        "Rank": "1",
+        "Selected_Date": "2025-12-28T05:32:38.589748Z"
     },
     "past_fighters": [
-        "Mauricio Ruffy",
         "Montel Jackson",
         "Aleksandar Raki\u0107",
         "Ilia Topuria",
         "Gilbert Burns",
         "Sergei Pavlovich",
-        "Daniel Rodriguez"
+        "Daniel Rodriguez",
+        "Carlos Ulberg"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -173,7 +169,8 @@
             "SLpM": "Standing \n      0 (0 %)",
             "Fight_Time_Seconds": 0,
             "Division": "Welterweight",
-            "Rank": "1"
+            "Rank": "1",
+            "Selected_Date": "2025-12-28T05:32:38.589748Z"
         },
         "Magomed Ankalaev": {
             "Name": "Magomed Ankalaev",
