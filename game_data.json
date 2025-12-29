@@ -1,23 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jack Della Maddalena",
-        "Profile_URL": "https://www.ufc.com/athlete/jack-della-maddalena",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/DELLA_MADDALENA_JACK_05-10.png?itok=uiP2z2FD",
-        "Record": "18-3-0 (W-L-D)",
-        "SLpM": "Standing \n      0 (0 %)",
-        "Fight_Time_Seconds": 0,
-        "Division": "Welterweight",
-        "Rank": "1",
-        "Selected_Date": "2025-12-28T05:32:38.589748Z"
+        "Name": "Israel Adesanya",
+        "Profile_URL": "https://www.ufc.com/athlete/israel-adesanya",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/ADESANYA_ISRAEL_02-01.png?itok=kqsY39NL",
+        "Record": "24-5-0 (W-L-D)",
+        "SLpM": "4.02",
+        "SApM": "3.20",
+        "TD_Avg": "0.05",
+        "Sub_Avg": "0.14",
+        "Fight_Time": "17:35",
+        "Fight_Time_Seconds": 1055,
+        "Division": "Middleweight",
+        "Rank": "6",
+        "Selected_Date": "2025-12-29T05:36:07.814738Z"
     },
     "past_fighters": [
-        "Montel Jackson",
         "Aleksandar Raki\u0107",
         "Ilia Topuria",
         "Gilbert Burns",
         "Sergei Pavlovich",
         "Daniel Rodriguez",
-        "Carlos Ulberg"
+        "Carlos Ulberg",
+        "Jack Della Maddalena"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1284,7 +1288,8 @@
             "Fight_Time": "17:35",
             "Fight_Time_Seconds": 1055,
             "Division": "Middleweight",
-            "Rank": "6"
+            "Rank": "6",
+            "Selected_Date": "2025-12-29T05:36:07.814738Z"
         },
         "Caio Borralho": {
             "Name": "Caio Borralho",
