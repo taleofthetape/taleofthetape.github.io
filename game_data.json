@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Israel Adesanya",
-        "Profile_URL": "https://www.ufc.com/athlete/israel-adesanya",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/ADESANYA_ISRAEL_02-01.png?itok=kqsY39NL",
-        "Record": "24-5-0 (W-L-D)",
-        "SLpM": "4.02",
-        "SApM": "3.20",
-        "TD_Avg": "0.05",
-        "Sub_Avg": "0.14",
-        "Fight_Time": "17:35",
-        "Fight_Time_Seconds": 1055,
-        "Division": "Middleweight",
-        "Rank": "6",
-        "Selected_Date": "2025-12-29T05:36:07.814738Z"
+        "Name": "Jan B\u0142achowicz",
+        "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=aJ2pBCjP",
+        "Record": "29-11-2 (W-L-D)",
+        "SLpM": "3.55",
+        "SApM": "3.14",
+        "TD_Avg": "0.98",
+        "Sub_Avg": "0.36",
+        "Fight_Time": "13:16",
+        "Fight_Time_Seconds": 796,
+        "Division": "Light Heavyweight",
+        "Rank": "5",
+        "Selected_Date": "2025-12-30T05:31:39.536257Z"
     },
     "past_fighters": [
-        "Aleksandar Raki\u0107",
         "Ilia Topuria",
         "Gilbert Burns",
         "Sergei Pavlovich",
         "Daniel Rodriguez",
         "Carlos Ulberg",
-        "Jack Della Maddalena"
+        "Jack Della Maddalena",
+        "Israel Adesanya"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1470,7 +1470,8 @@
             "Fight_Time": "13:16",
             "Fight_Time_Seconds": 796,
             "Division": "Light Heavyweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2025-12-30T05:31:39.536257Z"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
