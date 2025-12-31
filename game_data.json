@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jan B\u0142achowicz",
-        "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=aJ2pBCjP",
-        "Record": "29-11-2 (W-L-D)",
-        "SLpM": "3.55",
-        "SApM": "3.14",
-        "TD_Avg": "0.98",
-        "Sub_Avg": "0.36",
-        "Fight_Time": "13:16",
-        "Fight_Time_Seconds": 796,
-        "Division": "Light Heavyweight",
-        "Rank": "5",
-        "Selected_Date": "2025-12-30T05:31:39.536257Z"
+        "Name": "Rafael Fiziev",
+        "Profile_URL": "https://www.ufc.com/athlete/rafael-fiziev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/FIZIEV_RAFAEL_06-21.png?itok=PYGsqBQt",
+        "Record": "13-4-0 (W-L-D)",
+        "SLpM": "4.77",
+        "SApM": "4.77",
+        "TD_Avg": "0.89",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "12:17",
+        "Fight_Time_Seconds": 737,
+        "Division": "Lightweight",
+        "Rank": "9",
+        "Selected_Date": "2025-12-31T05:33:00.280979Z"
     },
     "past_fighters": [
-        "Ilia Topuria",
         "Gilbert Burns",
         "Sergei Pavlovich",
         "Daniel Rodriguez",
         "Carlos Ulberg",
         "Jack Della Maddalena",
-        "Israel Adesanya"
+        "Israel Adesanya",
+        "Jan B\u0142achowicz"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -948,7 +948,8 @@
             "Fight_Time": "12:17",
             "Fight_Time_Seconds": 737,
             "Division": "Lightweight",
-            "Rank": "9"
+            "Rank": "9",
+            "Selected_Date": "2025-12-31T05:33:00.280979Z"
         },
         "Renato Moicano": {
             "Name": "Renato Moicano",
@@ -1470,8 +1471,7 @@
             "Fight_Time": "13:16",
             "Fight_Time_Seconds": 796,
             "Division": "Light Heavyweight",
-            "Rank": "5",
-            "Selected_Date": "2025-12-30T05:31:39.536257Z"
+            "Rank": "5"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
