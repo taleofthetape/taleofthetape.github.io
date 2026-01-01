@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Rafael Fiziev",
-        "Profile_URL": "https://www.ufc.com/athlete/rafael-fiziev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/FIZIEV_RAFAEL_06-21.png?itok=PYGsqBQt",
-        "Record": "13-4-0 (W-L-D)",
-        "SLpM": "4.77",
-        "SApM": "4.77",
-        "TD_Avg": "0.89",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "12:17",
-        "Fight_Time_Seconds": 737,
-        "Division": "Lightweight",
-        "Rank": "9",
-        "Selected_Date": "2025-12-31T05:33:00.280979Z"
+        "Name": "Song Yadong",
+        "Profile_URL": "https://www.ufc.com/athlete/yadong-song",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/YADONG_SONG_02-22.png?itok=WCb_V9Vo",
+        "Record": "22-8-1 (W-L-D)",
+        "SLpM": "4.58",
+        "SApM": "4.00",
+        "TD_Avg": "0.61",
+        "Sub_Avg": "0.15",
+        "Fight_Time": "13:05",
+        "Fight_Time_Seconds": 785,
+        "Division": "Bantamweight",
+        "Rank": "5",
+        "Selected_Date": "2026-01-01T05:35:14.358503Z"
     },
     "past_fighters": [
-        "Gilbert Burns",
         "Sergei Pavlovich",
         "Daniel Rodriguez",
         "Carlos Ulberg",
         "Jack Della Maddalena",
         "Israel Adesanya",
-        "Jan B\u0142achowicz"
+        "Jan B\u0142achowicz",
+        "Rafael Fiziev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -512,7 +512,8 @@
             "Fight_Time": "13:05",
             "Fight_Time_Seconds": 785,
             "Division": "Bantamweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-01-01T05:35:14.358503Z"
         },
         "Deiveson Figueiredo": {
             "Name": "Deiveson Figueiredo",
