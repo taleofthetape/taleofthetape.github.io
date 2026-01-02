@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Song Yadong",
-        "Profile_URL": "https://www.ufc.com/athlete/yadong-song",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/YADONG_SONG_02-22.png?itok=WCb_V9Vo",
-        "Record": "22-8-1 (W-L-D)",
-        "SLpM": "4.58",
-        "SApM": "4.00",
-        "TD_Avg": "0.61",
-        "Sub_Avg": "0.15",
-        "Fight_Time": "13:05",
-        "Fight_Time_Seconds": 785,
-        "Division": "Bantamweight",
-        "Rank": "5",
-        "Selected_Date": "2026-01-01T05:35:14.358503Z"
+        "Name": "Johnny Walker",
+        "Profile_URL": "https://www.ufc.com/athlete/johnny-walker",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/WALKER_JOHNNY_08-23.png?itok=_JtthqvC",
+        "Record": "22-9-0 (W-L-D)",
+        "SLpM": "4.06",
+        "SApM": "3.09",
+        "TD_Avg": "0.42",
+        "Sub_Avg": "0.83",
+        "Fight_Time": "06:47",
+        "Fight_Time_Seconds": 407,
+        "Division": "Light Heavyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-01-02T05:33:44.119763Z"
     },
     "past_fighters": [
-        "Sergei Pavlovich",
         "Daniel Rodriguez",
         "Carlos Ulberg",
         "Jack Della Maddalena",
         "Israel Adesanya",
         "Jan B\u0142achowicz",
-        "Rafael Fiziev"
+        "Rafael Fiziev",
+        "Song Yadong"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1567,7 +1567,8 @@
             "Fight_Time": "06:47",
             "Fight_Time_Seconds": 407,
             "Division": "Light Heavyweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-01-02T05:33:44.119763Z"
         },
         "Nikita Krylov": {
             "Name": "Nikita Krylov",
