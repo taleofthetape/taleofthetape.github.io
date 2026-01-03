@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Johnny Walker",
-        "Profile_URL": "https://www.ufc.com/athlete/johnny-walker",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/WALKER_JOHNNY_08-23.png?itok=_JtthqvC",
-        "Record": "22-9-0 (W-L-D)",
-        "SLpM": "4.06",
-        "SApM": "3.09",
-        "TD_Avg": "0.42",
-        "Sub_Avg": "0.83",
-        "Fight_Time": "06:47",
-        "Fight_Time_Seconds": 407,
-        "Division": "Light Heavyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-01-02T05:33:44.119763Z"
+        "Name": "Derrick Lewis",
+        "Profile_URL": "https://www.ufc.com/athlete/derrick-lewis",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/LEWIS_DERRICK_07-12.png?itok=N-goL8hH",
+        "Record": "29-12-0 (W-L-D)",
+        "SLpM": "2.51",
+        "SApM": "2.49",
+        "TD_Avg": "0.56",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "08:52",
+        "Fight_Time_Seconds": 532,
+        "Division": "Heavyweight",
+        "Rank": "8",
+        "Selected_Date": "2026-01-03T05:29:44.234925Z"
     },
     "past_fighters": [
-        "Daniel Rodriguez",
         "Carlos Ulberg",
         "Jack Della Maddalena",
         "Israel Adesanya",
         "Jan B\u0142achowicz",
         "Rafael Fiziev",
-        "Song Yadong"
+        "Song Yadong",
+        "Johnny Walker"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1722,7 +1722,8 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-01-03T05:29:44.234925Z"
         },
         "Ante Delija": {
             "Name": "Ante Delija",
