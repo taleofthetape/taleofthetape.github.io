@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ilia Topuria",
-        "Profile_URL": "https://www.ufc.com/athlete/ilia-topuria",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/TOPURIA_ILIA_BELT_10-26.png?itok=ZD8DFM6O",
-        "Record": "17-0-0 (W-L-D)",
-        "SLpM": "4.81",
-        "SApM": "3.83",
-        "TD_Avg": "1.96",
-        "Sub_Avg": "1.07",
-        "Fight_Time": "09:22",
-        "Fight_Time_Seconds": 562,
-        "Division": "Lightweight",
-        "Rank": "C",
-        "Selected_Date": "2026-01-06T05:33:06.727535Z"
+        "Name": "Ji\u0159\u00ed Proch\u00e1zka",
+        "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=qR5NTS8v",
+        "Record": "32-5-1 (W-L-D)",
+        "SLpM": "5.69",
+        "SApM": "5.60",
+        "TD_Avg": "0.51",
+        "Sub_Avg": "0.17",
+        "Fight_Time": "11:04",
+        "Fight_Time_Seconds": 664,
+        "Division": "Light Heavyweight",
+        "Rank": "1",
+        "Selected_Date": "2026-01-07T05:33:14.645766Z"
     },
     "past_fighters": [
-        "Jan B\u0142achowicz",
         "Rafael Fiziev",
         "Song Yadong",
         "Johnny Walker",
         "Derrick Lewis",
         "Michael Morales",
-        "Sean Strickland"
+        "Sean Strickland",
+        "Ilia Topuria"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1433,7 +1433,8 @@
             "Fight_Time": "11:04",
             "Fight_Time_Seconds": 664,
             "Division": "Light Heavyweight",
-            "Rank": "1"
+            "Rank": "1",
+            "Selected_Date": "2026-01-07T05:33:14.645766Z"
         },
         "Carlos Ulberg": {
             "Name": "Carlos Ulberg",
