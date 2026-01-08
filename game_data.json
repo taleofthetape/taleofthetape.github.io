@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ji\u0159\u00ed Proch\u00e1zka",
-        "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=qR5NTS8v",
-        "Record": "32-5-1 (W-L-D)",
-        "SLpM": "5.69",
-        "SApM": "5.60",
-        "TD_Avg": "0.51",
-        "Sub_Avg": "0.17",
-        "Fight_Time": "11:04",
-        "Fight_Time_Seconds": 664,
-        "Division": "Light Heavyweight",
+        "Name": "Merab Dvalishvili",
+        "Profile_URL": "https://www.ufc.com/athlete/merab-dvalishvili",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DVALISHVILI_MERAB_BELT_10-04.png?itok=9s24oWsN",
+        "Record": "21-4-0 (W-L-D)",
+        "SLpM": "4.33",
+        "SApM": "2.55",
+        "TD_Avg": "6.40",
+        "Sub_Avg": "0.27",
+        "Fight_Time": "17:08",
+        "Fight_Time_Seconds": 1028,
+        "Division": "Bantamweight",
         "Rank": "1",
-        "Selected_Date": "2026-01-07T05:33:14.645766Z"
+        "Selected_Date": "2026-01-08T05:33:04.100785Z"
     },
     "past_fighters": [
-        "Rafael Fiziev",
         "Song Yadong",
         "Johnny Walker",
         "Derrick Lewis",
         "Michael Morales",
         "Sean Strickland",
-        "Ilia Topuria"
+        "Ilia Topuria",
+        "Ji\u0159\u00ed Proch\u00e1zka"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -65,7 +65,8 @@
             "Fight_Time": "17:08",
             "Fight_Time_Seconds": 1028,
             "Division": "Bantamweight",
-            "Rank": "1"
+            "Rank": "1",
+            "Selected_Date": "2026-01-08T05:33:04.100785Z"
         },
         "Khamzat Chimaev": {
             "Name": "Khamzat Chimaev",
@@ -1433,8 +1434,7 @@
             "Fight_Time": "11:04",
             "Fight_Time_Seconds": 664,
             "Division": "Light Heavyweight",
-            "Rank": "1",
-            "Selected_Date": "2026-01-07T05:33:14.645766Z"
+            "Rank": "1"
         },
         "Carlos Ulberg": {
             "Name": "Carlos Ulberg",
