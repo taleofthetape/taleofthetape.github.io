@@ -12,16 +12,16 @@
         "Fight_Time_Seconds": 1028,
         "Division": "Bantamweight",
         "Rank": "1",
-        "Selected_Date": "2026-01-08T05:33:04.100785Z"
+        "Selected_Date": "2026-01-09T05:33:36.281724Z"
     },
     "past_fighters": [
-        "Song Yadong",
         "Johnny Walker",
         "Derrick Lewis",
         "Michael Morales",
         "Sean Strickland",
         "Ilia Topuria",
-        "Ji\u0159\u00ed Proch\u00e1zka"
+        "Ji\u0159\u00ed Proch\u00e1zka",
+        "Merab Dvalishvili"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -66,7 +66,7 @@
             "Fight_Time_Seconds": 1028,
             "Division": "Bantamweight",
             "Rank": "1",
-            "Selected_Date": "2026-01-08T05:33:04.100785Z"
+            "Selected_Date": "2026-01-09T05:33:36.281724Z"
         },
         "Khamzat Chimaev": {
             "Name": "Khamzat Chimaev",
