@@ -1,18 +1,18 @@
 {
     "daily_fighter": {
-        "Name": "Merab Dvalishvili",
-        "Profile_URL": "https://www.ufc.com/athlete/merab-dvalishvili",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DVALISHVILI_MERAB_BELT_10-04.png?itok=9s24oWsN",
-        "Record": "21-4-0 (W-L-D)",
-        "SLpM": "4.33",
-        "SApM": "2.55",
-        "TD_Avg": "6.40",
-        "Sub_Avg": "0.27",
-        "Fight_Time": "17:08",
-        "Fight_Time_Seconds": 1028,
-        "Division": "Bantamweight",
+        "Name": "Arman Tsarukyan",
+        "Profile_URL": "https://www.ufc.com/athlete/arman-tsarukyan",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/TSARUKYAN_ARMAN_11-22.png?itok=6h4WFZYC",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "3.85",
+        "SApM": "1.80",
+        "TD_Avg": "3.26",
+        "Sub_Avg": "0.10",
+        "Fight_Time": "12:16",
+        "Fight_Time_Seconds": 736,
+        "Division": "Lightweight",
         "Rank": "1",
-        "Selected_Date": "2026-01-09T05:33:36.281724Z"
+        "Selected_Date": "2026-01-10T05:29:42.834687Z"
     },
     "past_fighters": [
         "Johnny Walker",
@@ -204,7 +204,8 @@
             "Fight_Time": "12:16",
             "Fight_Time_Seconds": 736,
             "Division": "Lightweight",
-            "Rank": "1"
+            "Rank": "1",
+            "Selected_Date": "2026-01-10T05:29:42.834687Z"
         },
         "Charles Oliveira": {
             "Name": "Charles Oliveira",
