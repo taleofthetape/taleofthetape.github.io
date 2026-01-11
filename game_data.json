@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Arman Tsarukyan",
-        "Profile_URL": "https://www.ufc.com/athlete/arman-tsarukyan",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/TSARUKYAN_ARMAN_11-22.png?itok=6h4WFZYC",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "3.85",
-        "SApM": "1.80",
-        "TD_Avg": "3.26",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "12:16",
-        "Fight_Time_Seconds": 736,
-        "Division": "Lightweight",
-        "Rank": "1",
-        "Selected_Date": "2026-01-10T05:29:42.834687Z"
+        "Name": "Sergei Pavlovich",
+        "Profile_URL": "https://www.ufc.com/athlete/sergei-pavlovich",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAVLOVICH_SERGEI_08-23.png?itok=uB20GaaY",
+        "Record": "20-3-0 (W-L-D)",
+        "SLpM": "4.43",
+        "SApM": "3.62",
+        "TD_Avg": "0.48",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "05:42",
+        "Fight_Time_Seconds": 342,
+        "Division": "Heavyweight",
+        "Rank": "3",
+        "Selected_Date": "2026-01-11T05:33:09.775365Z"
     },
     "past_fighters": [
-        "Johnny Walker",
         "Derrick Lewis",
         "Michael Morales",
         "Sean Strickland",
         "Ilia Topuria",
         "Ji\u0159\u00ed Proch\u00e1zka",
-        "Merab Dvalishvili"
+        "Merab Dvalishvili",
+        "Arman Tsarukyan"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1656,7 +1656,7 @@
             "Fight_Time_Seconds": 342,
             "Division": "Heavyweight",
             "Rank": "3",
-            "Selected_Date": "2025-12-25T05:49:19.496898Z"
+            "Selected_Date": "2026-01-11T05:33:09.775365Z"
         },
         "Curtis Blaydes": {
             "Name": "Curtis Blaydes",
