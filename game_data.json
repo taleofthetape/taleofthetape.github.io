@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Sergei Pavlovich",
-        "Profile_URL": "https://www.ufc.com/athlete/sergei-pavlovich",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAVLOVICH_SERGEI_08-23.png?itok=uB20GaaY",
-        "Record": "20-3-0 (W-L-D)",
-        "SLpM": "4.43",
-        "SApM": "3.62",
-        "TD_Avg": "0.48",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "05:42",
-        "Fight_Time_Seconds": 342,
+        "Name": "Waldo Cortes Acosta",
+        "Profile_URL": "https://www.ufc.com/athlete/waldo-cortes-acosta",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/CORTES_ACOSTA_WALDO_11-22.png?itok=-To758fQ",
+        "Record": "16-2-0 (W-L-D)",
+        "SLpM": "5.55",
+        "SApM": "3.53",
+        "TD_Avg": "0.35",
+        "Sub_Avg": "0.12",
+        "Fight_Time": "10:34",
+        "Fight_Time_Seconds": 634,
         "Division": "Heavyweight",
-        "Rank": "3",
-        "Selected_Date": "2026-01-11T05:33:09.775365Z"
+        "Rank": "5",
+        "Selected_Date": "2026-01-12T05:36:46.380216Z"
     },
     "past_fighters": [
-        "Derrick Lewis",
         "Michael Morales",
         "Sean Strickland",
         "Ilia Topuria",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Merab Dvalishvili",
-        "Arman Tsarukyan"
+        "Arman Tsarukyan",
+        "Sergei Pavlovich"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1684,7 +1684,8 @@
             "Fight_Time": "10:34",
             "Fight_Time_Seconds": 634,
             "Division": "Heavyweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-01-12T05:36:46.380216Z"
         },
         "Jailton Almeida": {
             "Name": "Jailton Almeida",
