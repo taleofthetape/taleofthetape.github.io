@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Waldo Cortes Acosta",
-        "Profile_URL": "https://www.ufc.com/athlete/waldo-cortes-acosta",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/CORTES_ACOSTA_WALDO_11-22.png?itok=-To758fQ",
-        "Record": "16-2-0 (W-L-D)",
-        "SLpM": "5.55",
-        "SApM": "3.53",
-        "TD_Avg": "0.35",
-        "Sub_Avg": "0.12",
-        "Fight_Time": "10:34",
-        "Fight_Time_Seconds": 634,
+        "Name": "Curtis Blaydes",
+        "Profile_URL": "https://www.ufc.com/athlete/curtis-blaydes",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/BLAYDES_CURTIS_06-21.png?itok=R1Rkk-cp",
+        "Record": "19-5-0 (W-L-D)",
+        "SLpM": "3.56",
+        "SApM": "2.00",
+        "TD_Avg": "5.38",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "08:56",
+        "Fight_Time_Seconds": 536,
         "Division": "Heavyweight",
-        "Rank": "5",
-        "Selected_Date": "2026-01-12T05:36:46.380216Z"
+        "Rank": "4",
+        "Selected_Date": "2026-01-13T05:33:28.206686Z"
     },
     "past_fighters": [
-        "Michael Morales",
         "Sean Strickland",
         "Ilia Topuria",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Merab Dvalishvili",
         "Arman Tsarukyan",
-        "Sergei Pavlovich"
+        "Sergei Pavlovich",
+        "Waldo Cortes Acosta"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1670,7 +1670,8 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Heavyweight",
-            "Rank": "4"
+            "Rank": "4",
+            "Selected_Date": "2026-01-13T05:33:28.206686Z"
         },
         "Waldo Cortes Acosta": {
             "Name": "Waldo Cortes Acosta",
