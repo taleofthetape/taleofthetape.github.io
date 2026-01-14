@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Curtis Blaydes",
-        "Profile_URL": "https://www.ufc.com/athlete/curtis-blaydes",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/BLAYDES_CURTIS_06-21.png?itok=R1Rkk-cp",
-        "Record": "19-5-0 (W-L-D)",
-        "SLpM": "3.56",
-        "SApM": "2.00",
-        "TD_Avg": "5.38",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "08:56",
-        "Fight_Time_Seconds": 536,
-        "Division": "Heavyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-01-13T05:33:28.206686Z"
+        "Name": "Yair Rodriguez",
+        "Profile_URL": "https://www.ufc.com/athlete/yair-rodriguez",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/RODRIGUEZ_YAIR_04-12.png?itok=dwPkjAj0",
+        "Record": "21-5-0 (W-L-D)",
+        "SLpM": "4.65",
+        "SApM": "3.78",
+        "TD_Avg": "0.71",
+        "Sub_Avg": "0.64",
+        "Fight_Time": "13:14",
+        "Fight_Time_Seconds": 794,
+        "Division": "Featherweight",
+        "Rank": "3",
+        "Selected_Date": "2026-01-14T05:33:24.915989Z"
     },
     "past_fighters": [
-        "Sean Strickland",
         "Ilia Topuria",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Merab Dvalishvili",
         "Arman Tsarukyan",
         "Sergei Pavlovich",
-        "Waldo Cortes Acosta"
+        "Waldo Cortes Acosta",
+        "Curtis Blaydes"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -698,7 +698,8 @@
             "Fight_Time": "13:14",
             "Fight_Time_Seconds": 794,
             "Division": "Featherweight",
-            "Rank": "3"
+            "Rank": "3",
+            "Selected_Date": "2026-01-14T05:33:24.915989Z"
         },
         "Lerone Murphy": {
             "Name": "Lerone Murphy",
