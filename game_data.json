@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Yair Rodriguez",
-        "Profile_URL": "https://www.ufc.com/athlete/yair-rodriguez",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/RODRIGUEZ_YAIR_04-12.png?itok=dwPkjAj0",
-        "Record": "21-5-0 (W-L-D)",
-        "SLpM": "4.65",
-        "SApM": "3.78",
-        "TD_Avg": "0.71",
-        "Sub_Avg": "0.64",
-        "Fight_Time": "13:14",
-        "Fight_Time_Seconds": 794,
-        "Division": "Featherweight",
-        "Rank": "3",
-        "Selected_Date": "2026-01-14T05:33:24.915989Z"
+        "Name": "Khamzat Chimaev",
+        "Profile_URL": "https://www.ufc.com/athlete/khamzat-chimaev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CHIMAEV_KHAMZAT_BELTMOCK.png?itok=kUlPMLPQ",
+        "Record": "15-0-0 (W-L-D)",
+        "SLpM": "4.04",
+        "SApM": "2.32",
+        "TD_Avg": "5.29",
+        "Sub_Avg": "1.83",
+        "Fight_Time": "08:11",
+        "Fight_Time_Seconds": 491,
+        "Division": "Middleweight",
+        "Rank": "C",
+        "Selected_Date": "2026-01-15T05:34:01.499193Z"
     },
     "past_fighters": [
-        "Ilia Topuria",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Merab Dvalishvili",
         "Arman Tsarukyan",
         "Sergei Pavlovich",
         "Waldo Cortes Acosta",
-        "Curtis Blaydes"
+        "Curtis Blaydes",
+        "Yair Rodriguez"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -80,7 +80,8 @@
             "Fight_Time": "08:11",
             "Fight_Time_Seconds": 491,
             "Division": "Middleweight",
-            "Rank": "C"
+            "Rank": "C",
+            "Selected_Date": "2026-01-15T05:34:01.499193Z"
         },
         "Alexandre Pantoja": {
             "Name": "Alexandre Pantoja",
