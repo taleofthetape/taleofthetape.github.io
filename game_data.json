@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Khamzat Chimaev",
-        "Profile_URL": "https://www.ufc.com/athlete/khamzat-chimaev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CHIMAEV_KHAMZAT_BELTMOCK.png?itok=kUlPMLPQ",
-        "Record": "15-0-0 (W-L-D)",
-        "SLpM": "4.04",
-        "SApM": "2.32",
-        "TD_Avg": "5.29",
-        "Sub_Avg": "1.83",
-        "Fight_Time": "08:11",
-        "Fight_Time_Seconds": 491,
+        "Name": "Gregory Rodrigues",
+        "Profile_URL": "https://www.ufc.com/athlete/gregory-rodrigues",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/RODRIGUES_GREGORY_11-15.png?itok=jNtCq099",
+        "Record": "18-6-0 (W-L-D)",
+        "SLpM": "5.60",
+        "SApM": "4.84",
+        "TD_Avg": "1.93",
+        "Sub_Avg": "0.39",
+        "Fight_Time": "08:59",
+        "Fight_Time_Seconds": 539,
         "Division": "Middleweight",
-        "Rank": "C",
-        "Selected_Date": "2026-01-15T05:34:01.499193Z"
+        "Rank": "14",
+        "Selected_Date": "2026-01-16T05:33:33.018897Z"
     },
     "past_fighters": [
-        "Ji\u0159\u00ed Proch\u00e1zka",
         "Merab Dvalishvili",
         "Arman Tsarukyan",
         "Sergei Pavlovich",
         "Waldo Cortes Acosta",
         "Curtis Blaydes",
-        "Yair Rodriguez"
+        "Yair Rodriguez",
+        "Khamzat Chimaev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1423,7 +1423,8 @@
             "Fight_Time": "08:59",
             "Fight_Time_Seconds": 539,
             "Division": "Middleweight",
-            "Rank": "14"
+            "Rank": "14",
+            "Selected_Date": "2026-01-16T05:33:33.018897Z"
         },
         "Ji\u0159\u00ed Proch\u00e1zka": {
             "Name": "Ji\u0159\u00ed Proch\u00e1zka",
