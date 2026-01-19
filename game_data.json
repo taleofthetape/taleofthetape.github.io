@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alexandre Pantoja",
-        "Profile_URL": "https://www.ufc.com/athlete/alexandre-pantoja",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/PANTOJA_ALEXANDRE_BELT_06-28.png?itok=qhPySoZJ",
-        "Record": "30-5-0 (W-L-D)",
-        "SLpM": "4.36",
-        "SApM": "3.88",
-        "TD_Avg": "2.80",
-        "Sub_Avg": "0.98",
-        "Fight_Time": "12:37",
-        "Fight_Time_Seconds": 757,
-        "Division": "Flyweight",
-        "Rank": "1",
-        "Selected_Date": "2026-01-18T05:31:34.325724Z"
+        "Name": "Beneil Dariush",
+        "Profile_URL": "https://www.ufc.com/athlete/beneil-dariush",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/DARIUSH_BENEIL_11-15.png?itok=II6Y2V9F",
+        "Record": "23-7-1 (W-L-D)",
+        "SLpM": "3.78",
+        "SApM": "2.62",
+        "TD_Avg": "2.11",
+        "Sub_Avg": "0.82",
+        "Fight_Time": "08:48",
+        "Fight_Time_Seconds": 528,
+        "Division": "Lightweight",
+        "Rank": "11",
+        "Selected_Date": "2026-01-19T05:38:25.055719Z"
     },
     "past_fighters": [
-        "Sergei Pavlovich",
         "Waldo Cortes Acosta",
         "Curtis Blaydes",
         "Yair Rodriguez",
         "Khamzat Chimaev",
         "Gregory Rodrigues",
-        "Grant Dawson"
+        "Grant Dawson",
+        "Alexandre Pantoja"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -998,7 +998,8 @@
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
             "Division": "Lightweight",
-            "Rank": "11"
+            "Rank": "11",
+            "Selected_Date": "2026-01-19T05:38:25.055719Z"
         },
         "Grant Dawson": {
             "Name": "Grant Dawson",
