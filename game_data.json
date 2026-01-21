@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Caio Borralho",
-        "Profile_URL": "https://www.ufc.com/athlete/caio-borralho",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/BORRALHO_CAIO_09-06.png?itok=Fqoox8Yz",
-        "Record": "17-2-0 (W-L-D)",
-        "SLpM": "3.44",
-        "SApM": "2.50",
-        "TD_Avg": "1.28",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "14:04",
-        "Fight_Time_Seconds": 844,
+        "Name": "Jared Cannonier",
+        "Profile_URL": "https://www.ufc.com/athlete/jared-cannonier",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CANNONIER_JARED_08-16.png?itok=dCV1YoFd",
+        "Record": "18-9-0 (W-L-D)",
+        "SLpM": "4.42",
+        "SApM": "4.35",
+        "TD_Avg": "0.54",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "13:54",
+        "Fight_Time_Seconds": 834,
         "Division": "Middleweight",
-        "Rank": "7",
-        "Selected_Date": "2026-01-20T05:37:01.939693Z"
+        "Rank": "10",
+        "Selected_Date": "2026-01-21T05:36:36.222276Z"
     },
     "past_fighters": [
-        "Curtis Blaydes",
         "Yair Rodriguez",
         "Khamzat Chimaev",
         "Gregory Rodrigues",
         "Grant Dawson",
         "Alexandre Pantoja",
-        "Beneil Dariush"
+        "Beneil Dariush",
+        "Caio Borralho"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1357,7 +1357,8 @@
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
-            "Rank": "10"
+            "Rank": "10",
+            "Selected_Date": "2026-01-21T05:36:36.222276Z"
         },
         "Michael Page": {
             "Name": "Michael Page",
