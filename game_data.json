@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Giga Chikadze",
-        "Profile_URL": "https://www.ufc.com/athlete/giga-chikadze",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHIKADZE_GIGA_04-26.png?itok=xRi_8YaW",
-        "Record": "15-5-0 (W-L-D)",
-        "SLpM": "3.82",
-        "SApM": "3.48",
-        "TD_Avg": "0.19",
-        "Sub_Avg": "0.19",
-        "Fight_Time": "13:24",
-        "Fight_Time_Seconds": 804,
-        "Division": "Featherweight",
-        "Rank": "15",
-        "Selected_Date": "2026-01-22T05:36:21.241069Z"
+        "Name": "Ian Machado Garry",
+        "Profile_URL": "https://www.ufc.com/athlete/ian-garry",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MACHADO_GARRY_IAN_11-22.png?itok=SbjTy_Wn",
+        "Record": "17-1-0 (W-L-D)",
+        "SLpM": "4.78",
+        "SApM": "2.86",
+        "TD_Avg": "0.92",
+        "Sub_Avg": "0.37",
+        "Fight_Time": "14:45",
+        "Fight_Time_Seconds": 885,
+        "Division": "Welterweight",
+        "Rank": "3",
+        "Selected_Date": "2026-01-23T05:36:07.608383Z"
     },
     "past_fighters": [
-        "Khamzat Chimaev",
         "Gregory Rodrigues",
         "Grant Dawson",
         "Alexandre Pantoja",
         "Beneil Dariush",
         "Caio Borralho",
-        "Jared Cannonier"
+        "Jared Cannonier",
+        "Giga Chikadze"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1057,7 +1057,8 @@
             "Fight_Time": "14:45",
             "Fight_Time_Seconds": 885,
             "Division": "Welterweight",
-            "Rank": "3"
+            "Rank": "3",
+            "Selected_Date": "2026-01-23T05:36:07.608383Z"
         },
         "Shavkat Rakhmonov": {
             "Name": "Shavkat Rakhmonov",
