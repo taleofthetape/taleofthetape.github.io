@@ -1,27 +1,23 @@
 {
     "daily_fighter": {
-        "Name": "Ian Machado Garry",
-        "Profile_URL": "https://www.ufc.com/athlete/ian-garry",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MACHADO_GARRY_IAN_11-22.png?itok=SbjTy_Wn",
-        "Record": "17-1-0 (W-L-D)",
-        "SLpM": "4.78",
-        "SApM": "2.86",
-        "TD_Avg": "0.92",
-        "Sub_Avg": "0.37",
-        "Fight_Time": "14:45",
-        "Fight_Time_Seconds": 885,
+        "Name": "Jack Della Maddalena",
+        "Profile_URL": "https://www.ufc.com/athlete/jack-della-maddalena",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/DELLA_MADDALENA_JACK_05-10.png?itok=uiP2z2FD",
+        "Record": "18-3-0 (W-L-D)",
+        "SLpM": "Standing \n      0 (0 %)",
+        "Fight_Time_Seconds": 0,
         "Division": "Welterweight",
-        "Rank": "3",
-        "Selected_Date": "2026-01-23T05:36:07.608383Z"
+        "Rank": "1",
+        "Selected_Date": "2026-01-24T05:29:20.466251Z"
     },
     "past_fighters": [
-        "Gregory Rodrigues",
         "Grant Dawson",
         "Alexandre Pantoja",
         "Beneil Dariush",
         "Caio Borralho",
         "Jared Cannonier",
-        "Giga Chikadze"
+        "Giga Chikadze",
+        "Ian Machado Garry"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -177,7 +173,7 @@
             "Fight_Time_Seconds": 0,
             "Division": "Welterweight",
             "Rank": "1",
-            "Selected_Date": "2025-12-28T05:32:38.589748Z"
+            "Selected_Date": "2026-01-24T05:29:20.466251Z"
         },
         "Magomed Ankalaev": {
             "Name": "Magomed Ankalaev",
