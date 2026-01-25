@@ -1,23 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jack Della Maddalena",
-        "Profile_URL": "https://www.ufc.com/athlete/jack-della-maddalena",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/DELLA_MADDALENA_JACK_05-10.png?itok=uiP2z2FD",
-        "Record": "18-3-0 (W-L-D)",
-        "SLpM": "Standing \n      0 (0 %)",
-        "Fight_Time_Seconds": 0,
-        "Division": "Welterweight",
-        "Rank": "1",
-        "Selected_Date": "2026-01-24T05:29:20.466251Z"
+        "Name": "Roman Dolidze",
+        "Profile_URL": "https://www.ufc.com/athlete/roman-dolidze",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/DOLIDZE_ROMAN_08-09.png?itok=JWpCALEs",
+        "Record": "15-4-0 (W-L-D)",
+        "SLpM": "3.41",
+        "SApM": "3.72",
+        "TD_Avg": "0.99",
+        "Sub_Avg": "0.81",
+        "Fight_Time": "12:48",
+        "Fight_Time_Seconds": 768,
+        "Division": "Middleweight",
+        "Rank": "12",
+        "Selected_Date": "2026-01-25T05:34:40.797492Z"
     },
     "past_fighters": [
-        "Grant Dawson",
         "Alexandre Pantoja",
         "Beneil Dariush",
         "Caio Borralho",
         "Jared Cannonier",
         "Giga Chikadze",
-        "Ian Machado Garry"
+        "Ian Machado Garry",
+        "Jack Della Maddalena"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1383,7 +1387,8 @@
             "Fight_Time": "12:48",
             "Fight_Time_Seconds": 768,
             "Division": "Middleweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-01-25T05:34:40.797492Z"
         },
         "Paulo Costa": {
             "Name": "Paulo Costa",
