@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Roman Dolidze",
-        "Profile_URL": "https://www.ufc.com/athlete/roman-dolidze",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/DOLIDZE_ROMAN_08-09.png?itok=JWpCALEs",
-        "Record": "15-4-0 (W-L-D)",
-        "SLpM": "3.41",
-        "SApM": "3.72",
-        "TD_Avg": "0.99",
-        "Sub_Avg": "0.81",
-        "Fight_Time": "12:48",
-        "Fight_Time_Seconds": 768,
-        "Division": "Middleweight",
-        "Rank": "12",
-        "Selected_Date": "2026-01-25T05:34:40.797492Z"
+        "Name": "Diego Lopes",
+        "Profile_URL": "https://www.ufc.com/athlete/diego-lopes",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/LOPES_DIEGO_09-13.png?itok=hlucGKEl",
+        "Record": "27-7-0 (W-L-D)",
+        "SLpM": "4.10",
+        "SApM": "4.72",
+        "TD_Avg": "0.79",
+        "Sub_Avg": "1.74",
+        "Fight_Time": "10:31",
+        "Fight_Time_Seconds": 631,
+        "Division": "Featherweight",
+        "Rank": "2",
+        "Selected_Date": "2026-01-26T05:38:25.613322Z"
     },
     "past_fighters": [
-        "Alexandre Pantoja",
         "Beneil Dariush",
         "Caio Borralho",
         "Jared Cannonier",
         "Giga Chikadze",
         "Ian Machado Garry",
-        "Jack Della Maddalena"
+        "Jack Della Maddalena",
+        "Roman Dolidze"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -686,7 +686,8 @@
             "Fight_Time": "10:31",
             "Fight_Time_Seconds": 631,
             "Division": "Featherweight",
-            "Rank": "2"
+            "Rank": "2",
+            "Selected_Date": "2026-01-26T05:38:25.613322Z"
         },
         "Yair Rodriguez": {
             "Name": "Yair Rodriguez",
