@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Diego Lopes",
-        "Profile_URL": "https://www.ufc.com/athlete/diego-lopes",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/LOPES_DIEGO_09-13.png?itok=hlucGKEl",
-        "Record": "27-7-0 (W-L-D)",
-        "SLpM": "4.10",
-        "SApM": "4.72",
-        "TD_Avg": "0.79",
-        "Sub_Avg": "1.74",
-        "Fight_Time": "10:31",
-        "Fight_Time_Seconds": 631,
+        "Name": "Movsar Evloev",
+        "Profile_URL": "https://www.ufc.com/athlete/movsar-evloev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/EVLOEV_MOVSAR_12-07.png?itok=QnKwE0oo",
+        "Record": "19-0-0 (W-L-D)",
+        "SLpM": "3.99",
+        "SApM": "2.66",
+        "TD_Avg": "4.67",
+        "Sub_Avg": "0.22",
+        "Fight_Time": "15:00",
+        "Fight_Time_Seconds": 900,
         "Division": "Featherweight",
-        "Rank": "2",
-        "Selected_Date": "2026-01-26T05:38:25.613322Z"
+        "Rank": "1",
+        "Selected_Date": "2026-01-27T05:35:37.010686Z"
     },
     "past_fighters": [
-        "Beneil Dariush",
         "Caio Borralho",
         "Jared Cannonier",
         "Giga Chikadze",
         "Ian Machado Garry",
         "Jack Della Maddalena",
-        "Roman Dolidze"
+        "Roman Dolidze",
+        "Diego Lopes"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -672,7 +672,8 @@
             "Fight_Time": "15:00",
             "Fight_Time_Seconds": 900,
             "Division": "Featherweight",
-            "Rank": "1"
+            "Rank": "1",
+            "Selected_Date": "2026-01-27T05:35:37.010686Z"
         },
         "Diego Lopes": {
             "Name": "Diego Lopes",
