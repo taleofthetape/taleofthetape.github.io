@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kyoji Horiguchi",
-        "Profile_URL": "https://www.ufc.com/athlete/kyoji-horiguchi",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HORIGUCHI_KYOJI_11-22.png?itok=uRMYwEsp",
-        "Record": "35-5-0 (W-L-D)",
-        "SLpM": "3.64",
-        "SApM": "2.26",
-        "TD_Avg": "1.80",
-        "Sub_Avg": "0.12",
-        "Fight_Time": "13:53",
-        "Fight_Time_Seconds": 833,
-        "Division": "Flyweight",
-        "Rank": "8",
-        "Selected_Date": "2026-01-29T05:52:09.372652Z"
+        "Name": "Ciryl Gane",
+        "Profile_URL": "https://www.ufc.com/athlete/ciryl-gane",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GANE_CIRYL_10-25.png?itok=L3b-4RSq",
+        "Record": "13-2-0 (W-L-D)",
+        "SLpM": "5.29",
+        "SApM": "2.33",
+        "TD_Avg": "0.68",
+        "Sub_Avg": "0.60",
+        "Fight_Time": "13:30",
+        "Fight_Time_Seconds": 810,
+        "Division": "Heavyweight",
+        "Rank": "1",
+        "Selected_Date": "2026-01-30T05:55:00.331777Z"
     },
     "past_fighters": [
-        "Giga Chikadze",
         "Ian Machado Garry",
         "Jack Della Maddalena",
         "Roman Dolidze",
         "Diego Lopes",
         "Movsar Evloev",
-        "Brandon Moreno"
+        "Brandon Moreno",
+        "Kyoji Horiguchi"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1641,7 +1641,7 @@
             "Fight_Time_Seconds": 810,
             "Division": "Heavyweight",
             "Rank": "1",
-            "Selected_Date": "2025-12-17T19:41:31.563092Z"
+            "Selected_Date": "2026-01-30T05:55:00.331777Z"
         },
         "Alexander Volkov": {
             "Name": "Alexander Volkov",
