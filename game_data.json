@@ -12,16 +12,16 @@
         "Fight_Time_Seconds": 810,
         "Division": "Heavyweight",
         "Rank": "1",
-        "Selected_Date": "2026-01-30T05:55:00.331777Z"
+        "Selected_Date": "2026-01-31T05:45:10.870764Z"
     },
     "past_fighters": [
-        "Ian Machado Garry",
         "Jack Della Maddalena",
         "Roman Dolidze",
         "Diego Lopes",
         "Movsar Evloev",
         "Brandon Moreno",
-        "Kyoji Horiguchi"
+        "Kyoji Horiguchi",
+        "Ciryl Gane"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1641,7 +1641,7 @@
             "Fight_Time_Seconds": 810,
             "Division": "Heavyweight",
             "Rank": "1",
-            "Selected_Date": "2026-01-30T05:55:00.331777Z"
+            "Selected_Date": "2026-01-31T05:45:10.870764Z"
         },
         "Alexander Volkov": {
             "Name": "Alexander Volkov",
