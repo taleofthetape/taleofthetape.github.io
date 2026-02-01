@@ -1,18 +1,18 @@
 {
     "daily_fighter": {
-        "Name": "Ciryl Gane",
-        "Profile_URL": "https://www.ufc.com/athlete/ciryl-gane",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GANE_CIRYL_10-25.png?itok=L3b-4RSq",
-        "Record": "13-2-0 (W-L-D)",
-        "SLpM": "5.29",
-        "SApM": "2.33",
-        "TD_Avg": "0.68",
-        "Sub_Avg": "0.60",
-        "Fight_Time": "13:30",
-        "Fight_Time_Seconds": 810,
-        "Division": "Heavyweight",
-        "Rank": "1",
-        "Selected_Date": "2026-01-31T05:45:10.870764Z"
+        "Name": "Bruno Silva",
+        "Profile_URL": "https://www.ufc.com/athlete/bruno-silva",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/SILVA_BRUNO_10-18.png?itok=OyFIgRsq",
+        "Record": "15-7-2 (W-L-D)",
+        "SLpM": "3.82",
+        "SApM": "4.55",
+        "TD_Avg": "2.30",
+        "Sub_Avg": "0.29",
+        "Fight_Time": "10:27",
+        "Fight_Time_Seconds": 627,
+        "Division": "Flyweight",
+        "Rank": "14",
+        "Selected_Date": "2026-02-01T06:02:34.709761Z"
     },
     "past_fighters": [
         "Jack Della Maddalena",
@@ -434,7 +434,8 @@
             "Fight_Time": "10:27",
             "Fight_Time_Seconds": 627,
             "Division": "Flyweight",
-            "Rank": "14"
+            "Rank": "14",
+            "Selected_Date": "2026-02-01T06:02:34.709761Z"
         },
         "Lone\u2019er Kavanagh": {
             "Name": "Lone\u2019er Kavanagh",
@@ -935,7 +936,7 @@
         "Beno\u00eet Saint Denis": {
             "Name": "Beno\u00eet Saint Denis",
             "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/DARIUSH_BENEIL_11-15.png?itok=II6Y2V9F",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=9g-MCNr9",
             "Record": "16-3-0 (W-L-D)",
             "SLpM": "5.07",
             "SApM": "4.21",
