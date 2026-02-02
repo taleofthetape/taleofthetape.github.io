@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Bruno Silva",
-        "Profile_URL": "https://www.ufc.com/athlete/bruno-silva",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/SILVA_BRUNO_10-18.png?itok=OyFIgRsq",
-        "Record": "15-7-2 (W-L-D)",
-        "SLpM": "3.82",
-        "SApM": "4.55",
-        "TD_Avg": "2.30",
-        "Sub_Avg": "0.29",
-        "Fight_Time": "10:27",
-        "Fight_Time_Seconds": 627,
-        "Division": "Flyweight",
-        "Rank": "14",
-        "Selected_Date": "2026-02-01T06:02:34.709761Z"
+        "Name": "Reinier de Ridder",
+        "Profile_URL": "https://www.ufc.com/athlete/reinier-de-ridder",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DE-RIDDER_REINIER_10-18.png?itok=cCiewy9T",
+        "Record": "21-3-0 (W-L-D)",
+        "SLpM": "2.20",
+        "SApM": "2.04",
+        "TD_Avg": "2.68",
+        "Sub_Avg": "0.67",
+        "Fight_Time": "13:26",
+        "Fight_Time_Seconds": 806,
+        "Division": "Middleweight",
+        "Rank": "8",
+        "Selected_Date": "2026-02-02T06:07:41.920654Z"
     },
     "past_fighters": [
-        "Jack Della Maddalena",
         "Roman Dolidze",
         "Diego Lopes",
         "Movsar Evloev",
         "Brandon Moreno",
         "Kyoji Horiguchi",
-        "Ciryl Gane"
+        "Ciryl Gane",
+        "Bruno Silva"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -937,13 +937,13 @@
             "Name": "Beno\u00eet Saint Denis",
             "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=9g-MCNr9",
-            "Record": "16-3-0 (W-L-D)",
-            "SLpM": "5.07",
-            "SApM": "4.21",
-            "TD_Avg": "4.33",
-            "Sub_Avg": "1.58",
-            "Fight_Time": "06:55",
-            "Fight_Time_Seconds": 415,
+            "Record": "17-3-0 (W-L-D)",
+            "SLpM": "5.62",
+            "SApM": "4.09",
+            "TD_Avg": "4.19",
+            "Sub_Avg": "1.75",
+            "Fight_Time": "07:10",
+            "Fight_Time_Seconds": 430,
             "Division": "Lightweight",
             "Rank": "8"
         },
@@ -1335,7 +1335,8 @@
             "Fight_Time": "13:26",
             "Fight_Time_Seconds": 806,
             "Division": "Middleweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-02-02T06:07:41.920654Z"
         },
         "Robert Whittaker": {
             "Name": "Robert Whittaker",
