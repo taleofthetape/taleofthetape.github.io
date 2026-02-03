@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Reinier de Ridder",
-        "Profile_URL": "https://www.ufc.com/athlete/reinier-de-ridder",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DE-RIDDER_REINIER_10-18.png?itok=cCiewy9T",
-        "Record": "21-3-0 (W-L-D)",
-        "SLpM": "2.20",
-        "SApM": "2.04",
-        "TD_Avg": "2.68",
-        "Sub_Avg": "0.67",
-        "Fight_Time": "13:26",
-        "Fight_Time_Seconds": 806,
-        "Division": "Middleweight",
-        "Rank": "8",
-        "Selected_Date": "2026-02-02T06:07:41.920654Z"
+        "Name": "Kyler Phillips",
+        "Profile_URL": "https://www.ufc.com/athlete/kyler-phillips",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/PHILLIPS_KYLER_07-19.png?itok=ksDPo7Da",
+        "Record": "12-4-0 (W-L-D)",
+        "SLpM": "5.04",
+        "SApM": "3.83",
+        "TD_Avg": "2.31",
+        "Sub_Avg": "0.37",
+        "Fight_Time": "12:20",
+        "Fight_Time_Seconds": 740,
+        "Division": "Bantamweight",
+        "Rank": "14",
+        "Selected_Date": "2026-02-03T05:57:08.959288Z"
     },
     "past_fighters": [
-        "Roman Dolidze",
         "Diego Lopes",
         "Movsar Evloev",
         "Brandon Moreno",
         "Kyoji Horiguchi",
         "Ciryl Gane",
-        "Bruno Silva"
+        "Bruno Silva",
+        "Reinier de Ridder"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -647,7 +647,8 @@
             "Fight_Time": "12:20",
             "Fight_Time_Seconds": 740,
             "Division": "Bantamweight",
-            "Rank": "14"
+            "Rank": "14",
+            "Selected_Date": "2026-02-03T05:57:08.959288Z"
         },
         "Marcus McGhee": {
             "Name": "Marcus McGhee",
