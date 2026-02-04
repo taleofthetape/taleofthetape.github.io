@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kyler Phillips",
-        "Profile_URL": "https://www.ufc.com/athlete/kyler-phillips",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/PHILLIPS_KYLER_07-19.png?itok=ksDPo7Da",
-        "Record": "12-4-0 (W-L-D)",
-        "SLpM": "5.04",
-        "SApM": "3.83",
-        "TD_Avg": "2.31",
-        "Sub_Avg": "0.37",
-        "Fight_Time": "12:20",
-        "Fight_Time_Seconds": 740,
-        "Division": "Bantamweight",
-        "Rank": "14",
-        "Selected_Date": "2026-02-03T05:57:08.959288Z"
+        "Name": "Volkan Oezdemir",
+        "Profile_URL": "https://www.ufc.com/athlete/volkan-oezdemir",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/OEZDEMIR_VOLKAN_11-22.png?itok=J1sXHi4D",
+        "Record": "21-8-0 (W-L-D)",
+        "SLpM": "4.99",
+        "SApM": "4.19",
+        "TD_Avg": "0.50",
+        "Sub_Avg": "0.10",
+        "Fight_Time": "09:25",
+        "Fight_Time_Seconds": 565,
+        "Division": "Light Heavyweight",
+        "Rank": "8",
+        "Selected_Date": "2026-02-04T05:56:28.095665Z"
     },
     "past_fighters": [
-        "Diego Lopes",
         "Movsar Evloev",
         "Brandon Moreno",
         "Kyoji Horiguchi",
         "Ciryl Gane",
         "Bruno Silva",
-        "Reinier de Ridder"
+        "Reinier de Ridder",
+        "Kyler Phillips"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -235,7 +235,7 @@
             "Fight_Time": "15:22",
             "Fight_Time_Seconds": 922,
             "Division": "Welterweight",
-            "Rank": "5"
+            "Rank": "4"
         },
         "Joshua Van": {
             "Name": "Joshua Van",
@@ -706,7 +706,7 @@
             "Fight_Time": "13:14",
             "Fight_Time_Seconds": 794,
             "Division": "Featherweight",
-            "Rank": "3",
+            "Rank": "4",
             "Selected_Date": "2026-01-14T05:33:24.915989Z"
         },
         "Lerone Murphy": {
@@ -721,7 +721,7 @@
             "Fight_Time": "13:47",
             "Fight_Time_Seconds": 827,
             "Division": "Featherweight",
-            "Rank": "4"
+            "Rank": "3"
         },
         "Aljamain Sterling": {
             "Name": "Aljamain Sterling",
@@ -904,7 +904,7 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Lightweight",
-            "Rank": "5"
+            "Rank": "6"
         },
         "Dan Hooker": {
             "Name": "Dan Hooker",
@@ -918,7 +918,7 @@
             "Fight_Time": "10:09",
             "Fight_Time_Seconds": 609,
             "Division": "Lightweight",
-            "Rank": "6"
+            "Rank": "8"
         },
         "Mateusz Gamrot": {
             "Name": "Mateusz Gamrot",
@@ -946,7 +946,7 @@
             "Fight_Time": "07:10",
             "Fight_Time_Seconds": 430,
             "Division": "Lightweight",
-            "Rank": "8"
+            "Rank": "5"
         },
         "Rafael Fiziev": {
             "Name": "Rafael Fiziev",
@@ -960,7 +960,7 @@
             "Fight_Time": "12:17",
             "Fight_Time_Seconds": 737,
             "Division": "Lightweight",
-            "Rank": "9",
+            "Rank": "11",
             "Selected_Date": "2025-12-31T05:33:00.280979Z"
         },
         "Renato Moicano": {
@@ -989,7 +989,7 @@
             "Fight_Time": "09:37",
             "Fight_Time_Seconds": 577,
             "Division": "Lightweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2025-12-17T18:24:30.365576Z"
         },
         "Beneil Dariush": {
@@ -1004,7 +1004,7 @@
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
             "Division": "Lightweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-01-19T05:38:25.055719Z"
         },
         "Grant Dawson": {
@@ -1034,7 +1034,7 @@
             "Fight_Time": "08:54",
             "Fight_Time_Seconds": 534,
             "Division": "Lightweight",
-            "Rank": "14",
+            "Rank": "9",
             "Selected_Date": "2025-12-20T05:41:25.894860Z"
         },
         "Ignacio Bahamondes": {
@@ -1063,7 +1063,7 @@
             "Fight_Time": "14:45",
             "Fight_Time_Seconds": 885,
             "Division": "Welterweight",
-            "Rank": "3",
+            "Rank": "2",
             "Selected_Date": "2026-01-23T05:36:07.608383Z"
         },
         "Shavkat Rakhmonov": {
@@ -1092,7 +1092,7 @@
             "Fight_Time": "09:00",
             "Fight_Time_Seconds": 540,
             "Division": "Welterweight",
-            "Rank": "4",
+            "Rank": "3",
             "Selected_Date": "2026-01-04T05:33:27.065951Z"
         },
         "Carlos Prates": {
@@ -1107,7 +1107,7 @@
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
             "Division": "Welterweight",
-            "Rank": "6"
+            "Rank": "5"
         },
         "Sean Brady": {
             "Name": "Sean Brady",
@@ -1121,7 +1121,7 @@
             "Fight_Time": "13:11",
             "Fight_Time_Seconds": 791,
             "Division": "Welterweight",
-            "Rank": "7"
+            "Rank": "6"
         },
         "Kamaru Usman": {
             "Name": "Kamaru Usman",
@@ -1135,7 +1135,7 @@
             "Fight_Time": "17:50",
             "Fight_Time_Seconds": 1070,
             "Division": "Welterweight",
-            "Rank": "8"
+            "Rank": "7"
         },
         "Leon Edwards": {
             "Name": "Leon Edwards",
@@ -1149,7 +1149,7 @@
             "Fight_Time": "16:47",
             "Fight_Time_Seconds": 1007,
             "Division": "Welterweight",
-            "Rank": "9"
+            "Rank": "8"
         },
         "Joaquin Buckley": {
             "Name": "Joaquin Buckley",
@@ -1163,7 +1163,7 @@
             "Fight_Time": "11:33",
             "Fight_Time_Seconds": 693,
             "Division": "Welterweight",
-            "Rank": "10"
+            "Rank": "9"
         },
         "Gabriel Bonfim": {
             "Name": "Gabriel Bonfim",
@@ -1191,7 +1191,7 @@
             "Fight_Time": "12:21",
             "Fight_Time_Seconds": 741,
             "Division": "Welterweight",
-            "Rank": "12",
+            "Rank": "10",
             "Selected_Date": "2025-12-24T05:49:28.670986Z"
         },
         "Colby Covington": {
@@ -1206,7 +1206,7 @@
             "Fight_Time": "16:57",
             "Fight_Time_Seconds": 1017,
             "Division": "Welterweight",
-            "Rank": "14"
+            "Rank": "13"
         },
         "Geoff Neal": {
             "Name": "Geoff Neal",
@@ -1220,7 +1220,7 @@
             "Fight_Time": "09:52",
             "Fight_Time_Seconds": 592,
             "Division": "Welterweight",
-            "Rank": "13"
+            "Rank": "12"
         },
         "Daniel Rodriguez": {
             "Name": "Daniel Rodriguez",
@@ -1234,7 +1234,7 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Welterweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2025-12-26T05:46:32.708613Z"
         },
         "Nassourdine Imavov": {
@@ -1379,8 +1379,8 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "10:44",
             "Fight_Time_Seconds": 644,
-            "Division": "Middleweight",
-            "Rank": "10"
+            "Division": "Welterweight",
+            "Rank": "15"
         },
         "Roman Dolidze": {
             "Name": "Roman Dolidze",
@@ -1452,7 +1452,7 @@
             "Fight_Time": "11:04",
             "Fight_Time_Seconds": 664,
             "Division": "Light Heavyweight",
-            "Rank": "1"
+            "Rank": "2"
         },
         "Carlos Ulberg": {
             "Name": "Carlos Ulberg",
@@ -1547,7 +1547,8 @@
             "Fight_Time": "09:25",
             "Fight_Time_Seconds": 565,
             "Division": "Light Heavyweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-02-04T05:56:28.095665Z"
         },
         "Aleksandar Raki\u0107": {
             "Name": "Aleksandar Raki\u0107",
@@ -1745,7 +1746,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
-            "Rank": "10",
+            "Rank": "9",
             "Selected_Date": "2026-01-03T05:29:44.234925Z"
         },
         "Ante Delija": {
@@ -1760,7 +1761,7 @@
             "Fight_Time": "03:01",
             "Fight_Time_Seconds": 181,
             "Division": "Heavyweight",
-            "Rank": "9"
+            "Rank": "10"
         },
         "Marcin Tybura": {
             "Name": "Marcin Tybura",
@@ -1788,7 +1789,7 @@
             "Fight_Time": "08:01",
             "Fight_Time_Seconds": 481,
             "Division": "Heavyweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Tai Tuivasa": {
             "Name": "Tai Tuivasa",
@@ -1802,7 +1803,7 @@
             "Fight_Time": "07:14",
             "Fight_Time_Seconds": 434,
             "Division": "Heavyweight",
-            "Rank": "12"
+            "Rank": "15"
         },
         "Mick Parkin": {
             "Name": "Mick Parkin",
@@ -1844,7 +1845,7 @@
             "Fight_Time": "01:02",
             "Fight_Time_Seconds": 62,
             "Division": "Heavyweight",
-            "Rank": "15"
+            "Rank": "11"
         },
         "Payton Talbott": {
             "Name": "Payton Talbott",
@@ -1901,7 +1902,7 @@
             "Fight_Time": "02:29",
             "Fight_Time_Seconds": 149,
             "Division": "Lightweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2025-12-17T19:53:29.355986Z"
         },
         "Far\u00e8s Ziam": {
