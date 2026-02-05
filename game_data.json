@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Volkan Oezdemir",
-        "Profile_URL": "https://www.ufc.com/athlete/volkan-oezdemir",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/OEZDEMIR_VOLKAN_11-22.png?itok=J1sXHi4D",
-        "Record": "21-8-0 (W-L-D)",
-        "SLpM": "4.99",
-        "SApM": "4.19",
-        "TD_Avg": "0.50",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "09:25",
-        "Fight_Time_Seconds": 565,
+        "Name": "Aleksandar Raki\u0107",
+        "Profile_URL": "https://www.ufc.com/athlete/aleksandar-rakic",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/RAKIC_ALEKSANDAR_10-25.png?itok=NywfyYoI",
+        "Record": "14-6-0 (W-L-D)",
+        "SLpM": "4.13",
+        "SApM": "2.86",
+        "TD_Avg": "0.64",
+        "Sub_Avg": "0.13",
+        "Fight_Time": "10:41",
+        "Fight_Time_Seconds": 641,
         "Division": "Light Heavyweight",
-        "Rank": "8",
-        "Selected_Date": "2026-02-04T05:56:28.095665Z"
+        "Rank": "11",
+        "Selected_Date": "2026-02-05T06:02:29.114218Z"
     },
     "past_fighters": [
-        "Movsar Evloev",
         "Brandon Moreno",
         "Kyoji Horiguchi",
         "Ciryl Gane",
         "Bruno Silva",
         "Reinier de Ridder",
-        "Kyler Phillips"
+        "Kyler Phillips",
+        "Volkan Oezdemir"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1563,7 +1563,7 @@
             "Fight_Time_Seconds": 641,
             "Division": "Light Heavyweight",
             "Rank": "11",
-            "Selected_Date": "2025-12-22T05:48:46.045480Z"
+            "Selected_Date": "2026-02-05T06:02:29.114218Z"
         },
         "Bogdan Guskov": {
             "Name": "Bogdan Guskov",
