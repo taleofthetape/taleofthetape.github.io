@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Yair Rodriguez",
-        "Profile_URL": "https://www.ufc.com/athlete/yair-rodriguez",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/RODRIGUEZ_YAIR_04-12.png?itok=dwPkjAj0",
-        "Record": "21-5-0 (W-L-D)",
-        "SLpM": "4.65",
-        "SApM": "3.78",
-        "TD_Avg": "0.71",
-        "Sub_Avg": "0.64",
-        "Fight_Time": "13:14",
-        "Fight_Time_Seconds": 794,
-        "Division": "Featherweight",
-        "Rank": "4",
-        "Selected_Date": "2026-02-07T05:50:33.102348Z"
+        "Name": "Marcus McGhee",
+        "Profile_URL": "https://www.ufc.com/athlete/marcus-mcghee",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/YAN_PETR_07-26.png?itok=0GxEGc8G",
+        "Record": "10-2-0 (W-L-D)",
+        "SLpM": "5.50",
+        "SApM": "3.64",
+        "TD_Avg": "0.31",
+        "Sub_Avg": "0.31",
+        "Fight_Time": "09:34",
+        "Fight_Time_Seconds": 574,
+        "Division": "Bantamweight",
+        "Rank": "15",
+        "Selected_Date": "2026-02-08T06:02:16.394119Z"
     },
     "past_fighters": [
-        "Ciryl Gane",
         "Bruno Silva",
         "Reinier de Ridder",
         "Kyler Phillips",
         "Volkan Oezdemir",
         "Aleksandar Raki\u0107",
-        "Michael Morales"
+        "Michael Morales",
+        "Yair Rodriguez"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -662,7 +662,8 @@
             "Fight_Time": "09:34",
             "Fight_Time_Seconds": 574,
             "Division": "Bantamweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-02-08T06:02:16.394119Z"
         },
         "Movsar Evloev": {
             "Name": "Movsar Evloev",
