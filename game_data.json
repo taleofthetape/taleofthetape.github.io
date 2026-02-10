@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Justin Gaethje",
-        "Profile_URL": "https://www.ufc.com/athlete/justin-gaethje",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GAETHJE_JUSTIN_03-08.png?itok=Zvg-a91R",
-        "Record": "27-5-0 (W-L-D)",
-        "SLpM": "6.59",
-        "SApM": "7.18",
-        "TD_Avg": "0.10",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:14",
-        "Fight_Time_Seconds": 674,
-        "Division": "Lightweight",
-        "Rank": "1",
-        "Selected_Date": "2026-02-09T06:10:24.366020Z"
+        "Name": "Youssef Zalal",
+        "Profile_URL": "https://www.ufc.com/athlete/youssef-zalal",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ZALAL_YOUSSEF_10-04.png?itok=MzdCHbGU",
+        "Record": "18-5-1 (W-L-D)",
+        "SLpM": "3.03",
+        "SApM": "1.78",
+        "TD_Avg": "2.17",
+        "Sub_Avg": "1.41",
+        "Fight_Time": "11:32",
+        "Fight_Time_Seconds": 692,
+        "Division": "Featherweight",
+        "Rank": "8",
+        "Selected_Date": "2026-02-10T06:14:12.018791Z"
     },
     "past_fighters": [
-        "Reinier de Ridder",
         "Kyler Phillips",
         "Volkan Oezdemir",
         "Aleksandar Raki\u0107",
         "Michael Morales",
         "Yair Rodriguez",
-        "Marcus McGhee"
+        "Marcus McGhee",
+        "Justin Gaethje"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -764,7 +764,8 @@
             "Fight_Time": "11:32",
             "Fight_Time_Seconds": 692,
             "Division": "Featherweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-02-10T06:14:12.018791Z"
         },
         "Steve Garcia": {
             "Name": "Steve Garcia",
