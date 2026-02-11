@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Youssef Zalal",
-        "Profile_URL": "https://www.ufc.com/athlete/youssef-zalal",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ZALAL_YOUSSEF_10-04.png?itok=MzdCHbGU",
-        "Record": "18-5-1 (W-L-D)",
-        "SLpM": "3.03",
-        "SApM": "1.78",
-        "TD_Avg": "2.17",
-        "Sub_Avg": "1.41",
-        "Fight_Time": "11:32",
-        "Fight_Time_Seconds": 692,
+        "Name": "Diego Lopes",
+        "Profile_URL": "https://www.ufc.com/athlete/diego-lopes",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/LOPES_DIEGO_09-13.png?itok=hlucGKEl",
+        "Record": "27-7-0 (W-L-D)",
+        "SLpM": "4.10",
+        "SApM": "4.72",
+        "TD_Avg": "0.79",
+        "Sub_Avg": "1.74",
+        "Fight_Time": "10:31",
+        "Fight_Time_Seconds": 631,
         "Division": "Featherweight",
-        "Rank": "8",
-        "Selected_Date": "2026-02-10T06:14:12.018791Z"
+        "Rank": "2",
+        "Selected_Date": "2026-02-11T06:11:23.603754Z"
     },
     "past_fighters": [
-        "Kyler Phillips",
         "Volkan Oezdemir",
         "Aleksandar Raki\u0107",
         "Michael Morales",
         "Yair Rodriguez",
         "Marcus McGhee",
-        "Justin Gaethje"
+        "Justin Gaethje",
+        "Youssef Zalal"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -263,7 +263,7 @@
             "Fight_Time": "17:08",
             "Fight_Time_Seconds": 1028,
             "Division": "Flyweight",
-            "Rank": "5",
+            "Rank": "6",
             "Selected_Date": "2026-01-28T05:36:27.036410Z"
         },
         "Brandon Royval": {
@@ -292,7 +292,7 @@
             "Fight_Time": "14:25",
             "Fight_Time_Seconds": 865,
             "Division": "Flyweight",
-            "Rank": "6"
+            "Rank": "7"
         },
         "Tatsuro Taira": {
             "Name": "Tatsuro Taira",
@@ -334,7 +334,7 @@
             "Fight_Time": "12:58",
             "Fight_Time_Seconds": 778,
             "Division": "Flyweight",
-            "Rank": "7"
+            "Rank": "8"
         },
         "Kyoji Horiguchi": {
             "Name": "Kyoji Horiguchi",
@@ -348,7 +348,7 @@
             "Fight_Time": "13:53",
             "Fight_Time_Seconds": 833,
             "Division": "Flyweight",
-            "Rank": "8",
+            "Rank": "5",
             "Selected_Date": "2026-01-29T05:52:09.372652Z"
         },
         "Tim Elliott": {
@@ -562,7 +562,7 @@
             "Fight_Time": "13:33",
             "Fight_Time_Seconds": 813,
             "Division": "Bantamweight",
-            "Rank": "8"
+            "Rank": "9"
         },
         "Mario Bautista": {
             "Name": "Mario Bautista",
@@ -576,7 +576,7 @@
             "Fight_Time": "10:08",
             "Fight_Time_Seconds": 608,
             "Division": "Bantamweight",
-            "Rank": "9"
+            "Rank": "8"
         },
         "Henry Cejudo": {
             "Name": "Henry Cejudo",
@@ -633,7 +633,7 @@
             "Fight_Time": "12:33",
             "Fight_Time_Seconds": 753,
             "Division": "Bantamweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Kyler Phillips": {
             "Name": "Kyler Phillips",
@@ -693,7 +693,7 @@
             "Fight_Time_Seconds": 631,
             "Division": "Featherweight",
             "Rank": "2",
-            "Selected_Date": "2026-01-26T05:38:25.613322Z"
+            "Selected_Date": "2026-02-11T06:11:23.603754Z"
         },
         "Yair Rodriguez": {
             "Name": "Yair Rodriguez",
@@ -1180,7 +1180,7 @@
             "Fight_Time": "07:48",
             "Fight_Time_Seconds": 468,
             "Division": "Welterweight",
-            "Rank": "11"
+            "Rank": "10"
         },
         "Gilbert Burns": {
             "Name": "Gilbert Burns",
@@ -1194,7 +1194,7 @@
             "Fight_Time": "12:21",
             "Fight_Time_Seconds": 741,
             "Division": "Welterweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2025-12-24T05:49:28.670986Z"
         },
         "Colby Covington": {
@@ -1209,7 +1209,7 @@
             "Fight_Time": "16:57",
             "Fight_Time_Seconds": 1017,
             "Division": "Welterweight",
-            "Rank": "13"
+            "Rank": "14"
         },
         "Geoff Neal": {
             "Name": "Geoff Neal",
@@ -1237,7 +1237,7 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Welterweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2025-12-26T05:46:32.708613Z"
         },
         "Nassourdine Imavov": {
@@ -1383,7 +1383,7 @@
             "Fight_Time": "10:44",
             "Fight_Time_Seconds": 644,
             "Division": "Welterweight",
-            "Rank": "15"
+            "Rank": "14"
         },
         "Roman Dolidze": {
             "Name": "Roman Dolidze",
@@ -1619,7 +1619,7 @@
             "Sub_Avg": "75\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
-            "Rank": "14"
+            "Rank": "15"
         },
         "Alonzo Menifield": {
             "Name": "Alonzo Menifield",
@@ -1721,7 +1721,7 @@
             "Fight_Time": "07:35",
             "Fight_Time_Seconds": 455,
             "Division": "Heavyweight",
-            "Rank": "6"
+            "Rank": "8"
         },
         "Serghei Spivac": {
             "Name": "Serghei Spivac",
@@ -1749,7 +1749,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
-            "Rank": "9",
+            "Rank": "11",
             "Selected_Date": "2026-01-03T05:29:44.234925Z"
         },
         "Ante Delija": {
@@ -1764,7 +1764,7 @@
             "Fight_Time": "03:01",
             "Fight_Time_Seconds": 181,
             "Division": "Heavyweight",
-            "Rank": "10"
+            "Rank": "9"
         },
         "Marcin Tybura": {
             "Name": "Marcin Tybura",
@@ -1778,7 +1778,7 @@
             "Fight_Time": "10:51",
             "Fight_Time_Seconds": 651,
             "Division": "Heavyweight",
-            "Rank": "8"
+            "Rank": "10"
         },
         "Shamil Gaziev": {
             "Name": "Shamil Gaziev",
@@ -1792,7 +1792,7 @@
             "Fight_Time": "08:01",
             "Fight_Time_Seconds": 481,
             "Division": "Heavyweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Tai Tuivasa": {
             "Name": "Tai Tuivasa",
@@ -1820,7 +1820,7 @@
             "Fight_Time": "10:53",
             "Fight_Time_Seconds": 653,
             "Division": "Heavyweight",
-            "Rank": "13"
+            "Rank": "15"
         },
         "Valter Walker": {
             "Name": "Valter Walker",
@@ -1848,7 +1848,7 @@
             "Fight_Time": "01:02",
             "Fight_Time_Seconds": 62,
             "Division": "Heavyweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Payton Talbott": {
             "Name": "Payton Talbott",
@@ -1862,7 +1862,7 @@
             "Fight_Time": "10:57",
             "Fight_Time_Seconds": 657,
             "Division": "Bantamweight",
-            "Rank": "12"
+            "Rank": "11"
         },
         "Montel Jackson": {
             "Name": "Montel Jackson",
@@ -1949,6 +1949,34 @@
             "Fight_Time_Seconds": 387,
             "Division": "Middleweight",
             "Rank": "15"
+        },
+        "Dustin Jacoby": {
+            "Name": "Dustin Jacoby",
+            "Profile_URL": "https://www.ufc.com/athlete/dustin-jacoby",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/JACOBY_DUSTIN_02-07.png?itok=KyBLR6Te",
+            "Record": "22-9-1 (W-L-D)",
+            "SLpM": "5.40",
+            "SApM": "3.92",
+            "TD_Avg": "0.32",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "09:58",
+            "Fight_Time_Seconds": 598,
+            "Division": "Light Heavyweight",
+            "Rank": "14"
+        },
+        "Rizvan Kuniev": {
+            "Name": "Rizvan Kuniev",
+            "Profile_URL": "https://www.ufc.com/athlete/rizvan-kuniev",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/KUNIEV_RIZVAN_06-21.png?itok=tDA5gg40",
+            "Record": "12-3-1 (W-L-D)",
+            "SLpM": "3.94",
+            "SApM": "2.33",
+            "TD_Avg": "0.98",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "11:30",
+            "Fight_Time_Seconds": 690,
+            "Division": "Heavyweight",
+            "Rank": "6"
         }
     }
 }
