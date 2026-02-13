@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Belal Muhammad",
-        "Profile_URL": "https://www.ufc.com/athlete/belal-muhammad",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MUHAMMAD_BELAL_11-22.png?itok=TbE17sj_",
-        "Record": "24-5-0 (W-L-D)",
-        "SLpM": "4.43",
-        "SApM": "3.82",
-        "TD_Avg": "2.14",
-        "Sub_Avg": "0.14",
-        "Fight_Time": "15:22",
-        "Fight_Time_Seconds": 922,
-        "Division": "Welterweight",
-        "Rank": "4",
-        "Selected_Date": "2026-02-12T06:08:25.823081Z"
+        "Name": "Alex Perez",
+        "Profile_URL": "https://www.ufc.com/athlete/alex-perez",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PEREZ_ALEX_11-22.png?itok=y9_lNwiV",
+        "Record": "25-10-0 (W-L-D)",
+        "SLpM": "4.16",
+        "SApM": "3.22",
+        "TD_Avg": "2.28",
+        "Sub_Avg": "0.76",
+        "Fight_Time": "07:03",
+        "Fight_Time_Seconds": 423,
+        "Division": "Flyweight",
+        "Rank": "10",
+        "Selected_Date": "2026-02-13T06:04:16.452067Z"
     },
     "past_fighters": [
-        "Aleksandar Raki\u0107",
         "Michael Morales",
         "Yair Rodriguez",
         "Marcus McGhee",
         "Justin Gaethje",
         "Youssef Zalal",
-        "Diego Lopes"
+        "Diego Lopes",
+        "Belal Muhammad"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -392,7 +392,8 @@
             "Fight_Time": "07:03",
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
-            "Rank": "10"
+            "Rank": "10",
+            "Selected_Date": "2026-02-13T06:04:16.452067Z"
         },
         "Tagir Ulanbekov": {
             "Name": "Tagir Ulanbekov",
