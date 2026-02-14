@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alex Perez",
-        "Profile_URL": "https://www.ufc.com/athlete/alex-perez",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PEREZ_ALEX_11-22.png?itok=y9_lNwiV",
-        "Record": "25-10-0 (W-L-D)",
-        "SLpM": "4.16",
-        "SApM": "3.22",
-        "TD_Avg": "2.28",
-        "Sub_Avg": "0.76",
-        "Fight_Time": "07:03",
-        "Fight_Time_Seconds": 423,
-        "Division": "Flyweight",
-        "Rank": "10",
-        "Selected_Date": "2026-02-13T06:04:16.452067Z"
+        "Name": "Magomed Ankalaev",
+        "Profile_URL": "https://www.ufc.com/athlete/magomed-ankalaev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/ANKALAEV_MAGOMED_03-08.png?itok=ojT4l7_3",
+        "Record": "21-2-1 (W-L-D)",
+        "SLpM": "3.65",
+        "SApM": "2.59",
+        "TD_Avg": "0.79",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:49",
+        "Fight_Time_Seconds": 709,
+        "Division": "Light Heavyweight",
+        "Rank": "1",
+        "Selected_Date": "2026-02-14T05:52:35.744948Z"
     },
     "past_fighters": [
-        "Michael Morales",
         "Yair Rodriguez",
         "Marcus McGhee",
         "Justin Gaethje",
         "Youssef Zalal",
         "Diego Lopes",
-        "Belal Muhammad"
+        "Belal Muhammad",
+        "Alex Perez"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -192,7 +192,7 @@
             "Fight_Time_Seconds": 709,
             "Division": "Light Heavyweight",
             "Rank": "1",
-            "Selected_Date": "2025-12-18T05:48:22.989417Z"
+            "Selected_Date": "2026-02-14T05:52:35.744948Z"
         },
         "Arman Tsarukyan": {
             "Name": "Arman Tsarukyan",
