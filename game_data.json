@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Aljamain Sterling",
-        "Profile_URL": "https://www.ufc.com/athlete/aljamain-sterling",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/STERLING_ALJAMAIN_08-23.png?itok=lhWe7zsC",
-        "Record": "25-5-0 (W-L-D)",
-        "SLpM": "4.45",
-        "SApM": "2.21",
-        "TD_Avg": "2.45",
-        "Sub_Avg": "0.64",
-        "Fight_Time": "13:54",
-        "Fight_Time_Seconds": 834,
-        "Division": "Featherweight",
-        "Rank": "5",
-        "Selected_Date": "2026-02-15T06:00:29.754339Z"
+        "Name": "Michael Chandler",
+        "Profile_URL": "https://www.ufc.com/athlete/michael-chandler",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHANDLER_MICHAEL_04-12.png?itok=5kKJoIMh",
+        "Record": "23-10-0 (W-L-D)",
+        "SLpM": "4.04",
+        "SApM": "4.52",
+        "TD_Avg": "1.96",
+        "Sub_Avg": "0.56",
+        "Fight_Time": "09:37",
+        "Fight_Time_Seconds": 577,
+        "Division": "Lightweight",
+        "Rank": "13",
+        "Selected_Date": "2026-02-16T06:09:21.613546Z"
     },
     "past_fighters": [
-        "Marcus McGhee",
         "Justin Gaethje",
         "Youssef Zalal",
         "Diego Lopes",
         "Belal Muhammad",
         "Alex Perez",
-        "Magomed Ankalaev"
+        "Magomed Ankalaev",
+        "Aljamain Sterling"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -996,7 +996,7 @@
             "Fight_Time_Seconds": 577,
             "Division": "Lightweight",
             "Rank": "13",
-            "Selected_Date": "2025-12-17T18:24:30.365576Z"
+            "Selected_Date": "2026-02-16T06:09:21.613546Z"
         },
         "Beneil Dariush": {
             "Name": "Beneil Dariush",
