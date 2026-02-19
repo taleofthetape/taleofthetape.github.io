@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Vinicius Oliveira",
-        "Profile_URL": "https://www.ufc.com/athlete/vinicius-oliveira",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/OLIVEIRA_VINICIUS_07-19.png?itok=VrW5MdJe",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "5.28",
-        "SApM": "2.89",
-        "TD_Avg": "1.67",
-        "Sub_Avg": "0.24",
-        "Fight_Time": "12:33",
-        "Fight_Time_Seconds": 753,
-        "Division": "Bantamweight",
-        "Rank": "12",
-        "Selected_Date": "2026-02-18T06:05:43.847676Z"
+        "Name": "Jailton Almeida",
+        "Profile_URL": "https://www.ufc.com/athlete/jailton-almeida",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ALMEIDA_JAILTON_10-25.png?itok=BPFgM4Bw",
+        "Record": "22-4-0 (W-L-D)",
+        "SLpM": "2.25",
+        "SApM": "1.02",
+        "TD_Avg": "6.66",
+        "Sub_Avg": "1.98",
+        "Fight_Time": "07:35",
+        "Fight_Time_Seconds": 455,
+        "Division": "Heavyweight",
+        "Rank": "8",
+        "Selected_Date": "2026-02-19T06:04:16.387077Z"
     },
     "past_fighters": [
-        "Diego Lopes",
         "Belal Muhammad",
         "Alex Perez",
         "Magomed Ankalaev",
         "Aljamain Sterling",
         "Michael Chandler",
-        "Marvin Vettori"
+        "Marvin Vettori",
+        "Vinicius Oliveira"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1726,7 +1726,8 @@
             "Fight_Time": "07:35",
             "Fight_Time_Seconds": 455,
             "Division": "Heavyweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-02-19T06:04:16.387077Z"
         },
         "Serghei Spivac": {
             "Name": "Serghei Spivac",
@@ -1916,7 +1917,7 @@
         "Far\u00e8s Ziam": {
             "Name": "Far\u00e8s Ziam",
             "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=Qqly7-wP",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=ilBGmT0S",
             "Record": "18-4-0 (W-L-D)",
             "SLpM": "2.87",
             "SApM": "1.53",
