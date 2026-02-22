@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Brandon Royval",
-        "Profile_URL": "https://www.ufc.com/athlete/brandon-royval",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/ROYVAL_BRANDON_06-28.png?itok=Kh7CEC_M",
-        "Record": "17-8-0 (W-L-D)",
-        "SLpM": "5.55",
-        "SApM": "4.23",
-        "TD_Avg": "0.67",
-        "Sub_Avg": "1.11",
-        "Fight_Time": "12:18",
-        "Fight_Time_Seconds": 738,
-        "Division": "Flyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-02-21T05:49:53.577378Z"
+        "Name": "Aleksandar Raki\u0107",
+        "Profile_URL": "https://www.ufc.com/athlete/aleksandar-rakic",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/RAKIC_ALEKSANDAR_10-25.png?itok=NywfyYoI",
+        "Record": "14-6-0 (W-L-D)",
+        "SLpM": "4.13",
+        "SApM": "2.86",
+        "TD_Avg": "0.64",
+        "Sub_Avg": "0.13",
+        "Fight_Time": "10:41",
+        "Fight_Time_Seconds": 641,
+        "Division": "Light Heavyweight",
+        "Rank": "11",
+        "Selected_Date": "2026-02-22T05:57:47.969000Z"
     },
     "past_fighters": [
-        "Magomed Ankalaev",
         "Aljamain Sterling",
         "Michael Chandler",
         "Marvin Vettori",
         "Vinicius Oliveira",
         "Jailton Almeida",
-        "Shavkat Rakhmonov"
+        "Shavkat Rakhmonov",
+        "Brandon Royval"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1573,7 +1573,7 @@
             "Fight_Time_Seconds": 641,
             "Division": "Light Heavyweight",
             "Rank": "11",
-            "Selected_Date": "2026-02-05T06:02:29.114218Z"
+            "Selected_Date": "2026-02-22T05:57:47.969000Z"
         },
         "Bogdan Guskov": {
             "Name": "Bogdan Guskov",
