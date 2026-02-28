@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Montel Jackson",
-        "Profile_URL": "https://www.ufc.com/athlete/montel-jackson",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/JACKSON_MONTEL_10-11.png?itok=0ZwOrQZp",
-        "Record": "15-3-0 (W-L-D)",
-        "SLpM": "3.09",
-        "SApM": "1.40",
-        "TD_Avg": "3.00",
-        "Sub_Avg": "0.32",
-        "Fight_Time": "10:46",
-        "Fight_Time_Seconds": 646,
-        "Division": "Bantamweight",
-        "Rank": "15",
-        "Selected_Date": "2026-02-27T05:58:38.324358Z"
+        "Name": "Leon Edwards",
+        "Profile_URL": "https://www.ufc.com/athlete/leon-edwards",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/EDWARDS_LEON_11-15.png?itok=vnOuYzwH",
+        "Record": "22-6-0 (W-L-D)",
+        "SLpM": "2.60",
+        "SApM": "2.44",
+        "TD_Avg": "1.25",
+        "Sub_Avg": "0.36",
+        "Fight_Time": "16:47",
+        "Fight_Time_Seconds": 1007,
+        "Division": "Welterweight",
+        "Rank": "8",
+        "Selected_Date": "2026-02-28T05:38:38.775430Z"
     },
     "past_fighters": [
-        "Shavkat Rakhmonov",
         "Brandon Royval",
         "Aleksandar Raki\u0107",
         "Khalil Rountree Jr.",
         "Dustin Jacoby",
         "Diego Lopes",
-        "Valter Walker"
+        "Valter Walker",
+        "Montel Jackson"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1158,7 +1158,8 @@
             "Fight_Time": "16:47",
             "Fight_Time_Seconds": 1007,
             "Division": "Welterweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-02-28T05:38:38.775430Z"
         },
         "Joaquin Buckley": {
             "Name": "Joaquin Buckley",
