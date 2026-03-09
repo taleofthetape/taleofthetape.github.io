@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Islam Makhachev",
-        "Profile_URL": "https://www.ufc.com/athlete/islam-makhachev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/MAKHACHEV_ISLAM_BELT_01-18.png?itok=lj6jqPw9",
-        "Record": "28-1-0 (W-L-D)",
-        "SLpM": "2.45",
-        "SApM": "1.45",
-        "TD_Avg": "3.10",
-        "Sub_Avg": "0.98",
-        "Fight_Time": "11:01",
-        "Fight_Time_Seconds": 661,
+        "Name": "Gilbert Burns",
+        "Profile_URL": "https://www.ufc.com/athlete/gilbert-burns",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/BURNS_GILBERT_05-17.png?itok=13uv-egH",
+        "Record": "22-9-0 (W-L-D)",
+        "SLpM": "3.15",
+        "SApM": "3.64",
+        "TD_Avg": "2.12",
+        "Sub_Avg": "0.46",
+        "Fight_Time": "12:21",
+        "Fight_Time_Seconds": 741,
         "Division": "Welterweight",
-        "Rank": "C",
-        "Selected_Date": "2026-03-08T05:51:18.155303Z"
+        "Rank": "11",
+        "Selected_Date": "2026-03-09T06:02:56.901023Z"
     },
     "past_fighters": [
-        "Marcus McGhee",
         "Alexander Volkov",
         "Gregory Rodrigues",
         "Charles Oliveira",
         "Marlon Vera",
         "Tagir Ulanbekov",
-        "Vitor Petrino"
+        "Vitor Petrino",
+        "Islam Makhachev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -949,7 +949,7 @@
         "Beno\u00eet Saint Denis": {
             "Name": "Beno\u00eet Saint Denis",
             "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=M8Grs8-5",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=5WHkfQZi",
             "Record": "17-3-0 (W-L-D)",
             "SLpM": "5.62",
             "SApM": "4.09",
@@ -1206,7 +1206,7 @@
             "Fight_Time_Seconds": 741,
             "Division": "Welterweight",
             "Rank": "11",
-            "Selected_Date": "2025-12-24T05:49:28.670986Z"
+            "Selected_Date": "2026-03-09T06:02:56.901023Z"
         },
         "Colby Covington": {
             "Name": "Colby Covington",
