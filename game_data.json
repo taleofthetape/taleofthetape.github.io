@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Gilbert Burns",
-        "Profile_URL": "https://www.ufc.com/athlete/gilbert-burns",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/BURNS_GILBERT_05-17.png?itok=13uv-egH",
-        "Record": "22-9-0 (W-L-D)",
-        "SLpM": "3.15",
+        "Name": "Marcus McGhee",
+        "Profile_URL": "https://www.ufc.com/athlete/marcus-mcghee",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/YAN_PETR_07-26.png?itok=0GxEGc8G",
+        "Record": "10-2-0 (W-L-D)",
+        "SLpM": "5.50",
         "SApM": "3.64",
-        "TD_Avg": "2.12",
-        "Sub_Avg": "0.46",
-        "Fight_Time": "12:21",
-        "Fight_Time_Seconds": 741,
-        "Division": "Welterweight",
-        "Rank": "11",
-        "Selected_Date": "2026-03-09T06:02:56.901023Z"
+        "TD_Avg": "0.31",
+        "Sub_Avg": "0.31",
+        "Fight_Time": "09:34",
+        "Fight_Time_Seconds": 574,
+        "Division": "Bantamweight",
+        "Rank": "15",
+        "Selected_Date": "2026-03-10T05:53:41.325886Z"
     },
     "past_fighters": [
-        "Alexander Volkov",
         "Gregory Rodrigues",
         "Charles Oliveira",
         "Marlon Vera",
         "Tagir Ulanbekov",
         "Vitor Petrino",
-        "Islam Makhachev"
+        "Islam Makhachev",
+        "Gilbert Burns"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -671,7 +671,7 @@
             "Fight_Time_Seconds": 574,
             "Division": "Bantamweight",
             "Rank": "15",
-            "Selected_Date": "2026-03-01T05:56:20.369080Z"
+            "Selected_Date": "2026-03-10T05:53:41.325886Z"
         },
         "Movsar Evloev": {
             "Name": "Movsar Evloev",
