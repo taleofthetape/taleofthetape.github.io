@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "David Martinez",
-        "Profile_URL": "https://www.ufc.com/athlete/david-martinez",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/MARTINEZ_DAVID_09-13.png?itok=2GGMvqOr",
-        "Record": "13-1-0 (W-L-D)",
-        "SLpM": "4.85",
-        "SApM": "2.95",
-        "TD_Avg": "0.00",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:33",
-        "Fight_Time_Seconds": 693,
-        "Division": "Bantamweight",
-        "Rank": "9",
-        "Selected_Date": "2026-03-11T05:56:16.352893Z"
+        "Name": "Patricio Pitbull",
+        "Profile_URL": "https://www.ufc.com/athlete/patricio-pitbull-freire",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/PITBULL_PATRICIO_09-06.png?itok=g_9ZcRvc",
+        "Record": "37-8-0 (W-L-D)",
+        "SLpM": "2.68",
+        "SApM": "4.23",
+        "TD_Avg": "1.49",
+        "Sub_Avg": "0.56",
+        "Fight_Time": "16:04",
+        "Fight_Time_Seconds": 964,
+        "Division": "Featherweight",
+        "Rank": "13",
+        "Selected_Date": "2026-03-12T05:58:13.784485Z"
     },
     "past_fighters": [
-        "Charles Oliveira",
         "Marlon Vera",
         "Tagir Ulanbekov",
         "Vitor Petrino",
         "Islam Makhachev",
         "Gilbert Burns",
-        "Marcus McGhee"
+        "Marcus McGhee",
+        "David Martinez"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -845,7 +845,8 @@
             "Fight_Time": "16:04",
             "Fight_Time_Seconds": 964,
             "Division": "Featherweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-03-12T05:58:13.784485Z"
         },
         "Dan Ige": {
             "Name": "Dan Ige",
