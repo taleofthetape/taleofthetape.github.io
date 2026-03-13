@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Patricio Pitbull",
-        "Profile_URL": "https://www.ufc.com/athlete/patricio-pitbull-freire",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/PITBULL_PATRICIO_09-06.png?itok=g_9ZcRvc",
-        "Record": "37-8-0 (W-L-D)",
-        "SLpM": "2.68",
-        "SApM": "4.23",
-        "TD_Avg": "1.49",
-        "Sub_Avg": "0.56",
-        "Fight_Time": "16:04",
-        "Fight_Time_Seconds": 964,
-        "Division": "Featherweight",
-        "Rank": "13",
-        "Selected_Date": "2026-03-12T05:58:13.784485Z"
+        "Name": "Asu Almabayev",
+        "Profile_URL": "https://www.ufc.com/athlete/assu-almabayev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ALMABAYEV_ASU_11-22.png?itok=R-gX5swq",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "2.31",
+        "SApM": "1.99",
+        "TD_Avg": "4.46",
+        "Sub_Avg": "1.49",
+        "Fight_Time": "12:58",
+        "Fight_Time_Seconds": 778,
+        "Division": "Flyweight",
+        "Rank": "7",
+        "Selected_Date": "2026-03-13T05:56:38.381760Z"
     },
     "past_fighters": [
-        "Marlon Vera",
         "Tagir Ulanbekov",
         "Vitor Petrino",
         "Islam Makhachev",
         "Gilbert Burns",
         "Marcus McGhee",
-        "David Martinez"
+        "David Martinez",
+        "Patricio Pitbull"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -338,7 +338,8 @@
             "Fight_Time": "12:58",
             "Fight_Time_Seconds": 778,
             "Division": "Flyweight",
-            "Rank": "7"
+            "Rank": "7",
+            "Selected_Date": "2026-03-13T05:56:38.381760Z"
         },
         "Kyoji Horiguchi": {
             "Name": "Kyoji Horiguchi",
