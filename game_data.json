@@ -1,27 +1,23 @@
 {
     "daily_fighter": {
-        "Name": "Asu Almabayev",
-        "Profile_URL": "https://www.ufc.com/athlete/assu-almabayev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ALMABAYEV_ASU_11-22.png?itok=R-gX5swq",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "2.31",
-        "SApM": "1.99",
-        "TD_Avg": "4.46",
-        "Sub_Avg": "1.49",
-        "Fight_Time": "12:58",
-        "Fight_Time_Seconds": 778,
-        "Division": "Flyweight",
-        "Rank": "7",
-        "Selected_Date": "2026-03-13T05:56:38.381760Z"
+        "Name": "Jack Della Maddalena",
+        "Profile_URL": "https://www.ufc.com/athlete/jack-della-maddalena",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/DELLA_MADDALENA_JACK_05-10.png?itok=uiP2z2FD",
+        "Record": "18-3-0 (W-L-D)",
+        "SLpM": "Standing \n      0 (0 %)",
+        "Fight_Time_Seconds": 0,
+        "Division": "Welterweight",
+        "Rank": "1",
+        "Selected_Date": "2026-03-14T05:53:35.784276Z"
     },
     "past_fighters": [
-        "Tagir Ulanbekov",
         "Vitor Petrino",
         "Islam Makhachev",
         "Gilbert Burns",
         "Marcus McGhee",
         "David Martinez",
-        "Patricio Pitbull"
+        "Patricio Pitbull",
+        "Asu Almabayev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -178,7 +174,7 @@
             "Fight_Time_Seconds": 0,
             "Division": "Welterweight",
             "Rank": "1",
-            "Selected_Date": "2026-01-24T05:29:20.466251Z"
+            "Selected_Date": "2026-03-14T05:53:35.784276Z"
         },
         "Magomed Ankalaev": {
             "Name": "Magomed Ankalaev",
