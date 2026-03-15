@@ -1,23 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jack Della Maddalena",
-        "Profile_URL": "https://www.ufc.com/athlete/jack-della-maddalena",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-05/DELLA_MADDALENA_JACK_05-10.png?itok=uiP2z2FD",
-        "Record": "18-3-0 (W-L-D)",
-        "SLpM": "Standing \n      0 (0 %)",
-        "Fight_Time_Seconds": 0,
-        "Division": "Welterweight",
-        "Rank": "1",
-        "Selected_Date": "2026-03-14T05:53:35.784276Z"
+        "Name": "Paulo Costa",
+        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
+        "Record": "15-4-0 (W-L-D)",
+        "SLpM": "6.26",
+        "SApM": "6.20",
+        "TD_Avg": "0.32",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "12:46",
+        "Fight_Time_Seconds": 766,
+        "Division": "Middleweight",
+        "Rank": "13",
+        "Selected_Date": "2026-03-15T06:07:24.222434Z"
     },
     "past_fighters": [
-        "Vitor Petrino",
         "Islam Makhachev",
         "Gilbert Burns",
         "Marcus McGhee",
         "David Martinez",
         "Patricio Pitbull",
-        "Asu Almabayev"
+        "Asu Almabayev",
+        "Jack Della Maddalena"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1422,7 +1426,8 @@
             "Fight_Time": "12:46",
             "Fight_Time_Seconds": 766,
             "Division": "Middleweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-03-15T06:07:24.222434Z"
         },
         "Marvin Vettori": {
             "Name": "Marvin Vettori",
