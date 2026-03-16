@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Paulo Costa",
-        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
-        "Record": "15-4-0 (W-L-D)",
-        "SLpM": "6.26",
-        "SApM": "6.20",
-        "TD_Avg": "0.32",
+        "Name": "Rafael Fiziev",
+        "Profile_URL": "https://www.ufc.com/athlete/rafael-fiziev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/FIZIEV_RAFAEL_06-21.png?itok=PYGsqBQt",
+        "Record": "13-4-0 (W-L-D)",
+        "SLpM": "4.77",
+        "SApM": "4.77",
+        "TD_Avg": "0.89",
         "Sub_Avg": "0.00",
-        "Fight_Time": "12:46",
-        "Fight_Time_Seconds": 766,
-        "Division": "Middleweight",
-        "Rank": "13",
-        "Selected_Date": "2026-03-15T06:07:24.222434Z"
+        "Fight_Time": "12:17",
+        "Fight_Time_Seconds": 737,
+        "Division": "Lightweight",
+        "Rank": "10",
+        "Selected_Date": "2026-03-16T06:22:17.539616Z"
     },
     "past_fighters": [
-        "Islam Makhachev",
         "Gilbert Burns",
         "Marcus McGhee",
         "David Martinez",
         "Patricio Pitbull",
         "Asu Almabayev",
-        "Jack Della Maddalena"
+        "Jack Della Maddalena",
+        "Paulo Costa"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -976,7 +976,7 @@
             "Fight_Time_Seconds": 737,
             "Division": "Lightweight",
             "Rank": "10",
-            "Selected_Date": "2025-12-31T05:33:00.280979Z"
+            "Selected_Date": "2026-03-16T06:22:17.539616Z"
         },
         "Renato Moicano": {
             "Name": "Renato Moicano",
