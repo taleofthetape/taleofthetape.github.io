@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Rafael Fiziev",
-        "Profile_URL": "https://www.ufc.com/athlete/rafael-fiziev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/FIZIEV_RAFAEL_06-21.png?itok=PYGsqBQt",
-        "Record": "13-4-0 (W-L-D)",
-        "SLpM": "4.77",
-        "SApM": "4.77",
-        "TD_Avg": "0.89",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "12:17",
-        "Fight_Time_Seconds": 737,
-        "Division": "Lightweight",
-        "Rank": "10",
-        "Selected_Date": "2026-03-16T06:22:17.539616Z"
+        "Name": "Mick Parkin",
+        "Profile_URL": "https://www.ufc.com/athlete/mick-parkin",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PARKIN_MICK_03-22.png?itok=Ts_zLB_v",
+        "Record": "10-1-0 (W-L-D)",
+        "SLpM": "4.70",
+        "SApM": "4.13",
+        "TD_Avg": "1.38",
+        "Sub_Avg": "0.23",
+        "Fight_Time": "10:53",
+        "Fight_Time_Seconds": 653,
+        "Division": "Heavyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-03-17T06:04:05.092755Z"
     },
     "past_fighters": [
-        "Gilbert Burns",
         "Marcus McGhee",
         "David Martinez",
         "Patricio Pitbull",
         "Asu Almabayev",
         "Jack Della Maddalena",
-        "Paulo Costa"
+        "Paulo Costa",
+        "Rafael Fiziev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1838,7 +1838,8 @@
             "Fight_Time": "10:53",
             "Fight_Time_Seconds": 653,
             "Division": "Heavyweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-03-17T06:04:05.092755Z"
         },
         "Valter Walker": {
             "Name": "Valter Walker",
