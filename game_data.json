@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mick Parkin",
-        "Profile_URL": "https://www.ufc.com/athlete/mick-parkin",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PARKIN_MICK_03-22.png?itok=Ts_zLB_v",
-        "Record": "10-1-0 (W-L-D)",
-        "SLpM": "4.70",
-        "SApM": "4.13",
-        "TD_Avg": "1.38",
-        "Sub_Avg": "0.23",
-        "Fight_Time": "10:53",
-        "Fight_Time_Seconds": 653,
-        "Division": "Heavyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-03-17T06:04:05.092755Z"
+        "Name": "Cory Sandhagen",
+        "Profile_URL": "https://www.ufc.com/athlete/cory-sandhagen",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/SANDHAGEN_CORY_10-04.png?itok=S79YESKx",
+        "Record": "18-6-0 (W-L-D)",
+        "SLpM": "4.86",
+        "SApM": "3.47",
+        "TD_Avg": "1.15",
+        "Sub_Avg": "0.25",
+        "Fight_Time": "14:43",
+        "Fight_Time_Seconds": 883,
+        "Division": "Bantamweight",
+        "Rank": "4",
+        "Selected_Date": "2026-03-18T06:06:24.177898Z"
     },
     "past_fighters": [
-        "Marcus McGhee",
         "David Martinez",
         "Patricio Pitbull",
         "Asu Almabayev",
         "Jack Della Maddalena",
         "Paulo Costa",
-        "Rafael Fiziev"
+        "Rafael Fiziev",
+        "Mick Parkin"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -338,7 +338,7 @@
             "Fight_Time": "12:58",
             "Fight_Time_Seconds": 778,
             "Division": "Flyweight",
-            "Rank": "7",
+            "Rank": "8",
             "Selected_Date": "2026-03-13T05:56:38.381760Z"
         },
         "Kyoji Horiguchi": {
@@ -411,7 +411,7 @@
             "Fight_Time": "12:22",
             "Fight_Time_Seconds": 742,
             "Division": "Flyweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-03-06T05:53:03.394771Z"
         },
         "Charles Johnson": {
@@ -426,7 +426,7 @@
             "Fight_Time": "13:17",
             "Fight_Time_Seconds": 797,
             "Division": "Flyweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2025-12-19T05:45:45.840264Z"
         },
         "Bruno Silva": {
@@ -512,7 +512,8 @@
             "Fight_Time": "14:43",
             "Fight_Time_Seconds": 883,
             "Division": "Bantamweight",
-            "Rank": "4"
+            "Rank": "4",
+            "Selected_Date": "2026-03-18T06:06:24.177898Z"
         },
         "Song Yadong": {
             "Name": "Song Yadong",
@@ -804,7 +805,7 @@
             "Fight_Time": "13:49",
             "Fight_Time_Seconds": 829,
             "Division": "Featherweight",
-            "Rank": "10"
+            "Rank": "11"
         },
         "Josh Emmett": {
             "Name": "Josh Emmett",
@@ -818,7 +819,7 @@
             "Fight_Time": "12:59",
             "Fight_Time_Seconds": 779,
             "Division": "Featherweight",
-            "Rank": "11"
+            "Rank": "15"
         },
         "Jean Silva": {
             "Name": "Jean Silva",
@@ -875,7 +876,7 @@
             "Fight_Time": "11:09",
             "Fight_Time_Seconds": 669,
             "Division": "Featherweight",
-            "Rank": "15"
+            "Rank": "14"
         },
         "Giga Chikadze": {
             "Name": "Giga Chikadze",
@@ -990,7 +991,7 @@
             "Fight_Time": "09:28",
             "Fight_Time_Seconds": 568,
             "Division": "Lightweight",
-            "Rank": "11"
+            "Rank": "10"
         },
         "Michael Chandler": {
             "Name": "Michael Chandler",
@@ -1911,7 +1912,7 @@
             "Fight_Time": "08:24",
             "Fight_Time_Seconds": 504,
             "Division": "Featherweight",
-            "Rank": "14"
+            "Rank": "10"
         },
         "Manuel Torres": {
             "Name": "Manuel Torres",
