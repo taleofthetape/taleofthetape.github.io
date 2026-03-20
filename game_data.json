@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Tai Tuivasa",
-        "Profile_URL": "https://www.ufc.com/athlete/tai-tuivasa",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/TUIVASA_TAI_08-17.png?itok=buFWM-j9",
-        "Record": "15-8-0 (W-L-D)",
-        "SLpM": "3.77",
-        "SApM": "5.18",
-        "TD_Avg": "0.00",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "07:14",
-        "Fight_Time_Seconds": 434,
-        "Division": "Heavyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-03-19T06:02:24.636587Z"
+        "Name": "Umar Nurmagomedov",
+        "Profile_URL": "https://www.ufc.com/athlete/umar-nurmagomedov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/NURMAGOMEDOV_UMAR_10-25.png?itok=r0Ir2L-0",
+        "Record": "19-1-0 (W-L-D)",
+        "SLpM": "4.08",
+        "SApM": "2.04",
+        "TD_Avg": "4.30",
+        "Sub_Avg": "0.27",
+        "Fight_Time": "13:57",
+        "Fight_Time_Seconds": 837,
+        "Division": "Bantamweight",
+        "Rank": "2",
+        "Selected_Date": "2026-03-20T05:58:39.305716Z"
     },
     "past_fighters": [
-        "Patricio Pitbull",
         "Asu Almabayev",
         "Jack Della Maddalena",
         "Paulo Costa",
         "Rafael Fiziev",
         "Mick Parkin",
-        "Cory Sandhagen"
+        "Cory Sandhagen",
+        "Tai Tuivasa"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -470,7 +470,8 @@
             "Fight_Time": "13:57",
             "Fight_Time_Seconds": 837,
             "Division": "Bantamweight",
-            "Rank": "2"
+            "Rank": "2",
+            "Selected_Date": "2026-03-20T05:58:39.305716Z"
         },
         "Sean O'Malley": {
             "Name": "Sean O'Malley",
