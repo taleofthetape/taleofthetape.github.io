@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Umar Nurmagomedov",
-        "Profile_URL": "https://www.ufc.com/athlete/umar-nurmagomedov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/NURMAGOMEDOV_UMAR_10-25.png?itok=r0Ir2L-0",
-        "Record": "19-1-0 (W-L-D)",
-        "SLpM": "4.08",
-        "SApM": "2.04",
-        "TD_Avg": "4.30",
-        "Sub_Avg": "0.27",
-        "Fight_Time": "13:57",
-        "Fight_Time_Seconds": 837,
-        "Division": "Bantamweight",
-        "Rank": "2",
-        "Selected_Date": "2026-03-20T05:58:39.305716Z"
+        "Name": "Max Holloway",
+        "Profile_URL": "https://www.ufc.com/athlete/max-holloway",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/HOLLOWAY_MAX_BMF_07-19.png?itok=Z9zVlm7E",
+        "Record": "27-8-0 (W-L-D)",
+        "SLpM": "7.20",
+        "SApM": "4.74",
+        "TD_Avg": "0.24",
+        "Sub_Avg": "0.30",
+        "Fight_Time": "16:23",
+        "Fight_Time_Seconds": 983,
+        "Division": "Lightweight",
+        "Rank": "4",
+        "Selected_Date": "2026-03-21T05:49:14.918573Z"
     },
     "past_fighters": [
-        "Asu Almabayev",
         "Jack Della Maddalena",
         "Paulo Costa",
         "Rafael Fiziev",
         "Mick Parkin",
         "Cory Sandhagen",
-        "Tai Tuivasa"
+        "Tai Tuivasa",
+        "Umar Nurmagomedov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -167,7 +167,8 @@
             "Fight_Time": "16:23",
             "Fight_Time_Seconds": 983,
             "Division": "Lightweight",
-            "Rank": "4"
+            "Rank": "4",
+            "Selected_Date": "2026-03-21T05:49:14.918573Z"
         },
         "Jack Della Maddalena": {
             "Name": "Jack Della Maddalena",
