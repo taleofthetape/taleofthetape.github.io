@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Max Holloway",
-        "Profile_URL": "https://www.ufc.com/athlete/max-holloway",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/HOLLOWAY_MAX_BMF_07-19.png?itok=Z9zVlm7E",
-        "Record": "27-8-0 (W-L-D)",
-        "SLpM": "7.20",
-        "SApM": "4.74",
-        "TD_Avg": "0.24",
-        "Sub_Avg": "0.30",
-        "Fight_Time": "16:23",
-        "Fight_Time_Seconds": 983,
-        "Division": "Lightweight",
-        "Rank": "4",
-        "Selected_Date": "2026-03-21T05:49:14.918573Z"
+        "Name": "Rob Font",
+        "Profile_URL": "https://www.ufc.com/athlete/rob-font",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/FONT_ROB_09-13.png?itok=0gLZSEIC",
+        "Record": "22-9-0 (W-L-D)",
+        "SLpM": "5.36",
+        "SApM": "3.70",
+        "TD_Avg": "0.74",
+        "Sub_Avg": "0.34",
+        "Fight_Time": "13:09",
+        "Fight_Time_Seconds": 789,
+        "Division": "Bantamweight",
+        "Rank": "13",
+        "Selected_Date": "2026-03-22T05:58:24.093460Z"
     },
     "past_fighters": [
-        "Jack Della Maddalena",
         "Paulo Costa",
         "Rafael Fiziev",
         "Mick Parkin",
         "Cory Sandhagen",
         "Tai Tuivasa",
-        "Umar Nurmagomedov"
+        "Umar Nurmagomedov",
+        "Max Holloway"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -631,7 +631,8 @@
             "Fight_Time": "13:09",
             "Fight_Time_Seconds": 789,
             "Division": "Bantamweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-03-22T05:58:24.093460Z"
         },
         "Vinicius Oliveira": {
             "Name": "Vinicius Oliveira",
@@ -955,7 +956,7 @@
         "Beno\u00eet Saint Denis": {
             "Name": "Beno\u00eet Saint Denis",
             "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=5WHkfQZi",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=o6WFA_4C",
             "Record": "17-3-0 (W-L-D)",
             "SLpM": "5.62",
             "SApM": "4.09",
@@ -1465,7 +1466,7 @@
         "Ji\u0159\u00ed Proch\u00e1zka": {
             "Name": "Ji\u0159\u00ed Proch\u00e1zka",
             "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=VBhR5hqE",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=GZtgJfD0",
             "Record": "32-5-1 (W-L-D)",
             "SLpM": "5.69",
             "SApM": "5.60",
@@ -1494,7 +1495,7 @@
         "Khalil Rountree Jr.": {
             "Name": "Khalil Rountree Jr.",
             "Profile_URL": "https://www.ufc.com/athlete/khalil-rountree-jr",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=VBhR5hqE",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=GZtgJfD0",
             "Record": "15-7-0 (W-L-D)",
             "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
             "TD_Avg": "50\n                  %",
@@ -1506,7 +1507,7 @@
         "Jan B\u0142achowicz": {
             "Name": "Jan B\u0142achowicz",
             "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=4Q7jM1Xc",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=sQd7joMt",
             "Record": "29-11-2 (W-L-D)",
             "SLpM": "3.55",
             "SApM": "3.14",
@@ -1935,7 +1936,7 @@
         "Far\u00e8s Ziam": {
             "Name": "Far\u00e8s Ziam",
             "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=JJeAJNJl",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=-ZjjydXV",
             "Record": "18-4-0 (W-L-D)",
             "SLpM": "2.87",
             "SApM": "1.53",
