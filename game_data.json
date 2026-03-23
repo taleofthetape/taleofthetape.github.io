@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Rob Font",
-        "Profile_URL": "https://www.ufc.com/athlete/rob-font",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/FONT_ROB_09-13.png?itok=0gLZSEIC",
-        "Record": "22-9-0 (W-L-D)",
-        "SLpM": "5.36",
-        "SApM": "3.70",
-        "TD_Avg": "0.74",
-        "Sub_Avg": "0.34",
-        "Fight_Time": "13:09",
-        "Fight_Time_Seconds": 789,
-        "Division": "Bantamweight",
-        "Rank": "13",
-        "Selected_Date": "2026-03-22T05:58:24.093460Z"
+        "Name": "Marvin Vettori",
+        "Profile_URL": "https://www.ufc.com/athlete/marvin-vettori",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/VETTORI_MARVIN_07-19.png?itok=ZSH1XuY2",
+        "Record": "19-9-1 (W-L-D)",
+        "SLpM": "4.68",
+        "SApM": "4.52",
+        "TD_Avg": "1.43",
+        "Sub_Avg": "0.41",
+        "Fight_Time": "17:17",
+        "Fight_Time_Seconds": 1037,
+        "Division": "Middleweight",
+        "Rank": "14",
+        "Selected_Date": "2026-03-23T06:12:58.887539Z"
     },
     "past_fighters": [
-        "Paulo Costa",
         "Rafael Fiziev",
         "Mick Parkin",
         "Cory Sandhagen",
         "Tai Tuivasa",
         "Umar Nurmagomedov",
-        "Max Holloway"
+        "Max Holloway",
+        "Rob Font"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1446,7 +1446,7 @@
             "Fight_Time_Seconds": 1037,
             "Division": "Middleweight",
             "Rank": "14",
-            "Selected_Date": "2026-02-17T06:01:48.448057Z"
+            "Selected_Date": "2026-03-23T06:12:58.887539Z"
         },
         "Gregory Rodrigues": {
             "Name": "Gregory Rodrigues",
