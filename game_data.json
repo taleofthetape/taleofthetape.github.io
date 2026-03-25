@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Marcus McGhee",
-        "Profile_URL": "https://www.ufc.com/athlete/marcus-mcghee",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/YAN_PETR_07-26.png?itok=0GxEGc8G",
-        "Record": "10-2-0 (W-L-D)",
-        "SLpM": "5.50",
-        "SApM": "3.64",
-        "TD_Avg": "0.31",
-        "Sub_Avg": "0.31",
-        "Fight_Time": "09:34",
-        "Fight_Time_Seconds": 574,
-        "Division": "Bantamweight",
-        "Rank": "15",
-        "Selected_Date": "2026-03-24T06:04:11.225581Z"
+        "Name": "Jan B\u0142achowicz",
+        "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=sQd7joMt",
+        "Record": "29-11-2 (W-L-D)",
+        "SLpM": "3.55",
+        "SApM": "3.14",
+        "TD_Avg": "0.98",
+        "Sub_Avg": "0.36",
+        "Fight_Time": "13:16",
+        "Fight_Time_Seconds": 796,
+        "Division": "Light Heavyweight",
+        "Rank": "5",
+        "Selected_Date": "2026-03-25T06:05:26.990448Z"
     },
     "past_fighters": [
-        "Mick Parkin",
         "Cory Sandhagen",
         "Tai Tuivasa",
         "Umar Nurmagomedov",
         "Max Holloway",
         "Rob Font",
-        "Marvin Vettori"
+        "Marvin Vettori",
+        "Marcus McGhee"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1401,7 +1401,7 @@
             "Fight_Time": "10:44",
             "Fight_Time_Seconds": 644,
             "Division": "Welterweight",
-            "Rank": "13"
+            "Rank": "12"
         },
         "Roman Dolidze": {
             "Name": "Roman Dolidze",
@@ -1415,7 +1415,7 @@
             "Fight_Time": "12:48",
             "Fight_Time_Seconds": 768,
             "Division": "Middleweight",
-            "Rank": "11",
+            "Rank": "15",
             "Selected_Date": "2026-01-25T05:34:40.797492Z"
         },
         "Paulo Costa": {
@@ -1460,7 +1460,7 @@
             "Fight_Time": "08:59",
             "Fight_Time_Seconds": 539,
             "Division": "Middleweight",
-            "Rank": "12",
+            "Rank": "11",
             "Selected_Date": "2026-03-03T05:56:37.572890Z"
         },
         "Ji\u0159\u00ed Proch\u00e1zka": {
@@ -1516,7 +1516,8 @@
             "Fight_Time": "13:16",
             "Fight_Time_Seconds": 796,
             "Division": "Light Heavyweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-03-25T06:05:26.990448Z"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
@@ -2044,7 +2045,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Vitor Petrino": {
             "Name": "Vitor Petrino",
@@ -2088,6 +2089,20 @@
             "Fight_Time_Seconds": 808,
             "Division": "Bantamweight",
             "Rank": "15"
+        },
+        "Christian Leroy Duncan": {
+            "Name": "Christian Leroy Duncan",
+            "Profile_URL": "https://www.ufc.com/athlete/christian-leroy-duncan",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/DUNCAN_CHRISTIAN_LEROY_03-21.png?itok=AtH9e5GA",
+            "Record": "14-2-0 (W-L-D)",
+            "SLpM": "4.43",
+            "SApM": "2.59",
+            "TD_Avg": "0.33",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "10:03",
+            "Fight_Time_Seconds": 603,
+            "Division": "Middleweight",
+            "Rank": "12"
         }
     }
 }
