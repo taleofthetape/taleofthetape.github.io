@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jan B\u0142achowicz",
-        "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=sQd7joMt",
-        "Record": "29-11-2 (W-L-D)",
-        "SLpM": "3.55",
-        "SApM": "3.14",
-        "TD_Avg": "0.98",
-        "Sub_Avg": "0.36",
-        "Fight_Time": "13:16",
-        "Fight_Time_Seconds": 796,
-        "Division": "Light Heavyweight",
+        "Name": "Song Yadong",
+        "Profile_URL": "https://www.ufc.com/athlete/yadong-song",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/YADONG_SONG_02-22.png?itok=WCb_V9Vo",
+        "Record": "22-8-1 (W-L-D)",
+        "SLpM": "4.58",
+        "SApM": "4.00",
+        "TD_Avg": "0.61",
+        "Sub_Avg": "0.15",
+        "Fight_Time": "13:05",
+        "Fight_Time_Seconds": 785,
+        "Division": "Bantamweight",
         "Rank": "5",
-        "Selected_Date": "2026-03-25T06:05:26.990448Z"
+        "Selected_Date": "2026-03-26T06:15:05.224030Z"
     },
     "past_fighters": [
-        "Cory Sandhagen",
         "Tai Tuivasa",
         "Umar Nurmagomedov",
         "Max Holloway",
         "Rob Font",
         "Marvin Vettori",
-        "Marcus McGhee"
+        "Marcus McGhee",
+        "Jan B\u0142achowicz"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -530,7 +530,7 @@
             "Fight_Time_Seconds": 785,
             "Division": "Bantamweight",
             "Rank": "5",
-            "Selected_Date": "2026-01-01T05:35:14.358503Z"
+            "Selected_Date": "2026-03-26T06:15:05.224030Z"
         },
         "Deiveson Figueiredo": {
             "Name": "Deiveson Figueiredo",
@@ -1516,8 +1516,7 @@
             "Fight_Time": "13:16",
             "Fight_Time_Seconds": 796,
             "Division": "Light Heavyweight",
-            "Rank": "5",
-            "Selected_Date": "2026-03-25T06:05:26.990448Z"
+            "Rank": "5"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
@@ -2102,6 +2101,20 @@
             "Fight_Time": "10:03",
             "Fight_Time_Seconds": 603,
             "Division": "Middleweight",
+            "Rank": "12"
+        },
+        "Michael Venom Page": {
+            "Name": "Michael Venom Page",
+            "Profile_URL": "https://www.ufc.com/athlete/michael-page",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=tEu8BuVg",
+            "Record": "25-3-0 (W-L-D)",
+            "SLpM": "2.28",
+            "SApM": "1.51",
+            "TD_Avg": "0.19",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "11:21",
+            "Fight_Time_Seconds": 681,
+            "Division": "Welterweight",
             "Rank": "12"
         }
     }
