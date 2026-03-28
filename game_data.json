@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Robert Whittaker",
-        "Profile_URL": "https://www.ufc.com/athlete/robert-whittaker",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/WHITTAKER_ROBERT_07-26.png?itok=a486mwgO",
-        "Record": "27-9-0 (W-L-D)",
-        "SLpM": "4.39",
-        "SApM": "3.36",
-        "TD_Avg": "0.73",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "13:37",
-        "Fight_Time_Seconds": 817,
-        "Division": "Middleweight",
-        "Rank": "9",
-        "Selected_Date": "2026-03-27T06:15:31.031802Z"
+        "Name": "Waldo Cortes Acosta",
+        "Profile_URL": "https://www.ufc.com/athlete/waldo-cortes-acosta",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/CORTES_ACOSTA_WALDO_11-22.png?itok=-To758fQ",
+        "Record": "16-2-0 (W-L-D)",
+        "SLpM": "5.55",
+        "SApM": "3.53",
+        "TD_Avg": "0.35",
+        "Sub_Avg": "0.12",
+        "Fight_Time": "10:34",
+        "Fight_Time_Seconds": 634,
+        "Division": "Heavyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-03-28T06:01:46.483223Z"
     },
     "past_fighters": [
-        "Umar Nurmagomedov",
         "Max Holloway",
         "Rob Font",
         "Marvin Vettori",
         "Marcus McGhee",
         "Jan B\u0142achowicz",
-        "Song Yadong"
+        "Song Yadong",
+        "Robert Whittaker"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1729,7 +1729,7 @@
             "Fight_Time_Seconds": 634,
             "Division": "Heavyweight",
             "Rank": "4",
-            "Selected_Date": "2026-01-12T05:36:46.380216Z"
+            "Selected_Date": "2026-03-28T06:01:46.483223Z"
         },
         "Jailton Almeida": {
             "Name": "Jailton Almeida",
