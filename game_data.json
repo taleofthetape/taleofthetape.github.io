@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Colby Covington",
-        "Profile_URL": "https://www.ufc.com/athlete/colby-covington",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/COVINGTON_COLBY_12-14.png?itok=oW_iC6jD",
-        "Record": "17-5-0 (W-L-D)",
-        "SLpM": "3.81",
-        "SApM": "3.09",
-        "TD_Avg": "3.64",
-        "Sub_Avg": "0.16",
-        "Fight_Time": "16:57",
-        "Fight_Time_Seconds": 1017,
-        "Division": "Welterweight",
-        "Rank": "14",
-        "Selected_Date": "2026-03-29T06:13:42.725521Z"
+        "Name": "Melquizael Costa",
+        "Profile_URL": "https://www.ufc.com/athlete/melquizael-costa",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/COSTA_MELQUIZAEL_02-21.png?itok=gN4PhF42",
+        "Record": "25-7-0 (W-L-D)",
+        "SLpM": "4.38",
+        "SApM": "2.97",
+        "TD_Avg": "2.00",
+        "Sub_Avg": "1.09",
+        "Fight_Time": "09:11",
+        "Fight_Time_Seconds": 551,
+        "Division": "Featherweight",
+        "Rank": "12",
+        "Selected_Date": "2026-03-30T06:55:30.094794Z"
     },
     "past_fighters": [
-        "Rob Font",
         "Marvin Vettori",
         "Marcus McGhee",
         "Jan B\u0142achowicz",
         "Song Yadong",
         "Robert Whittaker",
-        "Waldo Cortes Acosta"
+        "Waldo Cortes Acosta",
+        "Colby Covington"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -956,7 +956,7 @@
         "Beno\u00eet Saint Denis": {
             "Name": "Beno\u00eet Saint Denis",
             "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=o6WFA_4C",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=biRtw-Ys",
             "Record": "17-3-0 (W-L-D)",
             "SLpM": "5.62",
             "SApM": "4.09",
@@ -1468,7 +1468,7 @@
         "Ji\u0159\u00ed Proch\u00e1zka": {
             "Name": "Ji\u0159\u00ed Proch\u00e1zka",
             "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=GZtgJfD0",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=My9SLdEb",
             "Record": "32-5-1 (W-L-D)",
             "SLpM": "5.69",
             "SApM": "5.60",
@@ -1497,7 +1497,7 @@
         "Khalil Rountree Jr.": {
             "Name": "Khalil Rountree Jr.",
             "Profile_URL": "https://www.ufc.com/athlete/khalil-rountree-jr",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=GZtgJfD0",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=My9SLdEb",
             "Record": "15-7-0 (W-L-D)",
             "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
             "TD_Avg": "50\n                  %",
@@ -1938,7 +1938,7 @@
         "Far\u00e8s Ziam": {
             "Name": "Far\u00e8s Ziam",
             "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=-ZjjydXV",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=FkRC_QyZ",
             "Record": "18-4-0 (W-L-D)",
             "SLpM": "2.87",
             "SApM": "1.53",
@@ -2032,7 +2032,8 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-03-30T06:55:30.094794Z"
         },
         "Uro\u0161 Medi\u0107": {
             "Name": "Uro\u0161 Medi\u0107",
@@ -2108,7 +2109,7 @@
         "Michael Venom Page": {
             "Name": "Michael Venom Page",
             "Profile_URL": "https://www.ufc.com/athlete/michael-page",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=tEu8BuVg",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=7QYO2wrD",
             "Record": "25-3-0 (W-L-D)",
             "SLpM": "2.28",
             "SApM": "1.51",
