@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Melquizael Costa",
-        "Profile_URL": "https://www.ufc.com/athlete/melquizael-costa",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/COSTA_MELQUIZAEL_02-21.png?itok=gN4PhF42",
-        "Record": "25-7-0 (W-L-D)",
-        "SLpM": "4.38",
-        "SApM": "2.97",
-        "TD_Avg": "2.00",
-        "Sub_Avg": "1.09",
-        "Fight_Time": "09:11",
-        "Fight_Time_Seconds": 551,
-        "Division": "Featherweight",
-        "Rank": "12",
-        "Selected_Date": "2026-03-30T06:55:30.094794Z"
+        "Name": "Roman Dolidze",
+        "Profile_URL": "https://www.ufc.com/athlete/roman-dolidze",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/DOLIDZE_ROMAN_08-09.png?itok=JWpCALEs",
+        "Record": "15-4-0 (W-L-D)",
+        "SLpM": "3.41",
+        "SApM": "3.72",
+        "TD_Avg": "0.99",
+        "Sub_Avg": "0.81",
+        "Fight_Time": "12:48",
+        "Fight_Time_Seconds": 768,
+        "Division": "Middleweight",
+        "Rank": "15",
+        "Selected_Date": "2026-03-31T06:19:09.404359Z"
     },
     "past_fighters": [
-        "Marvin Vettori",
         "Marcus McGhee",
         "Jan B\u0142achowicz",
         "Song Yadong",
         "Robert Whittaker",
         "Waldo Cortes Acosta",
-        "Colby Covington"
+        "Colby Covington",
+        "Melquizael Costa"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1418,7 +1418,7 @@
             "Fight_Time_Seconds": 768,
             "Division": "Middleweight",
             "Rank": "15",
-            "Selected_Date": "2026-01-25T05:34:40.797492Z"
+            "Selected_Date": "2026-03-31T06:19:09.404359Z"
         },
         "Paulo Costa": {
             "Name": "Paulo Costa",
@@ -1509,7 +1509,7 @@
         "Jan B\u0142achowicz": {
             "Name": "Jan B\u0142achowicz",
             "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=sQd7joMt",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=5VboAz4F",
             "Record": "29-11-2 (W-L-D)",
             "SLpM": "3.55",
             "SApM": "3.14",
