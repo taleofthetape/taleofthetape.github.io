@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Shamil Gaziev",
-        "Profile_URL": "https://www.ufc.com/athlete/shamil-gaziev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/GAZIEV_SHAMIL_11-22.png?itok=P669KMlK",
-        "Record": "14-2-0 (W-L-D)",
-        "SLpM": "2.62",
-        "SApM": "3.97",
-        "TD_Avg": "0.93",
-        "Sub_Avg": "0.31",
-        "Fight_Time": "08:01",
-        "Fight_Time_Seconds": 481,
-        "Division": "Heavyweight",
-        "Rank": "13",
-        "Selected_Date": "2026-04-02T06:14:36.357151Z"
+        "Name": "Michael Page",
+        "Profile_URL": "https://www.ufc.com/athlete/michael-page",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAGE_MICHAEL_08-16.png?itok=mB8ZUukj",
+        "Record": "24-3-0 (W-L-D)",
+        "SLpM": "2.39",
+        "SApM": "1.68",
+        "TD_Avg": "0.23",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "10:44",
+        "Fight_Time_Seconds": 644,
+        "Division": "Welterweight",
+        "Rank": "12",
+        "Selected_Date": "2026-04-03T06:14:48.544828Z"
     },
     "past_fighters": [
-        "Song Yadong",
         "Robert Whittaker",
         "Waldo Cortes Acosta",
         "Colby Covington",
         "Melquizael Costa",
         "Roman Dolidze",
-        "Ante Delija"
+        "Ante Delija",
+        "Shamil Gaziev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1403,7 +1403,8 @@
             "Fight_Time": "10:44",
             "Fight_Time_Seconds": 644,
             "Division": "Welterweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-04-03T06:14:48.544828Z"
         },
         "Roman Dolidze": {
             "Name": "Roman Dolidze",
