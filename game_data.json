@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kyoji Horiguchi",
-        "Profile_URL": "https://www.ufc.com/athlete/kyoji-horiguchi",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HORIGUCHI_KYOJI_11-22.png?itok=uRMYwEsp",
-        "Record": "35-5-0 (W-L-D)",
-        "SLpM": "3.64",
-        "SApM": "2.26",
-        "TD_Avg": "1.80",
-        "Sub_Avg": "0.12",
-        "Fight_Time": "13:53",
-        "Fight_Time_Seconds": 833,
-        "Division": "Flyweight",
-        "Rank": "5",
-        "Selected_Date": "2026-04-04T06:02:56.190246Z"
+        "Name": "Sean Strickland",
+        "Profile_URL": "https://www.ufc.com/athlete/sean-strickland",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/STRICKLAND_SEAN_02-08.png?itok=ISJ9fWVg",
+        "Record": "29-7-0 (W-L-D)",
+        "SLpM": "5.95",
+        "SApM": "4.57",
+        "TD_Avg": "0.73",
+        "Sub_Avg": "0.16",
+        "Fight_Time": "16:03",
+        "Fight_Time_Seconds": 963,
+        "Division": "Middleweight",
+        "Rank": "3",
+        "Selected_Date": "2026-04-05T06:16:10.630728Z"
     },
     "past_fighters": [
-        "Waldo Cortes Acosta",
         "Colby Covington",
         "Melquizael Costa",
         "Roman Dolidze",
         "Ante Delija",
         "Shamil Gaziev",
-        "Michael Page"
+        "Michael Page",
+        "Kyoji Horiguchi"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1286,7 +1286,7 @@
             "Fight_Time_Seconds": 963,
             "Division": "Middleweight",
             "Rank": "3",
-            "Selected_Date": "2026-01-05T05:40:30.865851Z"
+            "Selected_Date": "2026-04-05T06:16:10.630728Z"
         },
         "Anthony Hernandez": {
             "Name": "Anthony Hernandez",
