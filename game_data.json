@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Brandon Moreno",
-        "Profile_URL": "https://www.ufc.com/athlete/brandon-moreno",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/MORENO_BRANDON_03-29.png?itok=8NfFtl4u",
-        "Record": "23-8-2 (W-L-D)",
-        "SLpM": "3.96",
-        "SApM": "3.62",
-        "TD_Avg": "1.51",
-        "Sub_Avg": "0.39",
-        "Fight_Time": "17:08",
-        "Fight_Time_Seconds": 1028,
-        "Division": "Flyweight",
-        "Rank": "9",
-        "Selected_Date": "2026-04-06T06:57:11.682842Z"
+        "Name": "Montel Jackson",
+        "Profile_URL": "https://www.ufc.com/athlete/montel-jackson",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/JACKSON_MONTEL_10-11.png?itok=0ZwOrQZp",
+        "Record": "15-3-0 (W-L-D)",
+        "SLpM": "3.09",
+        "SApM": "1.40",
+        "TD_Avg": "3.00",
+        "Sub_Avg": "0.32",
+        "Fight_Time": "10:46",
+        "Fight_Time_Seconds": 646,
+        "Division": "Bantamweight",
+        "Rank": "14",
+        "Selected_Date": "2026-04-07T06:21:45.154744Z"
     },
     "past_fighters": [
-        "Melquizael Costa",
         "Roman Dolidze",
         "Ante Delija",
         "Shamil Gaziev",
         "Michael Page",
         "Kyoji Horiguchi",
-        "Sean Strickland"
+        "Sean Strickland",
+        "Brandon Moreno"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1907,7 +1907,7 @@
             "Fight_Time_Seconds": 646,
             "Division": "Bantamweight",
             "Rank": "14",
-            "Selected_Date": "2026-02-27T05:58:38.324358Z"
+            "Selected_Date": "2026-04-07T06:21:45.154744Z"
         },
         "Kevin Vallejos": {
             "Name": "Kevin Vallejos",
