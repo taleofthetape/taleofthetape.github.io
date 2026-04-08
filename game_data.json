@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Montel Jackson",
-        "Profile_URL": "https://www.ufc.com/athlete/montel-jackson",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/JACKSON_MONTEL_10-11.png?itok=0ZwOrQZp",
-        "Record": "15-3-0 (W-L-D)",
-        "SLpM": "3.09",
-        "SApM": "1.40",
-        "TD_Avg": "3.00",
+        "Name": "Farid Basharat",
+        "Profile_URL": "https://www.ufc.com/athlete/farid-basharat",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/BASHARAT_FARID_02-07.png?itok=XbStRAHb",
+        "Record": "15-0-0 (W-L-D)",
+        "SLpM": "4.25",
+        "SApM": "2.89",
+        "TD_Avg": "3.34",
         "Sub_Avg": "0.32",
-        "Fight_Time": "10:46",
-        "Fight_Time_Seconds": 646,
+        "Fight_Time": "13:28",
+        "Fight_Time_Seconds": 808,
         "Division": "Bantamweight",
-        "Rank": "14",
-        "Selected_Date": "2026-04-07T06:21:45.154744Z"
+        "Rank": "15",
+        "Selected_Date": "2026-04-08T06:22:51.232146Z"
     },
     "past_fighters": [
-        "Roman Dolidze",
         "Ante Delija",
         "Shamil Gaziev",
         "Michael Page",
         "Kyoji Horiguchi",
         "Sean Strickland",
-        "Brandon Moreno"
+        "Brandon Moreno",
+        "Montel Jackson"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -979,7 +979,7 @@
             "Fight_Time": "12:17",
             "Fight_Time_Seconds": 737,
             "Division": "Lightweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2026-03-16T06:22:17.539616Z"
         },
         "Renato Moicano": {
@@ -994,7 +994,7 @@
             "Fight_Time": "09:28",
             "Fight_Time_Seconds": 568,
             "Division": "Lightweight",
-            "Rank": "10"
+            "Rank": "9"
         },
         "Michael Chandler": {
             "Name": "Michael Chandler",
@@ -1053,7 +1053,7 @@
             "Fight_Time": "08:54",
             "Fight_Time_Seconds": 534,
             "Division": "Lightweight",
-            "Rank": "9",
+            "Rank": "10",
             "Selected_Date": "2025-12-20T05:41:25.894860Z"
         },
         "Ignacio Bahamondes": {
@@ -1300,7 +1300,7 @@
             "Fight_Time": "10:27",
             "Fight_Time_Seconds": 627,
             "Division": "Middleweight",
-            "Rank": "6"
+            "Rank": "7"
         },
         "Brendan Allen": {
             "Name": "Brendan Allen",
@@ -2093,7 +2093,8 @@
             "Fight_Time": "13:28",
             "Fight_Time_Seconds": 808,
             "Division": "Bantamweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-04-08T06:22:51.232146Z"
         },
         "Christian Leroy Duncan": {
             "Name": "Christian Leroy Duncan",
