@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Patricio Pitbull",
-        "Profile_URL": "https://www.ufc.com/athlete/patricio-pitbull-freire",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/PITBULL_PATRICIO_09-06.png?itok=g_9ZcRvc",
-        "Record": "37-8-0 (W-L-D)",
-        "SLpM": "2.68",
-        "SApM": "4.23",
-        "TD_Avg": "1.49",
-        "Sub_Avg": "0.56",
-        "Fight_Time": "16:04",
-        "Fight_Time_Seconds": 964,
-        "Division": "Featherweight",
-        "Rank": "13",
-        "Selected_Date": "2026-04-09T06:24:25.982702Z"
+        "Name": "Justin Gaethje",
+        "Profile_URL": "https://www.ufc.com/athlete/justin-gaethje",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GAETHJE_JUSTIN_03-08.png?itok=Zvg-a91R",
+        "Record": "27-5-0 (W-L-D)",
+        "SLpM": "6.59",
+        "SApM": "7.18",
+        "TD_Avg": "0.10",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:14",
+        "Fight_Time_Seconds": 674,
+        "Division": "Lightweight",
+        "Rank": "1",
+        "Selected_Date": "2026-04-10T06:55:42.019715Z"
     },
     "past_fighters": [
-        "Shamil Gaziev",
         "Michael Page",
         "Kyoji Horiguchi",
         "Sean Strickland",
         "Brandon Moreno",
         "Montel Jackson",
-        "Farid Basharat"
+        "Farid Basharat",
+        "Patricio Pitbull"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -909,7 +909,7 @@
             "Fight_Time_Seconds": 674,
             "Division": "Lightweight",
             "Rank": "1",
-            "Selected_Date": "2026-02-09T06:10:24.366020Z"
+            "Selected_Date": "2026-04-10T06:55:42.019715Z"
         },
         "Paddy Pimblett": {
             "Name": "Paddy Pimblett",
@@ -1469,7 +1469,7 @@
         "Ji\u0159\u00ed Proch\u00e1zka": {
             "Name": "Ji\u0159\u00ed Proch\u00e1zka",
             "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=My9SLdEb",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=dxwOmqpK",
             "Record": "32-5-1 (W-L-D)",
             "SLpM": "5.69",
             "SApM": "5.60",
@@ -1498,7 +1498,7 @@
         "Khalil Rountree Jr.": {
             "Name": "Khalil Rountree Jr.",
             "Profile_URL": "https://www.ufc.com/athlete/khalil-rountree-jr",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PROCHAZKA_JIRI_10-04.png?itok=My9SLdEb",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=dxwOmqpK",
             "Record": "15-7-0 (W-L-D)",
             "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
             "TD_Avg": "50\n                  %",
