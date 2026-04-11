@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Justin Gaethje",
-        "Profile_URL": "https://www.ufc.com/athlete/justin-gaethje",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GAETHJE_JUSTIN_03-08.png?itok=Zvg-a91R",
-        "Record": "27-5-0 (W-L-D)",
-        "SLpM": "6.59",
-        "SApM": "7.18",
-        "TD_Avg": "0.10",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:14",
-        "Fight_Time_Seconds": 674,
-        "Division": "Lightweight",
-        "Rank": "1",
-        "Selected_Date": "2026-04-10T06:55:42.019715Z"
+        "Name": "Shamil Gaziev",
+        "Profile_URL": "https://www.ufc.com/athlete/shamil-gaziev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/GAZIEV_SHAMIL_11-22.png?itok=P669KMlK",
+        "Record": "14-2-0 (W-L-D)",
+        "SLpM": "2.62",
+        "SApM": "3.97",
+        "TD_Avg": "0.93",
+        "Sub_Avg": "0.31",
+        "Fight_Time": "08:01",
+        "Fight_Time_Seconds": 481,
+        "Division": "Heavyweight",
+        "Rank": "13",
+        "Selected_Date": "2026-04-11T06:04:47.492698Z"
     },
     "past_fighters": [
-        "Michael Page",
         "Kyoji Horiguchi",
         "Sean Strickland",
         "Brandon Moreno",
         "Montel Jackson",
         "Farid Basharat",
-        "Patricio Pitbull"
+        "Patricio Pitbull",
+        "Justin Gaethje"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1819,7 +1819,7 @@
             "Fight_Time_Seconds": 481,
             "Division": "Heavyweight",
             "Rank": "13",
-            "Selected_Date": "2026-04-02T06:14:36.357151Z"
+            "Selected_Date": "2026-04-11T06:04:47.492698Z"
         },
         "Tai Tuivasa": {
             "Name": "Tai Tuivasa",
