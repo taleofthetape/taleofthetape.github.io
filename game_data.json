@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Arman Tsarukyan",
-        "Profile_URL": "https://www.ufc.com/athlete/arman-tsarukyan",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/TSARUKYAN_ARMAN_11-22.png?itok=6h4WFZYC",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "3.85",
-        "SApM": "1.80",
-        "TD_Avg": "3.26",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "12:16",
-        "Fight_Time_Seconds": 736,
-        "Division": "Lightweight",
-        "Rank": "2",
-        "Selected_Date": "2026-04-13T07:18:25.783320Z"
+        "Name": "Carlos Prates",
+        "Profile_URL": "https://www.ufc.com/athlete/carlos-prates",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PRATES_CARLOS_11-15.png?itok=9j6oGBNV",
+        "Record": "23-7-0 (W-L-D)",
+        "SLpM": "3.77",
+        "SApM": "4.53",
+        "TD_Avg": "0.21",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "08:48",
+        "Fight_Time_Seconds": 528,
+        "Division": "Welterweight",
+        "Rank": "5",
+        "Selected_Date": "2026-04-14T06:55:26.705897Z"
     },
     "past_fighters": [
-        "Brandon Moreno",
         "Montel Jackson",
         "Farid Basharat",
         "Patricio Pitbull",
         "Justin Gaethje",
         "Shamil Gaziev",
-        "Marvin Vettori"
+        "Marvin Vettori",
+        "Arman Tsarukyan"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1127,7 +1127,8 @@
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
             "Division": "Welterweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-04-14T06:55:26.705897Z"
         },
         "Sean Brady": {
             "Name": "Sean Brady",
@@ -1471,12 +1472,12 @@
             "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=dxwOmqpK",
             "Record": "32-6-1 (W-L-D)",
-            "SLpM": "5.69",
-            "SApM": "5.60",
-            "TD_Avg": "0.51",
-            "Sub_Avg": "0.17",
-            "Fight_Time": "11:04",
-            "Fight_Time_Seconds": 664,
+            "SLpM": "5.61",
+            "SApM": "5.67",
+            "TD_Avg": "0.49",
+            "Sub_Avg": "0.16",
+            "Fight_Time": "10:15",
+            "Fight_Time_Seconds": 615,
             "Division": "Light Heavyweight",
             "Rank": "2"
         },
