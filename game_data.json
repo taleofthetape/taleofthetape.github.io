@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Arnold Allen",
-        "Profile_URL": "https://www.ufc.com/athlete/arnold-allen",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ALLEN_ARNOLD_07-27.png?itok=oYLde_Oi",
-        "Record": "20-3-0 (W-L-D)",
-        "SLpM": "3.45",
-        "SApM": "2.88",
-        "TD_Avg": "0.93",
-        "Sub_Avg": "0.34",
-        "Fight_Time": "13:37",
-        "Fight_Time_Seconds": 817,
-        "Division": "Featherweight",
-        "Rank": "8",
-        "Selected_Date": "2026-04-15T06:56:39.107627Z"
+        "Name": "Merab Dvalishvili",
+        "Profile_URL": "https://www.ufc.com/athlete/merab-dvalishvili",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DVALISHVILI_MERAB_BELT_10-04.png?itok=9s24oWsN",
+        "Record": "21-4-0 (W-L-D)",
+        "SLpM": "4.33",
+        "SApM": "2.55",
+        "TD_Avg": "6.40",
+        "Sub_Avg": "0.27",
+        "Fight_Time": "17:08",
+        "Fight_Time_Seconds": 1028,
+        "Division": "Bantamweight",
+        "Rank": "1",
+        "Selected_Date": "2026-04-16T06:59:14.481468Z"
     },
     "past_fighters": [
-        "Farid Basharat",
         "Patricio Pitbull",
         "Justin Gaethje",
         "Shamil Gaziev",
         "Marvin Vettori",
         "Arman Tsarukyan",
-        "Carlos Prates"
+        "Carlos Prates",
+        "Arnold Allen"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -67,7 +67,7 @@
             "Fight_Time_Seconds": 1028,
             "Division": "Bantamweight",
             "Rank": "1",
-            "Selected_Date": "2026-01-09T05:33:36.281724Z"
+            "Selected_Date": "2026-04-16T06:59:14.481468Z"
         },
         "Khamzat Chimaev": {
             "Name": "Khamzat Chimaev",
