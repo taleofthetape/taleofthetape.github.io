@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Merab Dvalishvili",
-        "Profile_URL": "https://www.ufc.com/athlete/merab-dvalishvili",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DVALISHVILI_MERAB_BELT_10-04.png?itok=9s24oWsN",
-        "Record": "21-4-0 (W-L-D)",
-        "SLpM": "4.33",
-        "SApM": "2.55",
-        "TD_Avg": "6.40",
-        "Sub_Avg": "0.27",
-        "Fight_Time": "17:08",
-        "Fight_Time_Seconds": 1028,
-        "Division": "Bantamweight",
-        "Rank": "1",
-        "Selected_Date": "2026-04-16T06:59:14.481468Z"
+        "Name": "Alexander Volkanovski",
+        "Profile_URL": "https://www.ufc.com/athlete/alexander-volkanovski",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-02/VOLKANOVSKI_ALEXANDER_BELT_02-17.png?itok=u2-VOzne",
+        "Record": "27-4-0 (W-L-D)",
+        "SLpM": "6.18",
+        "SApM": "3.36",
+        "TD_Avg": "1.67",
+        "Sub_Avg": "0.16",
+        "Fight_Time": "16:21",
+        "Fight_Time_Seconds": 981,
+        "Division": "Featherweight",
+        "Rank": "C",
+        "Selected_Date": "2026-04-17T06:59:52.452634Z"
     },
     "past_fighters": [
-        "Patricio Pitbull",
         "Justin Gaethje",
         "Shamil Gaziev",
         "Marvin Vettori",
         "Arman Tsarukyan",
         "Carlos Prates",
-        "Arnold Allen"
+        "Arnold Allen",
+        "Merab Dvalishvili"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -125,7 +125,8 @@
             "Fight_Time": "16:21",
             "Fight_Time_Seconds": 981,
             "Division": "Featherweight",
-            "Rank": "C"
+            "Rank": "C",
+            "Selected_Date": "2026-04-17T06:59:52.452634Z"
         },
         "Tom Aspinall": {
             "Name": "Tom Aspinall",
