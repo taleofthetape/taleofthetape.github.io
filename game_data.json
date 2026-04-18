@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alexander Volkanovski",
-        "Profile_URL": "https://www.ufc.com/athlete/alexander-volkanovski",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-02/VOLKANOVSKI_ALEXANDER_BELT_02-17.png?itok=u2-VOzne",
-        "Record": "27-4-0 (W-L-D)",
-        "SLpM": "6.18",
-        "SApM": "3.36",
-        "TD_Avg": "1.67",
-        "Sub_Avg": "0.16",
-        "Fight_Time": "16:21",
-        "Fight_Time_Seconds": 981,
+        "Name": "Dan Ige",
+        "Profile_URL": "https://www.ufc.com/athlete/dan-ige",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/IGE_DAN_07-19.png?itok=X917m801",
+        "Record": "19-10-0 (W-L-D)",
+        "SLpM": "3.64",
+        "SApM": "3.56",
+        "TD_Avg": "0.89",
+        "Sub_Avg": "0.22",
+        "Fight_Time": "12:49",
+        "Fight_Time_Seconds": 769,
         "Division": "Featherweight",
-        "Rank": "C",
-        "Selected_Date": "2026-04-17T06:59:52.452634Z"
+        "Rank": "14",
+        "Selected_Date": "2026-04-18T06:15:42.142216Z"
     },
     "past_fighters": [
-        "Justin Gaethje",
         "Shamil Gaziev",
         "Marvin Vettori",
         "Arman Tsarukyan",
         "Carlos Prates",
         "Arnold Allen",
-        "Merab Dvalishvili"
+        "Merab Dvalishvili",
+        "Alexander Volkanovski"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -867,7 +867,8 @@
             "Fight_Time": "12:49",
             "Fight_Time_Seconds": 769,
             "Division": "Featherweight",
-            "Rank": "14"
+            "Rank": "14",
+            "Selected_Date": "2026-04-18T06:15:42.142216Z"
         },
         "David Onama": {
             "Name": "David Onama",
