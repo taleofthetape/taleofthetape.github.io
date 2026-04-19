@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dan Ige",
-        "Profile_URL": "https://www.ufc.com/athlete/dan-ige",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/IGE_DAN_07-19.png?itok=X917m801",
-        "Record": "19-10-0 (W-L-D)",
-        "SLpM": "3.64",
-        "SApM": "3.56",
-        "TD_Avg": "0.89",
-        "Sub_Avg": "0.22",
-        "Fight_Time": "12:49",
-        "Fight_Time_Seconds": 769,
-        "Division": "Featherweight",
-        "Rank": "14",
-        "Selected_Date": "2026-04-18T06:15:42.142216Z"
+        "Name": "Vitor Petrino",
+        "Profile_URL": "https://www.ufc.com/athlete/vitor-petrino",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PETRINO_VITOR_10-11.png?itok=uSTVKsKO",
+        "Record": "13-2-0 (W-L-D)",
+        "SLpM": "2.75",
+        "SApM": "2.48",
+        "TD_Avg": "3.04",
+        "Sub_Avg": "0.84",
+        "Fight_Time": "09:52",
+        "Fight_Time_Seconds": 592,
+        "Division": "Heavyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-04-19T06:49:07.939002Z"
     },
     "past_fighters": [
-        "Shamil Gaziev",
         "Marvin Vettori",
         "Arman Tsarukyan",
         "Carlos Prates",
         "Arnold Allen",
         "Merab Dvalishvili",
-        "Alexander Volkanovski"
+        "Alexander Volkanovski",
+        "Dan Ige"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2069,7 +2069,7 @@
             "Fight_Time_Seconds": 592,
             "Division": "Heavyweight",
             "Rank": "15",
-            "Selected_Date": "2026-03-07T05:43:35.194519Z"
+            "Selected_Date": "2026-04-19T06:49:07.939002Z"
         },
         "Raul Rosas Jr.": {
             "Name": "Raul Rosas Jr.",
