@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Vitor Petrino",
-        "Profile_URL": "https://www.ufc.com/athlete/vitor-petrino",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PETRINO_VITOR_10-11.png?itok=uSTVKsKO",
-        "Record": "13-2-0 (W-L-D)",
-        "SLpM": "2.75",
-        "SApM": "2.48",
-        "TD_Avg": "3.04",
-        "Sub_Avg": "0.84",
-        "Fight_Time": "09:52",
-        "Fight_Time_Seconds": 592,
-        "Division": "Heavyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-04-19T06:49:07.939002Z"
+        "Name": "Reinier de Ridder",
+        "Profile_URL": "https://www.ufc.com/athlete/reinier-de-ridder",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DE-RIDDER_REINIER_10-18.png?itok=cCiewy9T",
+        "Record": "21-3-0 (W-L-D)",
+        "SLpM": "2.20",
+        "SApM": "2.04",
+        "TD_Avg": "2.68",
+        "Sub_Avg": "0.67",
+        "Fight_Time": "13:26",
+        "Fight_Time_Seconds": 806,
+        "Division": "Middleweight",
+        "Rank": "8",
+        "Selected_Date": "2026-04-20T07:20:10.321228Z"
     },
     "past_fighters": [
-        "Marvin Vettori",
         "Arman Tsarukyan",
         "Carlos Prates",
         "Arnold Allen",
         "Merab Dvalishvili",
         "Alexander Volkanovski",
-        "Dan Ige"
+        "Dan Ige",
+        "Vitor Petrino"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1363,7 +1363,7 @@
             "Fight_Time_Seconds": 806,
             "Division": "Middleweight",
             "Rank": "8",
-            "Selected_Date": "2026-02-02T06:07:41.920654Z"
+            "Selected_Date": "2026-04-20T07:20:10.321228Z"
         },
         "Robert Whittaker": {
             "Name": "Robert Whittaker",
