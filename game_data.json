@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Farid Basharat",
-        "Profile_URL": "https://www.ufc.com/athlete/farid-basharat",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/BASHARAT_FARID_02-07.png?itok=XbStRAHb",
-        "Record": "15-0-0 (W-L-D)",
-        "SLpM": "4.25",
-        "SApM": "2.89",
-        "TD_Avg": "3.34",
-        "Sub_Avg": "0.32",
-        "Fight_Time": "13:28",
-        "Fight_Time_Seconds": 808,
-        "Division": "Bantamweight",
-        "Rank": "15",
-        "Selected_Date": "2026-04-21T07:00:16.418074Z"
+        "Name": "Steve Erceg",
+        "Profile_URL": "https://www.ufc.com/athlete/steve-erceg",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ERCEG_STEVE_08-09.png?itok=AUbCmbUe",
+        "Record": "13-4-0 (W-L-D)",
+        "SLpM": "4.00",
+        "SApM": "3.79",
+        "TD_Avg": "1.15",
+        "Sub_Avg": "0.43",
+        "Fight_Time": "14:56",
+        "Fight_Time_Seconds": 896,
+        "Division": "Flyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-04-22T06:59:14.394359Z"
     },
     "past_fighters": [
-        "Carlos Prates",
         "Arnold Allen",
         "Merab Dvalishvili",
         "Alexander Volkanovski",
         "Dan Ige",
         "Vitor Petrino",
-        "Reinier de Ridder"
+        "Reinier de Ridder",
+        "Farid Basharat"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -384,7 +384,8 @@
             "Fight_Time": "14:56",
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-04-22T06:59:14.394359Z"
         },
         "Alex Perez": {
             "Name": "Alex Perez",
@@ -2169,6 +2170,34 @@
             "Fight_Time_Seconds": 405,
             "Division": "Heavyweight",
             "Rank": "5"
+        },
+        "Mike Malott": {
+            "Name": "Mike Malott",
+            "Profile_URL": "https://www.ufc.com/athlete/mike-malott",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/MALOTT_MIKE_04-18.png?itok=Rlel8E-c",
+            "Record": "14-2-1 (W-L-D)",
+            "SLpM": "4.02",
+            "SApM": "3.09",
+            "TD_Avg": "1.63",
+            "Sub_Avg": "0.65",
+            "Fight_Time": "09:12",
+            "Fight_Time_Seconds": 552,
+            "Division": "Welterweight",
+            "Rank": "11"
+        },
+        "Yaroslav Amosov": {
+            "Name": "Yaroslav Amosov",
+            "Profile_URL": "https://www.ufc.com/athlete/yaroslav-amosov",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/AMOSOV_YAROSLAV_12-13.png?itok=Ka_w0ilG",
+            "Record": "29-1-0 (W-L-D)",
+            "SLpM": "2.78",
+            "SApM": "1.55",
+            "TD_Avg": "4.64",
+            "Sub_Avg": "4.64",
+            "Fight_Time": "03:14",
+            "Fight_Time_Seconds": 194,
+            "Division": "Welterweight",
+            "Rank": "15"
         }
     }
 }
