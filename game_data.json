@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Steve Erceg",
-        "Profile_URL": "https://www.ufc.com/athlete/steve-erceg",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ERCEG_STEVE_08-09.png?itok=AUbCmbUe",
-        "Record": "13-4-0 (W-L-D)",
-        "SLpM": "4.00",
-        "SApM": "3.79",
-        "TD_Avg": "1.15",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "14:56",
-        "Fight_Time_Seconds": 896,
-        "Division": "Flyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-04-22T06:59:14.394359Z"
+        "Name": "Carlos Ulberg",
+        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
+        "Record": "14-1-0 (W-L-D)",
+        "SLpM": "6.54",
+        "SApM": "4.04",
+        "TD_Avg": "0.55",
+        "Sub_Avg": "0.18",
+        "Fight_Time": "07:27",
+        "Fight_Time_Seconds": 447,
+        "Division": "Light Heavyweight",
+        "Rank": "C",
+        "Selected_Date": "2026-04-23T07:03:06.575883Z"
     },
     "past_fighters": [
-        "Arnold Allen",
         "Merab Dvalishvili",
         "Alexander Volkanovski",
         "Dan Ige",
         "Vitor Petrino",
         "Reinier de Ridder",
-        "Farid Basharat"
+        "Farid Basharat",
+        "Steve Erceg"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -330,7 +330,7 @@
         },
         "Asu Almabayev": {
             "Name": "Asu Almabayev",
-            "Profile_URL": "https://www.ufc.com/athlete/assu-almabayev",
+            "Profile_URL": "https://www.ufc.com/athlete/asu-almabayev",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ALMABAYEV_ASU_11-22.png?itok=R-gX5swq",
             "Record": "23-3-0 (W-L-D)",
             "SLpM": "2.31",
@@ -521,7 +521,7 @@
         },
         "Song Yadong": {
             "Name": "Song Yadong",
-            "Profile_URL": "https://www.ufc.com/athlete/yadong-song",
+            "Profile_URL": "https://www.ufc.com/athlete/song-yadong",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/YADONG_SONG_02-22.png?itok=WCb_V9Vo",
             "Record": "22-8-1 (W-L-D)",
             "SLpM": "4.58",
@@ -843,7 +843,7 @@
         },
         "Patricio Pitbull": {
             "Name": "Patricio Pitbull",
-            "Profile_URL": "https://www.ufc.com/athlete/patricio-pitbull-freire",
+            "Profile_URL": "https://www.ufc.com/athlete/patricio-freire",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/PITBULL_PATRICIO_09-06.png?itok=g_9ZcRvc",
             "Record": "37-8-0 (W-L-D)",
             "SLpM": "2.68",
@@ -1076,7 +1076,7 @@
         },
         "Ian Machado Garry": {
             "Name": "Ian Machado Garry",
-            "Profile_URL": "https://www.ufc.com/athlete/ian-garry",
+            "Profile_URL": "https://www.ufc.com/athlete/ian-machado-garry",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MACHADO_GARRY_IAN_11-22.png?itok=SbjTy_Wn",
             "Record": "17-1-0 (W-L-D)",
             "SLpM": "4.78",
@@ -1498,7 +1498,7 @@
             "Fight_Time_Seconds": 447,
             "Division": "Light Heavyweight",
             "Rank": "C",
-            "Selected_Date": "2025-12-27T05:29:18.784032Z"
+            "Selected_Date": "2026-04-23T07:03:06.575883Z"
         },
         "Khalil Rountree Jr.": {
             "Name": "Khalil Rountree Jr.",
