@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Carlos Ulberg",
-        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
-        "Record": "14-1-0 (W-L-D)",
-        "SLpM": "6.54",
-        "SApM": "4.04",
-        "TD_Avg": "0.55",
-        "Sub_Avg": "0.18",
-        "Fight_Time": "07:27",
-        "Fight_Time_Seconds": 447,
-        "Division": "Light Heavyweight",
-        "Rank": "C",
-        "Selected_Date": "2026-04-23T07:03:06.575883Z"
+        "Name": "Umar Nurmagomedov",
+        "Profile_URL": "https://www.ufc.com/athlete/umar-nurmagomedov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/NURMAGOMEDOV_UMAR_10-25.png?itok=r0Ir2L-0",
+        "Record": "19-1-0 (W-L-D)",
+        "SLpM": "4.08",
+        "SApM": "2.04",
+        "TD_Avg": "4.30",
+        "Sub_Avg": "0.27",
+        "Fight_Time": "13:57",
+        "Fight_Time_Seconds": 837,
+        "Division": "Bantamweight",
+        "Rank": "2",
+        "Selected_Date": "2026-04-24T07:06:18.099283Z"
     },
     "past_fighters": [
-        "Merab Dvalishvili",
         "Alexander Volkanovski",
         "Dan Ige",
         "Vitor Petrino",
         "Reinier de Ridder",
         "Farid Basharat",
-        "Steve Erceg"
+        "Steve Erceg",
+        "Carlos Ulberg"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -474,7 +474,7 @@
             "Fight_Time_Seconds": 837,
             "Division": "Bantamweight",
             "Rank": "2",
-            "Selected_Date": "2026-03-20T05:58:39.305716Z"
+            "Selected_Date": "2026-04-24T07:06:18.099283Z"
         },
         "Sean O'Malley": {
             "Name": "Sean O'Malley",
