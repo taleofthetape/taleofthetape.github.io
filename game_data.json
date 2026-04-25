@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Umar Nurmagomedov",
-        "Profile_URL": "https://www.ufc.com/athlete/umar-nurmagomedov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/NURMAGOMEDOV_UMAR_10-25.png?itok=r0Ir2L-0",
-        "Record": "19-1-0 (W-L-D)",
-        "SLpM": "4.08",
-        "SApM": "2.04",
-        "TD_Avg": "4.30",
-        "Sub_Avg": "0.27",
-        "Fight_Time": "13:57",
-        "Fight_Time_Seconds": 837,
-        "Division": "Bantamweight",
-        "Rank": "2",
-        "Selected_Date": "2026-04-24T07:06:18.099283Z"
+        "Name": "Jared Cannonier",
+        "Profile_URL": "https://www.ufc.com/athlete/jared-cannonier",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CANNONIER_JARED_08-16.png?itok=dCV1YoFd",
+        "Record": "18-9-0 (W-L-D)",
+        "SLpM": "4.42",
+        "SApM": "4.35",
+        "TD_Avg": "0.54",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "13:54",
+        "Fight_Time_Seconds": 834,
+        "Division": "Middleweight",
+        "Rank": "11",
+        "Selected_Date": "2026-04-25T06:22:03.080042Z"
     },
     "past_fighters": [
-        "Alexander Volkanovski",
         "Dan Ige",
         "Vitor Petrino",
         "Reinier de Ridder",
         "Farid Basharat",
         "Steve Erceg",
-        "Carlos Ulberg"
+        "Carlos Ulberg",
+        "Umar Nurmagomedov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1394,7 +1394,7 @@
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
             "Rank": "11",
-            "Selected_Date": "2026-01-21T05:36:36.222276Z"
+            "Selected_Date": "2026-04-25T06:22:03.080042Z"
         },
         "Michael Page": {
             "Name": "Michael Page",
