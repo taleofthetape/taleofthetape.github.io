@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jared Cannonier",
-        "Profile_URL": "https://www.ufc.com/athlete/jared-cannonier",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CANNONIER_JARED_08-16.png?itok=dCV1YoFd",
-        "Record": "18-9-0 (W-L-D)",
-        "SLpM": "4.42",
-        "SApM": "4.35",
-        "TD_Avg": "0.54",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "13:54",
-        "Fight_Time_Seconds": 834,
-        "Division": "Middleweight",
-        "Rank": "11",
-        "Selected_Date": "2026-04-25T06:22:03.080042Z"
+        "Name": "Cory Sandhagen",
+        "Profile_URL": "https://www.ufc.com/athlete/cory-sandhagen",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/SANDHAGEN_CORY_10-04.png?itok=S79YESKx",
+        "Record": "18-6-0 (W-L-D)",
+        "SLpM": "4.86",
+        "SApM": "3.47",
+        "TD_Avg": "1.15",
+        "Sub_Avg": "0.25",
+        "Fight_Time": "14:43",
+        "Fight_Time_Seconds": 883,
+        "Division": "Bantamweight",
+        "Rank": "4",
+        "Selected_Date": "2026-04-26T07:01:01.928876Z"
     },
     "past_fighters": [
-        "Dan Ige",
         "Vitor Petrino",
         "Reinier de Ridder",
         "Farid Basharat",
         "Steve Erceg",
         "Carlos Ulberg",
-        "Umar Nurmagomedov"
+        "Umar Nurmagomedov",
+        "Jared Cannonier"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -517,7 +517,7 @@
             "Fight_Time_Seconds": 883,
             "Division": "Bantamweight",
             "Rank": "4",
-            "Selected_Date": "2026-03-18T06:06:24.177898Z"
+            "Selected_Date": "2026-04-26T07:01:01.928876Z"
         },
         "Song Yadong": {
             "Name": "Song Yadong",
