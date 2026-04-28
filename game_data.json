@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alexander Volkov",
-        "Profile_URL": "https://www.ufc.com/athlete/alexander-volkov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/VOLKOV_ALEXANDER_10-25.png?itok=PFhcuxBv",
-        "Record": "39-11-0 (W-L-D)",
-        "SLpM": "4.78",
-        "SApM": "2.86",
-        "TD_Avg": "0.57",
-        "Sub_Avg": "0.23",
-        "Fight_Time": "13:03",
-        "Fight_Time_Seconds": 783,
-        "Division": "Heavyweight",
-        "Rank": "2",
-        "Selected_Date": "2026-04-27T07:37:57.328668Z"
+        "Name": "Max Holloway",
+        "Profile_URL": "https://www.ufc.com/athlete/max-holloway",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/HOLLOWAY_MAX_BMF_07-19.png?itok=Z9zVlm7E",
+        "Record": "27-8-0 (W-L-D)",
+        "SLpM": "7.20",
+        "SApM": "4.74",
+        "TD_Avg": "0.24",
+        "Sub_Avg": "0.30",
+        "Fight_Time": "16:23",
+        "Fight_Time_Seconds": 983,
+        "Division": "Lightweight",
+        "Rank": "4",
+        "Selected_Date": "2026-04-28T07:34:36.420961Z"
     },
     "past_fighters": [
-        "Reinier de Ridder",
         "Farid Basharat",
         "Steve Erceg",
         "Carlos Ulberg",
         "Umar Nurmagomedov",
         "Jared Cannonier",
-        "Cory Sandhagen"
+        "Cory Sandhagen",
+        "Alexander Volkov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -169,7 +169,7 @@
             "Fight_Time_Seconds": 983,
             "Division": "Lightweight",
             "Rank": "4",
-            "Selected_Date": "2026-03-21T05:49:14.918573Z"
+            "Selected_Date": "2026-04-28T07:34:36.420961Z"
         },
         "Jack Della Maddalena": {
             "Name": "Jack Della Maddalena",
