@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Max Holloway",
-        "Profile_URL": "https://www.ufc.com/athlete/max-holloway",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/HOLLOWAY_MAX_BMF_07-19.png?itok=Z9zVlm7E",
-        "Record": "27-8-0 (W-L-D)",
-        "SLpM": "7.20",
-        "SApM": "4.74",
-        "TD_Avg": "0.24",
-        "Sub_Avg": "0.30",
-        "Fight_Time": "16:23",
-        "Fight_Time_Seconds": 983,
-        "Division": "Lightweight",
-        "Rank": "4",
-        "Selected_Date": "2026-04-28T07:34:36.420961Z"
+        "Name": "Tyrell Fortune",
+        "Profile_URL": "https://www.ufc.com/athlete/tyrell-fortune",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/FORTUNE_TYRELL_03-28.png?itok=r5E1psjZ",
+        "Record": "18-3-0 (W-L-D)",
+        "SLpM": "2.00",
+        "SApM": "3.13",
+        "TD_Avg": "3.00",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "15:00",
+        "Fight_Time_Seconds": 900,
+        "Division": "Heavyweight",
+        "Rank": "11",
+        "Selected_Date": "2026-04-29T07:28:35.323213Z"
     },
     "past_fighters": [
-        "Farid Basharat",
         "Steve Erceg",
         "Carlos Ulberg",
         "Umar Nurmagomedov",
         "Jared Cannonier",
         "Cory Sandhagen",
-        "Alexander Volkov"
+        "Alexander Volkov",
+        "Max Holloway"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -723,7 +723,7 @@
             "Fight_Time": "13:14",
             "Fight_Time_Seconds": 794,
             "Division": "Featherweight",
-            "Rank": "4",
+            "Rank": "5",
             "Selected_Date": "2026-02-07T05:50:33.102348Z"
         },
         "Lerone Murphy": {
@@ -752,7 +752,7 @@
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
             "Division": "Featherweight",
-            "Rank": "5",
+            "Rank": "4",
             "Selected_Date": "2026-02-15T06:00:29.754339Z"
         },
         "Arnold Allen": {
@@ -767,7 +767,7 @@
             "Fight_Time": "13:37",
             "Fight_Time_Seconds": 817,
             "Division": "Featherweight",
-            "Rank": "8",
+            "Rank": "7",
             "Selected_Date": "2026-04-15T06:56:39.107627Z"
         },
         "Youssef Zalal": {
@@ -782,7 +782,7 @@
             "Fight_Time": "11:32",
             "Fight_Time_Seconds": 692,
             "Division": "Featherweight",
-            "Rank": "7",
+            "Rank": "8",
             "Selected_Date": "2026-02-10T06:14:12.018791Z"
         },
         "Steve Garcia": {
@@ -1423,7 +1423,7 @@
             "Fight_Time": "12:48",
             "Fight_Time_Seconds": 768,
             "Division": "Middleweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-03-31T06:19:09.404359Z"
         },
         "Paulo Costa": {
@@ -1720,7 +1720,7 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Heavyweight",
-            "Rank": "6",
+            "Rank": "7",
             "Selected_Date": "2026-01-13T05:33:28.206686Z"
         },
         "Waldo Cortes Acosta": {
@@ -1823,7 +1823,7 @@
             "Fight_Time": "08:01",
             "Fight_Time_Seconds": 481,
             "Division": "Heavyweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-04-11T06:04:47.492698Z"
         },
         "Tai Tuivasa": {
@@ -1853,7 +1853,7 @@
             "Fight_Time": "10:53",
             "Fight_Time_Seconds": 653,
             "Division": "Heavyweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-03-17T06:04:05.092755Z"
         },
         "Valter Walker": {
@@ -2055,7 +2055,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "13"
+            "Rank": "12"
         },
         "Vitor Petrino": {
             "Name": "Vitor Petrino",
@@ -2141,7 +2141,8 @@
             "Fight_Time": "15:00",
             "Fight_Time_Seconds": 900,
             "Division": "Heavyweight",
-            "Rank": "11"
+            "Rank": "11",
+            "Selected_Date": "2026-04-29T07:28:35.323213Z"
         },
         "Aaron Pico": {
             "Name": "Aaron Pico",
@@ -2197,7 +2198,21 @@
             "Fight_Time": "03:14",
             "Fight_Time_Seconds": 194,
             "Division": "Welterweight",
-            "Rank": "15"
+            "Rank": "14"
+        },
+        "Raoni Barcelos": {
+            "Name": "Raoni Barcelos",
+            "Profile_URL": "https://www.ufc.com/athlete/raoni-barcelos",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/BARCELOS_RAONI_04-25.png?itok=afx586h5",
+            "Record": "22-5-0 (W-L-D)",
+            "SLpM": "4.65",
+            "SApM": "4.24",
+            "TD_Avg": "2.51",
+            "Sub_Avg": "0.68",
+            "Fight_Time": "13:09",
+            "Fight_Time_Seconds": 789,
+            "Division": "Bantamweight",
+            "Rank": "14"
         }
     }
 }
