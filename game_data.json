@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Magomed Ankalaev",
-        "Profile_URL": "https://www.ufc.com/athlete/magomed-ankalaev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/ANKALAEV_MAGOMED_03-08.png?itok=ojT4l7_3",
-        "Record": "21-2-1 (W-L-D)",
-        "SLpM": "3.65",
-        "SApM": "2.59",
-        "TD_Avg": "0.79",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:49",
-        "Fight_Time_Seconds": 709,
-        "Division": "Light Heavyweight",
-        "Rank": "1",
-        "Selected_Date": "2026-04-30T07:32:28.650595Z"
+        "Name": "Mick Parkin",
+        "Profile_URL": "https://www.ufc.com/athlete/mick-parkin",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PARKIN_MICK_03-22.png?itok=Ts_zLB_v",
+        "Record": "10-1-0 (W-L-D)",
+        "SLpM": "4.70",
+        "SApM": "4.13",
+        "TD_Avg": "1.38",
+        "Sub_Avg": "0.23",
+        "Fight_Time": "10:53",
+        "Fight_Time_Seconds": 653,
+        "Division": "Heavyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-05-01T07:29:53.396427Z"
     },
     "past_fighters": [
-        "Carlos Ulberg",
         "Umar Nurmagomedov",
         "Jared Cannonier",
         "Cory Sandhagen",
         "Alexander Volkov",
         "Max Holloway",
-        "Tyrell Fortune"
+        "Tyrell Fortune",
+        "Magomed Ankalaev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1854,7 +1854,7 @@
             "Fight_Time_Seconds": 653,
             "Division": "Heavyweight",
             "Rank": "15",
-            "Selected_Date": "2026-03-17T06:04:05.092755Z"
+            "Selected_Date": "2026-05-01T07:29:53.396427Z"
         },
         "Valter Walker": {
             "Name": "Valter Walker",
