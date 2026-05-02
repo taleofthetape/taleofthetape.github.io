@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mick Parkin",
-        "Profile_URL": "https://www.ufc.com/athlete/mick-parkin",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PARKIN_MICK_03-22.png?itok=Ts_zLB_v",
-        "Record": "10-1-0 (W-L-D)",
-        "SLpM": "4.70",
-        "SApM": "4.13",
-        "TD_Avg": "1.38",
-        "Sub_Avg": "0.23",
-        "Fight_Time": "10:53",
-        "Fight_Time_Seconds": 653,
-        "Division": "Heavyweight",
+        "Name": "Patricio Pitbull",
+        "Profile_URL": "https://www.ufc.com/athlete/patricio-freire",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/PITBULL_PATRICIO_09-06.png?itok=g_9ZcRvc",
+        "Record": "37-8-0 (W-L-D)",
+        "SLpM": "2.68",
+        "SApM": "4.23",
+        "TD_Avg": "1.49",
+        "Sub_Avg": "0.56",
+        "Fight_Time": "16:04",
+        "Fight_Time_Seconds": 964,
+        "Division": "Featherweight",
         "Rank": "15",
-        "Selected_Date": "2026-05-01T07:29:53.396427Z"
+        "Selected_Date": "2026-05-02T07:03:44.557378Z"
     },
     "past_fighters": [
-        "Umar Nurmagomedov",
         "Jared Cannonier",
         "Cory Sandhagen",
         "Alexander Volkov",
         "Max Holloway",
         "Tyrell Fortune",
-        "Magomed Ankalaev"
+        "Magomed Ankalaev",
+        "Mick Parkin"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -854,7 +854,7 @@
             "Fight_Time_Seconds": 964,
             "Division": "Featherweight",
             "Rank": "15",
-            "Selected_Date": "2026-04-09T06:24:25.982702Z"
+            "Selected_Date": "2026-05-02T07:03:44.557378Z"
         },
         "Dan Ige": {
             "Name": "Dan Ige",
