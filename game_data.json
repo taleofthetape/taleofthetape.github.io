@@ -1,25 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Khalil Rountree Jr.",
-        "Profile_URL": "https://www.ufc.com/athlete/khalil-rountree-jr",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=bL2TSzIM",
-        "Record": "15-7-0 (W-L-D)",
-        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
-        "TD_Avg": "50\n                  %",
-        "Sub_Avg": "59\n                      %",
-        "Fight_Time_Seconds": 0,
-        "Division": "Light Heavyweight",
-        "Rank": "5",
-        "Selected_Date": "2026-05-04T07:50:15.917446Z"
+        "Name": "Aaron Pico",
+        "Profile_URL": "https://www.ufc.com/athlete/aaron-pico",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PICO_AARON_08-16.png?itok=HIOKv3UF",
+        "Record": "14-5-0 (W-L-D)",
+        "SLpM": "6.16",
+        "SApM": "3.11",
+        "TD_Avg": "6.54",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "09:11",
+        "Fight_Time_Seconds": 551,
+        "Division": "Featherweight",
+        "Rank": "13",
+        "Selected_Date": "2026-05-05T07:22:24.090442Z"
     },
     "past_fighters": [
-        "Alexander Volkov",
         "Max Holloway",
         "Tyrell Fortune",
         "Magomed Ankalaev",
         "Mick Parkin",
         "Patricio Pitbull",
-        "Daniel Rodriguez"
+        "Daniel Rodriguez",
+        "Khalil Rountree Jr."
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1508,8 +1510,7 @@
             "Sub_Avg": "59\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
-            "Rank": "5",
-            "Selected_Date": "2026-05-04T07:50:15.917446Z"
+            "Rank": "5"
         },
         "Jan B\u0142achowicz": {
             "Name": "Jan B\u0142achowicz",
@@ -2155,7 +2156,8 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-05-05T07:22:24.090442Z"
         },
         "Josh Hokit": {
             "Name": "Josh Hokit",
