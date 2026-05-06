@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Aaron Pico",
-        "Profile_URL": "https://www.ufc.com/athlete/aaron-pico",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PICO_AARON_08-16.png?itok=HIOKv3UF",
-        "Record": "14-5-0 (W-L-D)",
-        "SLpM": "6.16",
-        "SApM": "3.11",
-        "TD_Avg": "6.54",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "09:11",
-        "Fight_Time_Seconds": 551,
-        "Division": "Featherweight",
-        "Rank": "13",
-        "Selected_Date": "2026-05-05T07:22:24.090442Z"
+        "Name": "Asu Almabayev",
+        "Profile_URL": "https://www.ufc.com/athlete/asu-almabayev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ALMABAYEV_ASU_11-22.png?itok=R-gX5swq",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "2.31",
+        "SApM": "1.99",
+        "TD_Avg": "4.46",
+        "Sub_Avg": "1.49",
+        "Fight_Time": "12:58",
+        "Fight_Time_Seconds": 778,
+        "Division": "Flyweight",
+        "Rank": "8",
+        "Selected_Date": "2026-05-06T07:38:46.292325Z"
     },
     "past_fighters": [
-        "Max Holloway",
         "Tyrell Fortune",
         "Magomed Ankalaev",
         "Mick Parkin",
         "Patricio Pitbull",
         "Daniel Rodriguez",
-        "Khalil Rountree Jr."
+        "Khalil Rountree Jr.",
+        "Aaron Pico"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -179,7 +179,7 @@
             "SLpM": "Standing \n      0 (0 %)",
             "Fight_Time_Seconds": 0,
             "Division": "Welterweight",
-            "Rank": "1",
+            "Rank": "4",
             "Selected_Date": "2026-03-14T05:53:35.784276Z"
         },
         "Magomed Ankalaev": {
@@ -239,7 +239,7 @@
             "Fight_Time": "15:22",
             "Fight_Time_Seconds": 922,
             "Division": "Welterweight",
-            "Rank": "4",
+            "Rank": "5",
             "Selected_Date": "2026-02-12T06:08:25.823081Z"
         },
         "Joshua Van": {
@@ -341,7 +341,7 @@
             "Fight_Time_Seconds": 778,
             "Division": "Flyweight",
             "Rank": "8",
-            "Selected_Date": "2026-03-13T05:56:38.381760Z"
+            "Selected_Date": "2026-05-06T07:38:46.292325Z"
         },
         "Kyoji Horiguchi": {
             "Name": "Kyoji Horiguchi",
@@ -370,7 +370,7 @@
             "Fight_Time": "12:08",
             "Fight_Time_Seconds": 728,
             "Division": "Flyweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Steve Erceg": {
             "Name": "Steve Erceg",
@@ -384,7 +384,7 @@
             "Fight_Time": "14:56",
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
-            "Rank": "12",
+            "Rank": "10",
             "Selected_Date": "2026-04-22T06:59:14.394359Z"
         },
         "Alex Perez": {
@@ -399,7 +399,7 @@
             "Fight_Time": "07:03",
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2026-02-13T06:04:16.452067Z"
         },
         "Tagir Ulanbekov": {
@@ -1027,7 +1027,7 @@
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
             "Division": "Lightweight",
-            "Rank": "12",
+            "Rank": "14",
             "Selected_Date": "2026-01-19T05:38:25.055719Z"
         },
         "Grant Dawson": {
@@ -1086,7 +1086,7 @@
             "Fight_Time": "14:45",
             "Fight_Time_Seconds": 885,
             "Division": "Welterweight",
-            "Rank": "2",
+            "Rank": "1",
             "Selected_Date": "2026-01-23T05:36:07.608383Z"
         },
         "Shavkat Rakhmonov": {
@@ -1131,7 +1131,7 @@
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
             "Division": "Welterweight",
-            "Rank": "5",
+            "Rank": "2",
             "Selected_Date": "2026-04-14T06:55:26.705897Z"
         },
         "Sean Brady": {
@@ -1160,7 +1160,7 @@
             "Fight_Time": "17:50",
             "Fight_Time_Seconds": 1070,
             "Division": "Welterweight",
-            "Rank": "7"
+            "Rank": "8"
         },
         "Leon Edwards": {
             "Name": "Leon Edwards",
@@ -1174,7 +1174,7 @@
             "Fight_Time": "16:47",
             "Fight_Time_Seconds": 1007,
             "Division": "Welterweight",
-            "Rank": "8",
+            "Rank": "7",
             "Selected_Date": "2026-02-28T05:38:38.775430Z"
         },
         "Joaquin Buckley": {
@@ -1868,7 +1868,7 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Heavyweight",
-            "Rank": "15",
+            "Rank": "13",
             "Selected_Date": "2026-02-26T06:03:32.308431Z"
         },
         "Tallison Teixeira": {
@@ -1883,7 +1883,7 @@
             "Fight_Time": "01:02",
             "Fight_Time_Seconds": 62,
             "Division": "Heavyweight",
-            "Rank": "13"
+            "Rank": "14"
         },
         "Payton Talbott": {
             "Name": "Payton Talbott",
@@ -2214,6 +2214,32 @@
             "Fight_Time_Seconds": 789,
             "Division": "Bantamweight",
             "Rank": "14"
+        },
+        "Quillan Salkilld": {
+            "Name": "Quillan Salkilld",
+            "Profile_URL": "https://www.ufc.com/athlete/quillan-salkilld",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/SALKILLD_QUILLAN_05-02.png?itok=Y_X_Jx3C",
+            "Record": "12-1-0 (W-L-D)",
+            "SLpM": "5.01",
+            "SApM": "3.03",
+            "TD_Avg": "7.25",
+            "Sub_Avg": "0.76",
+            "Fight_Time": "06:33",
+            "Fight_Time_Seconds": 393,
+            "Division": "Lightweight",
+            "Rank": "12"
+        },
+        "Brando Peri\u010di\u0107": {
+            "Name": "Brando Peri\u010di\u0107",
+            "Profile_URL": "https://www.ufc.com/athlete/brando-pericic",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/GAZIEV_SHAMIL_05-02.png?itok=FtVHabT8",
+            "Record": "7-1-0 (W-L-D)",
+            "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
+            "TD_Avg": "58\n                  %",
+            "Sub_Avg": "71\n                      %",
+            "Fight_Time_Seconds": 0,
+            "Division": "Heavyweight",
+            "Rank": "15"
         }
     }
 }
