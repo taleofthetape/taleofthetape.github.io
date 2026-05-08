@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Michael Chandler",
-        "Profile_URL": "https://www.ufc.com/athlete/michael-chandler",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHANDLER_MICHAEL_04-12.png?itok=5kKJoIMh",
-        "Record": "23-10-0 (W-L-D)",
-        "SLpM": "4.04",
-        "SApM": "4.52",
-        "TD_Avg": "1.96",
-        "Sub_Avg": "0.56",
-        "Fight_Time": "09:37",
-        "Fight_Time_Seconds": 577,
-        "Division": "Lightweight",
-        "Rank": "13",
-        "Selected_Date": "2026-05-07T07:46:07.989319Z"
+        "Name": "Aiemann Zahabi",
+        "Profile_URL": "https://www.ufc.com/athlete/aiemann-zahabi",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ZAHABI_AIEMANN_10-18.png?itok=PVjgrz-q",
+        "Record": "14-2-0 (W-L-D)",
+        "SLpM": "4.54",
+        "SApM": "4.08",
+        "TD_Avg": "0.12",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "12:07",
+        "Fight_Time_Seconds": 727,
+        "Division": "Bantamweight",
+        "Rank": "6",
+        "Selected_Date": "2026-05-08T06:55:28.946028Z"
     },
     "past_fighters": [
-        "Magomed Ankalaev",
         "Mick Parkin",
         "Patricio Pitbull",
         "Daniel Rodriguez",
         "Khalil Rountree Jr.",
         "Aaron Pico",
-        "Asu Almabayev"
+        "Asu Almabayev",
+        "Michael Chandler"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -560,7 +560,8 @@
             "Fight_Time": "12:07",
             "Fight_Time_Seconds": 727,
             "Division": "Bantamweight",
-            "Rank": "6"
+            "Rank": "6",
+            "Selected_Date": "2026-05-08T06:55:28.946028Z"
         },
         "Marlon Vera": {
             "Name": "Marlon Vera",
