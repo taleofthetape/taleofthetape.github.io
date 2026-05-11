@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Charles Oliveira",
-        "Profile_URL": "https://www.ufc.com/athlete/charles-oliveira",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/OLIVEIRA_CHARLES_10-11.png?itok=vZYVQ-Bm",
-        "Record": "36-11-0 (W-L-D)",
-        "SLpM": "3.35",
-        "SApM": "3.24",
-        "TD_Avg": "2.22",
-        "Sub_Avg": "2.61",
-        "Fight_Time": "07:30",
-        "Fight_Time_Seconds": 450,
-        "Division": "Lightweight",
-        "Rank": "3",
-        "Selected_Date": "2026-05-10T07:29:07.859533Z"
+        "Name": "Sean O'Malley",
+        "Profile_URL": "https://www.ufc.com/athlete/sean-omalley",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/OMALLEY_SEAN_06-07.png?itok=5pl-nuNI",
+        "Record": "18-3-0 (W-L-D)",
+        "SLpM": "6.30",
+        "SApM": "3.48",
+        "TD_Avg": "0.27",
+        "Sub_Avg": "0.27",
+        "Fight_Time": "11:19",
+        "Fight_Time_Seconds": 679,
+        "Division": "Bantamweight",
+        "Rank": "2",
+        "Selected_Date": "2026-05-11T08:29:16.591179Z"
     },
     "past_fighters": [
-        "Daniel Rodriguez",
         "Khalil Rountree Jr.",
         "Aaron Pico",
         "Asu Almabayev",
         "Michael Chandler",
         "Aiemann Zahabi",
-        "Melquizael Costa"
+        "Melquizael Costa",
+        "Charles Oliveira"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -488,7 +488,8 @@
             "Fight_Time": "11:19",
             "Fight_Time_Seconds": 679,
             "Division": "Bantamweight",
-            "Rank": "2"
+            "Rank": "2",
+            "Selected_Date": "2026-05-11T08:29:16.591179Z"
         },
         "Petr Yan": {
             "Name": "Petr Yan",
