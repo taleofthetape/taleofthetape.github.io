@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Sean O'Malley",
-        "Profile_URL": "https://www.ufc.com/athlete/sean-omalley",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/OMALLEY_SEAN_06-07.png?itok=5pl-nuNI",
-        "Record": "18-3-0 (W-L-D)",
-        "SLpM": "6.30",
-        "SApM": "3.48",
-        "TD_Avg": "0.27",
-        "Sub_Avg": "0.27",
-        "Fight_Time": "11:19",
-        "Fight_Time_Seconds": 679,
+        "Name": "Marlon Vera",
+        "Profile_URL": "https://www.ufc.com/athlete/marlon-vera",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/VERA_MARLON_10-18.png?itok=EFRQn77E",
+        "Record": "23-11-1 (W-L-D)",
+        "SLpM": "4.25",
+        "SApM": "5.37",
+        "TD_Avg": "0.49",
+        "Sub_Avg": "0.80",
+        "Fight_Time": "13:33",
+        "Fight_Time_Seconds": 813,
         "Division": "Bantamweight",
-        "Rank": "2",
-        "Selected_Date": "2026-05-11T08:29:16.591179Z"
+        "Rank": "10",
+        "Selected_Date": "2026-05-12T07:48:12.903737Z"
     },
     "past_fighters": [
-        "Khalil Rountree Jr.",
         "Aaron Pico",
         "Asu Almabayev",
         "Michael Chandler",
         "Aiemann Zahabi",
         "Melquizael Costa",
-        "Charles Oliveira"
+        "Charles Oliveira",
+        "Sean O'Malley"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -577,7 +577,7 @@
             "Fight_Time_Seconds": 813,
             "Division": "Bantamweight",
             "Rank": "10",
-            "Selected_Date": "2026-03-05T05:55:40.263708Z"
+            "Selected_Date": "2026-05-12T07:48:12.903737Z"
         },
         "Mario Bautista": {
             "Name": "Mario Bautista",
