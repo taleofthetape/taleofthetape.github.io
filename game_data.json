@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Gregory Rodrigues",
-        "Profile_URL": "https://www.ufc.com/athlete/gregory-rodrigues",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/RODRIGUES_GREGORY_11-15.png?itok=jNtCq099",
-        "Record": "18-6-0 (W-L-D)",
-        "SLpM": "5.60",
-        "SApM": "4.84",
-        "TD_Avg": "1.93",
-        "Sub_Avg": "0.39",
-        "Fight_Time": "08:59",
-        "Fight_Time_Seconds": 539,
-        "Division": "Middleweight",
-        "Rank": "12",
-        "Selected_Date": "2026-05-14T07:48:53.119913Z"
+        "Name": "Paddy Pimblett",
+        "Profile_URL": "https://www.ufc.com/athlete/paddy-pimblett",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/PIMBLETT_PADDY_04-12.png?itok=qIx4tGVD",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.19",
+        "SApM": "3.14",
+        "TD_Avg": "0.96",
+        "Sub_Avg": "1.68",
+        "Fight_Time": "08:56",
+        "Fight_Time_Seconds": 536,
+        "Division": "Lightweight",
+        "Rank": "6",
+        "Selected_Date": "2026-05-16T07:20:53.322249Z"
     },
     "past_fighters": [
-        "Michael Chandler",
         "Aiemann Zahabi",
         "Melquizael Costa",
         "Charles Oliveira",
         "Sean O'Malley",
         "Marlon Vera",
-        "Michael Morales"
+        "Michael Morales",
+        "Gregory Rodrigues"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -929,7 +929,8 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Lightweight",
-            "Rank": "6"
+            "Rank": "6",
+            "Selected_Date": "2026-05-16T07:20:53.322249Z"
         },
         "Dan Hooker": {
             "Name": "Dan Hooker",
