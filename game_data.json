@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Paddy Pimblett",
-        "Profile_URL": "https://www.ufc.com/athlete/paddy-pimblett",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/PIMBLETT_PADDY_04-12.png?itok=qIx4tGVD",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "5.19",
-        "SApM": "3.14",
-        "TD_Avg": "0.96",
-        "Sub_Avg": "1.68",
-        "Fight_Time": "08:56",
-        "Fight_Time_Seconds": 536,
-        "Division": "Lightweight",
-        "Rank": "6",
-        "Selected_Date": "2026-05-16T07:20:53.322249Z"
+        "Name": "Steve Erceg",
+        "Profile_URL": "https://www.ufc.com/athlete/steve-erceg",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ERCEG_STEVE_08-09.png?itok=AUbCmbUe",
+        "Record": "13-4-0 (W-L-D)",
+        "SLpM": "4.00",
+        "SApM": "3.79",
+        "TD_Avg": "1.15",
+        "Sub_Avg": "0.43",
+        "Fight_Time": "14:56",
+        "Fight_Time_Seconds": 896,
+        "Division": "Flyweight",
+        "Rank": "10",
+        "Selected_Date": "2026-05-17T07:37:02.394608Z"
     },
     "past_fighters": [
-        "Aiemann Zahabi",
         "Melquizael Costa",
         "Charles Oliveira",
         "Sean O'Malley",
         "Marlon Vera",
         "Michael Morales",
-        "Gregory Rodrigues"
+        "Gregory Rodrigues",
+        "Paddy Pimblett"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -385,7 +385,7 @@
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
             "Rank": "10",
-            "Selected_Date": "2026-04-22T06:59:14.394359Z"
+            "Selected_Date": "2026-05-17T07:37:02.394608Z"
         },
         "Alex Perez": {
             "Name": "Alex Perez",
