@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Deiveson Figueiredo",
-        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
-        "Record": "25-5-1 (W-L-D)",
-        "SLpM": "2.75",
-        "SApM": "3.54",
-        "TD_Avg": "1.71",
-        "Sub_Avg": "1.29",
-        "Fight_Time": "12:45",
-        "Fight_Time_Seconds": 765,
-        "Division": "Bantamweight",
-        "Rank": "7",
-        "Selected_Date": "2026-05-19T08:34:04.731851Z"
+        "Name": "Justin Gaethje",
+        "Profile_URL": "https://www.ufc.com/athlete/justin-gaethje",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GAETHJE_JUSTIN_03-08.png?itok=Zvg-a91R",
+        "Record": "27-5-0 (W-L-D)",
+        "SLpM": "6.59",
+        "SApM": "7.18",
+        "TD_Avg": "0.10",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:14",
+        "Fight_Time_Seconds": 674,
+        "Division": "Lightweight",
+        "Rank": "1",
+        "Selected_Date": "2026-05-20T08:32:10.219022Z"
     },
     "past_fighters": [
-        "Sean O'Malley",
         "Marlon Vera",
         "Michael Morales",
         "Gregory Rodrigues",
         "Paddy Pimblett",
         "Steve Erceg",
-        "Far\u00e8s Ziam"
+        "Far\u00e8s Ziam",
+        "Deiveson Figueiredo"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -916,7 +916,7 @@
             "Fight_Time_Seconds": 674,
             "Division": "Lightweight",
             "Rank": "1",
-            "Selected_Date": "2026-04-10T06:55:42.019715Z"
+            "Selected_Date": "2026-05-20T08:32:10.219022Z"
         },
         "Paddy Pimblett": {
             "Name": "Paddy Pimblett",
