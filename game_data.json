@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Marcin Tybura",
-        "Profile_URL": "https://www.ufc.com/athlete/marcin-tybura",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/TYBURA_MARCIN_09-06.png?itok=0kcRoC2B",
-        "Record": "27-10-0 (W-L-D)",
-        "SLpM": "3.59",
-        "SApM": "3.33",
-        "TD_Avg": "1.38",
-        "Sub_Avg": "0.12",
-        "Fight_Time": "10:51",
-        "Fight_Time_Seconds": 651,
-        "Division": "Heavyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-05-23T07:34:55.493928Z"
+        "Name": "Alex Pereira",
+        "Profile_URL": "https://www.ufc.com/athlete/alex-pereira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PEREIRA_ALEX_BELT_03-08.png?itok=227qXfYv",
+        "Record": "13-3-0 (W-L-D)",
+        "SLpM": "5.16",
+        "SApM": "3.50",
+        "TD_Avg": "0.11",
+        "Sub_Avg": "0.23",
+        "Fight_Time": "11:04",
+        "Fight_Time_Seconds": 664,
+        "Division": "Light Heavyweight",
+        "Rank": "2",
+        "Selected_Date": "2026-05-24T07:51:36.671740Z"
     },
     "past_fighters": [
-        "Paddy Pimblett",
         "Steve Erceg",
         "Far\u00e8s Ziam",
         "Deiveson Figueiredo",
         "Justin Gaethje",
         "Tallison Teixeira",
-        "Nikita Krylov"
+        "Nikita Krylov",
+        "Marcin Tybura"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -111,7 +111,8 @@
             "Fight_Time": "11:04",
             "Fight_Time_Seconds": 664,
             "Division": "Light Heavyweight",
-            "Rank": "2"
+            "Rank": "2",
+            "Selected_Date": "2026-05-24T07:51:36.671740Z"
         },
         "Alexander Volkanovski": {
             "Name": "Alexander Volkanovski",
