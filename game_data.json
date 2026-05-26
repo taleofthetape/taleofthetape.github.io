@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alex Pereira",
-        "Profile_URL": "https://www.ufc.com/athlete/alex-pereira",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PEREIRA_ALEX_BELT_03-08.png?itok=227qXfYv",
-        "Record": "13-3-0 (W-L-D)",
-        "SLpM": "5.16",
-        "SApM": "3.50",
-        "TD_Avg": "0.11",
-        "Sub_Avg": "0.23",
-        "Fight_Time": "11:04",
-        "Fight_Time_Seconds": 664,
-        "Division": "Light Heavyweight",
-        "Rank": "2",
-        "Selected_Date": "2026-05-24T07:51:36.671740Z"
+        "Name": "Kyoji Horiguchi",
+        "Profile_URL": "https://www.ufc.com/athlete/kyoji-horiguchi",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HORIGUCHI_KYOJI_11-22.png?itok=uRMYwEsp",
+        "Record": "35-5-0 (W-L-D)",
+        "SLpM": "3.64",
+        "SApM": "2.26",
+        "TD_Avg": "1.80",
+        "Sub_Avg": "0.12",
+        "Fight_Time": "13:53",
+        "Fight_Time_Seconds": 833,
+        "Division": "Flyweight",
+        "Rank": "5",
+        "Selected_Date": "2026-05-26T08:37:42.981102Z"
     },
     "past_fighters": [
-        "Steve Erceg",
         "Far\u00e8s Ziam",
         "Deiveson Figueiredo",
         "Justin Gaethje",
         "Tallison Teixeira",
         "Nikita Krylov",
-        "Marcin Tybura"
+        "Marcin Tybura",
+        "Alex Pereira"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -357,7 +357,7 @@
             "Fight_Time_Seconds": 833,
             "Division": "Flyweight",
             "Rank": "5",
-            "Selected_Date": "2026-04-04T06:02:56.190246Z"
+            "Selected_Date": "2026-05-26T08:37:42.981102Z"
         },
         "Tim Elliott": {
             "Name": "Tim Elliott",
@@ -1428,7 +1428,7 @@
             "Fight_Time": "12:48",
             "Fight_Time_Seconds": 768,
             "Division": "Middleweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-03-31T06:19:09.404359Z"
         },
         "Paulo Costa": {
@@ -2248,6 +2248,20 @@
             "Fight_Time_Seconds": 0,
             "Division": "Heavyweight",
             "Rank": "14"
+        },
+        "Ikram Aliskerov": {
+            "Name": "Ikram Aliskerov",
+            "Profile_URL": "https://www.ufc.com/athlete/ikram-aliskerov",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ALISKEROV_IKRAM_10-25.png?itok=MwgCSsvA",
+            "Record": "17-2-0 (W-L-D)",
+            "SLpM": "6.86",
+            "SApM": "5.47",
+            "TD_Avg": "3.20",
+            "Sub_Avg": "0.53",
+            "Fight_Time": "04:42",
+            "Fight_Time_Seconds": 282,
+            "Division": "Middleweight",
+            "Rank": "15"
         }
     }
 }
