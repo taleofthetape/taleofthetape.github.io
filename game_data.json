@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kyoji Horiguchi",
-        "Profile_URL": "https://www.ufc.com/athlete/kyoji-horiguchi",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HORIGUCHI_KYOJI_11-22.png?itok=uRMYwEsp",
-        "Record": "35-5-0 (W-L-D)",
-        "SLpM": "3.64",
-        "SApM": "2.26",
-        "TD_Avg": "1.80",
-        "Sub_Avg": "0.12",
-        "Fight_Time": "13:53",
-        "Fight_Time_Seconds": 833,
-        "Division": "Flyweight",
-        "Rank": "5",
-        "Selected_Date": "2026-05-26T08:37:42.981102Z"
+        "Name": "David Martinez",
+        "Profile_URL": "https://www.ufc.com/athlete/david-martinez",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/MARTINEZ_DAVID_09-13.png?itok=2GGMvqOr",
+        "Record": "13-1-0 (W-L-D)",
+        "SLpM": "4.85",
+        "SApM": "2.95",
+        "TD_Avg": "0.00",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:33",
+        "Fight_Time_Seconds": 693,
+        "Division": "Bantamweight",
+        "Rank": "9",
+        "Selected_Date": "2026-05-27T08:43:25.920433Z"
     },
     "past_fighters": [
-        "Far\u00e8s Ziam",
         "Deiveson Figueiredo",
         "Justin Gaethje",
         "Tallison Teixeira",
         "Nikita Krylov",
         "Marcin Tybura",
-        "Alex Pereira"
+        "Alex Pereira",
+        "Kyoji Horiguchi"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -623,7 +623,7 @@
             "Fight_Time_Seconds": 693,
             "Division": "Bantamweight",
             "Rank": "9",
-            "Selected_Date": "2026-03-11T05:56:16.352893Z"
+            "Selected_Date": "2026-05-27T08:43:25.920433Z"
         },
         "Rob Font": {
             "Name": "Rob Font",
