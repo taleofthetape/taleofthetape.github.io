@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ante Delija",
-        "Profile_URL": "https://www.ufc.com/athlete/ante-delija",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DELIJA_ANTE_11-01.png?itok=nSZ0eNSl",
-        "Record": "26-7-0 (W-L-D)",
-        "SLpM": "4.81",
-        "SApM": "2.65",
-        "TD_Avg": "0.00",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "03:01",
-        "Fight_Time_Seconds": 181,
-        "Division": "Heavyweight",
-        "Rank": "11",
-        "Selected_Date": "2026-05-28T08:49:20.701168Z"
+        "Name": "Aljamain Sterling",
+        "Profile_URL": "https://www.ufc.com/athlete/aljamain-sterling",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/STERLING_ALJAMAIN_08-23.png?itok=lhWe7zsC",
+        "Record": "25-5-0 (W-L-D)",
+        "SLpM": "4.45",
+        "SApM": "2.21",
+        "TD_Avg": "2.45",
+        "Sub_Avg": "0.64",
+        "Fight_Time": "13:54",
+        "Fight_Time_Seconds": 834,
+        "Division": "Featherweight",
+        "Rank": "4",
+        "Selected_Date": "2026-05-29T08:47:46.121528Z"
     },
     "past_fighters": [
-        "Justin Gaethje",
         "Tallison Teixeira",
         "Nikita Krylov",
         "Marcin Tybura",
         "Alex Pereira",
         "Kyoji Horiguchi",
-        "David Martinez"
+        "David Martinez",
+        "Ante Delija"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -757,7 +757,7 @@
             "Fight_Time_Seconds": 834,
             "Division": "Featherweight",
             "Rank": "4",
-            "Selected_Date": "2026-02-15T06:00:29.754339Z"
+            "Selected_Date": "2026-05-29T08:47:46.121528Z"
         },
         "Arnold Allen": {
             "Name": "Arnold Allen",
