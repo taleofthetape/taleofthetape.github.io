@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Aljamain Sterling",
-        "Profile_URL": "https://www.ufc.com/athlete/aljamain-sterling",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/STERLING_ALJAMAIN_08-23.png?itok=lhWe7zsC",
-        "Record": "25-5-0 (W-L-D)",
-        "SLpM": "4.45",
-        "SApM": "2.21",
-        "TD_Avg": "2.45",
-        "Sub_Avg": "0.64",
-        "Fight_Time": "13:54",
-        "Fight_Time_Seconds": 834,
-        "Division": "Featherweight",
-        "Rank": "4",
-        "Selected_Date": "2026-05-29T08:47:46.121528Z"
+        "Name": "Brandon Moreno",
+        "Profile_URL": "https://www.ufc.com/athlete/brandon-moreno",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/MORENO_BRANDON_03-29.png?itok=8NfFtl4u",
+        "Record": "23-8-2 (W-L-D)",
+        "SLpM": "3.96",
+        "SApM": "3.62",
+        "TD_Avg": "1.51",
+        "Sub_Avg": "0.39",
+        "Fight_Time": "17:08",
+        "Fight_Time_Seconds": 1028,
+        "Division": "Flyweight",
+        "Rank": "9",
+        "Selected_Date": "2026-05-30T07:45:02.745706Z"
     },
     "past_fighters": [
-        "Tallison Teixeira",
         "Nikita Krylov",
         "Marcin Tybura",
         "Alex Pereira",
         "Kyoji Horiguchi",
         "David Martinez",
-        "Ante Delija"
+        "Ante Delija",
+        "Aljamain Sterling"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -270,7 +270,7 @@
             "Fight_Time_Seconds": 1028,
             "Division": "Flyweight",
             "Rank": "9",
-            "Selected_Date": "2026-04-06T06:57:11.682842Z"
+            "Selected_Date": "2026-05-30T07:45:02.745706Z"
         },
         "Brandon Royval": {
             "Name": "Brandon Royval",
