@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Michael Venom Page",
-        "Profile_URL": "https://www.ufc.com/athlete/michael-page",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=oSvGjLsI",
-        "Record": "25-3-0 (W-L-D)",
-        "SLpM": "2.28",
-        "SApM": "1.51",
-        "TD_Avg": "0.19",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:21",
-        "Fight_Time_Seconds": 681,
-        "Division": "Welterweight",
-        "Rank": "13",
-        "Selected_Date": "2026-05-31T08:19:08.682890Z"
+        "Name": "Aleksandar Raki\u0107",
+        "Profile_URL": "https://www.ufc.com/athlete/aleksandar-rakic",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/RAKIC_ALEKSANDAR_10-25.png?itok=NywfyYoI",
+        "Record": "14-6-0 (W-L-D)",
+        "SLpM": "4.13",
+        "SApM": "2.86",
+        "TD_Avg": "0.64",
+        "Sub_Avg": "0.13",
+        "Fight_Time": "10:41",
+        "Fight_Time_Seconds": 641,
+        "Division": "Light Heavyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-06-01T10:27:27.370121Z"
     },
     "past_fighters": [
-        "Marcin Tybura",
         "Alex Pereira",
         "Kyoji Horiguchi",
         "David Martinez",
         "Ante Delija",
         "Aljamain Sterling",
-        "Brandon Moreno"
+        "Brandon Moreno",
+        "Michael Venom Page"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1599,7 +1599,7 @@
             "Fight_Time_Seconds": 641,
             "Division": "Light Heavyweight",
             "Rank": "12",
-            "Selected_Date": "2026-02-22T05:57:47.969000Z"
+            "Selected_Date": "2026-06-01T10:27:27.370121Z"
         },
         "Bogdan Guskov": {
             "Name": "Bogdan Guskov",
@@ -2135,8 +2135,7 @@
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
             "Division": "Welterweight",
-            "Rank": "13",
-            "Selected_Date": "2026-05-31T08:19:08.682890Z"
+            "Rank": "13"
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
