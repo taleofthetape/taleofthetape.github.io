@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Aleksandar Raki\u0107",
-        "Profile_URL": "https://www.ufc.com/athlete/aleksandar-rakic",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/RAKIC_ALEKSANDAR_10-25.png?itok=NywfyYoI",
-        "Record": "14-6-0 (W-L-D)",
-        "SLpM": "4.13",
-        "SApM": "2.86",
-        "TD_Avg": "0.64",
-        "Sub_Avg": "0.13",
-        "Fight_Time": "10:41",
-        "Fight_Time_Seconds": 641,
-        "Division": "Light Heavyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-06-01T10:27:27.370121Z"
+        "Name": "Payton Talbott",
+        "Profile_URL": "https://www.ufc.com/athlete/payton-talbott",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/TALBOTT_PAYTON_12-06.png?itok=6v5e4YVf",
+        "Record": "11-1-0 (W-L-D)",
+        "SLpM": "6.62",
+        "SApM": "3.41",
+        "TD_Avg": "0.78",
+        "Sub_Avg": "0.20",
+        "Fight_Time": "10:57",
+        "Fight_Time_Seconds": 657,
+        "Division": "Bantamweight",
+        "Rank": "11",
+        "Selected_Date": "2026-06-02T09:15:23.655342Z"
     },
     "past_fighters": [
-        "Alex Pereira",
         "Kyoji Horiguchi",
         "David Martinez",
         "Ante Delija",
         "Aljamain Sterling",
         "Brandon Moreno",
-        "Michael Venom Page"
+        "Michael Venom Page",
+        "Aleksandar Raki\u0107"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -371,7 +371,7 @@
             "Fight_Time": "12:08",
             "Fight_Time_Seconds": 728,
             "Division": "Flyweight",
-            "Rank": "12"
+            "Rank": "11"
         },
         "Steve Erceg": {
             "Name": "Steve Erceg",
@@ -400,7 +400,7 @@
             "Fight_Time": "07:03",
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-02-13T06:04:16.452067Z"
         },
         "Tagir Ulanbekov": {
@@ -489,7 +489,7 @@
             "Fight_Time": "11:19",
             "Fight_Time_Seconds": 679,
             "Division": "Bantamweight",
-            "Rank": "2",
+            "Rank": "3",
             "Selected_Date": "2026-05-11T08:29:16.591179Z"
         },
         "Petr Yan": {
@@ -548,7 +548,7 @@
             "Fight_Time": "12:45",
             "Fight_Time_Seconds": 765,
             "Division": "Bantamweight",
-            "Rank": "7",
+            "Rank": "9",
             "Selected_Date": "2026-05-19T08:34:04.731851Z"
         },
         "Aiemann Zahabi": {
@@ -593,7 +593,7 @@
             "Fight_Time": "10:08",
             "Fight_Time_Seconds": 608,
             "Division": "Bantamweight",
-            "Rank": "8"
+            "Rank": "7"
         },
         "Henry Cejudo": {
             "Name": "Henry Cejudo",
@@ -622,7 +622,7 @@
             "Fight_Time": "11:33",
             "Fight_Time_Seconds": 693,
             "Division": "Bantamweight",
-            "Rank": "9",
+            "Rank": "8",
             "Selected_Date": "2026-05-27T08:43:25.920433Z"
         },
         "Rob Font": {
@@ -1598,7 +1598,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Light Heavyweight",
-            "Rank": "12",
+            "Rank": "14",
             "Selected_Date": "2026-06-01T10:27:27.370121Z"
         },
         "Bogdan Guskov": {
@@ -1625,7 +1625,7 @@
             "Fight_Time": "06:47",
             "Fight_Time_Seconds": 407,
             "Division": "Light Heavyweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2026-01-02T05:33:44.119763Z"
         },
         "Nikita Krylov": {
@@ -1640,7 +1640,7 @@
             "Fight_Time": "06:34",
             "Fight_Time_Seconds": 394,
             "Division": "Light Heavyweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-05-22T08:27:00.167594Z"
         },
         "Zhang Mingyang": {
@@ -1905,7 +1905,8 @@
             "Fight_Time": "10:57",
             "Fight_Time_Seconds": 657,
             "Division": "Bantamweight",
-            "Rank": "11"
+            "Rank": "11",
+            "Selected_Date": "2026-06-02T09:15:23.655342Z"
         },
         "Montel Jackson": {
             "Name": "Montel Jackson",
@@ -2048,7 +2049,7 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-05-09T07:14:34.415236Z"
         },
         "Uro\u0161 Medi\u0107": {
@@ -2135,7 +2136,7 @@
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
             "Division": "Welterweight",
-            "Rank": "13"
+            "Rank": "14"
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
@@ -2164,7 +2165,7 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-05-05T07:22:24.090442Z"
         },
         "Josh Hokit": {
