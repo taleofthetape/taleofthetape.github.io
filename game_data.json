@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Payton Talbott",
-        "Profile_URL": "https://www.ufc.com/athlete/payton-talbott",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/TALBOTT_PAYTON_12-06.png?itok=6v5e4YVf",
-        "Record": "11-1-0 (W-L-D)",
-        "SLpM": "6.62",
-        "SApM": "3.41",
-        "TD_Avg": "0.78",
-        "Sub_Avg": "0.20",
-        "Fight_Time": "10:57",
-        "Fight_Time_Seconds": 657,
-        "Division": "Bantamweight",
-        "Rank": "11",
-        "Selected_Date": "2026-06-02T09:15:23.655342Z"
+        "Name": "Brandon Royval",
+        "Profile_URL": "https://www.ufc.com/athlete/brandon-royval",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/ROYVAL_BRANDON_06-28.png?itok=Kh7CEC_M",
+        "Record": "17-8-0 (W-L-D)",
+        "SLpM": "5.55",
+        "SApM": "4.23",
+        "TD_Avg": "0.67",
+        "Sub_Avg": "1.11",
+        "Fight_Time": "12:18",
+        "Fight_Time_Seconds": 738,
+        "Division": "Flyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-06-03T09:59:59.613114Z"
     },
     "past_fighters": [
-        "Kyoji Horiguchi",
         "David Martinez",
         "Ante Delija",
         "Aljamain Sterling",
         "Brandon Moreno",
         "Michael Venom Page",
-        "Aleksandar Raki\u0107"
+        "Aleksandar Raki\u0107",
+        "Payton Talbott"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -285,7 +285,7 @@
             "Fight_Time_Seconds": 738,
             "Division": "Flyweight",
             "Rank": "4",
-            "Selected_Date": "2026-02-21T05:49:53.577378Z"
+            "Selected_Date": "2026-06-03T09:59:59.613114Z"
         },
         "Amir Albazi": {
             "Name": "Amir Albazi",
