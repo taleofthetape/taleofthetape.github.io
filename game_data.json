@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Brandon Royval",
-        "Profile_URL": "https://www.ufc.com/athlete/brandon-royval",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/ROYVAL_BRANDON_06-28.png?itok=Kh7CEC_M",
-        "Record": "17-8-0 (W-L-D)",
-        "SLpM": "5.55",
-        "SApM": "4.23",
-        "TD_Avg": "0.67",
-        "Sub_Avg": "1.11",
-        "Fight_Time": "12:18",
-        "Fight_Time_Seconds": 738,
-        "Division": "Flyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-06-03T09:59:59.613114Z"
+        "Name": "Steve Garcia",
+        "Profile_URL": "https://www.ufc.com/athlete/steve-garcia",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GARCIA_STEVE_11-01.png?itok=hagEvN37",
+        "Record": "19-5-0 (W-L-D)",
+        "SLpM": "5.39",
+        "SApM": "2.12",
+        "TD_Avg": "0.86",
+        "Sub_Avg": "0.43",
+        "Fight_Time": "05:50",
+        "Fight_Time_Seconds": 350,
+        "Division": "Featherweight",
+        "Rank": "9",
+        "Selected_Date": "2026-06-04T08:55:39.013871Z"
     },
     "past_fighters": [
-        "David Martinez",
         "Ante Delija",
         "Aljamain Sterling",
         "Brandon Moreno",
         "Michael Venom Page",
         "Aleksandar Raki\u0107",
-        "Payton Talbott"
+        "Payton Talbott",
+        "Brandon Royval"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -801,7 +801,8 @@
             "Fight_Time": "05:50",
             "Fight_Time_Seconds": 350,
             "Division": "Featherweight",
-            "Rank": "9"
+            "Rank": "9",
+            "Selected_Date": "2026-06-04T08:55:39.013871Z"
         },
         "Brian Ortega": {
             "Name": "Brian Ortega",
