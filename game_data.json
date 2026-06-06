@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Shavkat Rakhmonov",
-        "Profile_URL": "https://www.ufc.com/athlete/shavkat-rakhmonov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/RAKHMONOV_SHAVKAT_12-07.png?itok=m26zEPBe",
-        "Record": "19-0-0 (W-L-D)",
-        "SLpM": "3.25",
-        "SApM": "2.17",
-        "TD_Avg": "1.40",
-        "Sub_Avg": "1.20",
-        "Fight_Time": "10:44",
-        "Fight_Time_Seconds": 644,
-        "Division": "Welterweight",
-        "Rank": "2",
-        "Selected_Date": "2026-06-05T08:48:53.759679Z"
+        "Name": "Shamil Gaziev",
+        "Profile_URL": "https://www.ufc.com/athlete/shamil-gaziev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/GAZIEV_SHAMIL_11-22.png?itok=P669KMlK",
+        "Record": "14-2-0 (W-L-D)",
+        "SLpM": "2.62",
+        "SApM": "3.97",
+        "TD_Avg": "0.93",
+        "Sub_Avg": "0.31",
+        "Fight_Time": "08:01",
+        "Fight_Time_Seconds": 481,
+        "Division": "Heavyweight",
+        "Rank": "14",
+        "Selected_Date": "2026-06-06T07:50:21.650457Z"
     },
     "past_fighters": [
-        "Aljamain Sterling",
         "Brandon Moreno",
         "Michael Venom Page",
         "Aleksandar Raki\u0107",
         "Payton Talbott",
         "Brandon Royval",
-        "Steve Garcia"
+        "Steve Garcia",
+        "Shavkat Rakhmonov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1832,7 +1832,7 @@
             "Fight_Time_Seconds": 481,
             "Division": "Heavyweight",
             "Rank": "14",
-            "Selected_Date": "2026-04-11T06:04:47.492698Z"
+            "Selected_Date": "2026-06-06T07:50:21.650457Z"
         },
         "Tai Tuivasa": {
             "Name": "Tai Tuivasa",
