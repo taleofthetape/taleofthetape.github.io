@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Shamil Gaziev",
-        "Profile_URL": "https://www.ufc.com/athlete/shamil-gaziev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/GAZIEV_SHAMIL_11-22.png?itok=P669KMlK",
-        "Record": "14-2-0 (W-L-D)",
-        "SLpM": "2.62",
-        "SApM": "3.97",
-        "TD_Avg": "0.93",
-        "Sub_Avg": "0.31",
-        "Fight_Time": "08:01",
-        "Fight_Time_Seconds": 481,
-        "Division": "Heavyweight",
-        "Rank": "14",
-        "Selected_Date": "2026-06-06T07:50:21.650457Z"
+        "Name": "Michael Morales",
+        "Profile_URL": "https://www.ufc.com/athlete/michael-morales",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_MICHAEL_11-15.png?itok=14-c1F89",
+        "Record": "19-0-0 (W-L-D)",
+        "SLpM": "5.68",
+        "SApM": "3.26",
+        "TD_Avg": "1.04",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "09:00",
+        "Fight_Time_Seconds": 540,
+        "Division": "Welterweight",
+        "Rank": "3",
+        "Selected_Date": "2026-06-07T08:26:50.751413Z"
     },
     "past_fighters": [
-        "Brandon Moreno",
         "Michael Venom Page",
         "Aleksandar Raki\u0107",
         "Payton Talbott",
         "Brandon Royval",
         "Steve Garcia",
-        "Shavkat Rakhmonov"
+        "Shavkat Rakhmonov",
+        "Shamil Gaziev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1123,7 +1123,7 @@
             "Fight_Time_Seconds": 540,
             "Division": "Welterweight",
             "Rank": "3",
-            "Selected_Date": "2026-05-13T07:55:28.764403Z"
+            "Selected_Date": "2026-06-07T08:26:50.751413Z"
         },
         "Carlos Prates": {
             "Name": "Carlos Prates",
@@ -1956,7 +1956,7 @@
         "Far\u00e8s Ziam": {
             "Name": "Far\u00e8s Ziam",
             "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/SADYKHOV_NAZIM_12-06.png?itok=KOjsbD2M",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/ZIAM_FARES_06-06.png?itok=7YpuBOSY",
             "Record": "18-4-0 (W-L-D)",
             "SLpM": "2.87",
             "SApM": "1.53",
