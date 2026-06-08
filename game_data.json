@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Michael Morales",
-        "Profile_URL": "https://www.ufc.com/athlete/michael-morales",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_MICHAEL_11-15.png?itok=14-c1F89",
-        "Record": "19-0-0 (W-L-D)",
-        "SLpM": "5.68",
-        "SApM": "3.26",
-        "TD_Avg": "1.04",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "09:00",
-        "Fight_Time_Seconds": 540,
-        "Division": "Welterweight",
+        "Name": "Sean O'Malley",
+        "Profile_URL": "https://www.ufc.com/athlete/sean-omalley",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/OMALLEY_SEAN_06-07.png?itok=5pl-nuNI",
+        "Record": "18-3-0 (W-L-D)",
+        "SLpM": "6.30",
+        "SApM": "3.48",
+        "TD_Avg": "0.27",
+        "Sub_Avg": "0.27",
+        "Fight_Time": "11:19",
+        "Fight_Time_Seconds": 679,
+        "Division": "Bantamweight",
         "Rank": "3",
-        "Selected_Date": "2026-06-07T08:26:50.751413Z"
+        "Selected_Date": "2026-06-08T09:51:19.089934Z"
     },
     "past_fighters": [
-        "Michael Venom Page",
         "Aleksandar Raki\u0107",
         "Payton Talbott",
         "Brandon Royval",
         "Steve Garcia",
         "Shavkat Rakhmonov",
-        "Shamil Gaziev"
+        "Shamil Gaziev",
+        "Michael Morales"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -490,7 +490,7 @@
             "Fight_Time_Seconds": 679,
             "Division": "Bantamweight",
             "Rank": "3",
-            "Selected_Date": "2026-05-11T08:29:16.591179Z"
+            "Selected_Date": "2026-06-08T09:51:19.089934Z"
         },
         "Petr Yan": {
             "Name": "Petr Yan",
@@ -1957,7 +1957,7 @@
             "Name": "Far\u00e8s Ziam",
             "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/ZIAM_FARES_06-06.png?itok=7YpuBOSY",
-            "Record": "18-4-0 (W-L-D)",
+            "Record": "18-5-0 (W-L-D)",
             "SLpM": "2.87",
             "SApM": "1.53",
             "TD_Avg": "1.73",
