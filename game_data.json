@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Sean O'Malley",
-        "Profile_URL": "https://www.ufc.com/athlete/sean-omalley",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/OMALLEY_SEAN_06-07.png?itok=5pl-nuNI",
-        "Record": "18-3-0 (W-L-D)",
-        "SLpM": "6.30",
-        "SApM": "3.48",
-        "TD_Avg": "0.27",
-        "Sub_Avg": "0.27",
-        "Fight_Time": "11:19",
-        "Fight_Time_Seconds": 679,
+        "Name": "Marcus McGhee",
+        "Profile_URL": "https://www.ufc.com/athlete/marcus-mcghee",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MCGHEE_MARCUS_06-06.png?itok=FPAf7ePn",
+        "Record": "11-2-0 (W-L-D)",
+        "SLpM": "5.44",
+        "SApM": "3.64",
+        "TD_Avg": "0.24",
+        "Sub_Avg": "0.24",
+        "Fight_Time": "10:29",
+        "Fight_Time_Seconds": 629,
         "Division": "Bantamweight",
-        "Rank": "3",
-        "Selected_Date": "2026-06-08T09:51:19.089934Z"
+        "Rank": "15",
+        "Selected_Date": "2026-06-09T08:36:21.905027Z"
     },
     "past_fighters": [
-        "Aleksandar Raki\u0107",
         "Payton Talbott",
         "Brandon Royval",
         "Steve Garcia",
         "Shavkat Rakhmonov",
         "Shamil Gaziev",
-        "Michael Morales"
+        "Michael Morales",
+        "Sean O'Malley"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -240,7 +240,7 @@
             "Fight_Time": "15:22",
             "Fight_Time_Seconds": 922,
             "Division": "Welterweight",
-            "Rank": "5",
+            "Rank": "7",
             "Selected_Date": "2026-02-12T06:08:25.823081Z"
         },
         "Joshua Van": {
@@ -371,7 +371,7 @@
             "Fight_Time": "12:08",
             "Fight_Time_Seconds": 728,
             "Division": "Flyweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Steve Erceg": {
             "Name": "Steve Erceg",
@@ -400,7 +400,7 @@
             "Fight_Time": "07:03",
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
-            "Rank": "12",
+            "Rank": "11",
             "Selected_Date": "2026-02-13T06:04:16.452067Z"
         },
         "Tagir Ulanbekov": {
@@ -673,17 +673,17 @@
         "Marcus McGhee": {
             "Name": "Marcus McGhee",
             "Profile_URL": "https://www.ufc.com/athlete/marcus-mcghee",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/YAN_PETR_07-26.png?itok=0GxEGc8G",
-            "Record": "10-2-0 (W-L-D)",
-            "SLpM": "5.50",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MCGHEE_MARCUS_06-06.png?itok=FPAf7ePn",
+            "Record": "11-2-0 (W-L-D)",
+            "SLpM": "5.44",
             "SApM": "3.64",
-            "TD_Avg": "0.31",
-            "Sub_Avg": "0.31",
-            "Fight_Time": "09:34",
-            "Fight_Time_Seconds": 574,
+            "TD_Avg": "0.24",
+            "Sub_Avg": "0.24",
+            "Fight_Time": "10:29",
+            "Fight_Time_Seconds": 629,
             "Division": "Bantamweight",
             "Rank": "15",
-            "Selected_Date": "2026-03-24T06:04:11.225581Z"
+            "Selected_Date": "2026-06-09T08:36:21.905027Z"
         },
         "Movsar Evloev": {
             "Name": "Movsar Evloev",
@@ -1033,7 +1033,7 @@
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
             "Division": "Lightweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-01-19T05:38:25.055719Z"
         },
         "Grant Dawson": {
@@ -1166,7 +1166,7 @@
             "Fight_Time": "17:50",
             "Fight_Time_Seconds": 1070,
             "Division": "Welterweight",
-            "Rank": "8"
+            "Rank": "9"
         },
         "Leon Edwards": {
             "Name": "Leon Edwards",
@@ -1180,7 +1180,7 @@
             "Fight_Time": "16:47",
             "Fight_Time_Seconds": 1007,
             "Division": "Welterweight",
-            "Rank": "7",
+            "Rank": "8",
             "Selected_Date": "2026-02-28T05:38:38.775430Z"
         },
         "Joaquin Buckley": {
@@ -1195,7 +1195,7 @@
             "Fight_Time": "11:33",
             "Fight_Time_Seconds": 693,
             "Division": "Welterweight",
-            "Rank": "9"
+            "Rank": "10"
         },
         "Gabriel Bonfim": {
             "Name": "Gabriel Bonfim",
@@ -1209,7 +1209,7 @@
             "Fight_Time": "07:48",
             "Fight_Time_Seconds": 468,
             "Division": "Welterweight",
-            "Rank": "11"
+            "Rank": "5"
         },
         "Gilbert Burns": {
             "Name": "Gilbert Burns",
@@ -1354,7 +1354,7 @@
             "Fight_Time": "14:04",
             "Fight_Time_Seconds": 844,
             "Division": "Middleweight",
-            "Rank": "4",
+            "Rank": "5",
             "Selected_Date": "2026-01-20T05:37:01.939693Z"
         },
         "Reinier de Ridder": {
@@ -1979,7 +1979,7 @@
             "Fight_Time": "08:10",
             "Fight_Time_Seconds": 490,
             "Division": "Middleweight",
-            "Rank": "6"
+            "Rank": "7"
         },
         "Brunno Ferreira": {
             "Name": "Brunno Ferreira",
@@ -2065,7 +2065,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "13"
+            "Rank": "14"
         },
         "Vitor Petrino": {
             "Name": "Vitor Petrino",
@@ -2137,7 +2137,7 @@
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
             "Division": "Welterweight",
-            "Rank": "14"
+            "Rank": "13"
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
@@ -2209,7 +2209,7 @@
             "Fight_Time": "03:14",
             "Fight_Time_Seconds": 194,
             "Division": "Welterweight",
-            "Rank": "10"
+            "Rank": "11"
         },
         "Raoni Barcelos": {
             "Name": "Raoni Barcelos",
@@ -2263,6 +2263,34 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Middleweight",
+            "Rank": "15"
+        },
+        "Edgar Chairez": {
+            "Name": "Edgar Chairez",
+            "Profile_URL": "https://www.ufc.com/athlete/edgar-chairez",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/CHAIREZ_EDGAR_06-06.png?itok=d2N8FG1e",
+            "Record": "14-6-0 (W-L-D)",
+            "SLpM": "3.76",
+            "SApM": "4.71",
+            "TD_Avg": "0.00",
+            "Sub_Avg": "1.44",
+            "Fight_Time": "09:06",
+            "Fight_Time_Seconds": 546,
+            "Division": "Flyweight",
+            "Rank": "15"
+        },
+        "Tom Nolan": {
+            "Name": "Tom Nolan",
+            "Profile_URL": "https://www.ufc.com/athlete/tom-nolan",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/NOLAN_TOM_06-06.png?itok=70bNS4t7",
+            "Record": "11-1-0 (W-L-D)",
+            "SLpM": "4.84",
+            "SApM": "3.74",
+            "TD_Avg": "1.08",
+            "Sub_Avg": "1.35",
+            "Fight_Time": "07:55",
+            "Fight_Time_Seconds": 475,
+            "Division": "Lightweight",
             "Rank": "15"
         }
     }
