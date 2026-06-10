@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Marcus McGhee",
-        "Profile_URL": "https://www.ufc.com/athlete/marcus-mcghee",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MCGHEE_MARCUS_06-06.png?itok=FPAf7ePn",
-        "Record": "11-2-0 (W-L-D)",
-        "SLpM": "5.44",
-        "SApM": "3.64",
-        "TD_Avg": "0.24",
-        "Sub_Avg": "0.24",
-        "Fight_Time": "10:29",
-        "Fight_Time_Seconds": 629,
-        "Division": "Bantamweight",
-        "Rank": "15",
-        "Selected_Date": "2026-06-09T08:36:21.905027Z"
+        "Name": "Far\u00e8s Ziam",
+        "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/ZIAM_FARES_06-06.png?itok=7YpuBOSY",
+        "Record": "18-5-0 (W-L-D)",
+        "SLpM": "2.87",
+        "SApM": "1.53",
+        "TD_Avg": "1.73",
+        "Sub_Avg": "0.46",
+        "Fight_Time": "13:01",
+        "Fight_Time_Seconds": 781,
+        "Division": "Lightweight",
+        "Rank": "14",
+        "Selected_Date": "2026-06-10T08:56:15.450570Z"
     },
     "past_fighters": [
-        "Payton Talbott",
         "Brandon Royval",
         "Steve Garcia",
         "Shavkat Rakhmonov",
         "Shamil Gaziev",
         "Michael Morales",
-        "Sean O'Malley"
+        "Sean O'Malley",
+        "Marcus McGhee"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1965,7 +1965,8 @@
             "Fight_Time": "13:01",
             "Fight_Time_Seconds": 781,
             "Division": "Lightweight",
-            "Rank": "14"
+            "Rank": "14",
+            "Selected_Date": "2026-06-10T08:56:15.450570Z"
         },
         "Joe Pyfer": {
             "Name": "Joe Pyfer",
