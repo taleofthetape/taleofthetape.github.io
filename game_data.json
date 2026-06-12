@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Arman Tsarukyan",
-        "Profile_URL": "https://www.ufc.com/athlete/arman-tsarukyan",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/TSARUKYAN_ARMAN_11-22.png?itok=6h4WFZYC",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "3.85",
-        "SApM": "1.80",
-        "TD_Avg": "3.26",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "12:16",
-        "Fight_Time_Seconds": 736,
-        "Division": "Lightweight",
-        "Rank": "2",
-        "Selected_Date": "2026-06-11T09:16:59.624819Z"
+        "Name": "Arnold Allen",
+        "Profile_URL": "https://www.ufc.com/athlete/arnold-allen",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ALLEN_ARNOLD_07-27.png?itok=oYLde_Oi",
+        "Record": "20-3-0 (W-L-D)",
+        "SLpM": "3.45",
+        "SApM": "2.88",
+        "TD_Avg": "0.93",
+        "Sub_Avg": "0.34",
+        "Fight_Time": "13:37",
+        "Fight_Time_Seconds": 817,
+        "Division": "Featherweight",
+        "Rank": "7",
+        "Selected_Date": "2026-06-12T09:05:41.045404Z"
     },
     "past_fighters": [
-        "Steve Garcia",
         "Shavkat Rakhmonov",
         "Shamil Gaziev",
         "Michael Morales",
         "Sean O'Malley",
         "Marcus McGhee",
-        "Far\u00e8s Ziam"
+        "Far\u00e8s Ziam",
+        "Arman Tsarukyan"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -772,7 +772,7 @@
             "Fight_Time_Seconds": 817,
             "Division": "Featherweight",
             "Rank": "7",
-            "Selected_Date": "2026-04-15T06:56:39.107627Z"
+            "Selected_Date": "2026-06-12T09:05:41.045404Z"
         },
         "Youssef Zalal": {
             "Name": "Youssef Zalal",
