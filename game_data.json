@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Arnold Allen",
-        "Profile_URL": "https://www.ufc.com/athlete/arnold-allen",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/ALLEN_ARNOLD_07-27.png?itok=oYLde_Oi",
-        "Record": "20-3-0 (W-L-D)",
-        "SLpM": "3.45",
-        "SApM": "2.88",
-        "TD_Avg": "0.93",
-        "Sub_Avg": "0.34",
-        "Fight_Time": "13:37",
-        "Fight_Time_Seconds": 817,
+        "Name": "Jean Silva",
+        "Profile_URL": "https://www.ufc.com/athlete/jean-silva",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/SILVA_JEAN_09-13.png?itok=aniZB6gj",
+        "Record": "16-3-0 (W-L-D)",
+        "SLpM": "4.79",
+        "SApM": "4.69",
+        "TD_Avg": "0.50",
+        "Sub_Avg": "0.75",
+        "Fight_Time": "08:34",
+        "Fight_Time_Seconds": 514,
         "Division": "Featherweight",
-        "Rank": "7",
-        "Selected_Date": "2026-06-12T09:05:41.045404Z"
+        "Rank": "6",
+        "Selected_Date": "2026-06-13T08:27:50.187568Z"
     },
     "past_fighters": [
-        "Shavkat Rakhmonov",
         "Shamil Gaziev",
         "Michael Morales",
         "Sean O'Malley",
         "Marcus McGhee",
         "Far\u00e8s Ziam",
-        "Arman Tsarukyan"
+        "Arman Tsarukyan",
+        "Arnold Allen"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -844,7 +844,8 @@
             "Fight_Time": "08:34",
             "Fight_Time_Seconds": 514,
             "Division": "Featherweight",
-            "Rank": "6"
+            "Rank": "6",
+            "Selected_Date": "2026-06-13T08:27:50.187568Z"
         },
         "Patricio Pitbull": {
             "Name": "Patricio Pitbull",
