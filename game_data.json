@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jean Silva",
-        "Profile_URL": "https://www.ufc.com/athlete/jean-silva",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/SILVA_JEAN_09-13.png?itok=aniZB6gj",
-        "Record": "16-3-0 (W-L-D)",
-        "SLpM": "4.79",
-        "SApM": "4.69",
-        "TD_Avg": "0.50",
-        "Sub_Avg": "0.75",
-        "Fight_Time": "08:34",
-        "Fight_Time_Seconds": 514,
-        "Division": "Featherweight",
-        "Rank": "6",
-        "Selected_Date": "2026-06-13T08:27:50.187568Z"
+        "Name": "Deiveson Figueiredo",
+        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
+        "Record": "25-5-1 (W-L-D)",
+        "SLpM": "2.75",
+        "SApM": "3.54",
+        "TD_Avg": "1.71",
+        "Sub_Avg": "1.29",
+        "Fight_Time": "12:45",
+        "Fight_Time_Seconds": 765,
+        "Division": "Bantamweight",
+        "Rank": "9",
+        "Selected_Date": "2026-06-14T08:44:29.871479Z"
     },
     "past_fighters": [
-        "Shamil Gaziev",
         "Michael Morales",
         "Sean O'Malley",
         "Marcus McGhee",
         "Far\u00e8s Ziam",
         "Arman Tsarukyan",
-        "Arnold Allen"
+        "Arnold Allen",
+        "Jean Silva"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -549,7 +549,7 @@
             "Fight_Time_Seconds": 765,
             "Division": "Bantamweight",
             "Rank": "9",
-            "Selected_Date": "2026-05-19T08:34:04.731851Z"
+            "Selected_Date": "2026-06-14T08:44:29.871479Z"
         },
         "Aiemann Zahabi": {
             "Name": "Aiemann Zahabi",
