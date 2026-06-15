@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Deiveson Figueiredo",
-        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
-        "Record": "25-5-1 (W-L-D)",
-        "SLpM": "2.75",
-        "SApM": "3.54",
-        "TD_Avg": "1.71",
-        "Sub_Avg": "1.29",
-        "Fight_Time": "12:45",
-        "Fight_Time_Seconds": 765,
-        "Division": "Bantamweight",
-        "Rank": "9",
-        "Selected_Date": "2026-06-14T08:44:29.871479Z"
+        "Name": "Tyrell Fortune",
+        "Profile_URL": "https://www.ufc.com/athlete/tyrell-fortune",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/FORTUNE_TYRELL_03-28.png?itok=r5E1psjZ",
+        "Record": "18-3-0 (W-L-D)",
+        "SLpM": "2.00",
+        "SApM": "3.13",
+        "TD_Avg": "3.00",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "15:00",
+        "Fight_Time_Seconds": 900,
+        "Division": "Heavyweight",
+        "Rank": "10",
+        "Selected_Date": "2026-06-15T11:19:02.186051Z"
     },
     "past_fighters": [
-        "Michael Morales",
         "Sean O'Malley",
         "Marcus McGhee",
         "Far\u00e8s Ziam",
         "Arman Tsarukyan",
         "Arnold Allen",
-        "Jean Silva"
+        "Jean Silva",
+        "Deiveson Figueiredo"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2154,7 +2154,7 @@
             "Fight_Time_Seconds": 900,
             "Division": "Heavyweight",
             "Rank": "10",
-            "Selected_Date": "2026-04-29T07:28:35.323213Z"
+            "Selected_Date": "2026-06-15T11:19:02.186051Z"
         },
         "Aaron Pico": {
             "Name": "Aaron Pico",
