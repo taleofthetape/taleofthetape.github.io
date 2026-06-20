@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Sean Strickland",
-        "Profile_URL": "https://www.ufc.com/athlete/sean-strickland",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/STRICKLAND_SEAN_02-08.png?itok=ISJ9fWVg",
-        "Record": "29-7-0 (W-L-D)",
-        "SLpM": "5.95",
-        "SApM": "4.57",
-        "TD_Avg": "0.73",
-        "Sub_Avg": "0.16",
-        "Fight_Time": "16:03",
-        "Fight_Time_Seconds": 963,
-        "Division": "Middleweight",
-        "Rank": "C",
-        "Selected_Date": "2026-06-19T09:47:31.545570Z"
+        "Name": "Vitor Petrino",
+        "Profile_URL": "https://www.ufc.com/athlete/vitor-petrino",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PETRINO_VITOR_10-11.png?itok=uSTVKsKO",
+        "Record": "13-2-0 (W-L-D)",
+        "SLpM": "2.75",
+        "SApM": "2.48",
+        "TD_Avg": "3.04",
+        "Sub_Avg": "0.84",
+        "Fight_Time": "09:52",
+        "Fight_Time_Seconds": 592,
+        "Division": "Heavyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-06-20T08:25:50.814738Z"
     },
     "past_fighters": [
-        "Arnold Allen",
         "Jean Silva",
         "Deiveson Figueiredo",
         "Tyrell Fortune",
         "Kyoji Horiguchi",
         "Diego Lopes",
-        "Alex Perez"
+        "Alex Perez",
+        "Sean Strickland"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2082,7 +2082,7 @@
             "Fight_Time_Seconds": 592,
             "Division": "Heavyweight",
             "Rank": "15",
-            "Selected_Date": "2026-04-19T06:49:07.939002Z"
+            "Selected_Date": "2026-06-20T08:25:50.814738Z"
         },
         "Raul Rosas Jr.": {
             "Name": "Raul Rosas Jr.",
