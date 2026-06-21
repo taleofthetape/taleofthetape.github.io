@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Vitor Petrino",
-        "Profile_URL": "https://www.ufc.com/athlete/vitor-petrino",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PETRINO_VITOR_10-11.png?itok=uSTVKsKO",
-        "Record": "13-2-0 (W-L-D)",
-        "SLpM": "2.75",
-        "SApM": "2.48",
-        "TD_Avg": "3.04",
-        "Sub_Avg": "0.84",
-        "Fight_Time": "09:52",
-        "Fight_Time_Seconds": 592,
-        "Division": "Heavyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-06-20T08:25:50.814738Z"
+        "Name": "David Martinez",
+        "Profile_URL": "https://www.ufc.com/athlete/david-martinez",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/MARTINEZ_DAVID_09-13.png?itok=2GGMvqOr",
+        "Record": "13-1-0 (W-L-D)",
+        "SLpM": "4.85",
+        "SApM": "2.95",
+        "TD_Avg": "0.00",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:33",
+        "Fight_Time_Seconds": 693,
+        "Division": "Bantamweight",
+        "Rank": "8",
+        "Selected_Date": "2026-06-21T08:59:51.957533Z"
     },
     "past_fighters": [
-        "Jean Silva",
         "Deiveson Figueiredo",
         "Tyrell Fortune",
         "Kyoji Horiguchi",
         "Diego Lopes",
         "Alex Perez",
-        "Sean Strickland"
+        "Sean Strickland",
+        "Vitor Petrino"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -623,7 +623,7 @@
             "Fight_Time_Seconds": 693,
             "Division": "Bantamweight",
             "Rank": "8",
-            "Selected_Date": "2026-05-27T08:43:25.920433Z"
+            "Selected_Date": "2026-06-21T08:59:51.957533Z"
         },
         "Rob Font": {
             "Name": "Rob Font",
