@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Azamat Murzakanov",
-        "Profile_URL": "https://www.ufc.com/athlete/azamat-murzakanov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/MURZAKANOV_AZAMAT_10-25.png?itok=jtRiCiFI",
-        "Record": "16-0-0 (W-L-D)",
-        "SLpM": "4.70",
-        "SApM": "2.86",
-        "TD_Avg": "0.55",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "07:51",
-        "Fight_Time_Seconds": 471,
-        "Division": "Light Heavyweight",
-        "Rank": "9",
-        "Selected_Date": "2026-06-26T08:33:32.382115Z"
+        "Name": "Yaroslav Amosov",
+        "Profile_URL": "https://www.ufc.com/athlete/yaroslav-amosov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/AMOSOV_YAROSLAV_12-13.png?itok=Ka_w0ilG",
+        "Record": "29-1-0 (W-L-D)",
+        "SLpM": "2.78",
+        "SApM": "1.55",
+        "TD_Avg": "4.64",
+        "Sub_Avg": "4.64",
+        "Fight_Time": "03:14",
+        "Fight_Time_Seconds": 194,
+        "Division": "Welterweight",
+        "Rank": "15",
+        "Selected_Date": "2026-06-27T07:52:47.493493Z"
     },
     "past_fighters": [
-        "Sean Strickland",
         "Vitor Petrino",
         "David Martinez",
         "Marlon Vera",
         "Zhang Mingyang",
         "Brando Peri\u010di\u0107",
-        "Henry Cejudo"
+        "Henry Cejudo",
+        "Azamat Murzakanov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2213,7 +2213,8 @@
             "Fight_Time": "03:14",
             "Fight_Time_Seconds": 194,
             "Division": "Welterweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-06-27T07:52:47.493493Z"
         },
         "Raoni Barcelos": {
             "Name": "Raoni Barcelos",
