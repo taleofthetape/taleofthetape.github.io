@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Yaroslav Amosov",
-        "Profile_URL": "https://www.ufc.com/athlete/yaroslav-amosov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/AMOSOV_YAROSLAV_12-13.png?itok=Ka_w0ilG",
-        "Record": "29-1-0 (W-L-D)",
-        "SLpM": "2.78",
-        "SApM": "1.55",
-        "TD_Avg": "4.64",
-        "Sub_Avg": "4.64",
-        "Fight_Time": "03:14",
-        "Fight_Time_Seconds": 194,
-        "Division": "Welterweight",
-        "Rank": "15",
-        "Selected_Date": "2026-06-27T07:52:47.493493Z"
+        "Name": "Nassourdine Imavov",
+        "Profile_URL": "https://www.ufc.com/athlete/nassourdine-imavov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/IMAVOV_NASSOURDINE_09-06.png?itok=pkaPgNr0",
+        "Record": "17-4-0 (W-L-D)",
+        "SLpM": "4.28",
+        "SApM": "3.17",
+        "TD_Avg": "0.74",
+        "Sub_Avg": "0.98",
+        "Fight_Time": "15:16",
+        "Fight_Time_Seconds": 916,
+        "Division": "Middleweight",
+        "Rank": "3",
+        "Selected_Date": "2026-06-28T08:25:51.307053Z"
     },
     "past_fighters": [
-        "Vitor Petrino",
         "David Martinez",
         "Marlon Vera",
         "Zhang Mingyang",
         "Brando Peri\u010di\u0107",
         "Henry Cejudo",
-        "Azamat Murzakanov"
+        "Azamat Murzakanov",
+        "Yaroslav Amosov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1283,7 +1283,8 @@
             "Fight_Time": "15:16",
             "Fight_Time_Seconds": 916,
             "Division": "Middleweight",
-            "Rank": "3"
+            "Rank": "3",
+            "Selected_Date": "2026-06-28T08:25:51.307053Z"
         },
         "Sean Strickland": {
             "Name": "Sean Strickland",
