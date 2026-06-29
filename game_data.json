@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Nassourdine Imavov",
-        "Profile_URL": "https://www.ufc.com/athlete/nassourdine-imavov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/IMAVOV_NASSOURDINE_09-06.png?itok=pkaPgNr0",
-        "Record": "17-4-0 (W-L-D)",
-        "SLpM": "4.28",
-        "SApM": "3.17",
-        "TD_Avg": "0.74",
-        "Sub_Avg": "0.98",
-        "Fight_Time": "15:16",
-        "Fight_Time_Seconds": 916,
+        "Name": "Roman Dolidze",
+        "Profile_URL": "https://www.ufc.com/athlete/roman-dolidze",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/DOLIDZE_ROMAN_08-09.png?itok=JWpCALEs",
+        "Record": "15-4-0 (W-L-D)",
+        "SLpM": "3.41",
+        "SApM": "3.72",
+        "TD_Avg": "0.99",
+        "Sub_Avg": "0.81",
+        "Fight_Time": "12:48",
+        "Fight_Time_Seconds": 768,
         "Division": "Middleweight",
-        "Rank": "3",
-        "Selected_Date": "2026-06-28T08:25:51.307053Z"
+        "Rank": "14",
+        "Selected_Date": "2026-06-29T09:54:08.832660Z"
     },
     "past_fighters": [
-        "David Martinez",
         "Marlon Vera",
         "Zhang Mingyang",
         "Brando Peri\u010di\u0107",
         "Henry Cejudo",
         "Azamat Murzakanov",
-        "Yaroslav Amosov"
+        "Yaroslav Amosov",
+        "Nassourdine Imavov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1432,7 +1432,7 @@
             "Fight_Time_Seconds": 768,
             "Division": "Middleweight",
             "Rank": "14",
-            "Selected_Date": "2026-03-31T06:19:09.404359Z"
+            "Selected_Date": "2026-06-29T09:54:08.832660Z"
         },
         "Paulo Costa": {
             "Name": "Paulo Costa",
