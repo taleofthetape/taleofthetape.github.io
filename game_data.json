@@ -12,16 +12,16 @@
         "Fight_Time_Seconds": 342,
         "Division": "Heavyweight",
         "Rank": "3",
-        "Selected_Date": "2026-06-30T08:33:45.143415Z"
+        "Selected_Date": "2026-07-01T08:51:56.574023Z"
     },
     "past_fighters": [
-        "Zhang Mingyang",
         "Brando Peri\u010di\u0107",
         "Henry Cejudo",
         "Azamat Murzakanov",
         "Yaroslav Amosov",
         "Nassourdine Imavov",
-        "Roman Dolidze"
+        "Roman Dolidze",
+        "Sergei Pavlovich"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1717,7 +1717,7 @@
             "Fight_Time_Seconds": 342,
             "Division": "Heavyweight",
             "Rank": "3",
-            "Selected_Date": "2026-06-30T08:33:45.143415Z"
+            "Selected_Date": "2026-07-01T08:51:56.574023Z"
         },
         "Curtis Blaydes": {
             "Name": "Curtis Blaydes",
