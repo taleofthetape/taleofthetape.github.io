@@ -1,18 +1,18 @@
 {
     "daily_fighter": {
-        "Name": "Sergei Pavlovich",
-        "Profile_URL": "https://www.ufc.com/athlete/sergei-pavlovich",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAVLOVICH_SERGEI_08-23.png?itok=uB20GaaY",
-        "Record": "20-3-0 (W-L-D)",
-        "SLpM": "4.43",
-        "SApM": "3.62",
-        "TD_Avg": "0.48",
+        "Name": "Jared Cannonier",
+        "Profile_URL": "https://www.ufc.com/athlete/jared-cannonier",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CANNONIER_JARED_08-16.png?itok=dCV1YoFd",
+        "Record": "18-9-0 (W-L-D)",
+        "SLpM": "4.42",
+        "SApM": "4.35",
+        "TD_Avg": "0.54",
         "Sub_Avg": "0.00",
-        "Fight_Time": "05:42",
-        "Fight_Time_Seconds": 342,
-        "Division": "Heavyweight",
-        "Rank": "3",
-        "Selected_Date": "2026-07-01T08:51:56.574023Z"
+        "Fight_Time": "13:54",
+        "Fight_Time_Seconds": 834,
+        "Division": "Middleweight",
+        "Rank": "11",
+        "Selected_Date": "2026-07-02T08:16:37.800998Z"
     },
     "past_fighters": [
         "Brando Peri\u010di\u0107",
@@ -1402,7 +1402,7 @@
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
             "Rank": "11",
-            "Selected_Date": "2026-04-25T06:22:03.080042Z"
+            "Selected_Date": "2026-07-02T08:16:37.800998Z"
         },
         "Michael Page": {
             "Name": "Michael Page",
