@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jared Cannonier",
-        "Profile_URL": "https://www.ufc.com/athlete/jared-cannonier",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CANNONIER_JARED_08-16.png?itok=dCV1YoFd",
-        "Record": "18-9-0 (W-L-D)",
-        "SLpM": "4.42",
-        "SApM": "4.35",
-        "TD_Avg": "0.54",
+        "Name": "Aiemann Zahabi",
+        "Profile_URL": "https://www.ufc.com/athlete/aiemann-zahabi",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ZAHABI_AIEMANN_10-18.png?itok=PVjgrz-q",
+        "Record": "14-2-0 (W-L-D)",
+        "SLpM": "4.54",
+        "SApM": "4.08",
+        "TD_Avg": "0.12",
         "Sub_Avg": "0.00",
-        "Fight_Time": "13:54",
-        "Fight_Time_Seconds": 834,
-        "Division": "Middleweight",
-        "Rank": "11",
-        "Selected_Date": "2026-07-02T08:16:37.800998Z"
+        "Fight_Time": "12:07",
+        "Fight_Time_Seconds": 727,
+        "Division": "Bantamweight",
+        "Rank": "12",
+        "Selected_Date": "2026-07-03T08:15:27.566723Z"
     },
     "past_fighters": [
-        "Brando Peri\u010di\u0107",
         "Henry Cejudo",
         "Azamat Murzakanov",
         "Yaroslav Amosov",
         "Nassourdine Imavov",
         "Roman Dolidze",
-        "Sergei Pavlovich"
+        "Sergei Pavlovich",
+        "Jared Cannonier"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -564,7 +564,7 @@
             "Fight_Time_Seconds": 727,
             "Division": "Bantamweight",
             "Rank": "12",
-            "Selected_Date": "2026-05-08T06:55:28.946028Z"
+            "Selected_Date": "2026-07-03T08:15:27.566723Z"
         },
         "Marlon Vera": {
             "Name": "Marlon Vera",
