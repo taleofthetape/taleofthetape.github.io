@@ -12,16 +12,16 @@
         "Fight_Time_Seconds": 727,
         "Division": "Bantamweight",
         "Rank": "12",
-        "Selected_Date": "2026-07-03T08:15:27.566723Z"
+        "Selected_Date": "2026-07-04T07:52:32.761896Z"
     },
     "past_fighters": [
-        "Henry Cejudo",
         "Azamat Murzakanov",
         "Yaroslav Amosov",
         "Nassourdine Imavov",
         "Roman Dolidze",
         "Sergei Pavlovich",
-        "Jared Cannonier"
+        "Jared Cannonier",
+        "Aiemann Zahabi"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -564,7 +564,7 @@
             "Fight_Time_Seconds": 727,
             "Division": "Bantamweight",
             "Rank": "12",
-            "Selected_Date": "2026-07-03T08:15:27.566723Z"
+            "Selected_Date": "2026-07-04T07:52:32.761896Z"
         },
         "Marlon Vera": {
             "Name": "Marlon Vera",
