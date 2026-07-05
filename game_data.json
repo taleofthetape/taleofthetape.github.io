@@ -1,18 +1,18 @@
 {
     "daily_fighter": {
-        "Name": "Aiemann Zahabi",
-        "Profile_URL": "https://www.ufc.com/athlete/aiemann-zahabi",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ZAHABI_AIEMANN_10-18.png?itok=PVjgrz-q",
-        "Record": "14-2-0 (W-L-D)",
-        "SLpM": "4.54",
-        "SApM": "4.08",
-        "TD_Avg": "0.12",
+        "Name": "Curtis Blaydes",
+        "Profile_URL": "https://www.ufc.com/athlete/curtis-blaydes",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/BLAYDES_CURTIS_06-21.png?itok=R1Rkk-cp",
+        "Record": "19-5-0 (W-L-D)",
+        "SLpM": "3.56",
+        "SApM": "2.00",
+        "TD_Avg": "5.38",
         "Sub_Avg": "0.00",
-        "Fight_Time": "12:07",
-        "Fight_Time_Seconds": 727,
-        "Division": "Bantamweight",
-        "Rank": "12",
-        "Selected_Date": "2026-07-04T07:52:32.761896Z"
+        "Fight_Time": "08:56",
+        "Fight_Time_Seconds": 536,
+        "Division": "Heavyweight",
+        "Rank": "8",
+        "Selected_Date": "2026-07-05T08:07:06.622649Z"
     },
     "past_fighters": [
         "Azamat Murzakanov",
@@ -1732,7 +1732,7 @@
             "Fight_Time_Seconds": 536,
             "Division": "Heavyweight",
             "Rank": "8",
-            "Selected_Date": "2026-01-13T05:33:28.206686Z"
+            "Selected_Date": "2026-07-05T08:07:06.622649Z"
         },
         "Waldo Cortes Acosta": {
             "Name": "Waldo Cortes Acosta",
