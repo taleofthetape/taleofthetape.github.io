@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Curtis Blaydes",
-        "Profile_URL": "https://www.ufc.com/athlete/curtis-blaydes",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/BLAYDES_CURTIS_06-21.png?itok=R1Rkk-cp",
-        "Record": "19-5-0 (W-L-D)",
-        "SLpM": "3.56",
-        "SApM": "2.00",
-        "TD_Avg": "5.38",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "08:56",
-        "Fight_Time_Seconds": 536,
-        "Division": "Heavyweight",
-        "Rank": "8",
-        "Selected_Date": "2026-07-05T08:07:06.622649Z"
+        "Name": "Bruno Silva",
+        "Profile_URL": "https://www.ufc.com/athlete/bruno-silva",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/SILVA_BRUNO_10-18.png?itok=OyFIgRsq",
+        "Record": "15-7-2 (W-L-D)",
+        "SLpM": "3.82",
+        "SApM": "4.55",
+        "TD_Avg": "2.30",
+        "Sub_Avg": "0.29",
+        "Fight_Time": "10:27",
+        "Fight_Time_Seconds": 627,
+        "Division": "Flyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-07-06T09:06:11.608260Z"
     },
     "past_fighters": [
-        "Azamat Murzakanov",
         "Yaroslav Amosov",
         "Nassourdine Imavov",
         "Roman Dolidze",
         "Sergei Pavlovich",
         "Jared Cannonier",
-        "Aiemann Zahabi"
+        "Aiemann Zahabi",
+        "Curtis Blaydes"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -446,7 +446,7 @@
             "Fight_Time_Seconds": 627,
             "Division": "Flyweight",
             "Rank": "15",
-            "Selected_Date": "2026-02-01T06:02:34.709761Z"
+            "Selected_Date": "2026-07-06T09:06:11.608260Z"
         },
         "Lone\u2019er Kavanagh": {
             "Name": "Lone\u2019er Kavanagh",
