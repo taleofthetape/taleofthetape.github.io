@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Bruno Silva",
-        "Profile_URL": "https://www.ufc.com/athlete/bruno-silva",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/SILVA_BRUNO_10-18.png?itok=OyFIgRsq",
-        "Record": "15-7-2 (W-L-D)",
-        "SLpM": "3.82",
-        "SApM": "4.55",
-        "TD_Avg": "2.30",
-        "Sub_Avg": "0.29",
-        "Fight_Time": "10:27",
-        "Fight_Time_Seconds": 627,
-        "Division": "Flyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-07-06T09:06:11.608260Z"
+        "Name": "Carlos Prates",
+        "Profile_URL": "https://www.ufc.com/athlete/carlos-prates",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PRATES_CARLOS_11-15.png?itok=9j6oGBNV",
+        "Record": "23-7-0 (W-L-D)",
+        "SLpM": "3.77",
+        "SApM": "4.53",
+        "TD_Avg": "0.21",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "08:48",
+        "Fight_Time_Seconds": 528,
+        "Division": "Welterweight",
+        "Rank": "1",
+        "Selected_Date": "2026-07-07T08:29:13.836696Z"
     },
     "past_fighters": [
-        "Yaroslav Amosov",
         "Nassourdine Imavov",
         "Roman Dolidze",
         "Sergei Pavlovich",
         "Jared Cannonier",
         "Aiemann Zahabi",
-        "Curtis Blaydes"
+        "Curtis Blaydes",
+        "Bruno Silva"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1139,7 +1139,7 @@
             "Fight_Time_Seconds": 528,
             "Division": "Welterweight",
             "Rank": "1",
-            "Selected_Date": "2026-04-14T06:55:26.705897Z"
+            "Selected_Date": "2026-07-07T08:29:13.836696Z"
         },
         "Sean Brady": {
             "Name": "Sean Brady",
