@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Nathaniel Wood",
-        "Profile_URL": "https://www.ufc.com/athlete/nathaniel-wood",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/WOOD_NATHANIEL_10-25.png?itok=kTadPl0J",
-        "Record": "23-6-0 (W-L-D)",
-        "SLpM": "5.64",
-        "SApM": "4.25",
-        "TD_Avg": "1.35",
-        "Sub_Avg": "0.47",
-        "Fight_Time": "13:32",
-        "Fight_Time_Seconds": 812,
-        "Division": "Featherweight",
-        "Rank": "9",
-        "Selected_Date": "2026-07-08T07:35:19.502747Z"
+        "Name": "Tallison Teixeira",
+        "Profile_URL": "https://www.ufc.com/athlete/tallison-teixeira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/TEIXEIRA_TALLISON_07-12.png?itok=jXpiHLnR",
+        "Record": "8-1-0 (W-L-D)",
+        "SLpM": "12.83",
+        "SApM": "8.98",
+        "TD_Avg": "0.00",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "01:02",
+        "Fight_Time_Seconds": 62,
+        "Division": "Heavyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-07-09T08:38:37.992208Z"
     },
     "past_fighters": [
-        "Roman Dolidze",
         "Sergei Pavlovich",
         "Jared Cannonier",
         "Aiemann Zahabi",
         "Curtis Blaydes",
         "Bruno Silva",
-        "Carlos Prates"
+        "Carlos Prates",
+        "Nathaniel Wood"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1896,7 +1896,7 @@
             "Fight_Time_Seconds": 62,
             "Division": "Heavyweight",
             "Rank": "15",
-            "Selected_Date": "2026-05-21T08:39:36.058899Z"
+            "Selected_Date": "2026-07-09T08:38:37.992208Z"
         },
         "Payton Talbott": {
             "Name": "Payton Talbott",
