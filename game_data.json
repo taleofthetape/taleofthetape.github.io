@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Abus Magomedov",
-        "Profile_URL": "https://www.ufc.com/athlete/abus-magomedov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MAGOMEDOV_ABUS_06-27.png?itok=L-lbZx1p",
-        "Record": "29-7-1 (W-L-D)",
-        "SLpM": "3.06",
-        "SApM": "3.34",
-        "TD_Avg": "2.50",
-        "Sub_Avg": "0.58",
-        "Fight_Time": "09:46",
-        "Fight_Time_Seconds": 586,
-        "Division": "Middleweight",
-        "Rank": "15",
-        "Selected_Date": "2026-07-10T08:28:09.773618Z"
+        "Name": "Deiveson Figueiredo",
+        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
+        "Record": "25-5-1 (W-L-D)",
+        "SLpM": "2.75",
+        "SApM": "3.54",
+        "TD_Avg": "1.71",
+        "Sub_Avg": "1.29",
+        "Fight_Time": "12:45",
+        "Fight_Time_Seconds": 765,
+        "Division": "Bantamweight",
+        "Rank": "11",
+        "Selected_Date": "2026-07-11T07:15:42.923190Z"
     },
     "past_fighters": [
-        "Jared Cannonier",
         "Aiemann Zahabi",
         "Curtis Blaydes",
         "Bruno Silva",
         "Carlos Prates",
         "Nathaniel Wood",
-        "Tallison Teixeira"
+        "Tallison Teixeira",
+        "Abus Magomedov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -549,7 +549,7 @@
             "Fight_Time_Seconds": 765,
             "Division": "Bantamweight",
             "Rank": "11",
-            "Selected_Date": "2026-06-14T08:44:29.871479Z"
+            "Selected_Date": "2026-07-11T07:15:42.923190Z"
         },
         "Aiemann Zahabi": {
             "Name": "Aiemann Zahabi",
