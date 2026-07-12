@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Deiveson Figueiredo",
-        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
-        "Record": "25-5-1 (W-L-D)",
-        "SLpM": "2.75",
-        "SApM": "3.54",
-        "TD_Avg": "1.71",
-        "Sub_Avg": "1.29",
-        "Fight_Time": "12:45",
-        "Fight_Time_Seconds": 765,
-        "Division": "Bantamweight",
-        "Rank": "11",
-        "Selected_Date": "2026-07-11T07:15:42.923190Z"
+        "Name": "Ian Machado Garry",
+        "Profile_URL": "https://www.ufc.com/athlete/ian-machado-garry",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MACHADO_GARRY_IAN_11-22.png?itok=SbjTy_Wn",
+        "Record": "17-1-0 (W-L-D)",
+        "SLpM": "4.78",
+        "SApM": "2.86",
+        "TD_Avg": "0.92",
+        "Sub_Avg": "0.37",
+        "Fight_Time": "14:45",
+        "Fight_Time_Seconds": 885,
+        "Division": "Welterweight",
+        "Rank": "2",
+        "Selected_Date": "2026-07-12T07:32:03.477327Z"
     },
     "past_fighters": [
-        "Aiemann Zahabi",
         "Curtis Blaydes",
         "Bruno Silva",
         "Carlos Prates",
         "Nathaniel Wood",
         "Tallison Teixeira",
-        "Abus Magomedov"
+        "Abus Magomedov",
+        "Deiveson Figueiredo"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -967,7 +967,7 @@
         "Beno\u00eet Saint Denis": {
             "Name": "Beno\u00eet Saint Denis",
             "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/HOOKER_DAN_01-31.png?itok=HwIAlL49",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAINT_DENIS_BENOIT_07-11.png?itok=bZ-d0yum",
             "Record": "17-3-0 (W-L-D)",
             "SLpM": "5.62",
             "SApM": "4.09",
@@ -1094,7 +1094,7 @@
             "Fight_Time_Seconds": 885,
             "Division": "Welterweight",
             "Rank": "2",
-            "Selected_Date": "2026-01-23T05:36:07.608383Z"
+            "Selected_Date": "2026-07-12T07:32:03.477327Z"
         },
         "Shavkat Rakhmonov": {
             "Name": "Shavkat Rakhmonov",
