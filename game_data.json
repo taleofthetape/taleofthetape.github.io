@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ian Machado Garry",
-        "Profile_URL": "https://www.ufc.com/athlete/ian-machado-garry",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MACHADO_GARRY_IAN_11-22.png?itok=SbjTy_Wn",
-        "Record": "17-1-0 (W-L-D)",
-        "SLpM": "4.78",
-        "SApM": "2.86",
-        "TD_Avg": "0.92",
-        "Sub_Avg": "0.37",
-        "Fight_Time": "14:45",
-        "Fight_Time_Seconds": 885,
-        "Division": "Welterweight",
-        "Rank": "2",
-        "Selected_Date": "2026-07-12T07:32:03.477327Z"
+        "Name": "Alexander Volkanovski",
+        "Profile_URL": "https://www.ufc.com/athlete/alexander-volkanovski",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-02/VOLKANOVSKI_ALEXANDER_BELT_02-17.png?itok=u2-VOzne",
+        "Record": "27-4-0 (W-L-D)",
+        "SLpM": "6.18",
+        "SApM": "3.36",
+        "TD_Avg": "1.67",
+        "Sub_Avg": "0.16",
+        "Fight_Time": "16:21",
+        "Fight_Time_Seconds": 981,
+        "Division": "Featherweight",
+        "Rank": "C",
+        "Selected_Date": "2026-07-13T08:21:42.503724Z"
     },
     "past_fighters": [
-        "Curtis Blaydes",
         "Bruno Silva",
         "Carlos Prates",
         "Nathaniel Wood",
         "Tallison Teixeira",
         "Abus Magomedov",
-        "Deiveson Figueiredo"
+        "Deiveson Figueiredo",
+        "Ian Machado Garry"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -127,7 +127,7 @@
             "Fight_Time_Seconds": 981,
             "Division": "Featherweight",
             "Rank": "C",
-            "Selected_Date": "2026-04-17T06:59:52.452634Z"
+            "Selected_Date": "2026-07-13T08:21:42.503724Z"
         },
         "Tom Aspinall": {
             "Name": "Tom Aspinall",
@@ -968,7 +968,7 @@
             "Name": "Beno\u00eet Saint Denis",
             "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAINT_DENIS_BENOIT_07-11.png?itok=bZ-d0yum",
-            "Record": "17-3-0 (W-L-D)",
+            "Record": "17-4-0 (W-L-D)",
             "SLpM": "5.62",
             "SApM": "4.09",
             "TD_Avg": "4.19",
