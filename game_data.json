@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alexander Volkanovski",
-        "Profile_URL": "https://www.ufc.com/athlete/alexander-volkanovski",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-02/VOLKANOVSKI_ALEXANDER_BELT_02-17.png?itok=u2-VOzne",
-        "Record": "27-4-0 (W-L-D)",
-        "SLpM": "6.18",
-        "SApM": "3.36",
-        "TD_Avg": "1.67",
-        "Sub_Avg": "0.16",
-        "Fight_Time": "16:21",
-        "Fight_Time_Seconds": 981,
-        "Division": "Featherweight",
-        "Rank": "C",
-        "Selected_Date": "2026-07-13T08:21:42.503724Z"
+        "Name": "Mario Bautista",
+        "Profile_URL": "https://www.ufc.com/athlete/mario-bautista",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/BAUTISTA_MARIO_10-25.png?itok=Oolf6Jp3",
+        "Record": "16-3-0 (W-L-D)",
+        "SLpM": "5.58",
+        "SApM": "4.19",
+        "TD_Avg": "1.48",
+        "Sub_Avg": "0.80",
+        "Fight_Time": "10:08",
+        "Fight_Time_Seconds": 608,
+        "Division": "Bantamweight",
+        "Rank": "4",
+        "Selected_Date": "2026-07-14T07:15:17.922417Z"
     },
     "past_fighters": [
-        "Bruno Silva",
         "Carlos Prates",
         "Nathaniel Wood",
         "Tallison Teixeira",
         "Abus Magomedov",
         "Deiveson Figueiredo",
-        "Ian Machado Garry"
+        "Ian Machado Garry",
+        "Alexander Volkanovski"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -284,7 +284,7 @@
             "Fight_Time": "12:18",
             "Fight_Time_Seconds": 738,
             "Division": "Flyweight",
-            "Rank": "4",
+            "Rank": "3",
             "Selected_Date": "2026-06-03T09:59:59.613114Z"
         },
         "Amir Albazi": {
@@ -313,7 +313,7 @@
             "Fight_Time": "11:05",
             "Fight_Time_Seconds": 665,
             "Division": "Flyweight",
-            "Rank": "3"
+            "Rank": "4"
         },
         "Manel Kape": {
             "Name": "Manel Kape",
@@ -341,7 +341,7 @@
             "Fight_Time": "12:58",
             "Fight_Time_Seconds": 778,
             "Division": "Flyweight",
-            "Rank": "6",
+            "Rank": "5",
             "Selected_Date": "2026-05-06T07:38:46.292325Z"
         },
         "Kyoji Horiguchi": {
@@ -460,7 +460,7 @@
             "Fight_Time": "10:30",
             "Fight_Time_Seconds": 630,
             "Division": "Flyweight",
-            "Rank": "5"
+            "Rank": "6"
         },
         "Umar Nurmagomedov": {
             "Name": "Umar Nurmagomedov",
@@ -518,7 +518,7 @@
             "Fight_Time": "14:43",
             "Fight_Time_Seconds": 883,
             "Division": "Bantamweight",
-            "Rank": "4",
+            "Rank": "5",
             "Selected_Date": "2026-04-26T07:01:01.928876Z"
         },
         "Song Yadong": {
@@ -593,7 +593,8 @@
             "Fight_Time": "10:08",
             "Fight_Time_Seconds": 608,
             "Division": "Bantamweight",
-            "Rank": "5"
+            "Rank": "4",
+            "Selected_Date": "2026-07-14T07:15:17.922417Z"
         },
         "Henry Cejudo": {
             "Name": "Henry Cejudo",
@@ -682,7 +683,7 @@
             "Fight_Time": "10:29",
             "Fight_Time_Seconds": 629,
             "Division": "Bantamweight",
-            "Rank": "9",
+            "Rank": "10",
             "Selected_Date": "2026-06-09T08:36:21.905027Z"
         },
         "Movsar Evloev": {
@@ -933,7 +934,7 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Lightweight",
-            "Rank": "9",
+            "Rank": "5",
             "Selected_Date": "2026-05-16T07:20:53.322249Z"
         },
         "Dan Hooker": {
@@ -948,7 +949,7 @@
             "Fight_Time": "10:09",
             "Fight_Time_Seconds": 609,
             "Division": "Lightweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Mateusz Gamrot": {
             "Name": "Mateusz Gamrot",
@@ -969,14 +970,14 @@
             "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAINT_DENIS_BENOIT_07-11.png?itok=bZ-d0yum",
             "Record": "17-4-0 (W-L-D)",
-            "SLpM": "5.62",
+            "SLpM": "5.58",
             "SApM": "4.09",
-            "TD_Avg": "4.19",
-            "Sub_Avg": "1.75",
-            "Fight_Time": "07:10",
-            "Fight_Time_Seconds": 430,
+            "TD_Avg": "4.15",
+            "Sub_Avg": "1.73",
+            "Fight_Time": "06:41",
+            "Fight_Time_Seconds": 401,
             "Division": "Lightweight",
-            "Rank": "5"
+            "Rank": "8"
         },
         "Rafael Fiziev": {
             "Name": "Rafael Fiziev",
@@ -1385,8 +1386,8 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "13:37",
             "Fight_Time_Seconds": 817,
-            "Division": "Middleweight",
-            "Rank": "10",
+            "Division": "Light Heavyweight",
+            "Rank": "13",
             "Selected_Date": "2026-03-27T06:15:31.031802Z"
         },
         "Jared Cannonier": {
@@ -1532,7 +1533,7 @@
             "Fight_Time": "13:16",
             "Fight_Time_Seconds": 796,
             "Division": "Light Heavyweight",
-            "Rank": "15"
+            "Rank": "4"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
@@ -1629,7 +1630,7 @@
             "Fight_Time": "06:47",
             "Fight_Time_Seconds": 407,
             "Division": "Light Heavyweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-01-02T05:33:44.119763Z"
         },
         "Nikita Krylov": {
@@ -1672,7 +1673,7 @@
             "Fight_Time": "07:34",
             "Fight_Time_Seconds": 454,
             "Division": "Light Heavyweight",
-            "Rank": "13"
+            "Rank": "14"
         },
         "Ciryl Gane": {
             "Name": "Ciryl Gane",
@@ -1731,7 +1732,7 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Heavyweight",
-            "Rank": "8",
+            "Rank": "9",
             "Selected_Date": "2026-07-05T08:07:06.622649Z"
         },
         "Waldo Cortes Acosta": {
@@ -1776,7 +1777,7 @@
             "Fight_Time": "07:54",
             "Fight_Time_Seconds": 474,
             "Division": "Heavyweight",
-            "Rank": "9"
+            "Rank": "8"
         },
         "Derrick Lewis": {
             "Name": "Derrick Lewis",
@@ -2113,7 +2114,7 @@
             "Fight_Time": "13:28",
             "Fight_Time_Seconds": 808,
             "Division": "Bantamweight",
-            "Rank": "10",
+            "Rank": "9",
             "Selected_Date": "2026-04-21T07:00:16.418074Z"
         },
         "Christian Leroy Duncan": {
@@ -2243,7 +2244,7 @@
             "Fight_Time": "06:33",
             "Fight_Time_Seconds": 393,
             "Division": "Lightweight",
-            "Rank": "8"
+            "Rank": "9"
         },
         "Brando Peri\u010di\u0107": {
             "Name": "Brando Peri\u010di\u0107",
@@ -2297,7 +2298,7 @@
             "Fight_Time": "07:55",
             "Fight_Time_Seconds": 475,
             "Division": "Lightweight",
-            "Rank": "12"
+            "Rank": "11"
         },
         "Bo Nickal": {
             "Name": "Bo Nickal",
@@ -2508,8 +2509,36 @@
             "Fight_Time": "09:46",
             "Fight_Time_Seconds": 586,
             "Division": "Middleweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-07-10T08:28:09.773618Z"
+        },
+        "Alessandro Costa": {
+            "Name": "Alessandro Costa",
+            "Profile_URL": "https://www.ufc.com/athlete/alessandro-costa",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/COSTA_ALESSANDRO_07-11.png?itok=9Efneg8e",
+            "Record": "17-5-0 (W-L-D)",
+            "SLpM": "3.77",
+            "SApM": "3.71",
+            "TD_Avg": "0.70",
+            "Sub_Avg": "0.70",
+            "Fight_Time": "09:29",
+            "Fight_Time_Seconds": 569,
+            "Division": "Flyweight",
+            "Rank": "15"
+        },
+        "Nursulton Ruziboev": {
+            "Name": "Nursulton Ruziboev",
+            "Profile_URL": "https://www.ufc.com/athlete/nursulton-ruziboev",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/RUZIBOEV_NURSULTON_06-27.png?itok=lB4qAhPl",
+            "Record": "37-9-2 (W-L-D)",
+            "SLpM": "2.38",
+            "SApM": "2.68",
+            "TD_Avg": "1.36",
+            "Sub_Avg": "0.34",
+            "Fight_Time": "07:21",
+            "Fight_Time_Seconds": 441,
+            "Division": "Middleweight",
+            "Rank": "15"
         }
     }
 }
