@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mario Bautista",
-        "Profile_URL": "https://www.ufc.com/athlete/mario-bautista",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/BAUTISTA_MARIO_10-25.png?itok=Oolf6Jp3",
-        "Record": "16-3-0 (W-L-D)",
-        "SLpM": "5.58",
-        "SApM": "4.19",
-        "TD_Avg": "1.48",
-        "Sub_Avg": "0.80",
-        "Fight_Time": "10:08",
-        "Fight_Time_Seconds": 608,
+        "Name": "Rob Font",
+        "Profile_URL": "https://www.ufc.com/athlete/rob-font",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/FONT_ROB_09-13.png?itok=0gLZSEIC",
+        "Record": "22-9-0 (W-L-D)",
+        "SLpM": "5.36",
+        "SApM": "3.70",
+        "TD_Avg": "0.74",
+        "Sub_Avg": "0.34",
+        "Fight_Time": "13:09",
+        "Fight_Time_Seconds": 789,
         "Division": "Bantamweight",
-        "Rank": "4",
-        "Selected_Date": "2026-07-14T07:15:17.922417Z"
+        "Rank": "13",
+        "Selected_Date": "2026-07-15T07:19:05.067450Z"
     },
     "past_fighters": [
-        "Carlos Prates",
         "Nathaniel Wood",
         "Tallison Teixeira",
         "Abus Magomedov",
         "Deiveson Figueiredo",
         "Ian Machado Garry",
-        "Alexander Volkanovski"
+        "Alexander Volkanovski",
+        "Mario Bautista"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -639,7 +639,7 @@
             "Fight_Time_Seconds": 789,
             "Division": "Bantamweight",
             "Rank": "13",
-            "Selected_Date": "2026-03-22T05:58:24.093460Z"
+            "Selected_Date": "2026-07-15T07:19:05.067450Z"
         },
         "Vinicius Oliveira": {
             "Name": "Vinicius Oliveira",
@@ -1432,7 +1432,7 @@
             "Fight_Time": "12:48",
             "Fight_Time_Seconds": 768,
             "Division": "Middleweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-06-29T09:54:08.832660Z"
         },
         "Paulo Costa": {
@@ -1645,7 +1645,7 @@
             "Fight_Time": "06:34",
             "Fight_Time_Seconds": 394,
             "Division": "Light Heavyweight",
-            "Rank": "12",
+            "Rank": "15",
             "Selected_Date": "2026-05-22T08:27:00.167594Z"
         },
         "Zhang Mingyang": {
@@ -1806,7 +1806,7 @@
             "Fight_Time": "03:01",
             "Fight_Time_Seconds": 181,
             "Division": "Heavyweight",
-            "Rank": "10",
+            "Rank": "9",
             "Selected_Date": "2026-05-28T08:49:20.701168Z"
         },
         "Marcin Tybura": {
