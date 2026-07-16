@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Rob Font",
-        "Profile_URL": "https://www.ufc.com/athlete/rob-font",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/FONT_ROB_09-13.png?itok=0gLZSEIC",
-        "Record": "22-9-0 (W-L-D)",
-        "SLpM": "5.36",
-        "SApM": "3.70",
-        "TD_Avg": "0.74",
-        "Sub_Avg": "0.34",
-        "Fight_Time": "13:09",
-        "Fight_Time_Seconds": 789,
-        "Division": "Bantamweight",
-        "Rank": "13",
-        "Selected_Date": "2026-07-15T07:19:05.067450Z"
+        "Name": "Paulo Costa",
+        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
+        "Record": "15-4-0 (W-L-D)",
+        "SLpM": "6.26",
+        "SApM": "6.20",
+        "TD_Avg": "0.32",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "12:46",
+        "Fight_Time_Seconds": 766,
+        "Division": "Light Heavyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-07-16T07:26:42.600778Z"
     },
     "past_fighters": [
-        "Nathaniel Wood",
         "Tallison Teixeira",
         "Abus Magomedov",
         "Deiveson Figueiredo",
         "Ian Machado Garry",
         "Alexander Volkanovski",
-        "Mario Bautista"
+        "Mario Bautista",
+        "Rob Font"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1448,7 +1448,7 @@
             "Fight_Time_Seconds": 766,
             "Division": "Light Heavyweight",
             "Rank": "4",
-            "Selected_Date": "2026-03-15T06:07:24.222434Z"
+            "Selected_Date": "2026-07-16T07:26:42.600778Z"
         },
         "Marvin Vettori": {
             "Name": "Marvin Vettori",
