@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Paulo Costa",
-        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
-        "Record": "15-4-0 (W-L-D)",
-        "SLpM": "6.26",
-        "SApM": "6.20",
-        "TD_Avg": "0.32",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "12:46",
-        "Fight_Time_Seconds": 766,
-        "Division": "Light Heavyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-07-16T07:26:42.600778Z"
+        "Name": "Beno\u00eet Saint Denis",
+        "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAINT_DENIS_BENOIT_07-11.png?itok=bZ-d0yum",
+        "Record": "17-4-0 (W-L-D)",
+        "SLpM": "5.58",
+        "SApM": "4.09",
+        "TD_Avg": "4.15",
+        "Sub_Avg": "1.73",
+        "Fight_Time": "06:41",
+        "Fight_Time_Seconds": 401,
+        "Division": "Lightweight",
+        "Rank": "8",
+        "Selected_Date": "2026-07-17T07:23:05.053668Z"
     },
     "past_fighters": [
-        "Tallison Teixeira",
         "Abus Magomedov",
         "Deiveson Figueiredo",
         "Ian Machado Garry",
         "Alexander Volkanovski",
         "Mario Bautista",
-        "Rob Font"
+        "Rob Font",
+        "Paulo Costa"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -977,7 +977,8 @@
             "Fight_Time": "06:41",
             "Fight_Time_Seconds": 401,
             "Division": "Lightweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-07-17T07:23:05.053668Z"
         },
         "Rafael Fiziev": {
             "Name": "Rafael Fiziev",
