@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Beno\u00eet Saint Denis",
-        "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAINT_DENIS_BENOIT_07-11.png?itok=bZ-d0yum",
-        "Record": "17-4-0 (W-L-D)",
-        "SLpM": "5.58",
-        "SApM": "4.09",
-        "TD_Avg": "4.15",
-        "Sub_Avg": "1.73",
-        "Fight_Time": "06:41",
-        "Fight_Time_Seconds": 401,
-        "Division": "Lightweight",
-        "Rank": "8",
-        "Selected_Date": "2026-07-17T07:23:05.053668Z"
+        "Name": "Mario Pinto",
+        "Profile_URL": "https://www.ufc.com/athlete/mario-pinto",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PINTO_MARIO_03-21.png?itok=Y4B-HdiN",
+        "Record": "12-0-0 (W-L-D)",
+        "SLpM": "2.85",
+        "SApM": "1.93",
+        "TD_Avg": "2.38",
+        "Sub_Avg": "0.95",
+        "Fight_Time": "07:53",
+        "Fight_Time_Seconds": 473,
+        "Division": "Heavyweight",
+        "Rank": "13",
+        "Selected_Date": "2026-07-18T07:03:03.025389Z"
     },
     "past_fighters": [
-        "Abus Magomedov",
         "Deiveson Figueiredo",
         "Ian Machado Garry",
         "Alexander Volkanovski",
         "Mario Bautista",
         "Rob Font",
-        "Paulo Costa"
+        "Paulo Costa",
+        "Beno\u00eet Saint Denis"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -977,8 +977,7 @@
             "Fight_Time": "06:41",
             "Fight_Time_Seconds": 401,
             "Division": "Lightweight",
-            "Rank": "8",
-            "Selected_Date": "2026-07-17T07:23:05.053668Z"
+            "Rank": "8"
         },
         "Rafael Fiziev": {
             "Name": "Rafael Fiziev",
@@ -2482,7 +2481,8 @@
             "Fight_Time": "07:53",
             "Fight_Time_Seconds": 473,
             "Division": "Heavyweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-07-18T07:03:03.025389Z"
         },
         "Ryan Spann": {
             "Name": "Ryan Spann",
