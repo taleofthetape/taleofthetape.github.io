@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mario Pinto",
-        "Profile_URL": "https://www.ufc.com/athlete/mario-pinto",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PINTO_MARIO_03-21.png?itok=Y4B-HdiN",
-        "Record": "12-0-0 (W-L-D)",
-        "SLpM": "2.85",
-        "SApM": "1.93",
-        "TD_Avg": "2.38",
-        "Sub_Avg": "0.95",
-        "Fight_Time": "07:53",
-        "Fight_Time_Seconds": 473,
-        "Division": "Heavyweight",
-        "Rank": "13",
-        "Selected_Date": "2026-07-18T07:03:03.025389Z"
+        "Name": "Umar Nurmagomedov",
+        "Profile_URL": "https://www.ufc.com/athlete/umar-nurmagomedov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/NURMAGOMEDOV_UMAR_10-25.png?itok=r0Ir2L-0",
+        "Record": "19-1-0 (W-L-D)",
+        "SLpM": "4.08",
+        "SApM": "2.04",
+        "TD_Avg": "4.30",
+        "Sub_Avg": "0.27",
+        "Fight_Time": "13:57",
+        "Fight_Time_Seconds": 837,
+        "Division": "Bantamweight",
+        "Rank": "2",
+        "Selected_Date": "2026-07-19T07:31:28.796061Z"
     },
     "past_fighters": [
-        "Deiveson Figueiredo",
         "Ian Machado Garry",
         "Alexander Volkanovski",
         "Mario Bautista",
         "Rob Font",
         "Paulo Costa",
-        "Beno\u00eet Saint Denis"
+        "Beno\u00eet Saint Denis",
+        "Mario Pinto"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -475,7 +475,7 @@
             "Fight_Time_Seconds": 837,
             "Division": "Bantamweight",
             "Rank": "2",
-            "Selected_Date": "2026-04-24T07:06:18.099283Z"
+            "Selected_Date": "2026-07-19T07:31:28.796061Z"
         },
         "Sean O'Malley": {
             "Name": "Sean O'Malley",
@@ -2430,7 +2430,7 @@
         "Jose Miguel Delgado": {
             "Name": "Jose Miguel Delgado",
             "Profile_URL": "https://www.ufc.com/athlete/jose-miguel-delgado",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/FILI_ANDRE_06-20.png?itok=cIwJBZaQ",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/BASHI_AUSTIN_07-18.png?itok=5R6Eua-c",
             "Record": "10-2-0 (W-L-D)",
             "SLpM": "7.48",
             "SApM": "4.95",
