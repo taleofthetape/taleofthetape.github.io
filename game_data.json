@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Umar Nurmagomedov",
-        "Profile_URL": "https://www.ufc.com/athlete/umar-nurmagomedov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/NURMAGOMEDOV_UMAR_10-25.png?itok=r0Ir2L-0",
-        "Record": "19-1-0 (W-L-D)",
-        "SLpM": "4.08",
-        "SApM": "2.04",
-        "TD_Avg": "4.30",
-        "Sub_Avg": "0.27",
-        "Fight_Time": "13:57",
-        "Fight_Time_Seconds": 837,
-        "Division": "Bantamweight",
-        "Rank": "2",
-        "Selected_Date": "2026-07-19T07:31:28.796061Z"
+        "Name": "Justin Gaethje",
+        "Profile_URL": "https://www.ufc.com/athlete/justin-gaethje",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GAETHJE_JUSTIN_03-08.png?itok=Zvg-a91R",
+        "Record": "27-5-0 (W-L-D)",
+        "SLpM": "6.59",
+        "SApM": "7.18",
+        "TD_Avg": "0.10",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:14",
+        "Fight_Time_Seconds": 674,
+        "Division": "Lightweight",
+        "Rank": "C",
+        "Selected_Date": "2026-07-20T08:12:06.645592Z"
     },
     "past_fighters": [
-        "Ian Machado Garry",
         "Alexander Volkanovski",
         "Mario Bautista",
         "Rob Font",
         "Paulo Costa",
         "Beno\u00eet Saint Denis",
-        "Mario Pinto"
+        "Mario Pinto",
+        "Umar Nurmagomedov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -920,7 +920,7 @@
             "Fight_Time_Seconds": 674,
             "Division": "Lightweight",
             "Rank": "C",
-            "Selected_Date": "2026-05-20T08:32:10.219022Z"
+            "Selected_Date": "2026-07-20T08:12:06.645592Z"
         },
         "Paddy Pimblett": {
             "Name": "Paddy Pimblett",
