@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Justin Gaethje",
-        "Profile_URL": "https://www.ufc.com/athlete/justin-gaethje",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GAETHJE_JUSTIN_03-08.png?itok=Zvg-a91R",
-        "Record": "27-5-0 (W-L-D)",
-        "SLpM": "6.59",
-        "SApM": "7.18",
-        "TD_Avg": "0.10",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:14",
-        "Fight_Time_Seconds": 674,
-        "Division": "Lightweight",
-        "Rank": "C",
-        "Selected_Date": "2026-07-20T08:12:06.645592Z"
+        "Name": "Ji\u0159\u00ed Proch\u00e1zka",
+        "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=UXRq9ipK",
+        "Record": "32-6-1 (W-L-D)",
+        "SLpM": "5.61",
+        "SApM": "5.67",
+        "TD_Avg": "0.49",
+        "Sub_Avg": "0.16",
+        "Fight_Time": "10:15",
+        "Fight_Time_Seconds": 615,
+        "Division": "Light Heavyweight",
+        "Rank": "3",
+        "Selected_Date": "2026-07-21T07:37:07.706110Z"
     },
     "past_fighters": [
-        "Alexander Volkanovski",
         "Mario Bautista",
         "Rob Font",
         "Paulo Costa",
         "Beno\u00eet Saint Denis",
         "Mario Pinto",
-        "Umar Nurmagomedov"
+        "Umar Nurmagomedov",
+        "Justin Gaethje"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1167,8 +1167,8 @@
             "Sub_Avg": "0.09",
             "Fight_Time": "17:50",
             "Fight_Time_Seconds": 1070,
-            "Division": "Welterweight",
-            "Rank": "10"
+            "Division": "Middleweight",
+            "Rank": "11"
         },
         "Leon Edwards": {
             "Name": "Leon Edwards",
@@ -1387,7 +1387,7 @@
             "Fight_Time": "13:37",
             "Fight_Time_Seconds": 817,
             "Division": "Light Heavyweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-03-27T06:15:31.031802Z"
         },
         "Jared Cannonier": {
@@ -1402,7 +1402,7 @@
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
-            "Rank": "11",
+            "Rank": "10",
             "Selected_Date": "2026-07-02T08:16:37.800998Z"
         },
         "Michael Page": {
@@ -1492,7 +1492,8 @@
             "Fight_Time": "10:15",
             "Fight_Time_Seconds": 615,
             "Division": "Light Heavyweight",
-            "Rank": "3"
+            "Rank": "3",
+            "Selected_Date": "2026-07-21T07:37:07.706110Z"
         },
         "Carlos Ulberg": {
             "Name": "Carlos Ulberg",
@@ -1533,7 +1534,7 @@
             "Fight_Time": "13:16",
             "Fight_Time_Seconds": 796,
             "Division": "Light Heavyweight",
-            "Rank": "4"
+            "Rank": "15"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
@@ -1559,7 +1560,7 @@
             "Fight_Time": "07:51",
             "Fight_Time_Seconds": 471,
             "Division": "Light Heavyweight",
-            "Rank": "9",
+            "Rank": "8",
             "Selected_Date": "2026-06-26T08:33:32.382115Z"
         },
         "Dominick Reyes": {
@@ -1588,7 +1589,7 @@
             "Fight_Time": "09:25",
             "Fight_Time_Seconds": 565,
             "Division": "Light Heavyweight",
-            "Rank": "8",
+            "Rank": "9",
             "Selected_Date": "2026-02-04T05:56:28.095665Z"
         },
         "Aleksandar Raki\u0107": {
@@ -1616,7 +1617,7 @@
             "Sub_Avg": "50\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
-            "Rank": "10"
+            "Rank": "9"
         },
         "Johnny Walker": {
             "Name": "Johnny Walker",
@@ -1630,7 +1631,7 @@
             "Fight_Time": "06:47",
             "Fight_Time_Seconds": 407,
             "Division": "Light Heavyweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-01-02T05:33:44.119763Z"
         },
         "Nikita Krylov": {
@@ -1673,7 +1674,7 @@
             "Fight_Time": "07:34",
             "Fight_Time_Seconds": 454,
             "Division": "Light Heavyweight",
-            "Rank": "14"
+            "Rank": "13"
         },
         "Ciryl Gane": {
             "Name": "Ciryl Gane",
@@ -1732,7 +1733,7 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Heavyweight",
-            "Rank": "9",
+            "Rank": "8",
             "Selected_Date": "2026-07-05T08:07:06.622649Z"
         },
         "Waldo Cortes Acosta": {
@@ -1777,7 +1778,7 @@
             "Fight_Time": "07:54",
             "Fight_Time_Seconds": 474,
             "Division": "Heavyweight",
-            "Rank": "8"
+            "Rank": "9"
         },
         "Derrick Lewis": {
             "Name": "Derrick Lewis",
@@ -2013,7 +2014,7 @@
             "Fight_Time": "09:58",
             "Fight_Time_Seconds": 598,
             "Division": "Light Heavyweight",
-            "Rank": "11",
+            "Rank": "10",
             "Selected_Date": "2026-02-24T06:03:52.329273Z"
         },
         "Rizvan Kuniev": {
@@ -2129,7 +2130,7 @@
             "Fight_Time": "10:03",
             "Fight_Time_Seconds": 603,
             "Division": "Middleweight",
-            "Rank": "12"
+            "Rank": "10"
         },
         "Michael Venom Page": {
             "Name": "Michael Venom Page",
@@ -2270,7 +2271,7 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Middleweight",
-            "Rank": "10"
+            "Rank": "12"
         },
         "Edgar Chairez": {
             "Name": "Edgar Chairez",
@@ -2425,21 +2426,21 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Featherweight",
-            "Rank": "14"
+            "Rank": "15"
         },
         "Jose Miguel Delgado": {
             "Name": "Jose Miguel Delgado",
             "Profile_URL": "https://www.ufc.com/athlete/jose-miguel-delgado",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/BASHI_AUSTIN_07-18.png?itok=5R6Eua-c",
             "Record": "10-2-0 (W-L-D)",
-            "SLpM": "7.48",
-            "SApM": "4.95",
-            "TD_Avg": "1.51",
+            "SLpM": "6.07",
+            "SApM": "4.18",
+            "TD_Avg": "1.37",
             "Sub_Avg": "0.00",
-            "Fight_Time": "07:58",
-            "Fight_Time_Seconds": 478,
+            "Fight_Time": "09:08",
+            "Fight_Time_Seconds": 548,
             "Division": "Featherweight",
-            "Rank": "15"
+            "Rank": "14"
         },
         "Rafa Garcia": {
             "Name": "Rafa Garcia",
@@ -2467,7 +2468,7 @@
             "Fight_Time": "11:38",
             "Fight_Time_Seconds": 698,
             "Division": "Light Heavyweight",
-            "Rank": "12"
+            "Rank": "11"
         },
         "Mario Pinto": {
             "Name": "Mario Pinto",
