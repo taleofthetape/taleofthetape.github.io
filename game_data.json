@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ji\u0159\u00ed Proch\u00e1zka",
-        "Profile_URL": "https://www.ufc.com/athlete/jiri-prochazka",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=UXRq9ipK",
-        "Record": "32-6-1 (W-L-D)",
-        "SLpM": "5.61",
-        "SApM": "5.67",
-        "TD_Avg": "0.49",
-        "Sub_Avg": "0.16",
-        "Fight_Time": "10:15",
-        "Fight_Time_Seconds": 615,
-        "Division": "Light Heavyweight",
-        "Rank": "3",
-        "Selected_Date": "2026-07-21T07:37:07.706110Z"
+        "Name": "Josh Hokit",
+        "Profile_URL": "https://www.ufc.com/athlete/josh-hokit",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOKIT_JOSH_04-11.png?itok=PMyQcS1V",
+        "Record": "9-0-0 (W-L-D)",
+        "SLpM": "9.25",
+        "SApM": "6.81",
+        "TD_Avg": "3.89",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "06:45",
+        "Fight_Time_Seconds": 405,
+        "Division": "Heavyweight",
+        "Rank": "5",
+        "Selected_Date": "2026-07-22T07:37:58.895965Z"
     },
     "past_fighters": [
-        "Mario Bautista",
         "Rob Font",
         "Paulo Costa",
         "Beno\u00eet Saint Denis",
         "Mario Pinto",
         "Umar Nurmagomedov",
-        "Justin Gaethje"
+        "Justin Gaethje",
+        "Ji\u0159\u00ed Proch\u00e1zka"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1372,7 +1372,7 @@
             "Fight_Time": "13:26",
             "Fight_Time_Seconds": 806,
             "Division": "Middleweight",
-            "Rank": "8",
+            "Rank": "9",
             "Selected_Date": "2026-04-20T07:20:10.321228Z"
         },
         "Robert Whittaker": {
@@ -1402,7 +1402,7 @@
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
-            "Rank": "10",
+            "Rank": "12",
             "Selected_Date": "2026-07-02T08:16:37.800998Z"
         },
         "Michael Page": {
@@ -1492,8 +1492,7 @@
             "Fight_Time": "10:15",
             "Fight_Time_Seconds": 615,
             "Division": "Light Heavyweight",
-            "Rank": "3",
-            "Selected_Date": "2026-07-21T07:37:07.706110Z"
+            "Rank": "3"
         },
         "Carlos Ulberg": {
             "Name": "Carlos Ulberg",
@@ -1604,7 +1603,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Light Heavyweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2026-06-01T10:27:27.370121Z"
         },
         "Bogdan Guskov": {
@@ -2188,7 +2187,8 @@
             "Fight_Time": "06:45",
             "Fight_Time_Seconds": 405,
             "Division": "Heavyweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-07-22T07:37:58.895965Z"
         },
         "Mike Malott": {
             "Name": "Mike Malott",
@@ -2432,7 +2432,7 @@
             "Name": "Jose Miguel Delgado",
             "Profile_URL": "https://www.ufc.com/athlete/jose-miguel-delgado",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/BASHI_AUSTIN_07-18.png?itok=5R6Eua-c",
-            "Record": "10-2-0 (W-L-D)",
+            "Record": "12-2-0 (W-L-D)",
             "SLpM": "6.07",
             "SApM": "4.18",
             "TD_Avg": "1.37",
