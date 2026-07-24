@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Charles Johnson",
-        "Profile_URL": "https://www.ufc.com/athlete/charles-johnson",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/JOHNSON_CHARLES_08-23.png?itok=1PhHPTBj",
-        "Record": "18-7-0 (W-L-D)",
-        "SLpM": "4.73",
-        "SApM": "3.78",
-        "TD_Avg": "0.56",
-        "Sub_Avg": "0.38",
-        "Fight_Time": "13:17",
-        "Fight_Time_Seconds": 797,
-        "Division": "Flyweight",
-        "Rank": "14",
-        "Selected_Date": "2026-07-23T07:38:37.416646Z"
+        "Name": "Brian Ortega",
+        "Profile_URL": "https://www.ufc.com/athlete/brian-ortega",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ORTEGA_BRIAN_08-23.png?itok=242TjJQn",
+        "Record": "16-5-0 (W-L-D)",
+        "SLpM": "3.84",
+        "SApM": "6.38",
+        "TD_Avg": "0.93",
+        "Sub_Avg": "0.93",
+        "Fight_Time": "13:49",
+        "Fight_Time_Seconds": 829,
+        "Division": "Featherweight",
+        "Rank": "11",
+        "Selected_Date": "2026-07-24T07:36:41.058258Z"
     },
     "past_fighters": [
-        "Paulo Costa",
         "Beno\u00eet Saint Denis",
         "Mario Pinto",
         "Umar Nurmagomedov",
         "Justin Gaethje",
         "Ji\u0159\u00ed Proch\u00e1zka",
-        "Josh Hokit"
+        "Josh Hokit",
+        "Charles Johnson"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -817,7 +817,8 @@
             "Fight_Time": "13:49",
             "Fight_Time_Seconds": 829,
             "Division": "Featherweight",
-            "Rank": "11"
+            "Rank": "11",
+            "Selected_Date": "2026-07-24T07:36:41.058258Z"
         },
         "Josh Emmett": {
             "Name": "Josh Emmett",
