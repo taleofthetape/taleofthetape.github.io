@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Abus Magomedov",
-        "Profile_URL": "https://www.ufc.com/athlete/abus-magomedov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MAGOMEDOV_ABUS_06-27.png?itok=L-lbZx1p",
-        "Record": "29-7-1 (W-L-D)",
-        "SLpM": "3.06",
-        "SApM": "3.34",
-        "TD_Avg": "2.50",
-        "Sub_Avg": "0.58",
-        "Fight_Time": "09:46",
-        "Fight_Time_Seconds": 586,
-        "Division": "Middleweight",
-        "Rank": "14",
-        "Selected_Date": "2026-07-26T07:40:36.556602Z"
+        "Name": "Raul Rosas Jr.",
+        "Profile_URL": "https://www.ufc.com/athlete/raul-rosas-jr",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/ROSAS_JR_RAUL_03-07.png?itok=lLplFAsL",
+        "Record": "13-1-0 (W-L-D)",
+        "SLpM": "1.34",
+        "SApM": "1.24",
+        "TD_Avg": "6.10",
+        "Sub_Avg": "0.87",
+        "Fight_Time": "10:45",
+        "Fight_Time_Seconds": 645,
+        "Division": "Bantamweight",
+        "Rank": "12",
+        "Selected_Date": "2026-07-27T08:38:24.745427Z"
     },
     "past_fighters": [
-        "Umar Nurmagomedov",
         "Justin Gaethje",
         "Ji\u0159\u00ed Proch\u00e1zka",
         "Josh Hokit",
         "Charles Johnson",
         "Brian Ortega",
-        "David Martinez"
+        "David Martinez",
+        "Abus Magomedov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2101,7 +2101,8 @@
             "Fight_Time": "10:45",
             "Fight_Time_Seconds": 645,
             "Division": "Bantamweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-07-27T08:38:24.745427Z"
         },
         "Farid Basharat": {
             "Name": "Farid Basharat",
