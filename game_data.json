@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Daniel Rodriguez",
-        "Profile_URL": "https://www.ufc.com/athlete/daniel-rodriguez",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/RODRIGUEZ_DANIEL_07-19.png?itok=OsWgy8_k",
-        "Record": "20-5-0 (W-L-D)",
-        "SLpM": "7.20",
-        "SApM": "5.40",
-        "TD_Avg": "0.51",
-        "Sub_Avg": "0.08",
-        "Fight_Time": "11:50",
-        "Fight_Time_Seconds": 710,
-        "Division": "Welterweight",
-        "Rank": "13",
-        "Selected_Date": "2026-07-28T07:42:58.887940Z"
+        "Name": "Manuel Torres",
+        "Profile_URL": "https://www.ufc.com/athlete/manuel-torres",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/TORRES_MANUEL_12-06.png?itok=UUURt0dW",
+        "Record": "17-3-0 (W-L-D)",
+        "SLpM": "7.29",
+        "SApM": "4.08",
+        "TD_Avg": "1.72",
+        "Sub_Avg": "0.86",
+        "Fight_Time": "02:29",
+        "Fight_Time_Seconds": 149,
+        "Division": "Lightweight",
+        "Rank": "15",
+        "Selected_Date": "2026-07-29T07:47:52.192581Z"
     },
     "past_fighters": [
-        "Ji\u0159\u00ed Proch\u00e1zka",
         "Josh Hokit",
         "Charles Johnson",
         "Brian Ortega",
         "David Martinez",
         "Abus Magomedov",
-        "Raul Rosas Jr."
+        "Raul Rosas Jr.",
+        "Daniel Rodriguez"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -269,7 +269,7 @@
             "Fight_Time": "17:08",
             "Fight_Time_Seconds": 1028,
             "Division": "Flyweight",
-            "Rank": "9",
+            "Rank": "10",
             "Selected_Date": "2026-05-30T07:45:02.745706Z"
         },
         "Brandon Royval": {
@@ -299,7 +299,7 @@
             "Fight_Time": "14:25",
             "Fight_Time_Seconds": 865,
             "Division": "Flyweight",
-            "Rank": "8"
+            "Rank": "9"
         },
         "Tatsuro Taira": {
             "Name": "Tatsuro Taira",
@@ -356,7 +356,7 @@
             "Fight_Time": "13:53",
             "Fight_Time_Seconds": 833,
             "Division": "Flyweight",
-            "Rank": "7",
+            "Rank": "8",
             "Selected_Date": "2026-06-16T10:17:58.505405Z"
         },
         "Tim Elliott": {
@@ -385,7 +385,7 @@
             "Fight_Time": "14:56",
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
-            "Rank": "13",
+            "Rank": "11",
             "Selected_Date": "2026-05-17T07:37:02.394608Z"
         },
         "Alex Perez": {
@@ -400,7 +400,7 @@
             "Fight_Time": "07:03",
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-06-18T09:20:52.987524Z"
         },
         "Tagir Ulanbekov": {
@@ -1388,7 +1388,7 @@
             "Fight_Time": "13:37",
             "Fight_Time_Seconds": 817,
             "Division": "Light Heavyweight",
-            "Rank": "12",
+            "Rank": "11",
             "Selected_Date": "2026-03-27T06:15:31.031802Z"
         },
         "Jared Cannonier": {
@@ -1534,7 +1534,7 @@
             "Fight_Time": "13:16",
             "Fight_Time_Seconds": 796,
             "Division": "Light Heavyweight",
-            "Rank": "15"
+            "Rank": "13"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
@@ -1631,7 +1631,7 @@
             "Fight_Time": "06:47",
             "Fight_Time_Seconds": 407,
             "Division": "Light Heavyweight",
-            "Rank": "14",
+            "Rank": "12",
             "Selected_Date": "2026-01-02T05:33:44.119763Z"
         },
         "Nikita Krylov": {
@@ -1674,7 +1674,7 @@
             "Fight_Time": "07:34",
             "Fight_Time_Seconds": 454,
             "Division": "Light Heavyweight",
-            "Rank": "13"
+            "Rank": "14"
         },
         "Ciryl Gane": {
             "Name": "Ciryl Gane",
@@ -1733,7 +1733,7 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Heavyweight",
-            "Rank": "8",
+            "Rank": "10",
             "Selected_Date": "2026-07-05T08:07:06.622649Z"
         },
         "Waldo Cortes Acosta": {
@@ -1748,7 +1748,7 @@
             "Fight_Time": "10:34",
             "Fight_Time_Seconds": 634,
             "Division": "Heavyweight",
-            "Rank": "6",
+            "Rank": "7",
             "Selected_Date": "2026-03-28T06:01:46.483223Z"
         },
         "Jailton Almeida": {
@@ -1792,7 +1792,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-01-03T05:29:44.234925Z"
         },
         "Ante Delija": {
@@ -1822,7 +1822,7 @@
             "Fight_Time": "10:51",
             "Fight_Time_Seconds": 651,
             "Division": "Heavyweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-05-23T07:34:55.493928Z"
         },
         "Shamil Gaziev": {
@@ -1882,7 +1882,7 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Heavyweight",
-            "Rank": "11",
+            "Rank": "8",
             "Selected_Date": "2026-02-26T06:03:32.308431Z"
         },
         "Tallison Teixeira": {
@@ -1957,7 +1957,7 @@
             "Fight_Time_Seconds": 149,
             "Division": "Lightweight",
             "Rank": "15",
-            "Selected_Date": "2025-12-17T19:53:29.355986Z"
+            "Selected_Date": "2026-07-29T07:47:52.192581Z"
         },
         "Far\u00e8s Ziam": {
             "Name": "Far\u00e8s Ziam",
@@ -2029,7 +2029,7 @@
             "Fight_Time": "11:30",
             "Fight_Time_Seconds": 690,
             "Division": "Heavyweight",
-            "Rank": "7"
+            "Rank": "5"
         },
         "Joseph Morales": {
             "Name": "Joseph Morales",
@@ -2086,7 +2086,7 @@
             "Fight_Time": "09:52",
             "Fight_Time_Seconds": 592,
             "Division": "Heavyweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2026-06-20T08:25:50.814738Z"
         },
         "Raul Rosas Jr.": {
@@ -2159,7 +2159,7 @@
             "Fight_Time": "15:00",
             "Fight_Time_Seconds": 900,
             "Division": "Heavyweight",
-            "Rank": "9",
+            "Rank": "11",
             "Selected_Date": "2026-06-15T11:19:02.186051Z"
         },
         "Aaron Pico": {
@@ -2189,7 +2189,7 @@
             "Fight_Time": "06:45",
             "Fight_Time_Seconds": 405,
             "Division": "Heavyweight",
-            "Rank": "5",
+            "Rank": "6",
             "Selected_Date": "2026-07-22T07:37:58.895965Z"
         },
         "Mike Malott": {
@@ -2329,7 +2329,7 @@
             "Fight_Time": "12:59",
             "Fight_Time_Seconds": 779,
             "Division": "Flyweight",
-            "Rank": "10"
+            "Rank": "11"
         },
         "Mitch Raposo": {
             "Name": "Mitch Raposo",
@@ -2343,7 +2343,7 @@
             "Fight_Time": "13:38",
             "Fight_Time_Seconds": 818,
             "Division": "Flyweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Sumudaerji": {
             "Name": "Sumudaerji",
@@ -2357,7 +2357,7 @@
             "Fight_Time": "10:44",
             "Fight_Time_Seconds": 644,
             "Division": "Flyweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Charles Jourdain": {
             "Name": "Charles Jourdain",
@@ -2470,7 +2470,7 @@
             "Fight_Time": "11:38",
             "Fight_Time_Seconds": 698,
             "Division": "Light Heavyweight",
-            "Rank": "11"
+            "Rank": "10"
         },
         "Mario Pinto": {
             "Name": "Mario Pinto",
@@ -2528,7 +2528,7 @@
             "Fight_Time": "09:29",
             "Fight_Time_Seconds": 569,
             "Division": "Flyweight",
-            "Rank": "15"
+            "Rank": "14"
         },
         "Nursulton Ruziboev": {
             "Name": "Nursulton Ruziboev",
@@ -2542,6 +2542,32 @@
             "Fight_Time": "07:21",
             "Fight_Time_Seconds": 441,
             "Division": "Middleweight",
+            "Rank": "15"
+        },
+        "Ramazan Temirov": {
+            "Name": "Ramazan Temirov",
+            "Profile_URL": "https://www.ufc.com/athlete/ramazan-temirov",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/TEMIROV_RAMAZAN_07-25.png?itok=2EEjf3AT",
+            "Record": "20-3-0 (W-L-D)",
+            "SLpM": "4.73",
+            "SApM": "3.65",
+            "TD_Avg": "0.68",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "07:24",
+            "Fight_Time_Seconds": 444,
+            "Division": "Flyweight",
+            "Rank": "7"
+        },
+        "Muhammad Saidov": {
+            "Name": "Muhammad Saidov",
+            "Profile_URL": "https://www.ufc.com/athlete/muhammad-said",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAIDOV_MUHAMMAD_07-25.png?itok=MsMapGDQ",
+            "Record": "10-0-0 (W-L-D)",
+            "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
+            "TD_Avg": "63\n                  %",
+            "Sub_Avg": "Takedown Defense",
+            "Fight_Time_Seconds": 0,
+            "Division": "Light Heavyweight",
             "Rank": "15"
         }
     }
