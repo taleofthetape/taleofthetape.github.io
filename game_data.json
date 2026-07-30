@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Manuel Torres",
-        "Profile_URL": "https://www.ufc.com/athlete/manuel-torres",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/TORRES_MANUEL_12-06.png?itok=UUURt0dW",
-        "Record": "17-3-0 (W-L-D)",
-        "SLpM": "7.29",
-        "SApM": "4.08",
-        "TD_Avg": "1.72",
-        "Sub_Avg": "0.86",
-        "Fight_Time": "02:29",
-        "Fight_Time_Seconds": 149,
+        "Name": "Max Holloway",
+        "Profile_URL": "https://www.ufc.com/athlete/max-holloway",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/HOLLOWAY_MAX_BMF_07-19.png?itok=Z9zVlm7E",
+        "Record": "27-8-0 (W-L-D)",
+        "SLpM": "7.20",
+        "SApM": "4.74",
+        "TD_Avg": "0.24",
+        "Sub_Avg": "0.30",
+        "Fight_Time": "16:23",
+        "Fight_Time_Seconds": 983,
         "Division": "Lightweight",
-        "Rank": "15",
-        "Selected_Date": "2026-07-29T07:47:52.192581Z"
+        "Rank": "4",
+        "Selected_Date": "2026-07-30T07:38:02.200544Z"
     },
     "past_fighters": [
-        "Josh Hokit",
         "Charles Johnson",
         "Brian Ortega",
         "David Martinez",
         "Abus Magomedov",
         "Raul Rosas Jr.",
-        "Daniel Rodriguez"
+        "Daniel Rodriguez",
+        "Manuel Torres"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -170,7 +170,7 @@
             "Fight_Time_Seconds": 983,
             "Division": "Lightweight",
             "Rank": "4",
-            "Selected_Date": "2026-04-28T07:34:36.420961Z"
+            "Selected_Date": "2026-07-30T07:38:02.200544Z"
         },
         "Jack Della Maddalena": {
             "Name": "Jack Della Maddalena",
