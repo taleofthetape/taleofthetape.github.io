@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Max Holloway",
-        "Profile_URL": "https://www.ufc.com/athlete/max-holloway",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/HOLLOWAY_MAX_BMF_07-19.png?itok=Z9zVlm7E",
-        "Record": "27-8-0 (W-L-D)",
-        "SLpM": "7.20",
-        "SApM": "4.74",
-        "TD_Avg": "0.24",
-        "Sub_Avg": "0.30",
-        "Fight_Time": "16:23",
-        "Fight_Time_Seconds": 983,
+        "Name": "Paddy Pimblett",
+        "Profile_URL": "https://www.ufc.com/athlete/paddy-pimblett",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/PIMBLETT_PADDY_04-12.png?itok=qIx4tGVD",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.19",
+        "SApM": "3.14",
+        "TD_Avg": "0.96",
+        "Sub_Avg": "1.68",
+        "Fight_Time": "08:56",
+        "Fight_Time_Seconds": 536,
         "Division": "Lightweight",
-        "Rank": "4",
-        "Selected_Date": "2026-07-30T07:38:02.200544Z"
+        "Rank": "5",
+        "Selected_Date": "2026-07-31T07:56:25.556686Z"
     },
     "past_fighters": [
-        "Charles Johnson",
         "Brian Ortega",
         "David Martinez",
         "Abus Magomedov",
         "Raul Rosas Jr.",
         "Daniel Rodriguez",
-        "Manuel Torres"
+        "Manuel Torres",
+        "Max Holloway"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -936,7 +936,7 @@
             "Fight_Time_Seconds": 536,
             "Division": "Lightweight",
             "Rank": "5",
-            "Selected_Date": "2026-05-16T07:20:53.322249Z"
+            "Selected_Date": "2026-07-31T07:56:25.556686Z"
         },
         "Dan Hooker": {
             "Name": "Dan Hooker",
@@ -1525,7 +1525,7 @@
         "Jan B\u0142achowicz": {
             "Name": "Jan B\u0142achowicz",
             "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/BLACHOWICZ_JAN_12-06.png?itok=NefnoJf2",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/BLACHOWICZ_JAN_08-01.png?itok=rv-a79w2",
             "Record": "29-11-2 (W-L-D)",
             "SLpM": "3.55",
             "SApM": "3.14",
