@@ -1,25 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Brando Peri\u010di\u0107",
-        "Profile_URL": "https://www.ufc.com/athlete/brando-pericic",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/GAZIEV_SHAMIL_05-02.png?itok=-QYU_7U-",
-        "Record": "7-1-0 (W-L-D)",
-        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
-        "TD_Avg": "58\n                  %",
-        "Sub_Avg": "71\n                      %",
-        "Fight_Time_Seconds": 0,
-        "Division": "Heavyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-08-01T07:32:14.197319Z"
+        "Name": "Kyoji Horiguchi",
+        "Profile_URL": "https://www.ufc.com/athlete/kyoji-horiguchi",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HORIGUCHI_KYOJI_11-22.png?itok=uRMYwEsp",
+        "Record": "35-5-0 (W-L-D)",
+        "SLpM": "3.64",
+        "SApM": "2.26",
+        "TD_Avg": "1.80",
+        "Sub_Avg": "0.12",
+        "Fight_Time": "13:53",
+        "Fight_Time_Seconds": 833,
+        "Division": "Flyweight",
+        "Rank": "8",
+        "Selected_Date": "2026-08-02T07:35:54.259350Z"
     },
     "past_fighters": [
-        "David Martinez",
         "Abus Magomedov",
         "Raul Rosas Jr.",
         "Daniel Rodriguez",
         "Manuel Torres",
         "Max Holloway",
-        "Paddy Pimblett"
+        "Paddy Pimblett",
+        "Brando Peri\u010di\u0107"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -355,7 +357,7 @@
             "Fight_Time_Seconds": 833,
             "Division": "Flyweight",
             "Rank": "8",
-            "Selected_Date": "2026-06-16T10:17:58.505405Z"
+            "Selected_Date": "2026-08-02T07:35:54.259350Z"
         },
         "Tim Elliott": {
             "Name": "Tim Elliott",
@@ -1524,7 +1526,7 @@
             "Name": "Jan B\u0142achowicz",
             "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/BLACHOWICZ_JAN_08-01.png?itok=rv-a79w2",
-            "Record": "29-11-2 (W-L-D)",
+            "Record": "29-12-2 (W-L-D)",
             "SLpM": "3.55",
             "SApM": "3.14",
             "TD_Avg": "0.98",
@@ -2257,8 +2259,7 @@
             "Sub_Avg": "71\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Heavyweight",
-            "Rank": "12",
-            "Selected_Date": "2026-08-01T07:32:14.197319Z"
+            "Rank": "12"
         },
         "Ikram Aliskerov": {
             "Name": "Ikram Aliskerov",
