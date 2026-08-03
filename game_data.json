@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kyoji Horiguchi",
-        "Profile_URL": "https://www.ufc.com/athlete/kyoji-horiguchi",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HORIGUCHI_KYOJI_11-22.png?itok=uRMYwEsp",
-        "Record": "35-5-0 (W-L-D)",
-        "SLpM": "3.64",
-        "SApM": "2.26",
-        "TD_Avg": "1.80",
-        "Sub_Avg": "0.12",
-        "Fight_Time": "13:53",
-        "Fight_Time_Seconds": 833,
-        "Division": "Flyweight",
-        "Rank": "8",
-        "Selected_Date": "2026-08-02T07:35:54.259350Z"
+        "Name": "Umar Nurmagomedov",
+        "Profile_URL": "https://www.ufc.com/athlete/umar-nurmagomedov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/NURMAGOMEDOV_UMAR_10-25.png?itok=r0Ir2L-0",
+        "Record": "19-1-0 (W-L-D)",
+        "SLpM": "4.08",
+        "SApM": "2.04",
+        "TD_Avg": "4.30",
+        "Sub_Avg": "0.27",
+        "Fight_Time": "13:57",
+        "Fight_Time_Seconds": 837,
+        "Division": "Bantamweight",
+        "Rank": "2",
+        "Selected_Date": "2026-08-03T08:35:29.975674Z"
     },
     "past_fighters": [
-        "Abus Magomedov",
         "Raul Rosas Jr.",
         "Daniel Rodriguez",
         "Manuel Torres",
         "Max Holloway",
         "Paddy Pimblett",
-        "Brando Peri\u010di\u0107"
+        "Brando Peri\u010di\u0107",
+        "Kyoji Horiguchi"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -475,7 +475,7 @@
             "Fight_Time_Seconds": 837,
             "Division": "Bantamweight",
             "Rank": "2",
-            "Selected_Date": "2026-07-19T07:31:28.796061Z"
+            "Selected_Date": "2026-08-03T08:35:29.975674Z"
         },
         "Sean O'Malley": {
             "Name": "Sean O'Malley",
