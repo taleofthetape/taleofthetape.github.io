@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Umar Nurmagomedov",
-        "Profile_URL": "https://www.ufc.com/athlete/umar-nurmagomedov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/NURMAGOMEDOV_UMAR_10-25.png?itok=r0Ir2L-0",
-        "Record": "19-1-0 (W-L-D)",
-        "SLpM": "4.08",
-        "SApM": "2.04",
-        "TD_Avg": "4.30",
-        "Sub_Avg": "0.27",
-        "Fight_Time": "13:57",
-        "Fight_Time_Seconds": 837,
-        "Division": "Bantamweight",
-        "Rank": "2",
-        "Selected_Date": "2026-08-03T08:35:29.975674Z"
+        "Name": "Mario Pinto",
+        "Profile_URL": "https://www.ufc.com/athlete/mario-pinto",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PINTO_MARIO_03-21.png?itok=Y4B-HdiN",
+        "Record": "12-0-0 (W-L-D)",
+        "SLpM": "2.85",
+        "SApM": "1.93",
+        "TD_Avg": "2.38",
+        "Sub_Avg": "0.95",
+        "Fight_Time": "07:53",
+        "Fight_Time_Seconds": 473,
+        "Division": "Heavyweight",
+        "Rank": "13",
+        "Selected_Date": "2026-08-04T07:44:06.796251Z"
     },
     "past_fighters": [
-        "Raul Rosas Jr.",
         "Daniel Rodriguez",
         "Manuel Torres",
         "Max Holloway",
         "Paddy Pimblett",
         "Brando Peri\u010di\u0107",
-        "Kyoji Horiguchi"
+        "Kyoji Horiguchi",
+        "Umar Nurmagomedov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1051,7 +1051,7 @@
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
             "Division": "Lightweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-01-17T05:28:35.125492Z"
         },
         "Mauricio Ruffy": {
@@ -1168,7 +1168,7 @@
             "Sub_Avg": "0.09",
             "Fight_Time": "17:50",
             "Fight_Time_Seconds": 1070,
-            "Division": "Middleweight",
+            "Division": "Welterweight",
             "Rank": "11"
         },
         "Leon Edwards": {
@@ -1270,7 +1270,7 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Welterweight",
-            "Rank": "13",
+            "Rank": "15",
             "Selected_Date": "2026-07-28T07:42:58.887940Z"
         },
         "Nassourdine Imavov": {
@@ -1373,7 +1373,7 @@
             "Fight_Time": "13:26",
             "Fight_Time_Seconds": 806,
             "Division": "Middleweight",
-            "Rank": "9",
+            "Rank": "15",
             "Selected_Date": "2026-04-20T07:20:10.321228Z"
         },
         "Robert Whittaker": {
@@ -1527,14 +1527,14 @@
             "Profile_URL": "https://www.ufc.com/athlete/jan-blachowicz",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/BLACHOWICZ_JAN_08-01.png?itok=rv-a79w2",
             "Record": "29-12-2 (W-L-D)",
-            "SLpM": "3.55",
-            "SApM": "3.14",
-            "TD_Avg": "0.98",
+            "SLpM": "3.53",
+            "SApM": "3.23",
+            "TD_Avg": "0.97",
             "Sub_Avg": "0.36",
-            "Fight_Time": "13:16",
-            "Fight_Time_Seconds": 796,
+            "Fight_Time": "12:49",
+            "Fight_Time_Seconds": 769,
             "Division": "Light Heavyweight",
-            "Rank": "13"
+            "Rank": "4"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
@@ -1560,7 +1560,7 @@
             "Fight_Time": "07:51",
             "Fight_Time_Seconds": 471,
             "Division": "Light Heavyweight",
-            "Rank": "8",
+            "Rank": "9",
             "Selected_Date": "2026-06-26T08:33:32.382115Z"
         },
         "Dominick Reyes": {
@@ -1575,7 +1575,7 @@
             "Fight_Time": "07:21",
             "Fight_Time_Seconds": 441,
             "Division": "Light Heavyweight",
-            "Rank": "7"
+            "Rank": "8"
         },
         "Volkan Oezdemir": {
             "Name": "Volkan Oezdemir",
@@ -1617,7 +1617,7 @@
             "Sub_Avg": "50\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
-            "Rank": "9"
+            "Rank": "10"
         },
         "Johnny Walker": {
             "Name": "Johnny Walker",
@@ -1674,7 +1674,7 @@
             "Fight_Time": "07:34",
             "Fight_Time_Seconds": 454,
             "Division": "Light Heavyweight",
-            "Rank": "14"
+            "Rank": "13"
         },
         "Ciryl Gane": {
             "Name": "Ciryl Gane",
@@ -2072,7 +2072,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "14"
+            "Rank": "10"
         },
         "Vitor Petrino": {
             "Name": "Vitor Petrino",
@@ -2145,7 +2145,7 @@
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
             "Division": "Welterweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
@@ -2204,7 +2204,7 @@
             "Fight_Time": "09:12",
             "Fight_Time_Seconds": 552,
             "Division": "Welterweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Yaroslav Amosov": {
             "Name": "Yaroslav Amosov",
@@ -2218,7 +2218,7 @@
             "Fight_Time": "03:14",
             "Fight_Time_Seconds": 194,
             "Division": "Welterweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-06-27T07:52:47.493493Z"
         },
         "Raoni Barcelos": {
@@ -2273,7 +2273,7 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Middleweight",
-            "Rank": "12"
+            "Rank": "11"
         },
         "Edgar Chairez": {
             "Name": "Edgar Chairez",
@@ -2315,7 +2315,7 @@
             "Fight_Time": "06:03",
             "Fight_Time_Seconds": 363,
             "Division": "Middleweight",
-            "Rank": "13"
+            "Rank": "12"
         },
         "Kevin Borjas": {
             "Name": "Kevin Borjas",
@@ -2470,7 +2470,7 @@
             "Fight_Time": "11:38",
             "Fight_Time_Seconds": 698,
             "Division": "Light Heavyweight",
-            "Rank": "10"
+            "Rank": "7"
         },
         "Mario Pinto": {
             "Name": "Mario Pinto",
@@ -2485,7 +2485,7 @@
             "Fight_Time_Seconds": 473,
             "Division": "Heavyweight",
             "Rank": "13",
-            "Selected_Date": "2026-07-18T07:03:03.025389Z"
+            "Selected_Date": "2026-08-04T07:44:06.796251Z"
         },
         "Ryan Spann": {
             "Name": "Ryan Spann",
@@ -2513,7 +2513,7 @@
             "Fight_Time": "09:46",
             "Fight_Time_Seconds": 586,
             "Division": "Middleweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2026-07-26T07:40:36.556602Z"
         },
         "Alessandro Costa": {
@@ -2542,7 +2542,7 @@
             "Fight_Time": "07:21",
             "Fight_Time_Seconds": 441,
             "Division": "Middleweight",
-            "Rank": "15"
+            "Rank": "14"
         },
         "Ramazan Temirov": {
             "Name": "Ramazan Temirov",
@@ -2567,6 +2567,48 @@
             "TD_Avg": "63\n                  %",
             "Sub_Avg": "Takedown Defense",
             "Fight_Time_Seconds": 0,
+            "Division": "Light Heavyweight",
+            "Rank": "14"
+        },
+        "Tofiq Musayev": {
+            "Name": "Tofiq Musayev",
+            "Profile_URL": "https://www.ufc.com/athlete/tofiq-musayev",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/MUSAYEV_TOFIQ_08-01.png?itok=UdBaD0GW",
+            "Record": "24-6-0 (W-L-D)",
+            "SLpM": "2.86",
+            "SApM": "2.79",
+            "TD_Avg": "1.57",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "09:34",
+            "Fight_Time_Seconds": 574,
+            "Division": "Lightweight",
+            "Rank": "14"
+        },
+        "Kevin Holland": {
+            "Name": "Kevin Holland",
+            "Profile_URL": "https://www.ufc.com/athlete/kevin-holland",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOLLAND_KEVIN_04-11.png?itok=xjk8I5OI",
+            "Record": "29-15-0 (W-L-D)",
+            "SLpM": "4.24",
+            "SApM": "3.21",
+            "TD_Avg": "0.79",
+            "Sub_Avg": "0.60",
+            "Fight_Time": "10:47",
+            "Fight_Time_Seconds": 647,
+            "Division": "Welterweight",
+            "Rank": "15"
+        },
+        "Iwo Baraniewski": {
+            "Name": "Iwo Baraniewski",
+            "Profile_URL": "https://www.ufc.com/athlete/iwo-baraniewski",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/BARANIEWSKI_IWO_06-06.png?itok=a8LmRtke",
+            "Record": "9-0-0 (W-L-D)",
+            "SLpM": "11.35",
+            "SApM": "8.65",
+            "TD_Avg": "0.00",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "00:56",
+            "Fight_Time_Seconds": 56,
             "Division": "Light Heavyweight",
             "Rank": "15"
         }
