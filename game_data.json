@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mario Pinto",
-        "Profile_URL": "https://www.ufc.com/athlete/mario-pinto",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PINTO_MARIO_03-21.png?itok=Y4B-HdiN",
-        "Record": "12-0-0 (W-L-D)",
-        "SLpM": "2.85",
-        "SApM": "1.93",
-        "TD_Avg": "2.38",
-        "Sub_Avg": "0.95",
-        "Fight_Time": "07:53",
-        "Fight_Time_Seconds": 473,
-        "Division": "Heavyweight",
-        "Rank": "13",
-        "Selected_Date": "2026-08-04T07:44:06.796251Z"
+        "Name": "Asu Almabayev",
+        "Profile_URL": "https://www.ufc.com/athlete/asu-almabayev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ALMABAYEV_ASU_11-22.png?itok=R-gX5swq",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "2.31",
+        "SApM": "1.99",
+        "TD_Avg": "4.46",
+        "Sub_Avg": "1.49",
+        "Fight_Time": "12:58",
+        "Fight_Time_Seconds": 778,
+        "Division": "Flyweight",
+        "Rank": "5",
+        "Selected_Date": "2026-08-05T07:44:59.719035Z"
     },
     "past_fighters": [
-        "Daniel Rodriguez",
         "Manuel Torres",
         "Max Holloway",
         "Paddy Pimblett",
         "Brando Peri\u010di\u0107",
         "Kyoji Horiguchi",
-        "Umar Nurmagomedov"
+        "Umar Nurmagomedov",
+        "Mario Pinto"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -342,7 +342,7 @@
             "Fight_Time_Seconds": 778,
             "Division": "Flyweight",
             "Rank": "5",
-            "Selected_Date": "2026-05-06T07:38:46.292325Z"
+            "Selected_Date": "2026-08-05T07:44:59.719035Z"
         },
         "Kyoji Horiguchi": {
             "Name": "Kyoji Horiguchi",
@@ -371,7 +371,7 @@
             "Fight_Time": "12:08",
             "Fight_Time_Seconds": 728,
             "Division": "Flyweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Steve Erceg": {
             "Name": "Steve Erceg",
@@ -385,7 +385,7 @@
             "Fight_Time": "14:56",
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-05-17T07:37:02.394608Z"
         },
         "Alex Perez": {
@@ -415,7 +415,7 @@
             "Fight_Time": "12:22",
             "Fight_Time_Seconds": 742,
             "Division": "Flyweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-03-06T05:53:03.394771Z"
         },
         "Charles Johnson": {
@@ -1534,7 +1534,7 @@
             "Fight_Time": "12:49",
             "Fight_Time_Seconds": 769,
             "Division": "Light Heavyweight",
-            "Rank": "4"
+            "Rank": "9"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
@@ -1603,8 +1603,8 @@
             "Sub_Avg": "0.13",
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
-            "Division": "Light Heavyweight",
-            "Rank": "13",
+            "Division": "Heavyweight",
+            "Rank": "11",
             "Selected_Date": "2026-06-01T10:27:27.370121Z"
         },
         "Bogdan Guskov": {
@@ -1792,7 +1792,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-01-03T05:29:44.234925Z"
         },
         "Ante Delija": {
@@ -1822,7 +1822,7 @@
             "Fight_Time": "10:51",
             "Fight_Time_Seconds": 651,
             "Division": "Heavyweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-05-23T07:34:55.493928Z"
         },
         "Shamil Gaziev": {
