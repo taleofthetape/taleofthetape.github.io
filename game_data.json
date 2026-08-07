@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Daniel Rodriguez",
-        "Profile_URL": "https://www.ufc.com/athlete/daniel-rodriguez",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/RODRIGUEZ_DANIEL_07-19.png?itok=OsWgy8_k",
-        "Record": "20-5-0 (W-L-D)",
-        "SLpM": "7.20",
-        "SApM": "5.40",
-        "TD_Avg": "0.51",
-        "Sub_Avg": "0.08",
-        "Fight_Time": "11:50",
-        "Fight_Time_Seconds": 710,
-        "Division": "Welterweight",
-        "Rank": "15",
-        "Selected_Date": "2026-08-06T07:44:33.270124Z"
+        "Name": "Volkan Oezdemir",
+        "Profile_URL": "https://www.ufc.com/athlete/volkan-oezdemir",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/OEZDEMIR_VOLKAN_11-22.png?itok=J1sXHi4D",
+        "Record": "21-8-0 (W-L-D)",
+        "SLpM": "4.99",
+        "SApM": "4.19",
+        "TD_Avg": "0.50",
+        "Sub_Avg": "0.10",
+        "Fight_Time": "09:25",
+        "Fight_Time_Seconds": 565,
+        "Division": "Light Heavyweight",
+        "Rank": "9",
+        "Selected_Date": "2026-08-07T06:11:44.199006Z"
     },
     "past_fighters": [
-        "Max Holloway",
         "Paddy Pimblett",
         "Brando Peri\u010di\u0107",
         "Kyoji Horiguchi",
         "Umar Nurmagomedov",
         "Mario Pinto",
-        "Asu Almabayev"
+        "Asu Almabayev",
+        "Daniel Rodriguez"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1590,7 +1590,7 @@
             "Fight_Time_Seconds": 565,
             "Division": "Light Heavyweight",
             "Rank": "9",
-            "Selected_Date": "2026-02-04T05:56:28.095665Z"
+            "Selected_Date": "2026-08-07T06:11:44.199006Z"
         },
         "Aleksandar Raki\u0107": {
             "Name": "Aleksandar Raki\u0107",
