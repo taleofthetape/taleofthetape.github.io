@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Volkan Oezdemir",
-        "Profile_URL": "https://www.ufc.com/athlete/volkan-oezdemir",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/OEZDEMIR_VOLKAN_11-22.png?itok=J1sXHi4D",
-        "Record": "21-8-0 (W-L-D)",
-        "SLpM": "4.99",
-        "SApM": "4.19",
-        "TD_Avg": "0.50",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "09:25",
-        "Fight_Time_Seconds": 565,
-        "Division": "Light Heavyweight",
-        "Rank": "9",
-        "Selected_Date": "2026-08-07T06:11:44.199006Z"
+        "Name": "Deiveson Figueiredo",
+        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
+        "Record": "25-5-1 (W-L-D)",
+        "SLpM": "2.75",
+        "SApM": "3.54",
+        "TD_Avg": "1.71",
+        "Sub_Avg": "1.29",
+        "Fight_Time": "12:45",
+        "Fight_Time_Seconds": 765,
+        "Division": "Bantamweight",
+        "Rank": "11",
+        "Selected_Date": "2026-08-08T05:47:31.818021Z"
     },
     "past_fighters": [
-        "Paddy Pimblett",
         "Brando Peri\u010di\u0107",
         "Kyoji Horiguchi",
         "Umar Nurmagomedov",
         "Mario Pinto",
         "Asu Almabayev",
-        "Daniel Rodriguez"
+        "Daniel Rodriguez",
+        "Volkan Oezdemir"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -549,7 +549,7 @@
             "Fight_Time_Seconds": 765,
             "Division": "Bantamweight",
             "Rank": "11",
-            "Selected_Date": "2026-07-11T07:15:42.923190Z"
+            "Selected_Date": "2026-08-08T05:47:31.818021Z"
         },
         "Aiemann Zahabi": {
             "Name": "Aiemann Zahabi",
