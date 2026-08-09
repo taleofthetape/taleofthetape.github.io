@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Deiveson Figueiredo",
-        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
-        "Record": "25-5-1 (W-L-D)",
-        "SLpM": "2.75",
-        "SApM": "3.54",
-        "TD_Avg": "1.71",
-        "Sub_Avg": "1.29",
-        "Fight_Time": "12:45",
-        "Fight_Time_Seconds": 765,
-        "Division": "Bantamweight",
-        "Rank": "11",
-        "Selected_Date": "2026-08-08T05:47:31.818021Z"
+        "Name": "Beneil Dariush",
+        "Profile_URL": "https://www.ufc.com/athlete/beneil-dariush",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/DARIUSH_BENEIL_11-15.png?itok=II6Y2V9F",
+        "Record": "23-7-1 (W-L-D)",
+        "SLpM": "3.78",
+        "SApM": "2.62",
+        "TD_Avg": "2.11",
+        "Sub_Avg": "0.82",
+        "Fight_Time": "08:48",
+        "Fight_Time_Seconds": 528,
+        "Division": "Lightweight",
+        "Rank": "14",
+        "Selected_Date": "2026-08-09T05:51:38.488755Z"
     },
     "past_fighters": [
-        "Brando Peri\u010di\u0107",
         "Kyoji Horiguchi",
         "Umar Nurmagomedov",
         "Mario Pinto",
         "Asu Almabayev",
         "Daniel Rodriguez",
-        "Volkan Oezdemir"
+        "Volkan Oezdemir",
+        "Deiveson Figueiredo"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1037,7 +1037,7 @@
             "Fight_Time_Seconds": 528,
             "Division": "Lightweight",
             "Rank": "14",
-            "Selected_Date": "2026-01-19T05:38:25.055719Z"
+            "Selected_Date": "2026-08-09T05:51:38.488755Z"
         },
         "Grant Dawson": {
             "Name": "Grant Dawson",
