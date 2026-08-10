@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Beneil Dariush",
-        "Profile_URL": "https://www.ufc.com/athlete/beneil-dariush",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/DARIUSH_BENEIL_11-15.png?itok=II6Y2V9F",
-        "Record": "23-7-1 (W-L-D)",
-        "SLpM": "3.78",
-        "SApM": "2.62",
-        "TD_Avg": "2.11",
-        "Sub_Avg": "0.82",
-        "Fight_Time": "08:48",
-        "Fight_Time_Seconds": 528,
-        "Division": "Lightweight",
+        "Name": "Charles Johnson",
+        "Profile_URL": "https://www.ufc.com/athlete/charles-johnson",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/JOHNSON_CHARLES_08-23.png?itok=1PhHPTBj",
+        "Record": "18-7-0 (W-L-D)",
+        "SLpM": "4.73",
+        "SApM": "3.78",
+        "TD_Avg": "0.56",
+        "Sub_Avg": "0.38",
+        "Fight_Time": "13:17",
+        "Fight_Time_Seconds": 797,
+        "Division": "Flyweight",
         "Rank": "14",
-        "Selected_Date": "2026-08-09T05:51:38.488755Z"
+        "Selected_Date": "2026-08-10T06:15:24.967222Z"
     },
     "past_fighters": [
-        "Kyoji Horiguchi",
         "Umar Nurmagomedov",
         "Mario Pinto",
         "Asu Almabayev",
         "Daniel Rodriguez",
         "Volkan Oezdemir",
-        "Deiveson Figueiredo"
+        "Deiveson Figueiredo",
+        "Beneil Dariush"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -431,7 +431,7 @@
             "Fight_Time_Seconds": 797,
             "Division": "Flyweight",
             "Rank": "14",
-            "Selected_Date": "2026-07-23T07:38:37.416646Z"
+            "Selected_Date": "2026-08-10T06:15:24.967222Z"
         },
         "Bruno Silva": {
             "Name": "Bruno Silva",
