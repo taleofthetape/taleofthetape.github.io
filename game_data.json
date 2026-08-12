@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ian Machado Garry",
-        "Profile_URL": "https://www.ufc.com/athlete/ian-machado-garry",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MACHADO_GARRY_IAN_11-22.png?itok=SbjTy_Wn",
-        "Record": "17-1-0 (W-L-D)",
-        "SLpM": "4.78",
-        "SApM": "2.86",
-        "TD_Avg": "0.92",
-        "Sub_Avg": "0.37",
-        "Fight_Time": "14:45",
-        "Fight_Time_Seconds": 885,
-        "Division": "Welterweight",
-        "Rank": "2",
-        "Selected_Date": "2026-08-11T05:57:12.488361Z"
+        "Name": "Tom Aspinall",
+        "Profile_URL": "https://www.ufc.com/athlete/tom-aspinall",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ASPINALL_TOM_BELT_10-25.png?itok=ieDYUf9z",
+        "Record": "15-3-0 (W-L-D)",
+        "SLpM": "7.63",
+        "SApM": "3.62",
+        "TD_Avg": "2.62",
+        "Sub_Avg": "1.31",
+        "Fight_Time": "02:18",
+        "Fight_Time_Seconds": 138,
+        "Division": "Heavyweight",
+        "Rank": "C",
+        "Selected_Date": "2026-08-12T06:19:53.832298Z"
     },
     "past_fighters": [
-        "Mario Pinto",
         "Asu Almabayev",
         "Daniel Rodriguez",
         "Volkan Oezdemir",
         "Deiveson Figueiredo",
         "Beneil Dariush",
-        "Charles Johnson"
+        "Charles Johnson",
+        "Ian Machado Garry"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -141,7 +141,8 @@
             "Fight_Time": "02:18",
             "Fight_Time_Seconds": 138,
             "Division": "Heavyweight",
-            "Rank": "C"
+            "Rank": "C",
+            "Selected_Date": "2026-08-12T06:19:53.832298Z"
         },
         "Dricus Du Plessis": {
             "Name": "Dricus Du Plessis",
@@ -1604,7 +1605,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Heavyweight",
-            "Rank": "11",
+            "Rank": "10",
             "Selected_Date": "2026-06-01T10:27:27.370121Z"
         },
         "Bogdan Guskov": {
@@ -2159,7 +2160,7 @@
             "Fight_Time": "15:00",
             "Fight_Time_Seconds": 900,
             "Division": "Heavyweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-06-15T11:19:02.186051Z"
         },
         "Aaron Pico": {
