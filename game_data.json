@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Tom Aspinall",
-        "Profile_URL": "https://www.ufc.com/athlete/tom-aspinall",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ASPINALL_TOM_BELT_10-25.png?itok=ieDYUf9z",
-        "Record": "15-3-0 (W-L-D)",
-        "SLpM": "7.63",
-        "SApM": "3.62",
-        "TD_Avg": "2.62",
-        "Sub_Avg": "1.31",
-        "Fight_Time": "02:18",
-        "Fight_Time_Seconds": 138,
-        "Division": "Heavyweight",
-        "Rank": "C",
-        "Selected_Date": "2026-08-12T06:19:53.832298Z"
+        "Name": "Jared Cannonier",
+        "Profile_URL": "https://www.ufc.com/athlete/jared-cannonier",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CANNONIER_JARED_08-16.png?itok=dCV1YoFd",
+        "Record": "18-9-0 (W-L-D)",
+        "SLpM": "4.42",
+        "SApM": "4.35",
+        "TD_Avg": "0.54",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "13:54",
+        "Fight_Time_Seconds": 834,
+        "Division": "Middleweight",
+        "Rank": "12",
+        "Selected_Date": "2026-08-13T06:21:16.761813Z"
     },
     "past_fighters": [
-        "Asu Almabayev",
         "Daniel Rodriguez",
         "Volkan Oezdemir",
         "Deiveson Figueiredo",
         "Beneil Dariush",
         "Charles Johnson",
-        "Ian Machado Garry"
+        "Ian Machado Garry",
+        "Tom Aspinall"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1405,7 +1405,7 @@
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
             "Rank": "12",
-            "Selected_Date": "2026-07-02T08:16:37.800998Z"
+            "Selected_Date": "2026-08-13T06:21:16.761813Z"
         },
         "Michael Page": {
             "Name": "Michael Page",
