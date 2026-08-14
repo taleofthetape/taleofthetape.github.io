@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jared Cannonier",
-        "Profile_URL": "https://www.ufc.com/athlete/jared-cannonier",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CANNONIER_JARED_08-16.png?itok=dCV1YoFd",
-        "Record": "18-9-0 (W-L-D)",
-        "SLpM": "4.42",
-        "SApM": "4.35",
-        "TD_Avg": "0.54",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "13:54",
-        "Fight_Time_Seconds": 834,
+        "Name": "Nassourdine Imavov",
+        "Profile_URL": "https://www.ufc.com/athlete/nassourdine-imavov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/IMAVOV_NASSOURDINE_09-06.png?itok=pkaPgNr0",
+        "Record": "17-4-0 (W-L-D)",
+        "SLpM": "4.28",
+        "SApM": "3.17",
+        "TD_Avg": "0.74",
+        "Sub_Avg": "0.98",
+        "Fight_Time": "15:16",
+        "Fight_Time_Seconds": 916,
         "Division": "Middleweight",
-        "Rank": "12",
-        "Selected_Date": "2026-08-13T06:21:16.761813Z"
+        "Rank": "3",
+        "Selected_Date": "2026-08-14T06:19:40.180129Z"
     },
     "past_fighters": [
-        "Daniel Rodriguez",
         "Volkan Oezdemir",
         "Deiveson Figueiredo",
         "Beneil Dariush",
         "Charles Johnson",
         "Ian Machado Garry",
-        "Tom Aspinall"
+        "Tom Aspinall",
+        "Jared Cannonier"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1287,7 +1287,7 @@
             "Fight_Time_Seconds": 916,
             "Division": "Middleweight",
             "Rank": "3",
-            "Selected_Date": "2026-06-28T08:25:51.307053Z"
+            "Selected_Date": "2026-08-14T06:19:40.180129Z"
         },
         "Sean Strickland": {
             "Name": "Sean Strickland",
