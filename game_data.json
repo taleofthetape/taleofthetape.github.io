@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Nassourdine Imavov",
-        "Profile_URL": "https://www.ufc.com/athlete/nassourdine-imavov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/IMAVOV_NASSOURDINE_09-06.png?itok=pkaPgNr0",
-        "Record": "17-4-0 (W-L-D)",
-        "SLpM": "4.28",
-        "SApM": "3.17",
-        "TD_Avg": "0.74",
-        "Sub_Avg": "0.98",
-        "Fight_Time": "15:16",
-        "Fight_Time_Seconds": 916,
-        "Division": "Middleweight",
-        "Rank": "3",
-        "Selected_Date": "2026-08-14T06:19:40.180129Z"
+        "Name": "Alex Pereira",
+        "Profile_URL": "https://www.ufc.com/athlete/alex-pereira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PEREIRA_ALEX_BELT_03-08.png?itok=227qXfYv",
+        "Record": "13-3-0 (W-L-D)",
+        "SLpM": "5.16",
+        "SApM": "3.50",
+        "TD_Avg": "0.11",
+        "Sub_Avg": "0.23",
+        "Fight_Time": "11:04",
+        "Fight_Time_Seconds": 664,
+        "Division": "Heavyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-08-15T05:31:07.318060Z"
     },
     "past_fighters": [
-        "Volkan Oezdemir",
         "Deiveson Figueiredo",
         "Beneil Dariush",
         "Charles Johnson",
         "Ian Machado Garry",
         "Tom Aspinall",
-        "Jared Cannonier"
+        "Jared Cannonier",
+        "Nassourdine Imavov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -112,7 +112,7 @@
             "Fight_Time_Seconds": 664,
             "Division": "Heavyweight",
             "Rank": "4",
-            "Selected_Date": "2026-05-24T07:51:36.671740Z"
+            "Selected_Date": "2026-08-15T05:31:07.318060Z"
         },
         "Alexander Volkanovski": {
             "Name": "Alexander Volkanovski",
