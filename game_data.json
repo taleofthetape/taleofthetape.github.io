@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alex Pereira",
-        "Profile_URL": "https://www.ufc.com/athlete/alex-pereira",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PEREIRA_ALEX_BELT_03-08.png?itok=227qXfYv",
-        "Record": "13-3-0 (W-L-D)",
-        "SLpM": "5.16",
-        "SApM": "3.50",
-        "TD_Avg": "0.11",
-        "Sub_Avg": "0.23",
-        "Fight_Time": "11:04",
-        "Fight_Time_Seconds": 664,
-        "Division": "Heavyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-08-15T05:31:07.318060Z"
+        "Name": "Farid Basharat",
+        "Profile_URL": "https://www.ufc.com/athlete/farid-basharat",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/BASHARAT_FARID_02-07.png?itok=XbStRAHb",
+        "Record": "15-0-0 (W-L-D)",
+        "SLpM": "4.25",
+        "SApM": "2.89",
+        "TD_Avg": "3.34",
+        "Sub_Avg": "0.32",
+        "Fight_Time": "13:28",
+        "Fight_Time_Seconds": 808,
+        "Division": "Bantamweight",
+        "Rank": "9",
+        "Selected_Date": "2026-08-16T05:34:16.104188Z"
     },
     "past_fighters": [
-        "Deiveson Figueiredo",
         "Beneil Dariush",
         "Charles Johnson",
         "Ian Machado Garry",
         "Tom Aspinall",
         "Jared Cannonier",
-        "Nassourdine Imavov"
+        "Nassourdine Imavov",
+        "Alex Pereira"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2118,7 +2118,7 @@
             "Fight_Time_Seconds": 808,
             "Division": "Bantamweight",
             "Rank": "9",
-            "Selected_Date": "2026-04-21T07:00:16.418074Z"
+            "Selected_Date": "2026-08-16T05:34:16.104188Z"
         },
         "Christian Leroy Duncan": {
             "Name": "Christian Leroy Duncan",
