@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Farid Basharat",
-        "Profile_URL": "https://www.ufc.com/athlete/farid-basharat",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/BASHARAT_FARID_02-07.png?itok=XbStRAHb",
+        "Name": "Khamzat Chimaev",
+        "Profile_URL": "https://www.ufc.com/athlete/khamzat-chimaev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CHIMAEV_KHAMZAT_BELTMOCK.png?itok=kUlPMLPQ",
         "Record": "15-0-0 (W-L-D)",
-        "SLpM": "4.25",
-        "SApM": "2.89",
-        "TD_Avg": "3.34",
-        "Sub_Avg": "0.32",
-        "Fight_Time": "13:28",
-        "Fight_Time_Seconds": 808,
-        "Division": "Bantamweight",
-        "Rank": "9",
-        "Selected_Date": "2026-08-16T05:34:16.104188Z"
+        "SLpM": "4.04",
+        "SApM": "2.32",
+        "TD_Avg": "5.29",
+        "Sub_Avg": "1.83",
+        "Fight_Time": "08:11",
+        "Fight_Time_Seconds": 491,
+        "Division": "Middleweight",
+        "Rank": "1",
+        "Selected_Date": "2026-08-17T05:40:09.053582Z"
     },
     "past_fighters": [
-        "Beneil Dariush",
         "Charles Johnson",
         "Ian Machado Garry",
         "Tom Aspinall",
         "Jared Cannonier",
         "Nassourdine Imavov",
-        "Alex Pereira"
+        "Alex Pereira",
+        "Farid Basharat"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -82,7 +82,7 @@
             "Fight_Time_Seconds": 491,
             "Division": "Middleweight",
             "Rank": "1",
-            "Selected_Date": "2026-01-15T05:34:01.499193Z"
+            "Selected_Date": "2026-08-17T05:40:09.053582Z"
         },
         "Alexandre Pantoja": {
             "Name": "Alexandre Pantoja",
