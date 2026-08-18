@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Khamzat Chimaev",
-        "Profile_URL": "https://www.ufc.com/athlete/khamzat-chimaev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/CHIMAEV_KHAMZAT_BELTMOCK.png?itok=kUlPMLPQ",
-        "Record": "15-0-0 (W-L-D)",
-        "SLpM": "4.04",
-        "SApM": "2.32",
-        "TD_Avg": "5.29",
-        "Sub_Avg": "1.83",
-        "Fight_Time": "08:11",
-        "Fight_Time_Seconds": 491,
-        "Division": "Middleweight",
-        "Rank": "1",
-        "Selected_Date": "2026-08-17T05:40:09.053582Z"
+        "Name": "Song Yadong",
+        "Profile_URL": "https://www.ufc.com/athlete/song-yadong",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/YADONG_SONG_02-22.png?itok=WCb_V9Vo",
+        "Record": "22-8-1 (W-L-D)",
+        "SLpM": "4.58",
+        "SApM": "4.00",
+        "TD_Avg": "0.61",
+        "Sub_Avg": "0.15",
+        "Fight_Time": "13:05",
+        "Fight_Time_Seconds": 785,
+        "Division": "Bantamweight",
+        "Rank": "6",
+        "Selected_Date": "2026-08-18T05:35:35.955962Z"
     },
     "past_fighters": [
-        "Charles Johnson",
         "Ian Machado Garry",
         "Tom Aspinall",
         "Jared Cannonier",
         "Nassourdine Imavov",
         "Alex Pereira",
-        "Farid Basharat"
+        "Farid Basharat",
+        "Khamzat Chimaev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -401,7 +401,7 @@
             "Fight_Time": "07:03",
             "Fight_Time_Seconds": 423,
             "Division": "Flyweight",
-            "Rank": "15",
+            "Rank": "11",
             "Selected_Date": "2026-06-18T09:20:52.987524Z"
         },
         "Tagir Ulanbekov": {
@@ -535,7 +535,7 @@
             "Fight_Time_Seconds": 785,
             "Division": "Bantamweight",
             "Rank": "6",
-            "Selected_Date": "2026-03-26T06:15:05.224030Z"
+            "Selected_Date": "2026-08-18T05:35:35.955962Z"
         },
         "Deiveson Figueiredo": {
             "Name": "Deiveson Figueiredo",
@@ -2529,7 +2529,7 @@
             "Fight_Time": "09:29",
             "Fight_Time_Seconds": 569,
             "Division": "Flyweight",
-            "Rank": "14"
+            "Rank": "15"
         },
         "Nursulton Ruziboev": {
             "Name": "Nursulton Ruziboev",
