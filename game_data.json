@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alex Perez",
-        "Profile_URL": "https://www.ufc.com/athlete/alex-perez",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/PEREZ_ALEX_11-22.png?itok=y9_lNwiV",
-        "Record": "25-10-0 (W-L-D)",
-        "SLpM": "4.16",
-        "SApM": "3.22",
-        "TD_Avg": "2.28",
-        "Sub_Avg": "0.76",
-        "Fight_Time": "07:03",
-        "Fight_Time_Seconds": 423,
-        "Division": "Flyweight",
-        "Rank": "11",
-        "Selected_Date": "2026-08-19T05:36:56.942537Z"
+        "Name": "Nathaniel Wood",
+        "Profile_URL": "https://www.ufc.com/athlete/nathaniel-wood",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/WOOD_NATHANIEL_10-25.png?itok=kTadPl0J",
+        "Record": "23-6-0 (W-L-D)",
+        "SLpM": "5.64",
+        "SApM": "4.25",
+        "TD_Avg": "1.35",
+        "Sub_Avg": "0.47",
+        "Fight_Time": "13:32",
+        "Fight_Time_Seconds": 812,
+        "Division": "Featherweight",
+        "Rank": "8",
+        "Selected_Date": "2026-08-20T05:37:08.147950Z"
     },
     "past_fighters": [
-        "Tom Aspinall",
         "Jared Cannonier",
         "Nassourdine Imavov",
         "Alex Pereira",
         "Farid Basharat",
         "Khamzat Chimaev",
-        "Song Yadong"
+        "Song Yadong",
+        "Alex Perez"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2415,7 +2415,7 @@
             "Fight_Time_Seconds": 812,
             "Division": "Featherweight",
             "Rank": "8",
-            "Selected_Date": "2026-07-08T07:35:19.502747Z"
+            "Selected_Date": "2026-08-20T05:37:08.147950Z"
         },
         "Joanderson Brito": {
             "Name": "Joanderson Brito",
@@ -2611,6 +2611,20 @@
             "Fight_Time": "00:56",
             "Fight_Time_Seconds": 56,
             "Division": "Light Heavyweight",
+            "Rank": "15"
+        },
+        "Neil Magny": {
+            "Name": "Neil Magny",
+            "Profile_URL": "https://www.ufc.com/athlete/neil-magny",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/MAGNY_NEIL_08-15.png?itok=iA3inlH_",
+            "Record": "32-15-0 (W-L-D)",
+            "SLpM": "3.39",
+            "SApM": "2.41",
+            "TD_Avg": "2.13",
+            "Sub_Avg": "0.30",
+            "Fight_Time": "11:52",
+            "Fight_Time_Seconds": 712,
+            "Division": "Welterweight",
             "Rank": "15"
         }
     }
