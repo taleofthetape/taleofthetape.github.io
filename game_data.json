@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Nathaniel Wood",
-        "Profile_URL": "https://www.ufc.com/athlete/nathaniel-wood",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/WOOD_NATHANIEL_10-25.png?itok=kTadPl0J",
-        "Record": "23-6-0 (W-L-D)",
-        "SLpM": "5.64",
-        "SApM": "4.25",
-        "TD_Avg": "1.35",
-        "Sub_Avg": "0.47",
-        "Fight_Time": "13:32",
-        "Fight_Time_Seconds": 812,
-        "Division": "Featherweight",
-        "Rank": "8",
-        "Selected_Date": "2026-08-20T05:37:08.147950Z"
+        "Name": "Alexandre Pantoja",
+        "Profile_URL": "https://www.ufc.com/athlete/alexandre-pantoja",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/PANTOJA_ALEXANDRE_BELT_06-28.png?itok=qhPySoZJ",
+        "Record": "30-5-0 (W-L-D)",
+        "SLpM": "4.36",
+        "SApM": "3.88",
+        "TD_Avg": "2.80",
+        "Sub_Avg": "0.98",
+        "Fight_Time": "12:37",
+        "Fight_Time_Seconds": 757,
+        "Division": "Flyweight",
+        "Rank": "1",
+        "Selected_Date": "2026-08-21T05:38:43.877055Z"
     },
     "past_fighters": [
-        "Jared Cannonier",
         "Nassourdine Imavov",
         "Alex Pereira",
         "Farid Basharat",
         "Khamzat Chimaev",
         "Song Yadong",
-        "Alex Perez"
+        "Alex Perez",
+        "Nathaniel Wood"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -97,7 +97,7 @@
             "Fight_Time_Seconds": 757,
             "Division": "Flyweight",
             "Rank": "1",
-            "Selected_Date": "2026-01-18T05:31:34.325724Z"
+            "Selected_Date": "2026-08-21T05:38:43.877055Z"
         },
         "Alex Pereira": {
             "Name": "Alex Pereira",
@@ -2253,7 +2253,7 @@
         "Brando Peri\u010di\u0107": {
             "Name": "Brando Peri\u010di\u0107",
             "Profile_URL": "https://www.ufc.com/athlete/brando-pericic",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/GAZIEV_SHAMIL_05-02.png?itok=-QYU_7U-",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/GAZIEV_SHAMIL_08-22.png?itok=-v7z_c84",
             "Record": "7-1-0 (W-L-D)",
             "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
             "TD_Avg": "58\n                  %",
