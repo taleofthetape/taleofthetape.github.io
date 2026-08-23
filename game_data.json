@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Asu Almabayev",
-        "Profile_URL": "https://www.ufc.com/athlete/asu-almabayev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/ALMABAYEV_ASU_11-22.png?itok=R-gX5swq",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "2.31",
-        "SApM": "1.99",
-        "TD_Avg": "4.46",
-        "Sub_Avg": "1.49",
-        "Fight_Time": "12:58",
-        "Fight_Time_Seconds": 778,
-        "Division": "Flyweight",
-        "Rank": "5",
-        "Selected_Date": "2026-08-22T05:33:47.631911Z"
+        "Name": "Ikram Aliskerov",
+        "Profile_URL": "https://www.ufc.com/athlete/ikram-aliskerov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ALISKEROV_IKRAM_10-25.png?itok=MwgCSsvA",
+        "Record": "17-2-0 (W-L-D)",
+        "SLpM": "6.86",
+        "SApM": "5.47",
+        "TD_Avg": "3.20",
+        "Sub_Avg": "0.53",
+        "Fight_Time": "04:42",
+        "Fight_Time_Seconds": 282,
+        "Division": "Middleweight",
+        "Rank": "12",
+        "Selected_Date": "2026-08-23T05:35:31.665502Z"
     },
     "past_fighters": [
-        "Alex Pereira",
         "Farid Basharat",
         "Khamzat Chimaev",
         "Song Yadong",
         "Alex Perez",
         "Nathaniel Wood",
-        "Alexandre Pantoja"
+        "Alexandre Pantoja",
+        "Asu Almabayev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2274,7 +2274,8 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Middleweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-08-23T05:35:31.665502Z"
         },
         "Edgar Chairez": {
             "Name": "Edgar Chairez",
