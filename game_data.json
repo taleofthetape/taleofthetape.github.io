@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ramazan Temirov",
-        "Profile_URL": "https://www.ufc.com/athlete/ramazan-temirov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/TEMIROV_RAMAZAN_07-25.png?itok=2EEjf3AT",
-        "Record": "20-3-0 (W-L-D)",
-        "SLpM": "4.73",
-        "SApM": "3.65",
-        "TD_Avg": "0.68",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "07:24",
-        "Fight_Time_Seconds": 444,
+        "Name": "Joseph Morales",
+        "Profile_URL": "https://www.ufc.com/athlete/joseph-morales",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_JOSEPH_11-08.png?itok=MG6D5sRK",
+        "Record": "15-2-0 (W-L-D)",
+        "SLpM": "2.00",
+        "SApM": "2.05",
+        "TD_Avg": "1.14",
+        "Sub_Avg": "3.04",
+        "Fight_Time": "07:54",
+        "Fight_Time_Seconds": 474,
         "Division": "Flyweight",
-        "Rank": "7",
-        "Selected_Date": "2026-08-26T05:40:05.197729Z"
+        "Rank": "15",
+        "Selected_Date": "2026-08-27T16:20:16.607004Z"
     },
     "past_fighters": [
-        "Alex Perez",
         "Nathaniel Wood",
         "Alexandre Pantoja",
         "Asu Almabayev",
         "Ikram Aliskerov",
         "Tagir Ulanbekov",
-        "Sergei Pavlovich"
+        "Sergei Pavlovich",
+        "Ramazan Temirov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2044,7 +2044,8 @@
             "Fight_Time": "07:54",
             "Fight_Time_Seconds": 474,
             "Division": "Flyweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-08-27T16:20:16.607004Z"
         },
         "Melquizael Costa": {
             "Name": "Melquizael Costa",
@@ -2349,7 +2350,7 @@
         },
         "Sumudaerji": {
             "Name": "Sumudaerji",
-            "Profile_URL": "https://www.ufc.com/athlete/sumudaerji",
+            "Profile_URL": "https://www.ufc.com/athlete/su-mudaerji",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-05/SUMUDAERJI_05-30.png?itok=RG80cBip",
             "Record": "19-7-0 (W-L-D)",
             "SLpM": "4.40",
