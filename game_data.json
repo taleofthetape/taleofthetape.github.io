@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Joseph Morales",
-        "Profile_URL": "https://www.ufc.com/athlete/joseph-morales",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_JOSEPH_11-08.png?itok=MG6D5sRK",
-        "Record": "15-2-0 (W-L-D)",
-        "SLpM": "2.00",
-        "SApM": "2.05",
-        "TD_Avg": "1.14",
-        "Sub_Avg": "3.04",
-        "Fight_Time": "07:54",
-        "Fight_Time_Seconds": 474,
-        "Division": "Flyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-08-27T16:20:16.607004Z"
+        "Name": "Rizvan Kuniev",
+        "Profile_URL": "https://www.ufc.com/athlete/rizvan-kuniev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/KUNIEV_RIZVAN_06-21.png?itok=tDA5gg40",
+        "Record": "12-3-1 (W-L-D)",
+        "SLpM": "3.94",
+        "SApM": "2.33",
+        "TD_Avg": "0.98",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:30",
+        "Fight_Time_Seconds": 690,
+        "Division": "Heavyweight",
+        "Rank": "5",
+        "Selected_Date": "2026-08-28T17:18:27.719317Z"
     },
     "past_fighters": [
-        "Nathaniel Wood",
         "Alexandre Pantoja",
         "Asu Almabayev",
         "Ikram Aliskerov",
         "Tagir Ulanbekov",
         "Sergei Pavlovich",
-        "Ramazan Temirov"
+        "Ramazan Temirov",
+        "Joseph Morales"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2030,7 +2030,8 @@
             "Fight_Time": "11:30",
             "Fight_Time_Seconds": 690,
             "Division": "Heavyweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-08-28T17:18:27.719317Z"
         },
         "Joseph Morales": {
             "Name": "Joseph Morales",
