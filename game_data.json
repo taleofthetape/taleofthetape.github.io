@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Rizvan Kuniev",
-        "Profile_URL": "https://www.ufc.com/athlete/rizvan-kuniev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/KUNIEV_RIZVAN_06-21.png?itok=tDA5gg40",
-        "Record": "12-3-1 (W-L-D)",
-        "SLpM": "3.94",
-        "SApM": "2.33",
-        "TD_Avg": "0.98",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "11:30",
-        "Fight_Time_Seconds": 690,
+        "Name": "Tom Aspinall",
+        "Profile_URL": "https://www.ufc.com/athlete/tom-aspinall",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ASPINALL_TOM_BELT_10-25.png?itok=ieDYUf9z",
+        "Record": "15-3-0 (W-L-D)",
+        "SLpM": "7.63",
+        "SApM": "3.62",
+        "TD_Avg": "2.62",
+        "Sub_Avg": "1.31",
+        "Fight_Time": "02:18",
+        "Fight_Time_Seconds": 138,
         "Division": "Heavyweight",
-        "Rank": "5",
-        "Selected_Date": "2026-08-28T17:18:27.719317Z"
+        "Rank": "C",
+        "Selected_Date": "2026-08-29T11:33:26.780676Z"
     },
     "past_fighters": [
-        "Alexandre Pantoja",
         "Asu Almabayev",
         "Ikram Aliskerov",
         "Tagir Ulanbekov",
         "Sergei Pavlovich",
         "Ramazan Temirov",
-        "Joseph Morales"
+        "Joseph Morales",
+        "Rizvan Kuniev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -142,7 +142,7 @@
             "Fight_Time_Seconds": 138,
             "Division": "Heavyweight",
             "Rank": "C",
-            "Selected_Date": "2026-08-12T06:19:53.832298Z"
+            "Selected_Date": "2026-08-29T11:33:26.780676Z"
         },
         "Dricus Du Plessis": {
             "Name": "Dricus Du Plessis",
