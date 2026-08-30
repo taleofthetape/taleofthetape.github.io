@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Tom Aspinall",
-        "Profile_URL": "https://www.ufc.com/athlete/tom-aspinall",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ASPINALL_TOM_BELT_10-25.png?itok=ieDYUf9z",
-        "Record": "15-3-0 (W-L-D)",
-        "SLpM": "7.63",
-        "SApM": "3.62",
-        "TD_Avg": "2.62",
-        "Sub_Avg": "1.31",
-        "Fight_Time": "02:18",
-        "Fight_Time_Seconds": 138,
-        "Division": "Heavyweight",
-        "Rank": "C",
-        "Selected_Date": "2026-08-29T11:33:26.780676Z"
+        "Name": "Paulo Costa",
+        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
+        "Record": "15-4-0 (W-L-D)",
+        "SLpM": "6.26",
+        "SApM": "6.20",
+        "TD_Avg": "0.32",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "12:46",
+        "Fight_Time_Seconds": 766,
+        "Division": "Light Heavyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-08-30T10:25:48.345307Z"
     },
     "past_fighters": [
-        "Asu Almabayev",
         "Ikram Aliskerov",
         "Tagir Ulanbekov",
         "Sergei Pavlovich",
         "Ramazan Temirov",
         "Joseph Morales",
-        "Rizvan Kuniev"
+        "Rizvan Kuniev",
+        "Tom Aspinall"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1450,7 +1450,7 @@
             "Fight_Time_Seconds": 766,
             "Division": "Light Heavyweight",
             "Rank": "4",
-            "Selected_Date": "2026-07-16T07:26:42.600778Z"
+            "Selected_Date": "2026-08-30T10:25:48.345307Z"
         },
         "Marvin Vettori": {
             "Name": "Marvin Vettori",
