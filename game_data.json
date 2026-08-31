@@ -1,27 +1,25 @@
 {
     "daily_fighter": {
-        "Name": "Paulo Costa",
-        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
-        "Record": "15-4-0 (W-L-D)",
-        "SLpM": "6.26",
-        "SApM": "6.20",
-        "TD_Avg": "0.32",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "12:46",
-        "Fight_Time_Seconds": 766,
-        "Division": "Light Heavyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-08-30T10:25:48.345307Z"
+        "Name": "Brando Peri\u010di\u0107",
+        "Profile_URL": "https://www.ufc.com/athlete/brando-pericic",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/GAZIEV_SHAMIL_08-22.png?itok=-v7z_c84",
+        "Record": "7-1-0 (W-L-D)",
+        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
+        "TD_Avg": "58\n                  %",
+        "Sub_Avg": "71\n                      %",
+        "Fight_Time_Seconds": 0,
+        "Division": "Heavyweight",
+        "Rank": "11",
+        "Selected_Date": "2026-08-31T11:30:54.041989Z"
     },
     "past_fighters": [
-        "Ikram Aliskerov",
         "Tagir Ulanbekov",
         "Sergei Pavlovich",
         "Ramazan Temirov",
         "Joseph Morales",
         "Rizvan Kuniev",
-        "Tom Aspinall"
+        "Tom Aspinall",
+        "Paulo Costa"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2262,7 +2260,8 @@
             "Sub_Avg": "71\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Heavyweight",
-            "Rank": "11"
+            "Rank": "11",
+            "Selected_Date": "2026-08-31T11:30:54.041989Z"
         },
         "Ikram Aliskerov": {
             "Name": "Ikram Aliskerov",
