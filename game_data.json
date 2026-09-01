@@ -1,25 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Brando Peri\u010di\u0107",
-        "Profile_URL": "https://www.ufc.com/athlete/brando-pericic",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/GAZIEV_SHAMIL_08-22.png?itok=-v7z_c84",
-        "Record": "7-1-0 (W-L-D)",
-        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
-        "TD_Avg": "58\n                  %",
-        "Sub_Avg": "71\n                      %",
-        "Fight_Time_Seconds": 0,
-        "Division": "Heavyweight",
-        "Rank": "11",
-        "Selected_Date": "2026-08-31T11:30:54.041989Z"
+        "Name": "Grant Dawson",
+        "Profile_URL": "https://www.ufc.com/athlete/grant-dawson",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/7/DAWSON_GRANT_01-18.png?itok=wI4HcgJe",
+        "Record": "23-2-1 (W-L-D)",
+        "SLpM": "3.20",
+        "SApM": "2.11",
+        "TD_Avg": "3.87",
+        "Sub_Avg": "1.13",
+        "Fight_Time": "11:21",
+        "Fight_Time_Seconds": 681,
+        "Division": "Lightweight",
+        "Rank": "15",
+        "Selected_Date": "2026-09-01T09:54:17.226103Z"
     },
     "past_fighters": [
-        "Tagir Ulanbekov",
         "Sergei Pavlovich",
         "Ramazan Temirov",
         "Joseph Morales",
         "Rizvan Kuniev",
         "Tom Aspinall",
-        "Paulo Costa"
+        "Paulo Costa",
+        "Brando Peri\u010di\u0107"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -473,7 +475,7 @@
             "Fight_Time": "13:57",
             "Fight_Time_Seconds": 837,
             "Division": "Bantamweight",
-            "Rank": "2",
+            "Rank": "5",
             "Selected_Date": "2026-08-03T08:35:29.975674Z"
         },
         "Sean O'Malley": {
@@ -488,7 +490,7 @@
             "Fight_Time": "11:19",
             "Fight_Time_Seconds": 679,
             "Division": "Bantamweight",
-            "Rank": "3",
+            "Rank": "2",
             "Selected_Date": "2026-06-08T09:51:19.089934Z"
         },
         "Petr Yan": {
@@ -517,7 +519,7 @@
             "Fight_Time": "14:43",
             "Fight_Time_Seconds": 883,
             "Division": "Bantamweight",
-            "Rank": "5",
+            "Rank": "6",
             "Selected_Date": "2026-04-26T07:01:01.928876Z"
         },
         "Song Yadong": {
@@ -532,7 +534,7 @@
             "Fight_Time": "13:05",
             "Fight_Time_Seconds": 785,
             "Division": "Bantamweight",
-            "Rank": "6",
+            "Rank": "3",
             "Selected_Date": "2026-08-18T05:35:35.955962Z"
         },
         "Deiveson Figueiredo": {
@@ -1051,7 +1053,7 @@
             "Fight_Time_Seconds": 681,
             "Division": "Lightweight",
             "Rank": "15",
-            "Selected_Date": "2026-01-17T05:28:35.125492Z"
+            "Selected_Date": "2026-09-01T09:54:17.226103Z"
         },
         "Mauricio Ruffy": {
             "Name": "Mauricio Ruffy",
@@ -2260,8 +2262,7 @@
             "Sub_Avg": "71\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Heavyweight",
-            "Rank": "11",
-            "Selected_Date": "2026-08-31T11:30:54.041989Z"
+            "Rank": "11"
         },
         "Ikram Aliskerov": {
             "Name": "Ikram Aliskerov",
@@ -2360,7 +2361,7 @@
             "Fight_Time": "10:44",
             "Fight_Time_Seconds": 644,
             "Division": "Flyweight",
-            "Rank": "13"
+            "Rank": "11"
         },
         "Charles Jourdain": {
             "Name": "Charles Jourdain",
@@ -2643,6 +2644,20 @@
             "Fight_Time_Seconds": 556,
             "Division": "Featherweight",
             "Rank": "14"
+        },
+        "Rei Tsuruya": {
+            "Name": "Rei Tsuruya",
+            "Profile_URL": "https://www.ufc.com/athlete/rei-tsuruya",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/TSURUYA_REI_08-29.png?itok=Dd_qmDP3",
+            "Record": "12-1-0 (W-L-D)",
+            "SLpM": "2.85",
+            "SApM": "1.79",
+            "TD_Avg": "5.17",
+            "Sub_Avg": "2.11",
+            "Fight_Time": "09:07",
+            "Fight_Time_Seconds": 547,
+            "Division": "Flyweight",
+            "Rank": "13"
         }
     }
 }
