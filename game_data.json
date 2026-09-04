@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Arman Tsarukyan",
-        "Profile_URL": "https://www.ufc.com/athlete/arman-tsarukyan",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/TSARUKYAN_ARMAN_11-22.png?itok=6h4WFZYC",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "3.85",
-        "SApM": "1.80",
-        "TD_Avg": "3.26",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "12:16",
-        "Fight_Time_Seconds": 736,
-        "Division": "Lightweight",
-        "Rank": "2",
-        "Selected_Date": "2026-09-03T09:35:56.547645Z"
+        "Name": "Marcin Tybura",
+        "Profile_URL": "https://www.ufc.com/athlete/marcin-tybura",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/TYBURA_MARCIN_09-06.png?itok=0kcRoC2B",
+        "Record": "27-10-0 (W-L-D)",
+        "SLpM": "3.59",
+        "SApM": "3.33",
+        "TD_Avg": "1.38",
+        "Sub_Avg": "0.12",
+        "Fight_Time": "10:51",
+        "Fight_Time_Seconds": 651,
+        "Division": "Heavyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-09-04T09:28:01.744974Z"
     },
     "past_fighters": [
-        "Joseph Morales",
         "Rizvan Kuniev",
         "Tom Aspinall",
         "Paulo Costa",
         "Brando Peri\u010di\u0107",
         "Grant Dawson",
-        "Brendan Allen"
+        "Brendan Allen",
+        "Arman Tsarukyan"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1825,7 +1825,7 @@
             "Fight_Time_Seconds": 651,
             "Division": "Heavyweight",
             "Rank": "15",
-            "Selected_Date": "2026-05-23T07:34:55.493928Z"
+            "Selected_Date": "2026-09-04T09:28:01.744974Z"
         },
         "Shamil Gaziev": {
             "Name": "Shamil Gaziev",
