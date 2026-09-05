@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Marcin Tybura",
-        "Profile_URL": "https://www.ufc.com/athlete/marcin-tybura",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/TYBURA_MARCIN_09-06.png?itok=0kcRoC2B",
-        "Record": "27-10-0 (W-L-D)",
-        "SLpM": "3.59",
-        "SApM": "3.33",
-        "TD_Avg": "1.38",
-        "Sub_Avg": "0.12",
-        "Fight_Time": "10:51",
-        "Fight_Time_Seconds": 651,
+        "Name": "Alexander Volkov",
+        "Profile_URL": "https://www.ufc.com/athlete/alexander-volkov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/VOLKOV_ALEXANDER_10-25.png?itok=PFhcuxBv",
+        "Record": "39-11-0 (W-L-D)",
+        "SLpM": "4.78",
+        "SApM": "2.86",
+        "TD_Avg": "0.57",
+        "Sub_Avg": "0.23",
+        "Fight_Time": "13:03",
+        "Fight_Time_Seconds": 783,
         "Division": "Heavyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-09-04T09:28:01.744974Z"
+        "Rank": "2",
+        "Selected_Date": "2026-09-05T08:56:01.527478Z"
     },
     "past_fighters": [
-        "Rizvan Kuniev",
         "Tom Aspinall",
         "Paulo Costa",
         "Brando Peri\u010di\u0107",
         "Grant Dawson",
         "Brendan Allen",
-        "Arman Tsarukyan"
+        "Arman Tsarukyan",
+        "Marcin Tybura"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1706,7 +1706,7 @@
             "Fight_Time_Seconds": 783,
             "Division": "Heavyweight",
             "Rank": "2",
-            "Selected_Date": "2026-04-27T07:37:57.328668Z"
+            "Selected_Date": "2026-09-05T08:56:01.527478Z"
         },
         "Sergei Pavlovich": {
             "Name": "Sergei Pavlovich",
