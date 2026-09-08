@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Shamil Gaziev",
-        "Profile_URL": "https://www.ufc.com/athlete/shamil-gaziev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/GAZIEV_SHAMIL_11-22.png?itok=P669KMlK",
-        "Record": "14-2-0 (W-L-D)",
-        "SLpM": "2.62",
-        "SApM": "3.97",
+        "Name": "Brian Ortega",
+        "Profile_URL": "https://www.ufc.com/athlete/brian-ortega",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ORTEGA_BRIAN_08-23.png?itok=242TjJQn",
+        "Record": "16-5-0 (W-L-D)",
+        "SLpM": "3.84",
+        "SApM": "6.38",
         "TD_Avg": "0.93",
-        "Sub_Avg": "0.31",
-        "Fight_Time": "08:01",
-        "Fight_Time_Seconds": 481,
-        "Division": "Heavyweight",
-        "Rank": "14",
-        "Selected_Date": "2026-09-07T10:06:08.131586Z"
+        "Sub_Avg": "0.93",
+        "Fight_Time": "13:49",
+        "Fight_Time_Seconds": 829,
+        "Division": "Featherweight",
+        "Rank": "11",
+        "Selected_Date": "2026-09-08T09:30:49.534988Z"
     },
     "past_fighters": [
-        "Brando Peri\u010di\u0107",
         "Grant Dawson",
         "Brendan Allen",
         "Arman Tsarukyan",
         "Marcin Tybura",
         "Alexander Volkov",
-        "Petr Yan"
+        "Petr Yan",
+        "Shamil Gaziev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -490,7 +490,7 @@
             "Fight_Time": "11:19",
             "Fight_Time_Seconds": 679,
             "Division": "Bantamweight",
-            "Rank": "2",
+            "Rank": "3",
             "Selected_Date": "2026-06-08T09:51:19.089934Z"
         },
         "Petr Yan": {
@@ -535,7 +535,7 @@
             "Fight_Time": "13:05",
             "Fight_Time_Seconds": 785,
             "Division": "Bantamweight",
-            "Rank": "3",
+            "Rank": "2",
             "Selected_Date": "2026-08-18T05:35:35.955962Z"
         },
         "Deiveson Figueiredo": {
@@ -820,7 +820,7 @@
             "Fight_Time_Seconds": 829,
             "Division": "Featherweight",
             "Rank": "11",
-            "Selected_Date": "2026-07-24T07:36:41.058258Z"
+            "Selected_Date": "2026-09-08T09:30:49.534988Z"
         },
         "Josh Emmett": {
             "Name": "Josh Emmett",
@@ -952,7 +952,7 @@
             "Fight_Time": "10:09",
             "Fight_Time_Seconds": 609,
             "Division": "Lightweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Mateusz Gamrot": {
             "Name": "Mateusz Gamrot",
@@ -994,7 +994,7 @@
             "Fight_Time": "12:17",
             "Fight_Time_Seconds": 737,
             "Division": "Lightweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-03-16T06:22:17.539616Z"
         },
         "Renato Moicano": {
@@ -1038,7 +1038,7 @@
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
             "Division": "Lightweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-08-09T05:51:38.488755Z"
         },
         "Grant Dawson": {
@@ -1053,7 +1053,7 @@
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
             "Division": "Lightweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-09-01T09:54:17.226103Z"
         },
         "Mauricio Ruffy": {
@@ -1171,7 +1171,7 @@
             "Fight_Time": "17:50",
             "Fight_Time_Seconds": 1070,
             "Division": "Welterweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Leon Edwards": {
             "Name": "Leon Edwards",
@@ -1406,7 +1406,7 @@
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
-            "Rank": "11",
+            "Rank": "15",
             "Selected_Date": "2026-08-13T06:21:16.761813Z"
         },
         "Michael Page": {
@@ -1607,7 +1607,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Heavyweight",
-            "Rank": "13",
+            "Rank": "15",
             "Selected_Date": "2026-06-01T10:27:27.370121Z"
         },
         "Bogdan Guskov": {
@@ -1736,7 +1736,7 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Heavyweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2026-07-05T08:07:06.622649Z"
         },
         "Waldo Cortes Acosta": {
@@ -1795,7 +1795,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-01-03T05:29:44.234925Z"
         },
         "Ante Delija": {
@@ -1840,7 +1840,7 @@
             "Fight_Time": "08:01",
             "Fight_Time_Seconds": 481,
             "Division": "Heavyweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-09-07T10:06:08.131586Z"
         },
         "Tai Tuivasa": {
@@ -1885,7 +1885,7 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Heavyweight",
-            "Rank": "9",
+            "Rank": "10",
             "Selected_Date": "2026-02-26T06:03:32.308431Z"
         },
         "Tallison Teixeira": {
@@ -2164,7 +2164,7 @@
             "Fight_Time": "15:00",
             "Fight_Time_Seconds": 900,
             "Division": "Heavyweight",
-            "Rank": "14",
+            "Rank": "12",
             "Selected_Date": "2026-06-15T11:19:02.186051Z"
         },
         "Aaron Pico": {
@@ -2209,7 +2209,7 @@
             "Fight_Time": "09:12",
             "Fight_Time_Seconds": 552,
             "Division": "Welterweight",
-            "Rank": "12"
+            "Rank": "11"
         },
         "Yaroslav Amosov": {
             "Name": "Yaroslav Amosov",
@@ -2264,7 +2264,7 @@
             "Sub_Avg": "71\n                      %",
             "Fight_Time_Seconds": 0,
             "Division": "Heavyweight",
-            "Rank": "11"
+            "Rank": "12"
         },
         "Ikram Aliskerov": {
             "Name": "Ikram Aliskerov",
@@ -2490,7 +2490,7 @@
             "Fight_Time": "07:53",
             "Fight_Time_Seconds": 473,
             "Division": "Heavyweight",
-            "Rank": "12",
+            "Rank": "9",
             "Selected_Date": "2026-08-04T07:44:06.796251Z"
         },
         "Ryan Spann": {
@@ -2589,7 +2589,7 @@
             "Fight_Time": "09:34",
             "Fight_Time_Seconds": 574,
             "Division": "Lightweight",
-            "Rank": "14"
+            "Rank": "13"
         },
         "Kevin Holland": {
             "Name": "Kevin Holland",
@@ -2660,6 +2660,40 @@
             "Fight_Time_Seconds": 547,
             "Division": "Flyweight",
             "Rank": "13"
+        },
+        "Salahdine Parnasse": {
+            "Name": "Salahdine Parnasse",
+            "Profile_URL": "https://www.ufc.com/athlete/salahdine-parnasse",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/PARNASSE_SALAHDINE_09-05.png?itok=wmbu6VTi",
+            "Record": "24-2-0 (W-L-D)",
+            "SLpM": "Standing \n      0 (0 %)",
+            "Fight_Time_Seconds": 0,
+            "Division": "Lightweight",
+            "Rank": "9"
+        },
+        "Shara Magomedov": {
+            "Name": "Shara Magomedov",
+            "Profile_URL": "https://www.ufc.com/athlete/shara-magomedov",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MAGOMEDOV_SHARA_06-27.png?itok=G0P2Z4ak",
+            "Record": "17-1-0 (W-L-D)",
+            "SLpM": "5.55",
+            "SApM": "3.62",
+            "TD_Avg": "0.00",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "13:54",
+            "Fight_Time_Seconds": 834,
+            "Division": "Middleweight",
+            "Rank": "15"
+        },
+        "Pavel Andrusca": {
+            "Name": "Pavel Andrusca",
+            "Profile_URL": "https://www.ufc.com/athlete/pavel-andrusca",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/ANDRUSCA_PAVEL_09-05.png?itok=I7Au5me_",
+            "Record": "9-0-0 (W-L-D)",
+            "SLpM": "Standing \n      0 (0 %)",
+            "Fight_Time_Seconds": 0,
+            "Division": "Featherweight",
+            "Rank": "8"
         }
     }
 }
