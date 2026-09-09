@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Brian Ortega",
-        "Profile_URL": "https://www.ufc.com/athlete/brian-ortega",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ORTEGA_BRIAN_08-23.png?itok=242TjJQn",
-        "Record": "16-5-0 (W-L-D)",
-        "SLpM": "3.84",
-        "SApM": "6.38",
-        "TD_Avg": "0.93",
-        "Sub_Avg": "0.93",
-        "Fight_Time": "13:49",
-        "Fight_Time_Seconds": 829,
-        "Division": "Featherweight",
-        "Rank": "11",
-        "Selected_Date": "2026-09-08T09:30:49.534988Z"
+        "Name": "Beno\u00eet Saint Denis",
+        "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAINT_DENIS_BENOIT_07-11.png?itok=bZ-d0yum",
+        "Record": "17-4-0 (W-L-D)",
+        "SLpM": "5.58",
+        "SApM": "4.09",
+        "TD_Avg": "4.15",
+        "Sub_Avg": "1.73",
+        "Fight_Time": "06:41",
+        "Fight_Time_Seconds": 401,
+        "Division": "Lightweight",
+        "Rank": "8",
+        "Selected_Date": "2026-09-09T09:33:42.770090Z"
     },
     "past_fighters": [
-        "Grant Dawson",
         "Brendan Allen",
         "Arman Tsarukyan",
         "Marcin Tybura",
         "Alexander Volkov",
         "Petr Yan",
-        "Shamil Gaziev"
+        "Shamil Gaziev",
+        "Brian Ortega"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -980,7 +980,8 @@
             "Fight_Time": "06:41",
             "Fight_Time_Seconds": 401,
             "Division": "Lightweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-09-09T09:33:42.770090Z"
         },
         "Rafael Fiziev": {
             "Name": "Rafael Fiziev",
@@ -2142,7 +2143,7 @@
             "Name": "Michael Venom Page",
             "Profile_URL": "https://www.ufc.com/athlete/michael-page",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=oSvGjLsI",
-            "Record": "25-3-0 (W-L-D)",
+            "Record": "26-3-0 (W-L-D)",
             "SLpM": "2.28",
             "SApM": "1.51",
             "TD_Avg": "0.19",
