@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Beno\u00eet Saint Denis",
-        "Profile_URL": "https://www.ufc.com/athlete/benoit-saint-denis",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/SAINT_DENIS_BENOIT_07-11.png?itok=bZ-d0yum",
-        "Record": "17-4-0 (W-L-D)",
-        "SLpM": "5.58",
-        "SApM": "4.09",
-        "TD_Avg": "4.15",
-        "Sub_Avg": "1.73",
-        "Fight_Time": "06:41",
-        "Fight_Time_Seconds": 401,
-        "Division": "Lightweight",
-        "Rank": "8",
-        "Selected_Date": "2026-09-09T09:33:42.770090Z"
+        "Name": "Volkan Oezdemir",
+        "Profile_URL": "https://www.ufc.com/athlete/volkan-oezdemir",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/OEZDEMIR_VOLKAN_11-22.png?itok=J1sXHi4D",
+        "Record": "21-8-0 (W-L-D)",
+        "SLpM": "4.99",
+        "SApM": "4.19",
+        "TD_Avg": "0.50",
+        "Sub_Avg": "0.10",
+        "Fight_Time": "09:25",
+        "Fight_Time_Seconds": 565,
+        "Division": "Light Heavyweight",
+        "Rank": "9",
+        "Selected_Date": "2026-09-10T09:33:01.675896Z"
     },
     "past_fighters": [
-        "Brendan Allen",
         "Arman Tsarukyan",
         "Marcin Tybura",
         "Alexander Volkov",
         "Petr Yan",
         "Shamil Gaziev",
-        "Brian Ortega"
+        "Brian Ortega",
+        "Beno\u00eet Saint Denis"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -980,8 +980,7 @@
             "Fight_Time": "06:41",
             "Fight_Time_Seconds": 401,
             "Division": "Lightweight",
-            "Rank": "8",
-            "Selected_Date": "2026-09-09T09:33:42.770090Z"
+            "Rank": "8"
         },
         "Rafael Fiziev": {
             "Name": "Rafael Fiziev",
@@ -1594,7 +1593,7 @@
             "Fight_Time_Seconds": 565,
             "Division": "Light Heavyweight",
             "Rank": "9",
-            "Selected_Date": "2026-08-07T06:11:44.199006Z"
+            "Selected_Date": "2026-09-10T09:33:01.675896Z"
         },
         "Aleksandar Raki\u0107": {
             "Name": "Aleksandar Raki\u0107",
@@ -2144,12 +2143,12 @@
             "Profile_URL": "https://www.ufc.com/athlete/michael-page",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=oSvGjLsI",
             "Record": "26-3-0 (W-L-D)",
-            "SLpM": "2.28",
-            "SApM": "1.51",
-            "TD_Avg": "0.19",
-            "Sub_Avg": "0.00",
-            "Fight_Time": "11:21",
-            "Fight_Time_Seconds": 681,
+            "SLpM": "2.04",
+            "SApM": "1.36",
+            "TD_Avg": "0.16",
+            "Sub_Avg": "0.16",
+            "Fight_Time": "11:48",
+            "Fight_Time_Seconds": 708,
             "Division": "Middleweight",
             "Rank": "8"
         },
