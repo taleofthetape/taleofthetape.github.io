@@ -12,16 +12,16 @@
         "Fight_Time_Seconds": 565,
         "Division": "Light Heavyweight",
         "Rank": "9",
-        "Selected_Date": "2026-09-10T09:33:01.675896Z"
+        "Selected_Date": "2026-09-11T09:29:44.029725Z"
     },
     "past_fighters": [
-        "Arman Tsarukyan",
         "Marcin Tybura",
         "Alexander Volkov",
         "Petr Yan",
         "Shamil Gaziev",
         "Brian Ortega",
-        "Beno\u00eet Saint Denis"
+        "Beno\u00eet Saint Denis",
+        "Volkan Oezdemir"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1593,7 +1593,7 @@
             "Fight_Time_Seconds": 565,
             "Division": "Light Heavyweight",
             "Rank": "9",
-            "Selected_Date": "2026-09-10T09:33:01.675896Z"
+            "Selected_Date": "2026-09-11T09:29:44.029725Z"
         },
         "Aleksandar Raki\u0107": {
             "Name": "Aleksandar Raki\u0107",
@@ -2439,7 +2439,7 @@
         "Jose Miguel Delgado": {
             "Name": "Jose Miguel Delgado",
             "Profile_URL": "https://www.ufc.com/athlete/jose-miguel-delgado",
-            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/BASHI_AUSTIN_07-18.png?itok=5R6Eua-c",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/DELGADO_JOSE_MIGUEL_09-12.png?itok=0nDzaO8Y",
             "Record": "12-2-0 (W-L-D)",
             "SLpM": "6.07",
             "SApM": "4.18",
