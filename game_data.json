@@ -1,18 +1,18 @@
 {
     "daily_fighter": {
-        "Name": "Volkan Oezdemir",
-        "Profile_URL": "https://www.ufc.com/athlete/volkan-oezdemir",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/OEZDEMIR_VOLKAN_11-22.png?itok=J1sXHi4D",
-        "Record": "21-8-0 (W-L-D)",
-        "SLpM": "4.99",
-        "SApM": "4.19",
-        "TD_Avg": "0.50",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "09:25",
-        "Fight_Time_Seconds": 565,
-        "Division": "Light Heavyweight",
-        "Rank": "9",
-        "Selected_Date": "2026-09-11T09:29:44.029725Z"
+        "Name": "Ikram Aliskerov",
+        "Profile_URL": "https://www.ufc.com/athlete/ikram-aliskerov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ALISKEROV_IKRAM_10-25.png?itok=MwgCSsvA",
+        "Record": "17-2-0 (W-L-D)",
+        "SLpM": "6.86",
+        "SApM": "5.47",
+        "TD_Avg": "3.20",
+        "Sub_Avg": "0.53",
+        "Fight_Time": "04:42",
+        "Fight_Time_Seconds": 282,
+        "Division": "Middleweight",
+        "Rank": "12",
+        "Selected_Date": "2026-09-12T09:09:48.913891Z"
     },
     "past_fighters": [
         "Marcin Tybura",
@@ -2279,7 +2279,7 @@
             "Fight_Time_Seconds": 282,
             "Division": "Middleweight",
             "Rank": "12",
-            "Selected_Date": "2026-08-23T05:35:31.665502Z"
+            "Selected_Date": "2026-09-12T09:09:48.913891Z"
         },
         "Edgar Chairez": {
             "Name": "Edgar Chairez",
