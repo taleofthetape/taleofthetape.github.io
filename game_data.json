@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ikram Aliskerov",
-        "Profile_URL": "https://www.ufc.com/athlete/ikram-aliskerov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ALISKEROV_IKRAM_10-25.png?itok=MwgCSsvA",
-        "Record": "17-2-0 (W-L-D)",
-        "SLpM": "6.86",
-        "SApM": "5.47",
-        "TD_Avg": "3.20",
-        "Sub_Avg": "0.53",
-        "Fight_Time": "04:42",
-        "Fight_Time_Seconds": 282,
-        "Division": "Middleweight",
-        "Rank": "12",
-        "Selected_Date": "2026-09-12T09:09:48.913891Z"
+        "Name": "Reinier de Ridder",
+        "Profile_URL": "https://www.ufc.com/athlete/reinier-de-ridder",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DE-RIDDER_REINIER_10-18.png?itok=cCiewy9T",
+        "Record": "21-3-0 (W-L-D)",
+        "SLpM": "2.20",
+        "SApM": "2.04",
+        "TD_Avg": "2.68",
+        "Sub_Avg": "0.67",
+        "Fight_Time": "13:26",
+        "Fight_Time_Seconds": 806,
+        "Division": "Light Heavyweight",
+        "Rank": "9",
+        "Selected_Date": "2026-09-13T10:07:08.357797Z"
     },
     "past_fighters": [
-        "Marcin Tybura",
         "Alexander Volkov",
         "Petr Yan",
         "Shamil Gaziev",
         "Brian Ortega",
         "Beno\u00eet Saint Denis",
-        "Volkan Oezdemir"
+        "Volkan Oezdemir",
+        "Ikram Aliskerov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1377,7 +1377,7 @@
             "Fight_Time_Seconds": 806,
             "Division": "Light Heavyweight",
             "Rank": "9",
-            "Selected_Date": "2026-04-20T07:20:10.321228Z"
+            "Selected_Date": "2026-09-13T10:07:08.357797Z"
         },
         "Robert Whittaker": {
             "Name": "Robert Whittaker",
