@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Reinier de Ridder",
-        "Profile_URL": "https://www.ufc.com/athlete/reinier-de-ridder",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/DE-RIDDER_REINIER_10-18.png?itok=cCiewy9T",
-        "Record": "21-3-0 (W-L-D)",
-        "SLpM": "2.20",
-        "SApM": "2.04",
-        "TD_Avg": "2.68",
-        "Sub_Avg": "0.67",
-        "Fight_Time": "13:26",
-        "Fight_Time_Seconds": 806,
-        "Division": "Light Heavyweight",
-        "Rank": "9",
-        "Selected_Date": "2026-09-13T10:07:08.357797Z"
+        "Name": "Sergei Pavlovich",
+        "Profile_URL": "https://www.ufc.com/athlete/sergei-pavlovich",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAVLOVICH_SERGEI_08-23.png?itok=uB20GaaY",
+        "Record": "20-3-0 (W-L-D)",
+        "SLpM": "4.43",
+        "SApM": "3.62",
+        "TD_Avg": "0.48",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "05:42",
+        "Fight_Time_Seconds": 342,
+        "Division": "Heavyweight",
+        "Rank": "3",
+        "Selected_Date": "2026-09-14T10:30:15.782726Z"
     },
     "past_fighters": [
-        "Alexander Volkov",
         "Petr Yan",
         "Shamil Gaziev",
         "Brian Ortega",
         "Beno\u00eet Saint Denis",
         "Volkan Oezdemir",
-        "Ikram Aliskerov"
+        "Ikram Aliskerov",
+        "Reinier de Ridder"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1722,7 +1722,7 @@
             "Fight_Time_Seconds": 342,
             "Division": "Heavyweight",
             "Rank": "3",
-            "Selected_Date": "2026-08-25T05:37:39.499512Z"
+            "Selected_Date": "2026-09-14T10:30:15.782726Z"
         },
         "Curtis Blaydes": {
             "Name": "Curtis Blaydes",
