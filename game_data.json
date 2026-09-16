@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Steve Garcia",
-        "Profile_URL": "https://www.ufc.com/athlete/steve-garcia",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GARCIA_STEVE_11-01.png?itok=hagEvN37",
-        "Record": "19-5-0 (W-L-D)",
-        "SLpM": "5.39",
-        "SApM": "2.12",
-        "TD_Avg": "0.86",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "05:50",
-        "Fight_Time_Seconds": 350,
-        "Division": "Featherweight",
-        "Rank": "12",
-        "Selected_Date": "2026-09-15T09:57:11.838022Z"
+        "Name": "Paulo Costa",
+        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
+        "Record": "15-4-0 (W-L-D)",
+        "SLpM": "6.26",
+        "SApM": "6.20",
+        "TD_Avg": "0.32",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "12:46",
+        "Fight_Time_Seconds": 766,
+        "Division": "Light Heavyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-09-16T09:48:42.410412Z"
     },
     "past_fighters": [
-        "Shamil Gaziev",
         "Brian Ortega",
         "Beno\u00eet Saint Denis",
         "Volkan Oezdemir",
         "Ikram Aliskerov",
         "Reinier de Ridder",
-        "Sergei Pavlovich"
+        "Sergei Pavlovich",
+        "Steve Garcia"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -372,7 +372,7 @@
             "Fight_Time": "12:08",
             "Fight_Time_Seconds": 728,
             "Division": "Flyweight",
-            "Rank": "12"
+            "Rank": "11"
         },
         "Steve Erceg": {
             "Name": "Steve Erceg",
@@ -386,7 +386,7 @@
             "Fight_Time": "14:56",
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-05-17T07:37:02.394608Z"
         },
         "Alex Perez": {
@@ -730,7 +730,7 @@
             "Fight_Time": "13:14",
             "Fight_Time_Seconds": 794,
             "Division": "Featherweight",
-            "Rank": "5",
+            "Rank": "6",
             "Selected_Date": "2026-02-07T05:50:33.102348Z"
         },
         "Lerone Murphy": {
@@ -1452,7 +1452,7 @@
             "Fight_Time_Seconds": 766,
             "Division": "Light Heavyweight",
             "Rank": "4",
-            "Selected_Date": "2026-08-30T10:25:48.345307Z"
+            "Selected_Date": "2026-09-16T09:48:42.410412Z"
         },
         "Marvin Vettori": {
             "Name": "Marvin Vettori",
