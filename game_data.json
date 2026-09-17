@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Paulo Costa",
-        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
-        "Record": "15-4-0 (W-L-D)",
-        "SLpM": "6.26",
-        "SApM": "6.20",
-        "TD_Avg": "0.32",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "12:46",
-        "Fight_Time_Seconds": 766,
-        "Division": "Light Heavyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-09-16T09:48:42.410412Z"
+        "Name": "Valter Walker",
+        "Profile_URL": "https://www.ufc.com/athlete/valter-walker",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/WALKER_VALTER_10-25.png?itok=5DLHhYiU",
+        "Record": "15-1-0 (W-L-D)",
+        "SLpM": "2.00",
+        "SApM": "2.85",
+        "TD_Avg": "5.74",
+        "Sub_Avg": "2.55",
+        "Fight_Time": "04:42",
+        "Fight_Time_Seconds": 282,
+        "Division": "Heavyweight",
+        "Rank": "11",
+        "Selected_Date": "2026-09-17T09:55:19.506875Z"
     },
     "past_fighters": [
-        "Brian Ortega",
         "Beno\u00eet Saint Denis",
         "Volkan Oezdemir",
         "Ikram Aliskerov",
         "Reinier de Ridder",
         "Sergei Pavlovich",
-        "Steve Garcia"
+        "Steve Garcia",
+        "Paulo Costa"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1886,7 +1886,7 @@
             "Fight_Time_Seconds": 282,
             "Division": "Heavyweight",
             "Rank": "11",
-            "Selected_Date": "2026-02-26T06:03:32.308431Z"
+            "Selected_Date": "2026-09-17T09:55:19.506875Z"
         },
         "Tallison Teixeira": {
             "Name": "Tallison Teixeira",
