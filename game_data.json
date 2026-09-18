@@ -12,16 +12,16 @@
         "Fight_Time_Seconds": 282,
         "Division": "Heavyweight",
         "Rank": "11",
-        "Selected_Date": "2026-09-17T09:55:19.506875Z"
+        "Selected_Date": "2026-09-18T09:34:10.965407Z"
     },
     "past_fighters": [
-        "Beno\u00eet Saint Denis",
         "Volkan Oezdemir",
         "Ikram Aliskerov",
         "Reinier de Ridder",
         "Sergei Pavlovich",
         "Steve Garcia",
-        "Paulo Costa"
+        "Paulo Costa",
+        "Valter Walker"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1886,7 +1886,7 @@
             "Fight_Time_Seconds": 282,
             "Division": "Heavyweight",
             "Rank": "11",
-            "Selected_Date": "2026-09-17T09:55:19.506875Z"
+            "Selected_Date": "2026-09-18T09:34:10.965407Z"
         },
         "Tallison Teixeira": {
             "Name": "Tallison Teixeira",
