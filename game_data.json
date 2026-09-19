@@ -1,18 +1,18 @@
 {
     "daily_fighter": {
-        "Name": "Valter Walker",
-        "Profile_URL": "https://www.ufc.com/athlete/valter-walker",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/WALKER_VALTER_10-25.png?itok=5DLHhYiU",
-        "Record": "15-1-0 (W-L-D)",
-        "SLpM": "2.00",
-        "SApM": "2.85",
-        "TD_Avg": "5.74",
-        "Sub_Avg": "2.55",
-        "Fight_Time": "04:42",
-        "Fight_Time_Seconds": 282,
-        "Division": "Heavyweight",
-        "Rank": "11",
-        "Selected_Date": "2026-09-18T09:34:10.965407Z"
+        "Name": "Leon Edwards",
+        "Profile_URL": "https://www.ufc.com/athlete/leon-edwards",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/EDWARDS_LEON_11-15.png?itok=vnOuYzwH",
+        "Record": "22-6-0 (W-L-D)",
+        "SLpM": "2.60",
+        "SApM": "2.44",
+        "TD_Avg": "1.25",
+        "Sub_Avg": "0.36",
+        "Fight_Time": "16:47",
+        "Fight_Time_Seconds": 1007,
+        "Division": "Welterweight",
+        "Rank": "8",
+        "Selected_Date": "2026-09-19T09:21:08.016418Z"
     },
     "past_fighters": [
         "Volkan Oezdemir",
@@ -1186,7 +1186,7 @@
             "Fight_Time_Seconds": 1007,
             "Division": "Welterweight",
             "Rank": "8",
-            "Selected_Date": "2026-02-28T05:38:38.775430Z"
+            "Selected_Date": "2026-09-19T09:21:08.016418Z"
         },
         "Joaquin Buckley": {
             "Name": "Joaquin Buckley",
