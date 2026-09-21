@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Daniel Rodriguez",
-        "Profile_URL": "https://www.ufc.com/athlete/daniel-rodriguez",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/RODRIGUEZ_DANIEL_07-19.png?itok=OsWgy8_k",
-        "Record": "20-5-0 (W-L-D)",
-        "SLpM": "7.20",
-        "SApM": "5.40",
-        "TD_Avg": "0.51",
-        "Sub_Avg": "0.08",
-        "Fight_Time": "11:50",
-        "Fight_Time_Seconds": 710,
-        "Division": "Welterweight",
-        "Rank": "15",
-        "Selected_Date": "2026-09-20T09:42:50.911573Z"
+        "Name": "David Martinez",
+        "Profile_URL": "https://www.ufc.com/athlete/david-martinez",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/MARTINEZ_DAVID_09-13.png?itok=2GGMvqOr",
+        "Record": "13-1-0 (W-L-D)",
+        "SLpM": "4.85",
+        "SApM": "2.95",
+        "TD_Avg": "0.00",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:33",
+        "Fight_Time_Seconds": 693,
+        "Division": "Bantamweight",
+        "Rank": "7",
+        "Selected_Date": "2026-09-21T10:35:23.507980Z"
     },
     "past_fighters": [
-        "Ikram Aliskerov",
         "Reinier de Ridder",
         "Sergei Pavlovich",
         "Steve Garcia",
         "Paulo Costa",
         "Valter Walker",
-        "Leon Edwards"
+        "Leon Edwards",
+        "Daniel Rodriguez"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -626,7 +626,7 @@
             "Fight_Time_Seconds": 693,
             "Division": "Bantamweight",
             "Rank": "7",
-            "Selected_Date": "2026-07-25T07:22:45.039554Z"
+            "Selected_Date": "2026-09-21T10:35:23.507980Z"
         },
         "Rob Font": {
             "Name": "Rob Font",
