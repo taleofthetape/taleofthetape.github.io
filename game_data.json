@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dominick Reyes",
-        "Profile_URL": "https://www.ufc.com/athlete/dominick-reyes",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/REYES_DOMINICK_09-27.png?itok=GyPUc7Gt",
-        "Record": "15-5-0 (W-L-D)",
-        "SLpM": "5.39",
-        "SApM": "3.49",
-        "TD_Avg": "0.29",
-        "Sub_Avg": "0.29",
-        "Fight_Time": "07:21",
-        "Fight_Time_Seconds": 441,
-        "Division": "Light Heavyweight",
-        "Rank": "8",
-        "Selected_Date": "2026-09-22T09:48:46.924559Z"
+        "Name": "Michael Page",
+        "Profile_URL": "https://www.ufc.com/athlete/michael-page",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/PAGE_MICHAEL_08-16.png?itok=mB8ZUukj",
+        "Record": "24-3-0 (W-L-D)",
+        "SLpM": "2.39",
+        "SApM": "1.68",
+        "TD_Avg": "0.23",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "10:44",
+        "Fight_Time_Seconds": 644,
+        "Division": "Welterweight",
+        "Rank": "12",
+        "Selected_Date": "2026-09-23T09:51:17.325129Z"
     },
     "past_fighters": [
-        "Sergei Pavlovich",
         "Steve Garcia",
         "Paulo Costa",
         "Valter Walker",
         "Leon Edwards",
         "Daniel Rodriguez",
-        "David Martinez"
+        "David Martinez",
+        "Dominick Reyes"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -819,7 +819,7 @@
             "Fight_Time": "13:49",
             "Fight_Time_Seconds": 829,
             "Division": "Featherweight",
-            "Rank": "11",
+            "Rank": "13",
             "Selected_Date": "2026-09-08T09:30:49.534988Z"
         },
         "Josh Emmett": {
@@ -863,7 +863,7 @@
             "Fight_Time": "16:04",
             "Fight_Time_Seconds": 964,
             "Division": "Featherweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-05-02T07:03:44.557378Z"
         },
         "Dan Ige": {
@@ -893,7 +893,7 @@
             "Fight_Time": "11:09",
             "Fight_Time_Seconds": 669,
             "Division": "Featherweight",
-            "Rank": "14"
+            "Rank": "15"
         },
         "Giga Chikadze": {
             "Name": "Giga Chikadze",
@@ -1422,7 +1422,7 @@
             "Fight_Time_Seconds": 644,
             "Division": "Welterweight",
             "Rank": "12",
-            "Selected_Date": "2026-04-03T06:14:48.544828Z"
+            "Selected_Date": "2026-09-23T09:51:17.325129Z"
         },
         "Roman Dolidze": {
             "Name": "Roman Dolidze",
