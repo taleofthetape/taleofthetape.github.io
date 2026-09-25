@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Melquizael Costa",
-        "Profile_URL": "https://www.ufc.com/athlete/melquizael-costa",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/COSTA_MELQUIZAEL_02-21.png?itok=gN4PhF42",
-        "Record": "25-7-0 (W-L-D)",
-        "SLpM": "4.38",
-        "SApM": "2.97",
-        "TD_Avg": "2.00",
-        "Sub_Avg": "1.09",
-        "Fight_Time": "09:11",
-        "Fight_Time_Seconds": 551,
-        "Division": "Featherweight",
-        "Rank": "12",
-        "Selected_Date": "2026-09-24T09:51:23.082439Z"
+        "Name": "Michael Chandler",
+        "Profile_URL": "https://www.ufc.com/athlete/michael-chandler",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHANDLER_MICHAEL_04-12.png?itok=5kKJoIMh",
+        "Record": "23-10-0 (W-L-D)",
+        "SLpM": "4.04",
+        "SApM": "4.52",
+        "TD_Avg": "1.96",
+        "Sub_Avg": "0.56",
+        "Fight_Time": "09:37",
+        "Fight_Time_Seconds": 577,
+        "Division": "Lightweight",
+        "Rank": "13",
+        "Selected_Date": "2026-09-25T10:06:35.859986Z"
     },
     "past_fighters": [
-        "Paulo Costa",
         "Valter Walker",
         "Leon Edwards",
         "Daniel Rodriguez",
         "David Martinez",
         "Dominick Reyes",
-        "Michael Page"
+        "Michael Page",
+        "Melquizael Costa"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1024,7 +1024,7 @@
             "Fight_Time_Seconds": 577,
             "Division": "Lightweight",
             "Rank": "13",
-            "Selected_Date": "2026-05-07T07:46:07.989319Z"
+            "Selected_Date": "2026-09-25T10:06:35.859986Z"
         },
         "Beneil Dariush": {
             "Name": "Beneil Dariush",
