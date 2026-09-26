@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Michael Chandler",
-        "Profile_URL": "https://www.ufc.com/athlete/michael-chandler",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/CHANDLER_MICHAEL_04-12.png?itok=5kKJoIMh",
-        "Record": "23-10-0 (W-L-D)",
-        "SLpM": "4.04",
-        "SApM": "4.52",
-        "TD_Avg": "1.96",
-        "Sub_Avg": "0.56",
-        "Fight_Time": "09:37",
-        "Fight_Time_Seconds": 577,
-        "Division": "Lightweight",
-        "Rank": "13",
-        "Selected_Date": "2026-09-25T10:06:35.859986Z"
+        "Name": "Michael Venom Page",
+        "Profile_URL": "https://www.ufc.com/athlete/michael-page",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=oSvGjLsI",
+        "Record": "26-3-0 (W-L-D)",
+        "SLpM": "2.04",
+        "SApM": "1.36",
+        "TD_Avg": "0.16",
+        "Sub_Avg": "0.16",
+        "Fight_Time": "11:48",
+        "Fight_Time_Seconds": 708,
+        "Division": "Middleweight",
+        "Rank": "8",
+        "Selected_Date": "2026-09-26T09:47:20.824137Z"
     },
     "past_fighters": [
-        "Valter Walker",
         "Leon Edwards",
         "Daniel Rodriguez",
         "David Martinez",
         "Dominick Reyes",
         "Michael Page",
-        "Melquizael Costa"
+        "Melquizael Costa",
+        "Michael Chandler"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2151,7 +2151,8 @@
             "Fight_Time": "11:48",
             "Fight_Time_Seconds": 708,
             "Division": "Middleweight",
-            "Rank": "8"
+            "Rank": "8",
+            "Selected_Date": "2026-09-26T09:47:20.824137Z"
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
