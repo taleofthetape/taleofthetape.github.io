@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Quillan Salkilld",
-        "Profile_URL": "https://www.ufc.com/athlete/quillan-salkilld",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/SALKILLD_QUILLAN_05-02.png?itok=Y_X_Jx3C",
-        "Record": "12-1-0 (W-L-D)",
-        "SLpM": "5.01",
-        "SApM": "3.03",
-        "TD_Avg": "7.25",
-        "Sub_Avg": "0.76",
-        "Fight_Time": "06:33",
-        "Fight_Time_Seconds": 393,
-        "Division": "Lightweight",
-        "Rank": "6",
-        "Selected_Date": "2026-09-27T10:28:42.061969Z"
+        "Name": "Deiveson Figueiredo",
+        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
+        "Record": "25-5-1 (W-L-D)",
+        "SLpM": "2.75",
+        "SApM": "3.54",
+        "TD_Avg": "1.71",
+        "Sub_Avg": "1.29",
+        "Fight_Time": "12:45",
+        "Fight_Time_Seconds": 765,
+        "Division": "Bantamweight",
+        "Rank": "11",
+        "Selected_Date": "2026-09-28T11:36:28.317406Z"
     },
     "past_fighters": [
-        "Daniel Rodriguez",
         "David Martinez",
         "Dominick Reyes",
         "Michael Page",
         "Melquizael Costa",
         "Michael Chandler",
-        "Michael Venom Page"
+        "Michael Venom Page",
+        "Quillan Salkilld"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -551,7 +551,7 @@
             "Fight_Time_Seconds": 765,
             "Division": "Bantamweight",
             "Rank": "11",
-            "Selected_Date": "2026-08-08T05:47:31.818021Z"
+            "Selected_Date": "2026-09-28T11:36:28.317406Z"
         },
         "Aiemann Zahabi": {
             "Name": "Aiemann Zahabi",
