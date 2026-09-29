@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Deiveson Figueiredo",
-        "Profile_URL": "https://www.ufc.com/athlete/deiveson-figueiredo",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/FIGUEIREDO_DEIVESON_10-11.png?itok=h6Kj9eCO",
-        "Record": "25-5-1 (W-L-D)",
-        "SLpM": "2.75",
-        "SApM": "3.54",
-        "TD_Avg": "1.71",
-        "Sub_Avg": "1.29",
-        "Fight_Time": "12:45",
-        "Fight_Time_Seconds": 765,
-        "Division": "Bantamweight",
-        "Rank": "11",
-        "Selected_Date": "2026-09-28T11:36:28.317406Z"
+        "Name": "Dricus Du Plessis",
+        "Profile_URL": "https://www.ufc.com/athlete/dricus-du-plessis",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-01/DU_PLESSIS_DRICUS_01-20.png?itok=RO5s6PAD",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.18",
+        "SApM": "4.33",
+        "TD_Avg": "2.22",
+        "Sub_Avg": "0.71",
+        "Fight_Time": "14:53",
+        "Fight_Time_Seconds": 893,
+        "Division": "Middleweight",
+        "Rank": "2",
+        "Selected_Date": "2026-09-29T11:14:45.295113Z"
     },
     "past_fighters": [
-        "David Martinez",
         "Dominick Reyes",
         "Michael Page",
         "Melquizael Costa",
         "Michael Chandler",
         "Michael Venom Page",
-        "Quillan Salkilld"
+        "Quillan Salkilld",
+        "Deiveson Figueiredo"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -156,7 +156,8 @@
             "Fight_Time": "14:53",
             "Fight_Time_Seconds": 893,
             "Division": "Middleweight",
-            "Rank": "2"
+            "Rank": "2",
+            "Selected_Date": "2026-09-29T11:14:45.295113Z"
         },
         "Max Holloway": {
             "Name": "Max Holloway",
@@ -580,7 +581,7 @@
             "Fight_Time": "13:33",
             "Fight_Time_Seconds": 813,
             "Division": "Bantamweight",
-            "Rank": "12",
+            "Rank": "14",
             "Selected_Date": "2026-06-22T10:44:36.227396Z"
         },
         "Mario Bautista": {
@@ -1406,7 +1407,7 @@
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
             "Division": "Middleweight",
-            "Rank": "15",
+            "Rank": "11",
             "Selected_Date": "2026-08-13T06:21:16.761813Z"
         },
         "Michael Page": {
@@ -1841,7 +1842,7 @@
             "Fight_Time": "08:01",
             "Fight_Time_Seconds": 481,
             "Division": "Heavyweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-09-07T10:06:08.131586Z"
         },
         "Tai Tuivasa": {
@@ -1931,7 +1932,7 @@
             "Fight_Time": "10:46",
             "Fight_Time_Seconds": 646,
             "Division": "Bantamweight",
-            "Rank": "15",
+            "Rank": "12",
             "Selected_Date": "2026-04-07T06:21:45.154744Z"
         },
         "Kevin Vallejos": {
@@ -2107,7 +2108,7 @@
             "Fight_Time": "10:45",
             "Fight_Time_Seconds": 645,
             "Division": "Bantamweight",
-            "Rank": "12",
+            "Rank": "8",
             "Selected_Date": "2026-07-27T08:38:24.745427Z"
         },
         "Farid Basharat": {
@@ -2240,7 +2241,7 @@
             "Fight_Time": "13:09",
             "Fight_Time_Seconds": 789,
             "Division": "Bantamweight",
-            "Rank": "8"
+            "Rank": "13"
         },
         "Quillan Salkilld": {
             "Name": "Quillan Salkilld",
@@ -2394,7 +2395,7 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Bantamweight",
-            "Rank": "14"
+            "Rank": "15"
         },
         "Pat Sabatini": {
             "Name": "Pat Sabatini",
