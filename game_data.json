@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dricus Du Plessis",
-        "Profile_URL": "https://www.ufc.com/athlete/dricus-du-plessis",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-01/DU_PLESSIS_DRICUS_01-20.png?itok=RO5s6PAD",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "5.18",
+        "Name": "Ignacio Bahamondes",
+        "Profile_URL": "https://www.ufc.com/athlete/ignacio-bahamondes",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/FIZIEV_RAFAEL_06-21.png?itok=PYGsqBQt",
+        "Record": "17-6-0 (W-L-D)",
+        "SLpM": "6.55",
         "SApM": "4.33",
-        "TD_Avg": "2.22",
-        "Sub_Avg": "0.71",
-        "Fight_Time": "14:53",
-        "Fight_Time_Seconds": 893,
-        "Division": "Middleweight",
-        "Rank": "2",
-        "Selected_Date": "2026-09-29T11:14:45.295113Z"
+        "TD_Avg": "0.00",
+        "Sub_Avg": "0.43",
+        "Fight_Time": "10:25",
+        "Fight_Time_Seconds": 625,
+        "Division": "Lightweight",
+        "Rank": "15",
+        "Selected_Date": "2026-09-30T11:03:08.578561Z"
     },
     "past_fighters": [
-        "Dominick Reyes",
         "Michael Page",
         "Melquizael Costa",
         "Michael Chandler",
         "Michael Venom Page",
         "Quillan Salkilld",
-        "Deiveson Figueiredo"
+        "Deiveson Figueiredo",
+        "Dricus Du Plessis"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1084,7 +1084,8 @@
             "Fight_Time": "10:25",
             "Fight_Time_Seconds": 625,
             "Division": "Lightweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-09-30T11:03:08.578561Z"
         },
         "Ian Machado Garry": {
             "Name": "Ian Machado Garry",
@@ -1917,7 +1918,7 @@
             "Fight_Time": "10:57",
             "Fight_Time_Seconds": 657,
             "Division": "Bantamweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-06-02T09:15:23.655342Z"
         },
         "Montel Jackson": {
@@ -2241,7 +2242,7 @@
             "Fight_Time": "13:09",
             "Fight_Time_Seconds": 789,
             "Division": "Bantamweight",
-            "Rank": "13"
+            "Rank": "14"
         },
         "Quillan Salkilld": {
             "Name": "Quillan Salkilld",
