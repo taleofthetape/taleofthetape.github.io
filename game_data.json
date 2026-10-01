@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ignacio Bahamondes",
-        "Profile_URL": "https://www.ufc.com/athlete/ignacio-bahamondes",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/FIZIEV_RAFAEL_06-21.png?itok=PYGsqBQt",
-        "Record": "17-6-0 (W-L-D)",
-        "SLpM": "6.55",
-        "SApM": "4.33",
-        "TD_Avg": "0.00",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "10:25",
-        "Fight_Time_Seconds": 625,
+        "Name": "Jalin Turner",
+        "Profile_URL": "https://www.ufc.com/athlete/jalin-turner",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/TURNER_JALIN_08-15.png?itok=--hN8Yi7",
+        "Record": "16-9-0 (W-L-D)",
+        "SLpM": "5.84",
+        "SApM": "4.53",
+        "TD_Avg": "0.75",
+        "Sub_Avg": "1.05",
+        "Fight_Time": "06:16",
+        "Fight_Time_Seconds": 376,
         "Division": "Lightweight",
         "Rank": "15",
-        "Selected_Date": "2026-09-30T11:03:08.578561Z"
+        "Selected_Date": "2026-10-01T11:29:47.739516Z"
     },
     "past_fighters": [
-        "Michael Page",
         "Melquizael Costa",
         "Michael Chandler",
         "Michael Venom Page",
         "Quillan Salkilld",
         "Deiveson Figueiredo",
-        "Dricus Du Plessis"
+        "Dricus Du Plessis",
+        "Ignacio Bahamondes"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2712,7 +2712,8 @@
             "Fight_Time": "06:16",
             "Fight_Time_Seconds": 376,
             "Division": "Lightweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-10-01T11:29:47.739516Z"
         },
         "Edmen Shahbazyan": {
             "Name": "Edmen Shahbazyan",
