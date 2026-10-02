@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jalin Turner",
-        "Profile_URL": "https://www.ufc.com/athlete/jalin-turner",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/TURNER_JALIN_08-15.png?itok=--hN8Yi7",
-        "Record": "16-9-0 (W-L-D)",
-        "SLpM": "5.84",
-        "SApM": "4.53",
-        "TD_Avg": "0.75",
-        "Sub_Avg": "1.05",
-        "Fight_Time": "06:16",
-        "Fight_Time_Seconds": 376,
-        "Division": "Lightweight",
-        "Rank": "15",
-        "Selected_Date": "2026-10-01T11:29:47.739516Z"
+        "Name": "Azamat Murzakanov",
+        "Profile_URL": "https://www.ufc.com/athlete/azamat-murzakanov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/MURZAKANOV_AZAMAT_10-25.png?itok=jtRiCiFI",
+        "Record": "16-0-0 (W-L-D)",
+        "SLpM": "4.70",
+        "SApM": "2.86",
+        "TD_Avg": "0.55",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "07:51",
+        "Fight_Time_Seconds": 471,
+        "Division": "Light Heavyweight",
+        "Rank": "10",
+        "Selected_Date": "2026-10-02T10:59:20.460190Z"
     },
     "past_fighters": [
-        "Melquizael Costa",
         "Michael Chandler",
         "Michael Venom Page",
         "Quillan Salkilld",
         "Deiveson Figueiredo",
         "Dricus Du Plessis",
-        "Ignacio Bahamondes"
+        "Ignacio Bahamondes",
+        "Jalin Turner"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1566,7 +1566,7 @@
             "Fight_Time_Seconds": 471,
             "Division": "Light Heavyweight",
             "Rank": "10",
-            "Selected_Date": "2026-06-26T08:33:32.382115Z"
+            "Selected_Date": "2026-10-02T10:59:20.460190Z"
         },
         "Dominick Reyes": {
             "Name": "Dominick Reyes",
