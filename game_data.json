@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Azamat Murzakanov",
-        "Profile_URL": "https://www.ufc.com/athlete/azamat-murzakanov",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/MURZAKANOV_AZAMAT_10-25.png?itok=jtRiCiFI",
-        "Record": "16-0-0 (W-L-D)",
-        "SLpM": "4.70",
-        "SApM": "2.86",
-        "TD_Avg": "0.55",
+        "Name": "Dustin Jacoby",
+        "Profile_URL": "https://www.ufc.com/athlete/dustin-jacoby",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/JACOBY_DUSTIN_02-07.png?itok=KyBLR6Te",
+        "Record": "22-9-1 (W-L-D)",
+        "SLpM": "5.40",
+        "SApM": "3.92",
+        "TD_Avg": "0.32",
         "Sub_Avg": "0.00",
-        "Fight_Time": "07:51",
-        "Fight_Time_Seconds": 471,
+        "Fight_Time": "09:58",
+        "Fight_Time_Seconds": 598,
         "Division": "Light Heavyweight",
         "Rank": "10",
-        "Selected_Date": "2026-10-02T10:59:20.460190Z"
+        "Selected_Date": "2026-10-03T10:19:12.142161Z"
     },
     "past_fighters": [
-        "Michael Chandler",
         "Michael Venom Page",
         "Quillan Salkilld",
         "Deiveson Figueiredo",
         "Dricus Du Plessis",
         "Ignacio Bahamondes",
-        "Jalin Turner"
+        "Jalin Turner",
+        "Azamat Murzakanov"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2021,7 +2021,7 @@
             "Fight_Time_Seconds": 598,
             "Division": "Light Heavyweight",
             "Rank": "10",
-            "Selected_Date": "2026-02-24T06:03:52.329273Z"
+            "Selected_Date": "2026-10-03T10:19:12.142161Z"
         },
         "Rizvan Kuniev": {
             "Name": "Rizvan Kuniev",
