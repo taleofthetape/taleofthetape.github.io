@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dustin Jacoby",
-        "Profile_URL": "https://www.ufc.com/athlete/dustin-jacoby",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/JACOBY_DUSTIN_02-07.png?itok=KyBLR6Te",
-        "Record": "22-9-1 (W-L-D)",
-        "SLpM": "5.40",
-        "SApM": "3.92",
-        "TD_Avg": "0.32",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "09:58",
-        "Fight_Time_Seconds": 598,
-        "Division": "Light Heavyweight",
-        "Rank": "10",
-        "Selected_Date": "2026-10-03T10:19:12.142161Z"
+        "Name": "Pat Sabatini",
+        "Profile_URL": "https://www.ufc.com/athlete/pat-sabatini",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-05/SABATINI_PAT_05-09.png?itok=52zF4KWA",
+        "Record": "22-5-0 (W-L-D)",
+        "SLpM": "1.69",
+        "SApM": "1.16",
+        "TD_Avg": "4.27",
+        "Sub_Avg": "1.28",
+        "Fight_Time": "09:35",
+        "Fight_Time_Seconds": 575,
+        "Division": "Featherweight",
+        "Rank": "7",
+        "Selected_Date": "2026-10-04T11:02:49.283634Z"
     },
     "past_fighters": [
-        "Michael Venom Page",
         "Quillan Salkilld",
         "Deiveson Figueiredo",
         "Dricus Du Plessis",
         "Ignacio Bahamondes",
         "Jalin Turner",
-        "Azamat Murzakanov"
+        "Azamat Murzakanov",
+        "Dustin Jacoby"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2410,7 +2410,8 @@
             "Fight_Time": "09:35",
             "Fight_Time_Seconds": 575,
             "Division": "Featherweight",
-            "Rank": "7"
+            "Rank": "7",
+            "Selected_Date": "2026-10-04T11:02:49.283634Z"
         },
         "Nathaniel Wood": {
             "Name": "Nathaniel Wood",
