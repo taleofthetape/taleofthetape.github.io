@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Pat Sabatini",
-        "Profile_URL": "https://www.ufc.com/athlete/pat-sabatini",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-05/SABATINI_PAT_05-09.png?itok=52zF4KWA",
-        "Record": "22-5-0 (W-L-D)",
-        "SLpM": "1.69",
-        "SApM": "1.16",
-        "TD_Avg": "4.27",
-        "Sub_Avg": "1.28",
-        "Fight_Time": "09:35",
-        "Fight_Time_Seconds": 575,
-        "Division": "Featherweight",
-        "Rank": "7",
-        "Selected_Date": "2026-10-04T11:02:49.283634Z"
+        "Name": "Yaroslav Amosov",
+        "Profile_URL": "https://www.ufc.com/athlete/yaroslav-amosov",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/AMOSOV_YAROSLAV_12-13.png?itok=Ka_w0ilG",
+        "Record": "29-1-0 (W-L-D)",
+        "SLpM": "2.78",
+        "SApM": "1.55",
+        "TD_Avg": "4.64",
+        "Sub_Avg": "4.64",
+        "Fight_Time": "03:14",
+        "Fight_Time_Seconds": 194,
+        "Division": "Welterweight",
+        "Rank": "13",
+        "Selected_Date": "2026-10-05T12:10:53.340132Z"
     },
     "past_fighters": [
-        "Quillan Salkilld",
         "Deiveson Figueiredo",
         "Dricus Du Plessis",
         "Ignacio Bahamondes",
         "Jalin Turner",
         "Azamat Murzakanov",
-        "Dustin Jacoby"
+        "Dustin Jacoby",
+        "Pat Sabatini"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2228,7 +2228,7 @@
             "Fight_Time_Seconds": 194,
             "Division": "Welterweight",
             "Rank": "13",
-            "Selected_Date": "2026-06-27T07:52:47.493493Z"
+            "Selected_Date": "2026-10-05T12:10:53.340132Z"
         },
         "Raoni Barcelos": {
             "Name": "Raoni Barcelos",
