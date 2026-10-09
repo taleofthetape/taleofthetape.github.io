@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Joseph Morales",
-        "Profile_URL": "https://www.ufc.com/athlete/joseph-morales",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_JOSEPH_11-08.png?itok=MG6D5sRK",
-        "Record": "15-2-0 (W-L-D)",
-        "SLpM": "2.00",
-        "SApM": "2.05",
-        "TD_Avg": "1.14",
-        "Sub_Avg": "3.04",
-        "Fight_Time": "07:54",
-        "Fight_Time_Seconds": 474,
-        "Division": "Flyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-10-08T11:54:23.030848Z"
+        "Name": "Dan Hooker",
+        "Profile_URL": "https://www.ufc.com/athlete/dan-hooker",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HOOKER_DAN_11-22.png?itok=oukyDOeT",
+        "Record": "24-13-0 (W-L-D)",
+        "SLpM": "4.89",
+        "SApM": "4.73",
+        "TD_Avg": "0.71",
+        "Sub_Avg": "0.45",
+        "Fight_Time": "10:09",
+        "Fight_Time_Seconds": 609,
+        "Division": "Lightweight",
+        "Rank": "13",
+        "Selected_Date": "2026-10-09T11:46:12.344560Z"
     },
     "past_fighters": [
-        "Jalin Turner",
         "Azamat Murzakanov",
         "Dustin Jacoby",
         "Pat Sabatini",
         "Yaroslav Amosov",
         "Muhammad Saidov",
-        "Raul Rosas Jr."
+        "Raul Rosas Jr.",
+        "Joseph Morales"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -953,7 +953,8 @@
             "Fight_Time": "10:09",
             "Fight_Time_Seconds": 609,
             "Division": "Lightweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-10-09T11:46:12.344560Z"
         },
         "Mateusz Gamrot": {
             "Name": "Mateusz Gamrot",
