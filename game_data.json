@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dan Hooker",
-        "Profile_URL": "https://www.ufc.com/athlete/dan-hooker",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/HOOKER_DAN_11-22.png?itok=oukyDOeT",
-        "Record": "24-13-0 (W-L-D)",
-        "SLpM": "4.89",
-        "SApM": "4.73",
-        "TD_Avg": "0.71",
-        "Sub_Avg": "0.45",
-        "Fight_Time": "10:09",
-        "Fight_Time_Seconds": 609,
-        "Division": "Lightweight",
-        "Rank": "13",
-        "Selected_Date": "2026-10-09T11:46:12.344560Z"
+        "Name": "Michael Venom Page",
+        "Profile_URL": "https://www.ufc.com/athlete/michael-page",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=oSvGjLsI",
+        "Record": "26-3-0 (W-L-D)",
+        "SLpM": "2.04",
+        "SApM": "1.36",
+        "TD_Avg": "0.16",
+        "Sub_Avg": "0.16",
+        "Fight_Time": "11:48",
+        "Fight_Time_Seconds": 708,
+        "Division": "Middleweight",
+        "Rank": "8",
+        "Selected_Date": "2026-10-10T11:03:58.255250Z"
     },
     "past_fighters": [
-        "Azamat Murzakanov",
         "Dustin Jacoby",
         "Pat Sabatini",
         "Yaroslav Amosov",
         "Muhammad Saidov",
         "Raul Rosas Jr.",
-        "Joseph Morales"
+        "Joseph Morales",
+        "Dan Hooker"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2155,7 +2155,7 @@
             "Fight_Time_Seconds": 708,
             "Division": "Middleweight",
             "Rank": "8",
-            "Selected_Date": "2026-09-26T09:47:20.824137Z"
+            "Selected_Date": "2026-10-10T11:03:58.255250Z"
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
