@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Michael Venom Page",
-        "Profile_URL": "https://www.ufc.com/athlete/michael-page",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/PAGE_MICHAEL_03-21.png?itok=oSvGjLsI",
-        "Record": "26-3-0 (W-L-D)",
-        "SLpM": "2.04",
-        "SApM": "1.36",
-        "TD_Avg": "0.16",
-        "Sub_Avg": "0.16",
-        "Fight_Time": "11:48",
-        "Fight_Time_Seconds": 708,
-        "Division": "Middleweight",
-        "Rank": "8",
-        "Selected_Date": "2026-10-10T11:03:58.255250Z"
+        "Name": "Navajo Stirling",
+        "Profile_URL": "https://www.ufc.com/athlete/navajo-stirling",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/STIRLING_NAVAJO_06-20.png?itok=zEZnaHTX",
+        "Record": "10-0-0 (W-L-D)",
+        "SLpM": "6.24",
+        "SApM": "2.62",
+        "TD_Avg": "0.86",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "11:38",
+        "Fight_Time_Seconds": 698,
+        "Division": "Light Heavyweight",
+        "Rank": "6",
+        "Selected_Date": "2026-10-11T11:20:29.578520Z"
     },
     "past_fighters": [
-        "Dustin Jacoby",
         "Pat Sabatini",
         "Yaroslav Amosov",
         "Muhammad Saidov",
         "Raul Rosas Jr.",
         "Joseph Morales",
-        "Dan Hooker"
+        "Dan Hooker",
+        "Michael Venom Page"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2483,7 +2483,8 @@
             "Fight_Time": "11:38",
             "Fight_Time_Seconds": 698,
             "Division": "Light Heavyweight",
-            "Rank": "6"
+            "Rank": "6",
+            "Selected_Date": "2026-10-11T11:20:29.578520Z"
         },
         "Mario Pinto": {
             "Name": "Mario Pinto",
