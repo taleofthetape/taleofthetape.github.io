@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Song Yadong",
-        "Profile_URL": "https://www.ufc.com/athlete/song-yadong",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/YADONG_SONG_02-22.png?itok=WCb_V9Vo",
-        "Record": "22-8-1 (W-L-D)",
-        "SLpM": "4.58",
-        "SApM": "4.00",
-        "TD_Avg": "0.61",
-        "Sub_Avg": "0.15",
-        "Fight_Time": "13:05",
-        "Fight_Time_Seconds": 785,
-        "Division": "Bantamweight",
-        "Rank": "2",
-        "Selected_Date": "2026-10-12T12:57:57.840141Z"
+        "Name": "Carlos Ulberg",
+        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
+        "Record": "14-1-0 (W-L-D)",
+        "SLpM": "6.54",
+        "SApM": "4.04",
+        "TD_Avg": "0.55",
+        "Sub_Avg": "0.18",
+        "Fight_Time": "07:27",
+        "Fight_Time_Seconds": 447,
+        "Division": "Light Heavyweight",
+        "Rank": "C",
+        "Selected_Date": "2026-10-13T12:34:26.896530Z"
     },
     "past_fighters": [
-        "Yaroslav Amosov",
         "Muhammad Saidov",
         "Raul Rosas Jr.",
         "Joseph Morales",
         "Dan Hooker",
         "Michael Venom Page",
-        "Navajo Stirling"
+        "Navajo Stirling",
+        "Song Yadong"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1514,7 +1514,7 @@
             "Fight_Time_Seconds": 447,
             "Division": "Light Heavyweight",
             "Rank": "C",
-            "Selected_Date": "2026-04-23T07:03:06.575883Z"
+            "Selected_Date": "2026-10-13T12:34:26.896530Z"
         },
         "Khalil Rountree Jr.": {
             "Name": "Khalil Rountree Jr.",
