@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Carlos Ulberg",
-        "Profile_URL": "https://www.ufc.com/athlete/carlos-ulberg",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/ULBERG_CARLOS_09-27.png?itok=QpZRTsxq",
-        "Record": "14-1-0 (W-L-D)",
-        "SLpM": "6.54",
-        "SApM": "4.04",
-        "TD_Avg": "0.55",
-        "Sub_Avg": "0.18",
-        "Fight_Time": "07:27",
-        "Fight_Time_Seconds": 447,
-        "Division": "Light Heavyweight",
-        "Rank": "C",
-        "Selected_Date": "2026-10-13T12:34:26.896530Z"
+        "Name": "Tofiq Musayev",
+        "Profile_URL": "https://www.ufc.com/athlete/tofiq-musayev",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/MUSAYEV_TOFIQ_08-01.png?itok=UdBaD0GW",
+        "Record": "24-6-0 (W-L-D)",
+        "SLpM": "2.86",
+        "SApM": "2.79",
+        "TD_Avg": "1.57",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "09:34",
+        "Fight_Time_Seconds": 574,
+        "Division": "Lightweight",
+        "Rank": "13",
+        "Selected_Date": "2026-10-14T10:01:28.212861Z"
     },
     "past_fighters": [
-        "Muhammad Saidov",
         "Raul Rosas Jr.",
         "Joseph Morales",
         "Dan Hooker",
         "Michael Venom Page",
         "Navajo Stirling",
-        "Song Yadong"
+        "Song Yadong",
+        "Carlos Ulberg"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -581,7 +581,7 @@
             "Fight_Time": "13:33",
             "Fight_Time_Seconds": 813,
             "Division": "Bantamweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-06-22T10:44:36.227396Z"
         },
         "Mario Bautista": {
@@ -1334,7 +1334,7 @@
             "Fight_Time": "11:07",
             "Fight_Time_Seconds": 667,
             "Division": "Middleweight",
-            "Rank": "5",
+            "Rank": "4",
             "Selected_Date": "2026-09-02T09:25:54.629306Z"
         },
         "Israel Adesanya": {
@@ -1993,7 +1993,7 @@
             "Fight_Time": "08:10",
             "Fight_Time_Seconds": 490,
             "Division": "Middleweight",
-            "Rank": "4"
+            "Rank": "5"
         },
         "Brunno Ferreira": {
             "Name": "Brunno Ferreira",
@@ -2140,7 +2140,7 @@
             "Fight_Time": "10:03",
             "Fight_Time_Seconds": 603,
             "Division": "Middleweight",
-            "Rank": "10"
+            "Rank": "11"
         },
         "Michael Venom Page": {
             "Name": "Michael Venom Page",
@@ -2284,7 +2284,7 @@
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
             "Division": "Middleweight",
-            "Rank": "11",
+            "Rank": "10",
             "Selected_Date": "2026-09-12T09:09:48.913891Z"
         },
         "Edgar Chairez": {
@@ -2397,7 +2397,7 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Bantamweight",
-            "Rank": "15"
+            "Rank": "14"
         },
         "Pat Sabatini": {
             "Name": "Pat Sabatini",
@@ -2598,7 +2598,8 @@
             "Fight_Time": "09:34",
             "Fight_Time_Seconds": 574,
             "Division": "Lightweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-10-14T10:01:28.212861Z"
         },
         "Kevin Holland": {
             "Name": "Kevin Holland",
