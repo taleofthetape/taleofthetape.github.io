@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Tofiq Musayev",
-        "Profile_URL": "https://www.ufc.com/athlete/tofiq-musayev",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/MUSAYEV_TOFIQ_08-01.png?itok=UdBaD0GW",
-        "Record": "24-6-0 (W-L-D)",
-        "SLpM": "2.86",
-        "SApM": "2.79",
-        "TD_Avg": "1.57",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "09:34",
-        "Fight_Time_Seconds": 574,
-        "Division": "Lightweight",
-        "Rank": "13",
-        "Selected_Date": "2026-10-14T10:01:28.212861Z"
+        "Name": "Tatsuro Taira",
+        "Profile_URL": "https://www.ufc.com/athlete/tatsuro-taira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/TAIRA_TATSURO_08-02.png?itok=AKe72cIY",
+        "Record": "17-1-0 (W-L-D)",
+        "SLpM": "2.87",
+        "SApM": "2.54",
+        "TD_Avg": "3.21",
+        "Sub_Avg": "1.69",
+        "Fight_Time": "11:05",
+        "Fight_Time_Seconds": 665,
+        "Division": "Flyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-10-15T09:43:56.680727Z"
     },
     "past_fighters": [
-        "Raul Rosas Jr.",
         "Joseph Morales",
         "Dan Hooker",
         "Michael Venom Page",
         "Navajo Stirling",
         "Song Yadong",
-        "Carlos Ulberg"
+        "Carlos Ulberg",
+        "Tofiq Musayev"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -315,7 +315,8 @@
             "Fight_Time": "11:05",
             "Fight_Time_Seconds": 665,
             "Division": "Flyweight",
-            "Rank": "4"
+            "Rank": "4",
+            "Selected_Date": "2026-10-15T09:43:56.680727Z"
         },
         "Manel Kape": {
             "Name": "Manel Kape",
