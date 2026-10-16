@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Tatsuro Taira",
-        "Profile_URL": "https://www.ufc.com/athlete/tatsuro-taira",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/TAIRA_TATSURO_08-02.png?itok=AKe72cIY",
-        "Record": "17-1-0 (W-L-D)",
-        "SLpM": "2.87",
-        "SApM": "2.54",
-        "TD_Avg": "3.21",
-        "Sub_Avg": "1.69",
-        "Fight_Time": "11:05",
-        "Fight_Time_Seconds": 665,
-        "Division": "Flyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-10-15T09:43:56.680727Z"
+        "Name": "Kamaru Usman",
+        "Profile_URL": "https://www.ufc.com/athlete/kamaru-usman",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/USMAN_KAMARU_06-14.png?itok=-U8MPpeb",
+        "Record": "21-4-0 (W-L-D)",
+        "SLpM": "4.16",
+        "SApM": "2.67",
+        "TD_Avg": "2.79",
+        "Sub_Avg": "0.09",
+        "Fight_Time": "17:50",
+        "Fight_Time_Seconds": 1070,
+        "Division": "Welterweight",
+        "Rank": "12",
+        "Selected_Date": "2026-10-16T09:37:15.503138Z"
     },
     "past_fighters": [
-        "Joseph Morales",
         "Dan Hooker",
         "Michael Venom Page",
         "Navajo Stirling",
         "Song Yadong",
         "Carlos Ulberg",
-        "Tofiq Musayev"
+        "Tofiq Musayev",
+        "Tatsuro Taira"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1175,7 +1175,8 @@
             "Fight_Time": "17:50",
             "Fight_Time_Seconds": 1070,
             "Division": "Welterweight",
-            "Rank": "12"
+            "Rank": "12",
+            "Selected_Date": "2026-10-16T09:37:15.503138Z"
         },
         "Leon Edwards": {
             "Name": "Leon Edwards",
