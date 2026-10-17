@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Kamaru Usman",
-        "Profile_URL": "https://www.ufc.com/athlete/kamaru-usman",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/USMAN_KAMARU_06-14.png?itok=-U8MPpeb",
-        "Record": "21-4-0 (W-L-D)",
-        "SLpM": "4.16",
-        "SApM": "2.67",
-        "TD_Avg": "2.79",
-        "Sub_Avg": "0.09",
-        "Fight_Time": "17:50",
-        "Fight_Time_Seconds": 1070,
-        "Division": "Welterweight",
-        "Rank": "12",
-        "Selected_Date": "2026-10-16T09:37:15.503138Z"
+        "Name": "Far\u00e8s Ziam",
+        "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/ZIAM_FARES_06-06.png?itok=7YpuBOSY",
+        "Record": "18-5-0 (W-L-D)",
+        "SLpM": "2.87",
+        "SApM": "1.53",
+        "TD_Avg": "1.73",
+        "Sub_Avg": "0.46",
+        "Fight_Time": "13:01",
+        "Fight_Time_Seconds": 781,
+        "Division": "Lightweight",
+        "Rank": "14",
+        "Selected_Date": "2026-10-17T09:09:06.372007Z"
     },
     "past_fighters": [
-        "Dan Hooker",
         "Michael Venom Page",
         "Navajo Stirling",
         "Song Yadong",
         "Carlos Ulberg",
         "Tofiq Musayev",
-        "Tatsuro Taira"
+        "Tatsuro Taira",
+        "Kamaru Usman"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1981,7 +1981,7 @@
             "Fight_Time_Seconds": 781,
             "Division": "Lightweight",
             "Rank": "14",
-            "Selected_Date": "2026-06-10T08:56:15.450570Z"
+            "Selected_Date": "2026-10-17T09:09:06.372007Z"
         },
         "Joe Pyfer": {
             "Name": "Joe Pyfer",
