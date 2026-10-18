@@ -1,27 +1,25 @@
 {
     "daily_fighter": {
-        "Name": "Far\u00e8s Ziam",
-        "Profile_URL": "https://www.ufc.com/athlete/fares-ziam",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/ZIAM_FARES_06-06.png?itok=7YpuBOSY",
-        "Record": "18-5-0 (W-L-D)",
-        "SLpM": "2.87",
-        "SApM": "1.53",
-        "TD_Avg": "1.73",
-        "Sub_Avg": "0.46",
-        "Fight_Time": "13:01",
-        "Fight_Time_Seconds": 781,
-        "Division": "Lightweight",
-        "Rank": "14",
-        "Selected_Date": "2026-10-17T09:09:06.372007Z"
+        "Name": "Zhang Mingyang",
+        "Profile_URL": "https://www.ufc.com/athlete/zhang-mingyang",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/MINGYANG_ZHANG_08-23.png?itok=GMmV2Dxj",
+        "Record": "19-7-0 (W-L-D)",
+        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
+        "TD_Avg": "43\n                  %",
+        "Sub_Avg": "75\n                      %",
+        "Fight_Time_Seconds": 0,
+        "Division": "Light Heavyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-10-18T09:25:47.279844Z"
     },
     "past_fighters": [
-        "Michael Venom Page",
         "Navajo Stirling",
         "Song Yadong",
         "Carlos Ulberg",
         "Tofiq Musayev",
         "Tatsuro Taira",
-        "Kamaru Usman"
+        "Kamaru Usman",
+        "Far\u00e8s Ziam"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1669,7 +1667,7 @@
             "Fight_Time_Seconds": 0,
             "Division": "Light Heavyweight",
             "Rank": "15",
-            "Selected_Date": "2026-06-23T08:33:06.344028Z"
+            "Selected_Date": "2026-10-18T09:25:47.279844Z"
         },
         "Alonzo Menifield": {
             "Name": "Alonzo Menifield",
