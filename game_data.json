@@ -1,25 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Zhang Mingyang",
-        "Profile_URL": "https://www.ufc.com/athlete/zhang-mingyang",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/MINGYANG_ZHANG_08-23.png?itok=GMmV2Dxj",
-        "Record": "19-7-0 (W-L-D)",
-        "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
-        "TD_Avg": "43\n                  %",
-        "Sub_Avg": "75\n                      %",
-        "Fight_Time_Seconds": 0,
-        "Division": "Light Heavyweight",
-        "Rank": "15",
-        "Selected_Date": "2026-10-18T09:25:47.279844Z"
+        "Name": "Steve Erceg",
+        "Profile_URL": "https://www.ufc.com/athlete/steve-erceg",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ERCEG_STEVE_08-09.png?itok=AUbCmbUe",
+        "Record": "13-4-0 (W-L-D)",
+        "SLpM": "4.00",
+        "SApM": "3.79",
+        "TD_Avg": "1.15",
+        "Sub_Avg": "0.43",
+        "Fight_Time": "14:56",
+        "Fight_Time_Seconds": 896,
+        "Division": "Flyweight",
+        "Rank": "12",
+        "Selected_Date": "2026-10-19T10:39:02.871035Z"
     },
     "past_fighters": [
-        "Navajo Stirling",
         "Song Yadong",
         "Carlos Ulberg",
         "Tofiq Musayev",
         "Tatsuro Taira",
         "Kamaru Usman",
-        "Far\u00e8s Ziam"
+        "Far\u00e8s Ziam",
+        "Zhang Mingyang"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -387,7 +389,7 @@
             "Fight_Time_Seconds": 896,
             "Division": "Flyweight",
             "Rank": "12",
-            "Selected_Date": "2026-05-17T07:37:02.394608Z"
+            "Selected_Date": "2026-10-19T10:39:02.871035Z"
         },
         "Alex Perez": {
             "Name": "Alex Perez",
