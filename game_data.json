@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Steve Erceg",
-        "Profile_URL": "https://www.ufc.com/athlete/steve-erceg",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ERCEG_STEVE_08-09.png?itok=AUbCmbUe",
-        "Record": "13-4-0 (W-L-D)",
-        "SLpM": "4.00",
-        "SApM": "3.79",
-        "TD_Avg": "1.15",
-        "Sub_Avg": "0.43",
-        "Fight_Time": "14:56",
-        "Fight_Time_Seconds": 896,
-        "Division": "Flyweight",
-        "Rank": "12",
-        "Selected_Date": "2026-10-19T10:39:02.871035Z"
+        "Name": "Paulo Costa",
+        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
+        "Record": "15-4-0 (W-L-D)",
+        "SLpM": "6.26",
+        "SApM": "6.20",
+        "TD_Avg": "0.32",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "12:46",
+        "Fight_Time_Seconds": 766,
+        "Division": "Light Heavyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-10-20T09:55:25.117129Z"
     },
     "past_fighters": [
-        "Song Yadong",
         "Carlos Ulberg",
         "Tofiq Musayev",
         "Tatsuro Taira",
         "Kamaru Usman",
         "Far\u00e8s Ziam",
-        "Zhang Mingyang"
+        "Zhang Mingyang",
+        "Steve Erceg"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1457,7 +1457,7 @@
             "Fight_Time_Seconds": 766,
             "Division": "Light Heavyweight",
             "Rank": "4",
-            "Selected_Date": "2026-09-16T09:48:42.410412Z"
+            "Selected_Date": "2026-10-20T09:55:25.117129Z"
         },
         "Marvin Vettori": {
             "Name": "Marvin Vettori",
