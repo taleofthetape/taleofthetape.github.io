@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Paulo Costa",
-        "Profile_URL": "https://www.ufc.com/athlete/paulo-costa",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/COSTA_PAULO_07-19.png?itok=A3_cmpza",
-        "Record": "15-4-0 (W-L-D)",
-        "SLpM": "6.26",
-        "SApM": "6.20",
-        "TD_Avg": "0.32",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "12:46",
-        "Fight_Time_Seconds": 766,
-        "Division": "Light Heavyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-10-20T09:55:25.117129Z"
+        "Name": "Jamall Emmers",
+        "Profile_URL": "https://www.ufc.com/athlete/jamall-emmers",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/EMMERS_JAMALL_08-22.png?itok=hz2LQJOe",
+        "Record": "23-8-0 (W-L-D)",
+        "SLpM": "5.10",
+        "SApM": "3.92",
+        "TD_Avg": "2.59",
+        "Sub_Avg": "0.32",
+        "Fight_Time": "09:16",
+        "Fight_Time_Seconds": 556,
+        "Division": "Poids plume",
+        "Rank": "15",
+        "Selected_Date": "2026-10-21T10:01:30.692741Z"
     },
     "past_fighters": [
-        "Carlos Ulberg",
         "Tofiq Musayev",
         "Tatsuro Taira",
         "Kamaru Usman",
         "Far\u00e8s Ziam",
         "Zhang Mingyang",
-        "Steve Erceg"
+        "Steve Erceg",
+        "Paulo Costa"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -35,7 +35,7 @@
             "Sub_Avg": "0.98",
             "Fight_Time": "11:01",
             "Fight_Time_Seconds": 661,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "C",
             "Selected_Date": "2026-03-08T05:51:18.155303Z"
         },
@@ -50,7 +50,7 @@
             "Sub_Avg": "1.07",
             "Fight_Time": "09:22",
             "Fight_Time_Seconds": 562,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "1",
             "Selected_Date": "2026-01-06T05:33:06.727535Z"
         },
@@ -65,7 +65,7 @@
             "Sub_Avg": "0.27",
             "Fight_Time": "17:08",
             "Fight_Time_Seconds": 1028,
-            "Division": "Bantamweight",
+            "Division": "Poids coq",
             "Rank": "1",
             "Selected_Date": "2026-04-16T06:59:14.481468Z"
         },
@@ -80,7 +80,7 @@
             "Sub_Avg": "1.83",
             "Fight_Time": "08:11",
             "Fight_Time_Seconds": 491,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "1",
             "Selected_Date": "2026-08-17T05:40:09.053582Z"
         },
@@ -95,7 +95,7 @@
             "Sub_Avg": "0.98",
             "Fight_Time": "12:37",
             "Fight_Time_Seconds": 757,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "2",
             "Selected_Date": "2026-08-21T05:38:43.877055Z"
         },
@@ -110,7 +110,7 @@
             "Sub_Avg": "0.23",
             "Fight_Time": "11:04",
             "Fight_Time_Seconds": 664,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "3",
             "Selected_Date": "2026-08-15T05:31:07.318060Z"
         },
@@ -125,7 +125,7 @@
             "Sub_Avg": "0.16",
             "Fight_Time": "16:21",
             "Fight_Time_Seconds": 981,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "C",
             "Selected_Date": "2026-07-13T08:21:42.503724Z"
         },
@@ -140,7 +140,7 @@
             "Sub_Avg": "1.31",
             "Fight_Time": "02:18",
             "Fight_Time_Seconds": 138,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "1",
             "Selected_Date": "2026-08-29T11:33:26.780676Z"
         },
@@ -155,7 +155,7 @@
             "Sub_Avg": "0.71",
             "Fight_Time": "14:53",
             "Fight_Time_Seconds": 893,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "2",
             "Selected_Date": "2026-09-29T11:14:45.295113Z"
         },
@@ -170,7 +170,7 @@
             "Sub_Avg": "0.30",
             "Fight_Time": "16:23",
             "Fight_Time_Seconds": 983,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "4",
             "Selected_Date": "2026-07-30T07:38:02.200544Z"
         },
@@ -181,7 +181,7 @@
             "Record": "18-3-0 (W-L-D)",
             "SLpM": "Standing \n      0 (0 %)",
             "Fight_Time_Seconds": 0,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "4",
             "Selected_Date": "2026-03-14T05:53:35.784276Z"
         },
@@ -196,7 +196,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "11:49",
             "Fight_Time_Seconds": 709,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "2",
             "Selected_Date": "2026-04-30T07:32:28.650595Z"
         },
@@ -211,7 +211,7 @@
             "Sub_Avg": "0.10",
             "Fight_Time": "12:16",
             "Fight_Time_Seconds": 736,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "2",
             "Selected_Date": "2026-09-03T09:35:56.547645Z"
         },
@@ -226,7 +226,7 @@
             "Sub_Avg": "2.61",
             "Fight_Time": "07:30",
             "Fight_Time_Seconds": 450,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "3",
             "Selected_Date": "2026-05-10T07:29:07.859533Z"
         },
@@ -241,7 +241,7 @@
             "Sub_Avg": "0.14",
             "Fight_Time": "15:22",
             "Fight_Time_Seconds": 922,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "7",
             "Selected_Date": "2026-02-12T06:08:25.823081Z"
         },
@@ -256,7 +256,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "12:26",
             "Fight_Time_Seconds": 746,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "C"
         },
         "Brandon Moreno": {
@@ -270,7 +270,7 @@
             "Sub_Avg": "0.39",
             "Fight_Time": "17:08",
             "Fight_Time_Seconds": 1028,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "10",
             "Selected_Date": "2026-05-30T07:45:02.745706Z"
         },
@@ -285,7 +285,7 @@
             "Sub_Avg": "1.11",
             "Fight_Time": "12:18",
             "Fight_Time_Seconds": 738,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "3",
             "Selected_Date": "2026-06-03T09:59:59.613114Z"
         },
@@ -300,7 +300,7 @@
             "Sub_Avg": "0.52",
             "Fight_Time": "14:25",
             "Fight_Time_Seconds": 865,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "9"
         },
         "Tatsuro Taira": {
@@ -314,7 +314,7 @@
             "Sub_Avg": "1.69",
             "Fight_Time": "11:05",
             "Fight_Time_Seconds": 665,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "4",
             "Selected_Date": "2026-10-15T09:43:56.680727Z"
         },
@@ -329,7 +329,7 @@
             "Sub_Avg": "0.28",
             "Fight_Time": "12:00",
             "Fight_Time_Seconds": 720,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "1"
         },
         "Asu Almabayev": {
@@ -343,7 +343,7 @@
             "Sub_Avg": "1.49",
             "Fight_Time": "12:58",
             "Fight_Time_Seconds": 778,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "5",
             "Selected_Date": "2026-08-22T05:33:47.631911Z"
         },
@@ -358,7 +358,7 @@
             "Sub_Avg": "0.12",
             "Fight_Time": "13:53",
             "Fight_Time_Seconds": 833,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "8",
             "Selected_Date": "2026-08-02T07:35:54.259350Z"
         },
@@ -373,7 +373,7 @@
             "Sub_Avg": "1.12",
             "Fight_Time": "12:08",
             "Fight_Time_Seconds": 728,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "11"
         },
         "Steve Erceg": {
@@ -387,7 +387,7 @@
             "Sub_Avg": "0.43",
             "Fight_Time": "14:56",
             "Fight_Time_Seconds": 896,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "12",
             "Selected_Date": "2026-10-19T10:39:02.871035Z"
         },
@@ -402,7 +402,7 @@
             "Sub_Avg": "0.76",
             "Fight_Time": "07:03",
             "Fight_Time_Seconds": 423,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "15",
             "Selected_Date": "2026-08-19T05:36:56.942537Z"
         },
@@ -417,7 +417,7 @@
             "Sub_Avg": "1.52",
             "Fight_Time": "12:22",
             "Fight_Time_Seconds": 742,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "14",
             "Selected_Date": "2026-08-24T05:44:30.459725Z"
         },
@@ -432,7 +432,7 @@
             "Sub_Avg": "0.38",
             "Fight_Time": "13:17",
             "Fight_Time_Seconds": 797,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "15",
             "Selected_Date": "2026-08-10T06:15:24.967222Z"
         },
@@ -462,7 +462,7 @@
             "Sub_Avg": "0.36",
             "Fight_Time": "10:30",
             "Fight_Time_Seconds": 630,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "6"
         },
         "Umar Nurmagomedov": {
@@ -476,7 +476,7 @@
             "Sub_Avg": "0.27",
             "Fight_Time": "13:57",
             "Fight_Time_Seconds": 837,
-            "Division": "Bantamweight",
+            "Division": "Poids coq",
             "Rank": "5",
             "Selected_Date": "2026-08-03T08:35:29.975674Z"
         },
@@ -491,7 +491,7 @@
             "Sub_Avg": "0.27",
             "Fight_Time": "11:19",
             "Fight_Time_Seconds": 679,
-            "Division": "Bantamweight",
+            "Division": "Poids coq",
             "Rank": "3",
             "Selected_Date": "2026-06-08T09:51:19.089934Z"
         },
@@ -506,7 +506,7 @@
             "Sub_Avg": "0.12",
             "Fight_Time": "17:08",
             "Fight_Time_Seconds": 1028,
-            "Division": "Bantamweight",
+            "Division": "Poids coq",
             "Rank": "C",
             "Selected_Date": "2026-09-06T09:16:40.921939Z"
         },
@@ -521,7 +521,7 @@
             "Sub_Avg": "0.25",
             "Fight_Time": "14:43",
             "Fight_Time_Seconds": 883,
-            "Division": "Bantamweight",
+            "Division": "Poids coq",
             "Rank": "6",
             "Selected_Date": "2026-04-26T07:01:01.928876Z"
         },
@@ -536,7 +536,7 @@
             "Sub_Avg": "0.15",
             "Fight_Time": "13:05",
             "Fight_Time_Seconds": 785,
-            "Division": "Bantamweight",
+            "Division": "Poids coq",
             "Rank": "2",
             "Selected_Date": "2026-10-12T12:57:57.840141Z"
         },
@@ -551,7 +551,7 @@
             "Sub_Avg": "1.29",
             "Fight_Time": "12:45",
             "Fight_Time_Seconds": 765,
-            "Division": "Bantamweight",
+            "Division": "Poids coq",
             "Rank": "12",
             "Selected_Date": "2026-09-28T11:36:28.317406Z"
         },
@@ -566,8 +566,8 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "12:07",
             "Fight_Time_Seconds": 727,
-            "Division": "Bantamweight",
-            "Rank": "13",
+            "Division": "Poids coq",
+            "Rank": "12",
             "Selected_Date": "2026-07-04T07:52:32.761896Z"
         },
         "Marlon Vera": {
@@ -581,8 +581,8 @@
             "Sub_Avg": "0.80",
             "Fight_Time": "13:33",
             "Fight_Time_Seconds": 813,
-            "Division": "Bantamweight",
-            "Rank": "15",
+            "Division": "Poids coq",
+            "Rank": "14",
             "Selected_Date": "2026-06-22T10:44:36.227396Z"
         },
         "Mario Bautista": {
@@ -596,7 +596,7 @@
             "Sub_Avg": "0.80",
             "Fight_Time": "10:08",
             "Fight_Time_Seconds": 608,
-            "Division": "Bantamweight",
+            "Division": "Poids coq",
             "Rank": "4",
             "Selected_Date": "2026-07-14T07:15:17.922417Z"
         },
@@ -626,7 +626,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "11:33",
             "Fight_Time_Seconds": 693,
-            "Division": "Bantamweight",
+            "Division": "Poids coq",
             "Rank": "7",
             "Selected_Date": "2026-09-21T10:35:23.507980Z"
         },
@@ -686,8 +686,8 @@
             "Sub_Avg": "0.24",
             "Fight_Time": "10:29",
             "Fight_Time_Seconds": 629,
-            "Division": "Bantamweight",
-            "Rank": "10",
+            "Division": "Poids coq",
+            "Rank": "9",
             "Selected_Date": "2026-06-09T08:36:21.905027Z"
         },
         "Movsar Evloev": {
@@ -701,7 +701,7 @@
             "Sub_Avg": "0.22",
             "Fight_Time": "15:00",
             "Fight_Time_Seconds": 900,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "1",
             "Selected_Date": "2026-01-27T05:35:37.010686Z"
         },
@@ -716,7 +716,7 @@
             "Sub_Avg": "1.74",
             "Fight_Time": "10:31",
             "Fight_Time_Seconds": 631,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "2",
             "Selected_Date": "2026-06-17T09:56:38.661045Z"
         },
@@ -731,7 +731,7 @@
             "Sub_Avg": "0.64",
             "Fight_Time": "13:14",
             "Fight_Time_Seconds": 794,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "6",
             "Selected_Date": "2026-02-07T05:50:33.102348Z"
         },
@@ -746,7 +746,7 @@
             "Sub_Avg": "0.54",
             "Fight_Time": "13:47",
             "Fight_Time_Seconds": 827,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "3"
         },
         "Aljamain Sterling": {
@@ -760,7 +760,7 @@
             "Sub_Avg": "0.64",
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "4",
             "Selected_Date": "2026-05-29T08:47:46.121528Z"
         },
@@ -775,7 +775,7 @@
             "Sub_Avg": "0.34",
             "Fight_Time": "13:37",
             "Fight_Time_Seconds": 817,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "6",
             "Selected_Date": "2026-06-12T09:05:41.045404Z"
         },
@@ -790,7 +790,7 @@
             "Sub_Avg": "1.41",
             "Fight_Time": "11:32",
             "Fight_Time_Seconds": 692,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "9",
             "Selected_Date": "2026-02-10T06:14:12.018791Z"
         },
@@ -805,7 +805,7 @@
             "Sub_Avg": "0.43",
             "Fight_Time": "05:50",
             "Fight_Time_Seconds": 350,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "13",
             "Selected_Date": "2026-09-15T09:57:11.838022Z"
         },
@@ -820,7 +820,7 @@
             "Sub_Avg": "0.93",
             "Fight_Time": "13:49",
             "Fight_Time_Seconds": 829,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "13",
             "Selected_Date": "2026-09-08T09:30:49.534988Z"
         },
@@ -849,7 +849,7 @@
             "Sub_Avg": "0.75",
             "Fight_Time": "08:34",
             "Fight_Time_Seconds": 514,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "5",
             "Selected_Date": "2026-06-13T08:27:50.187568Z"
         },
@@ -864,7 +864,7 @@
             "Sub_Avg": "0.56",
             "Fight_Time": "16:04",
             "Fight_Time_Seconds": 964,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "14",
             "Selected_Date": "2026-05-02T07:03:44.557378Z"
         },
@@ -894,7 +894,7 @@
             "Sub_Avg": "0.45",
             "Fight_Time": "11:09",
             "Fight_Time_Seconds": 669,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "15"
         },
         "Giga Chikadze": {
@@ -923,7 +923,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "11:14",
             "Fight_Time_Seconds": 674,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "C",
             "Selected_Date": "2026-07-20T08:12:06.645592Z"
         },
@@ -938,7 +938,7 @@
             "Sub_Avg": "1.68",
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "5",
             "Selected_Date": "2026-07-31T07:56:25.556686Z"
         },
@@ -953,7 +953,7 @@
             "Sub_Avg": "0.45",
             "Fight_Time": "10:09",
             "Fight_Time_Seconds": 609,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "13",
             "Selected_Date": "2026-10-09T11:46:12.344560Z"
         },
@@ -968,7 +968,7 @@
             "Sub_Avg": "0.10",
             "Fight_Time": "12:09",
             "Fight_Time_Seconds": 729,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "9"
         },
         "Beno\u00eet Saint Denis": {
@@ -982,7 +982,7 @@
             "Sub_Avg": "1.73",
             "Fight_Time": "06:41",
             "Fight_Time_Seconds": 401,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "7"
         },
         "Rafael Fiziev": {
@@ -996,7 +996,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "12:17",
             "Fight_Time_Seconds": 737,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "12",
             "Selected_Date": "2026-03-16T06:22:17.539616Z"
         },
@@ -1011,7 +1011,7 @@
             "Sub_Avg": "0.50",
             "Fight_Time": "09:28",
             "Fight_Time_Seconds": 568,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "8"
         },
         "Michael Chandler": {
@@ -1040,7 +1040,7 @@
             "Sub_Avg": "0.82",
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "15",
             "Selected_Date": "2026-08-09T05:51:38.488755Z"
         },
@@ -1055,7 +1055,7 @@
             "Sub_Avg": "1.13",
             "Fight_Time": "11:21",
             "Fight_Time_Seconds": 681,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "14",
             "Selected_Date": "2026-09-01T09:54:17.226103Z"
         },
@@ -1070,7 +1070,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "08:54",
             "Fight_Time_Seconds": 534,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "10",
             "Selected_Date": "2025-12-20T05:41:25.894860Z"
         },
@@ -1100,7 +1100,7 @@
             "Sub_Avg": "0.37",
             "Fight_Time": "14:45",
             "Fight_Time_Seconds": 885,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "2",
             "Selected_Date": "2026-08-11T05:57:12.488361Z"
         },
@@ -1130,7 +1130,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "09:00",
             "Fight_Time_Seconds": 540,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "3",
             "Selected_Date": "2026-06-07T08:26:50.751413Z"
         },
@@ -1145,7 +1145,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "08:48",
             "Fight_Time_Seconds": 528,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "1",
             "Selected_Date": "2026-07-07T08:29:13.836696Z"
         },
@@ -1160,7 +1160,7 @@
             "Sub_Avg": "0.91",
             "Fight_Time": "13:11",
             "Fight_Time_Seconds": 791,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "5"
         },
         "Kamaru Usman": {
@@ -1174,8 +1174,8 @@
             "Sub_Avg": "0.09",
             "Fight_Time": "17:50",
             "Fight_Time_Seconds": 1070,
-            "Division": "Welterweight",
-            "Rank": "12",
+            "Division": "Poids mi-moyens",
+            "Rank": "11",
             "Selected_Date": "2026-10-16T09:37:15.503138Z"
         },
         "Leon Edwards": {
@@ -1189,7 +1189,7 @@
             "Sub_Avg": "0.36",
             "Fight_Time": "16:47",
             "Fight_Time_Seconds": 1007,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "10",
             "Selected_Date": "2026-09-19T09:21:08.016418Z"
         },
@@ -1204,8 +1204,8 @@
             "Sub_Avg": "0.08",
             "Fight_Time": "11:33",
             "Fight_Time_Seconds": 693,
-            "Division": "Welterweight",
-            "Rank": "8"
+            "Division": "Poids mi-moyens",
+            "Rank": "12"
         },
         "Gabriel Bonfim": {
             "Name": "Gabriel Bonfim",
@@ -1218,7 +1218,7 @@
             "Sub_Avg": "1.44",
             "Fight_Time": "07:48",
             "Fight_Time_Seconds": 468,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "6"
         },
         "Gilbert Burns": {
@@ -1276,7 +1276,7 @@
             "Sub_Avg": "0.08",
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "15",
             "Selected_Date": "2026-09-20T09:42:50.911573Z"
         },
@@ -1291,7 +1291,7 @@
             "Sub_Avg": "0.98",
             "Fight_Time": "15:16",
             "Fight_Time_Seconds": 916,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "3",
             "Selected_Date": "2026-08-14T06:19:40.180129Z"
         },
@@ -1306,7 +1306,7 @@
             "Sub_Avg": "0.16",
             "Fight_Time": "16:03",
             "Fight_Time_Seconds": 963,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "C",
             "Selected_Date": "2026-06-19T09:47:31.545570Z"
         },
@@ -1321,7 +1321,7 @@
             "Sub_Avg": "1.79",
             "Fight_Time": "10:27",
             "Fight_Time_Seconds": 627,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "8"
         },
         "Brendan Allen": {
@@ -1335,7 +1335,7 @@
             "Sub_Avg": "1.14",
             "Fight_Time": "11:07",
             "Fight_Time_Seconds": 667,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "4",
             "Selected_Date": "2026-09-02T09:25:54.629306Z"
         },
@@ -1350,7 +1350,7 @@
             "Sub_Avg": "0.14",
             "Fight_Time": "17:35",
             "Fight_Time_Seconds": 1055,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "9",
             "Selected_Date": "2025-12-29T05:36:07.814738Z"
         },
@@ -1365,7 +1365,7 @@
             "Sub_Avg": "0.43",
             "Fight_Time": "14:04",
             "Fight_Time_Seconds": 844,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "6",
             "Selected_Date": "2026-01-20T05:37:01.939693Z"
         },
@@ -1380,7 +1380,7 @@
             "Sub_Avg": "0.67",
             "Fight_Time": "13:26",
             "Fight_Time_Seconds": 806,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "8",
             "Selected_Date": "2026-09-13T10:07:08.357797Z"
         },
@@ -1395,7 +1395,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "13:37",
             "Fight_Time_Seconds": 817,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "12",
             "Selected_Date": "2026-03-27T06:15:31.031802Z"
         },
@@ -1410,7 +1410,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "11",
             "Selected_Date": "2026-08-13T06:21:16.761813Z"
         },
@@ -1455,7 +1455,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "12:46",
             "Fight_Time_Seconds": 766,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "4",
             "Selected_Date": "2026-10-20T09:55:25.117129Z"
         },
@@ -1485,7 +1485,7 @@
             "Sub_Avg": "0.39",
             "Fight_Time": "08:59",
             "Fight_Time_Seconds": 539,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "7",
             "Selected_Date": "2026-05-14T07:48:53.119913Z"
         },
@@ -1500,7 +1500,7 @@
             "Sub_Avg": "0.16",
             "Fight_Time": "10:15",
             "Fight_Time_Seconds": 615,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "3"
         },
         "Carlos Ulberg": {
@@ -1514,7 +1514,7 @@
             "Sub_Avg": "0.18",
             "Fight_Time": "07:27",
             "Fight_Time_Seconds": 447,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "C",
             "Selected_Date": "2026-10-13T12:34:26.896530Z"
         },
@@ -1523,11 +1523,11 @@
             "Profile_URL": "https://www.ufc.com/athlete/khalil-rountree-jr",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/PROCHAZKA_JIRI_04-11.png?itok=UXRq9ipK",
             "Record": "15-7-0 (W-L-D)",
-            "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
+            "SLpM": "Coups sign. d\u00e9fendus repr\u00e9sente le pourcentage de coups significatifs tent\u00e9s contre un combattant qui n'atteignent pas la cible.\n                                          Les mises au sol d\u00e9fendues repr\u00e9sentent le pourcentage de mises au sol tent\u00e9es contre un combattant qui n'aboutissent pas.\n                                          La moyenne des knockdowns est le nombre moyen de knockdowns par fen\u00eatre de 15 minutes.",
             "TD_Avg": "50\n                  %",
             "Sub_Avg": "59\n                      %",
             "Fight_Time_Seconds": 0,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "5"
         },
         "Jan B\u0142achowicz": {
@@ -1541,7 +1541,7 @@
             "Sub_Avg": "0.36",
             "Fight_Time": "12:49",
             "Fight_Time_Seconds": 769,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "9"
         },
         "Jamahal Hill": {
@@ -1567,7 +1567,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "07:51",
             "Fight_Time_Seconds": 471,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "9",
             "Selected_Date": "2026-10-02T10:59:20.460190Z"
         },
@@ -1582,7 +1582,7 @@
             "Sub_Avg": "0.29",
             "Fight_Time": "07:21",
             "Fight_Time_Seconds": 441,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "7",
             "Selected_Date": "2026-09-22T09:48:46.924559Z"
         },
@@ -1612,7 +1612,7 @@
             "Sub_Avg": "0.13",
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "14",
             "Selected_Date": "2026-06-01T10:27:27.370121Z"
         },
@@ -1625,7 +1625,7 @@
             "TD_Avg": "50\n                  %",
             "Sub_Avg": "50\n                      %",
             "Fight_Time_Seconds": 0,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "11"
         },
         "Johnny Walker": {
@@ -1639,7 +1639,7 @@
             "Sub_Avg": "0.83",
             "Fight_Time": "06:47",
             "Fight_Time_Seconds": 407,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "12",
             "Selected_Date": "2026-01-02T05:33:44.119763Z"
         },
@@ -1654,7 +1654,7 @@
             "Sub_Avg": "1.37",
             "Fight_Time": "06:34",
             "Fight_Time_Seconds": 394,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "15",
             "Selected_Date": "2026-05-22T08:27:00.167594Z"
         },
@@ -1682,7 +1682,7 @@
             "Sub_Avg": "0.20",
             "Fight_Time": "07:34",
             "Fight_Time_Seconds": 454,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "10"
         },
         "Ciryl Gane": {
@@ -1696,7 +1696,7 @@
             "Sub_Avg": "0.60",
             "Fight_Time": "13:30",
             "Fight_Time_Seconds": 810,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "C",
             "Selected_Date": "2026-01-31T05:45:10.870764Z"
         },
@@ -1711,7 +1711,7 @@
             "Sub_Avg": "0.23",
             "Fight_Time": "13:03",
             "Fight_Time_Seconds": 783,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "4",
             "Selected_Date": "2026-09-05T08:56:01.527478Z"
         },
@@ -1726,7 +1726,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "05:42",
             "Fight_Time_Seconds": 342,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "2",
             "Selected_Date": "2026-09-14T10:30:15.782726Z"
         },
@@ -1741,7 +1741,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "7",
             "Selected_Date": "2026-07-05T08:07:06.622649Z"
         },
@@ -1756,7 +1756,7 @@
             "Sub_Avg": "0.12",
             "Fight_Time": "10:34",
             "Fight_Time_Seconds": 634,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "8",
             "Selected_Date": "2026-03-28T06:01:46.483223Z"
         },
@@ -1786,7 +1786,7 @@
             "Sub_Avg": "0.54",
             "Fight_Time": "07:54",
             "Fight_Time_Seconds": 474,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "14"
         },
         "Derrick Lewis": {
@@ -1800,8 +1800,8 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
-            "Division": "Heavyweight",
-            "Rank": "13",
+            "Division": "Poids lourds",
+            "Rank": "12",
             "Selected_Date": "2026-01-03T05:29:44.234925Z"
         },
         "Ante Delija": {
@@ -1815,7 +1815,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "03:01",
             "Fight_Time_Seconds": 181,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "10",
             "Selected_Date": "2026-05-28T08:49:20.701168Z"
         },
@@ -1890,7 +1890,7 @@
             "Sub_Avg": "2.55",
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "11",
             "Selected_Date": "2026-09-18T09:34:10.965407Z"
         },
@@ -1920,8 +1920,8 @@
             "Sub_Avg": "0.20",
             "Fight_Time": "10:57",
             "Fight_Time_Seconds": 657,
-            "Division": "Bantamweight",
-            "Rank": "11",
+            "Division": "Poids coq",
+            "Rank": "10",
             "Selected_Date": "2026-06-02T09:15:23.655342Z"
         },
         "Montel Jackson": {
@@ -1935,8 +1935,8 @@
             "Sub_Avg": "0.32",
             "Fight_Time": "10:46",
             "Fight_Time_Seconds": 646,
-            "Division": "Bantamweight",
-            "Rank": "12",
+            "Division": "Poids coq",
+            "Rank": "11",
             "Selected_Date": "2026-04-07T06:21:45.154744Z"
         },
         "Kevin Vallejos": {
@@ -1950,7 +1950,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "08:24",
             "Fight_Time_Seconds": 504,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "10"
         },
         "Manuel Torres": {
@@ -1994,7 +1994,7 @@
             "Sub_Avg": "1.02",
             "Fight_Time": "08:10",
             "Fight_Time_Seconds": 490,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "5"
         },
         "Brunno Ferreira": {
@@ -2037,7 +2037,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "11:30",
             "Fight_Time_Seconds": 690,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "5",
             "Selected_Date": "2026-08-28T17:18:27.719317Z"
         },
@@ -2067,7 +2067,7 @@
             "Sub_Avg": "1.09",
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "12",
             "Selected_Date": "2026-09-24T09:51:23.082439Z"
         },
@@ -2082,7 +2082,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "9"
         },
         "Vitor Petrino": {
@@ -2096,7 +2096,7 @@
             "Sub_Avg": "0.84",
             "Fight_Time": "09:52",
             "Fight_Time_Seconds": 592,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "9",
             "Selected_Date": "2026-06-20T08:25:50.814738Z"
         },
@@ -2111,7 +2111,7 @@
             "Sub_Avg": "0.87",
             "Fight_Time": "10:45",
             "Fight_Time_Seconds": 645,
-            "Division": "Bantamweight",
+            "Division": "Poids coq",
             "Rank": "8",
             "Selected_Date": "2026-10-07T11:39:34.802004Z"
         },
@@ -2141,7 +2141,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "10:03",
             "Fight_Time_Seconds": 603,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "11"
         },
         "Michael Venom Page": {
@@ -2170,7 +2170,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "15:00",
             "Fight_Time_Seconds": 900,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "12",
             "Selected_Date": "2026-06-15T11:19:02.186051Z"
         },
@@ -2185,7 +2185,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "14",
             "Selected_Date": "2026-05-05T07:22:24.090442Z"
         },
@@ -2200,7 +2200,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "06:45",
             "Fight_Time_Seconds": 405,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "6",
             "Selected_Date": "2026-07-22T07:37:58.895965Z"
         },
@@ -2215,8 +2215,8 @@
             "Sub_Avg": "0.65",
             "Fight_Time": "09:12",
             "Fight_Time_Seconds": 552,
-            "Division": "Welterweight",
-            "Rank": "11"
+            "Division": "Poids mi-moyens",
+            "Rank": "8"
         },
         "Yaroslav Amosov": {
             "Name": "Yaroslav Amosov",
@@ -2229,7 +2229,7 @@
             "Sub_Avg": "4.64",
             "Fight_Time": "03:14",
             "Fight_Time_Seconds": 194,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "13",
             "Selected_Date": "2026-10-05T12:10:53.340132Z"
         },
@@ -2244,7 +2244,7 @@
             "Sub_Avg": "0.68",
             "Fight_Time": "13:09",
             "Fight_Time_Seconds": 789,
-            "Division": "Bantamweight",
+            "Division": "Poids coq",
             "Rank": "15"
         },
         "Quillan Salkilld": {
@@ -2258,7 +2258,7 @@
             "Sub_Avg": "0.76",
             "Fight_Time": "06:33",
             "Fight_Time_Seconds": 393,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "6",
             "Selected_Date": "2026-09-27T10:28:42.061969Z"
         },
@@ -2267,11 +2267,11 @@
             "Profile_URL": "https://www.ufc.com/athlete/brando-pericic",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/GAZIEV_SHAMIL_08-22.png?itok=-v7z_c84",
             "Record": "7-1-0 (W-L-D)",
-            "SLpM": "Sig. Str. Defense is the percentage of significant strikes attempted against a fighter that do not land.\n                                          Takedown defense is the percentage of takedowns attempted against a fighter that do not land.\n                                          Knockdown Avg. is the average number of knockdowns per 15 Minutes window.",
+            "SLpM": "Coups sign. d\u00e9fendus repr\u00e9sente le pourcentage de coups significatifs tent\u00e9s contre un combattant qui n'atteignent pas la cible.\n                                          Les mises au sol d\u00e9fendues repr\u00e9sentent le pourcentage de mises au sol tent\u00e9es contre un combattant qui n'aboutissent pas.\n                                          La moyenne des knockdowns est le nombre moyen de knockdowns par fen\u00eatre de 15 minutes.",
             "TD_Avg": "58\n                  %",
             "Sub_Avg": "71\n                      %",
             "Fight_Time_Seconds": 0,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "13"
         },
         "Ikram Aliskerov": {
@@ -2285,7 +2285,7 @@
             "Sub_Avg": "0.53",
             "Fight_Time": "04:42",
             "Fight_Time_Seconds": 282,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "10",
             "Selected_Date": "2026-09-12T09:09:48.913891Z"
         },
@@ -2314,7 +2314,7 @@
             "Sub_Avg": "1.35",
             "Fight_Time": "07:55",
             "Fight_Time_Seconds": 475,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "11"
         },
         "Bo Nickal": {
@@ -2328,7 +2328,7 @@
             "Sub_Avg": "2.48",
             "Fight_Time": "06:03",
             "Fight_Time_Seconds": 363,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "12"
         },
         "Kevin Borjas": {
@@ -2356,12 +2356,12 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "13:38",
             "Fight_Time_Seconds": 818,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "12"
         },
         "Sumudaerji": {
             "Name": "Sumudaerji",
-            "Profile_URL": "https://www.ufc.com/athlete/su-mudaerji",
+            "Profile_URL": "https://www.ufc.com/athlete/sumudaerji",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-05/SUMUDAERJI_05-30.png?itok=RG80cBip",
             "Record": "19-7-0 (W-L-D)",
             "SLpM": "4.40",
@@ -2370,7 +2370,7 @@
             "Sub_Avg": "0.51",
             "Fight_Time": "10:44",
             "Fight_Time_Seconds": 644,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "11"
         },
         "Charles Jourdain": {
@@ -2398,8 +2398,8 @@
             "Sub_Avg": "1.27",
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
-            "Division": "Bantamweight",
-            "Rank": "14"
+            "Division": "Poids coq",
+            "Rank": "13"
         },
         "Pat Sabatini": {
             "Name": "Pat Sabatini",
@@ -2412,7 +2412,7 @@
             "Sub_Avg": "1.28",
             "Fight_Time": "09:35",
             "Fight_Time_Seconds": 575,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "7",
             "Selected_Date": "2026-10-04T11:02:49.283634Z"
         },
@@ -2433,7 +2433,7 @@
         },
         "Joanderson Brito": {
             "Name": "Joanderson Brito",
-            "Profile_URL": "https://www.ufc.com/athlete/joanderson-brito",
+            "Profile_URL": "https://www.ufc.com/athlete/kori-makkenna-3",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/BRITO_JOANDERSON_06-06.png?itok=Bni8iwnO",
             "Record": "19-5-1 (W-L-D)",
             "SLpM": "2.38",
@@ -2442,7 +2442,7 @@
             "Sub_Avg": "1.23",
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "11"
         },
         "Jose Miguel Delgado": {
@@ -2484,7 +2484,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "11:38",
             "Fight_Time_Seconds": 698,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "6",
             "Selected_Date": "2026-10-11T11:20:29.578520Z"
         },
@@ -2499,7 +2499,7 @@
             "Sub_Avg": "0.95",
             "Fight_Time": "07:53",
             "Fight_Time_Seconds": 473,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
             "Rank": "10",
             "Selected_Date": "2026-08-04T07:44:06.796251Z"
         },
@@ -2528,7 +2528,7 @@
             "Sub_Avg": "0.58",
             "Fight_Time": "09:46",
             "Fight_Time_Seconds": 586,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "13",
             "Selected_Date": "2026-07-26T07:40:36.556602Z"
         },
@@ -2571,7 +2571,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "07:24",
             "Fight_Time_Seconds": 444,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "7",
             "Selected_Date": "2026-08-26T05:40:05.197729Z"
         },
@@ -2584,7 +2584,7 @@
             "TD_Avg": "63\n                  %",
             "Sub_Avg": "Takedown Defense",
             "Fight_Time_Seconds": 0,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "13",
             "Selected_Date": "2026-10-06T11:54:47.615734Z"
         },
@@ -2599,7 +2599,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "09:34",
             "Fight_Time_Seconds": 574,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "13",
             "Selected_Date": "2026-10-14T10:01:28.212861Z"
         },
@@ -2614,7 +2614,7 @@
             "Sub_Avg": "0.60",
             "Fight_Time": "10:47",
             "Fight_Time_Seconds": 647,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "14"
         },
         "Iwo Baraniewski": {
@@ -2642,7 +2642,7 @@
             "Sub_Avg": "0.30",
             "Fight_Time": "11:52",
             "Fight_Time_Seconds": 712,
-            "Division": "Welterweight",
+            "Division": "Poids mi-moyens",
             "Rank": "15"
         },
         "Jamall Emmers": {
@@ -2656,8 +2656,9 @@
             "Sub_Avg": "0.32",
             "Fight_Time": "09:16",
             "Fight_Time_Seconds": 556,
-            "Division": "Featherweight",
-            "Rank": "15"
+            "Division": "Poids plume",
+            "Rank": "15",
+            "Selected_Date": "2026-10-21T10:01:30.692741Z"
         },
         "Rei Tsuruya": {
             "Name": "Rei Tsuruya",
@@ -2670,7 +2671,7 @@
             "Sub_Avg": "2.11",
             "Fight_Time": "09:07",
             "Fight_Time_Seconds": 547,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "14"
         },
         "Salahdine Parnasse": {
@@ -2680,7 +2681,7 @@
             "Record": "24-2-0 (W-L-D)",
             "SLpM": "Standing \n      0 (0 %)",
             "Fight_Time_Seconds": 0,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "9"
         },
         "Shara Magomedov": {
@@ -2694,7 +2695,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "13:54",
             "Fight_Time_Seconds": 834,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "15"
         },
         "Pavel Andrusca": {
@@ -2704,7 +2705,7 @@
             "Record": "9-0-0 (W-L-D)",
             "SLpM": "Standing \n      0 (0 %)",
             "Fight_Time_Seconds": 0,
-            "Division": "Featherweight",
+            "Division": "Poids plume",
             "Rank": "8"
         },
         "Jalin Turner": {
@@ -2733,7 +2734,7 @@
             "Sub_Avg": "0.32",
             "Fight_Time": "08:19",
             "Fight_Time_Seconds": 499,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "15"
         },
         "Imanol Rodriguez": {
@@ -2747,7 +2748,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "05:47",
             "Fight_Time_Seconds": 347,
-            "Division": "Flyweight",
+            "Division": "Poids mouche",
             "Rank": "13"
         },
         "Esteban Ribovics": {
@@ -2761,7 +2762,7 @@
             "Sub_Avg": "0.16",
             "Fight_Time": "10:20",
             "Fight_Time_Seconds": 620,
-            "Division": "Lightweight",
+            "Division": "Poids l\u00e9gers",
             "Rank": "15"
         },
         "Roman Kopylov": {
@@ -2775,7 +2776,7 @@
             "Sub_Avg": "0.00",
             "Fight_Time": "12:16",
             "Fight_Time_Seconds": 736,
-            "Division": "Middleweight",
+            "Division": "Poids moyens",
             "Rank": "14"
         },
         "Modestas Bukauskas": {
@@ -2789,7 +2790,7 @@
             "Sub_Avg": "0.11",
             "Fight_Time": "09:59",
             "Fight_Time_Seconds": 599,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "14"
         },
         "Abdul Rakhman Yakhyaev": {
@@ -2803,7 +2804,7 @@
             "Sub_Avg": "7.41",
             "Fight_Time": "01:01",
             "Fight_Time_Seconds": 61,
-            "Division": "Light Heavyweight",
+            "Division": "Poids mi-lourds",
             "Rank": "15"
         },
         "Anthony Wint": {
@@ -2817,7 +2818,749 @@
             "Sub_Avg": "2.97",
             "Fight_Time": "02:32",
             "Fight_Time_Seconds": 152,
-            "Division": "Heavyweight",
+            "Division": "Poids lourds",
+            "Rank": "15"
+        },
+        "Valentina Shevchenko": {
+            "Name": "Valentina Shevchenko",
+            "Profile_URL": "https://www.ufc.com/athlete/valentina-shevchenko",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/SHEVCHENKO_VALENTINA_BELT_11-15.png?itok=7pczpRUd",
+            "Record": "26-4-1 (W-L-D)",
+            "SLpM": "3.04",
+            "SApM": "2.00",
+            "TD_Avg": "2.65",
+            "Sub_Avg": "0.29",
+            "Fight_Time": "19:04",
+            "Fight_Time_Seconds": 1144,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "1"
+        },
+        "Kayla Harrison": {
+            "Name": "Kayla Harrison",
+            "Profile_URL": "https://www.ufc.com/athlete/kayla-harrison",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/HARRISON_KAYLA_BELTMOCK.png?itok=7_e61jpX",
+            "Record": "19-1-0 (W-L-D)",
+            "SLpM": "4.29",
+            "SApM": "1.10",
+            "TD_Avg": "2.84",
+            "Sub_Avg": "0.95",
+            "Fight_Time": "10:34",
+            "Fight_Time_Seconds": 634,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "C"
+        },
+        "Zhang Weili": {
+            "Name": "Zhang Weili",
+            "Profile_URL": "https://www.ufc.com/athlete/zhang-weili",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/WEILI_ZHANG_11-15.png?itok=h01cDgYv",
+            "Record": "26-4-0 (W-L-D)",
+            "SLpM": "4.66",
+            "SApM": "2.63",
+            "TD_Avg": "1.96",
+            "Sub_Avg": "0.45",
+            "Fight_Time": "15:20",
+            "Fight_Time_Seconds": 920,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "6"
+        },
+        "Natalia Silva": {
+            "Name": "Natalia Silva",
+            "Profile_URL": "https://www.ufc.com/athlete/natalia-silva",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/SILVA_NATALIA_BELT.png?itok=r7xtvRHA",
+            "Record": "21-5-1 (W-L-D)",
+            "SLpM": "4.72",
+            "SApM": "2.66",
+            "TD_Avg": "0.70",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "14:23",
+            "Fight_Time_Seconds": 863,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "C"
+        },
+        "Mackenzie Dern": {
+            "Name": "Mackenzie Dern",
+            "Profile_URL": "https://www.ufc.com/athlete/mackenzie-dern",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/DERN_MACKENZIE_BELT_08-15.png?itok=qiicHeml",
+            "Record": "17-5-0 (W-L-D)",
+            "SLpM": "3.38",
+            "SApM": "3.74",
+            "TD_Avg": "1.07",
+            "Sub_Avg": "1.01",
+            "Fight_Time": "14:49",
+            "Fight_Time_Seconds": 889,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "C"
+        },
+        "Alexa Grasso": {
+            "Name": "Alexa Grasso",
+            "Profile_URL": "https://www.ufc.com/athlete/alexa-grasso",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/GRASSO_ALEXA_09-12.png?itok=3z4G6dtC",
+            "Record": "18-5-1 (W-L-D)",
+            "SLpM": "4.19",
+            "SApM": "3.78",
+            "TD_Avg": "0.38",
+            "Sub_Avg": "0.63",
+            "Fight_Time": "14:56",
+            "Fight_Time_Seconds": 896,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "2"
+        },
+        "Manon Fiorot": {
+            "Name": "Manon Fiorot",
+            "Profile_URL": "https://www.ufc.com/athlete/manon-fiorot",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/FIOROT_MANON_09-12.png?itok=o9EIGYIq",
+            "Record": "13-3-0 (W-L-D)",
+            "SLpM": "4.61",
+            "SApM": "3.26",
+            "TD_Avg": "1.29",
+            "Sub_Avg": "0.55",
+            "Fight_Time": "12:29",
+            "Fight_Time_Seconds": 749,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "4"
+        },
+        "Tatiana Suarez": {
+            "Name": "Tatiana Suarez",
+            "Profile_URL": "https://www.ufc.com/athlete/tatiana-suarez",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/SUAREZ_TATIANA_04-11.png?itok=nDnYn677",
+            "Record": "13-1-0 (W-L-D)",
+            "SLpM": "2.86",
+            "SApM": "1.63",
+            "TD_Avg": "4.52",
+            "Sub_Avg": "0.66",
+            "Fight_Time": "11:17",
+            "Fight_Time_Seconds": 677,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "3"
+        },
+        "Erin Blanchfield": {
+            "Name": "Erin Blanchfield",
+            "Profile_URL": "https://www.ufc.com/athlete/erin-blanchfield",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/BLANCHFIELD_ERIN_10-17.png?itok=XlxLpwXm",
+            "Record": "14-3-0 (W-L-D)",
+            "SLpM": "5.12",
+            "SApM": "4.10",
+            "TD_Avg": "1.85",
+            "Sub_Avg": "0.76",
+            "Fight_Time": "13:46",
+            "Fight_Time_Seconds": 826,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "5"
+        },
+        "Julianna Pe\u00f1a": {
+            "Name": "Julianna Pe\u00f1a",
+            "Profile_URL": "https://www.ufc.com/athlete/julianna-pena",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-10/PENA_JULIANNA_10-05.png?itok=vbyk_Th9",
+            "Record": "13-6-0 (W-L-D)",
+            "SLpM": "3.10",
+            "SApM": "2.56",
+            "TD_Avg": "1.70",
+            "Sub_Avg": "0.76",
+            "Fight_Time": "13:14",
+            "Fight_Time_Seconds": 794,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "5"
+        },
+        "Virna Jandiroba": {
+            "Name": "Virna Jandiroba",
+            "Profile_URL": "https://www.ufc.com/athlete/virna-jandiroba",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/JANDIROBA_VIRNA_04-04.png?itok=Nb1UQJR8",
+            "Record": "23-4-0 (W-L-D)",
+            "SLpM": "2.27",
+            "SApM": "2.86",
+            "TD_Avg": "3.13",
+            "Sub_Avg": "1.39",
+            "Fight_Time": "13:18",
+            "Fight_Time_Seconds": 798,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "2"
+        },
+        "Jasmine Jasudavicius": {
+            "Name": "Jasmine Jasudavicius",
+            "Profile_URL": "https://www.ufc.com/athlete/jasmine-jasudavicius",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/JASUDAVICIUS_JASMINE_10-17.png?itok=8OLulyoJ",
+            "Record": "16-4-0 (W-L-D)",
+            "SLpM": "3.42",
+            "SApM": "3.52",
+            "TD_Avg": "2.82",
+            "Sub_Avg": "0.75",
+            "Fight_Time": "12:55",
+            "Fight_Time_Seconds": 775,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "3"
+        },
+        "Rose Namajunas": {
+            "Name": "Rose Namajunas",
+            "Profile_URL": "https://www.ufc.com/athlete/rose-namajunas",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-01/NAMAJUNAS_ROSE_01-24.png?itok=2Rc1IVV2",
+            "Record": "15-8-0 (W-L-D)",
+            "SLpM": "3.50",
+            "SApM": "3.38",
+            "TD_Avg": "1.47",
+            "Sub_Avg": "0.35",
+            "Fight_Time": "15:37",
+            "Fight_Time_Seconds": 937,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "7"
+        },
+        "Raquel Pennington": {
+            "Name": "Raquel Pennington",
+            "Profile_URL": "https://www.ufc.com/athlete/raquel-pennington",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/PENNINGTON_RAQUEL_01-20.png?itok=uWfsTaX7",
+            "Record": "16-10-0 (W-L-D)",
+            "SLpM": "4.10",
+            "SApM": "3.32",
+            "TD_Avg": "0.83",
+            "Sub_Avg": "0.62",
+            "Fight_Time": "15:18",
+            "Fight_Time_Seconds": 918,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "5"
+        },
+        "Denise Gomes": {
+            "Name": "Denise Gomes",
+            "Profile_URL": "https://www.ufc.com/athlete/denise-gomes",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/GOMES_DENISE_08-29.png?itok=_KvbSaO8",
+            "Record": "13-3-0 (W-L-D)",
+            "SLpM": "4.40",
+            "SApM": "3.19",
+            "TD_Avg": "1.38",
+            "Sub_Avg": "0.69",
+            "Fight_Time": "10:50",
+            "Fight_Time_Seconds": 650,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "4"
+        },
+        "Gillian Robertson": {
+            "Name": "Gillian Robertson",
+            "Profile_URL": "https://www.ufc.com/athlete/gillian-robertson",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/ROBERTSON_GILLIAN_08-15.png?itok=R-GTQykW",
+            "Record": "17-9-0 (W-L-D)",
+            "SLpM": "2.63",
+            "SApM": "2.83",
+            "TD_Avg": "2.53",
+            "Sub_Avg": "0.78",
+            "Fight_Time": "11:01",
+            "Fight_Time_Seconds": 661,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "5"
+        },
+        "Yan Xiaonan": {
+            "Name": "Yan Xiaonan",
+            "Profile_URL": "https://www.ufc.com/athlete/yan-xiaonan",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/XIAONAN_YAN_08-29.png?itok=ig7M8b7B",
+            "Record": "19-6-0 (W-L-D)",
+            "SLpM": "4.67",
+            "SApM": "3.24",
+            "TD_Avg": "0.82",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "14:18",
+            "Fight_Time_Seconds": 858,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "10"
+        },
+        "Fatima Kline": {
+            "Name": "Fatima Kline",
+            "Profile_URL": "https://www.ufc.com/athlete/fatima-kline",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/KLINE_FATIMA_07-18.png?itok=6Q4gN1iL",
+            "Record": "10-1-0 (W-L-D)",
+            "SLpM": "4.88",
+            "SApM": "2.46",
+            "TD_Avg": "3.13",
+            "Sub_Avg": "0.22",
+            "Fight_Time": "13:25",
+            "Fight_Time_Seconds": 805,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "6"
+        },
+        "Loopy Godinez": {
+            "Name": "Loopy Godinez",
+            "Profile_URL": "https://www.ufc.com/athlete/loopy-godinez",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/GODINEZ_LOOPY_10-10.png?itok=0uwmakOn",
+            "Record": "15-6-0 (W-L-D)",
+            "SLpM": "4.43",
+            "SApM": "3.96",
+            "TD_Avg": "2.93",
+            "Sub_Avg": "0.77",
+            "Fight_Time": "13:28",
+            "Fight_Time_Seconds": 808,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "8"
+        },
+        "Alexia Thainara": {
+            "Name": "Alexia Thainara",
+            "Profile_URL": "https://www.ufc.com/athlete/alexia-thainara",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/THAINARA_ALEXIA_08-08.png?itok=3tFjL486",
+            "Record": "15-1-0 (W-L-D)",
+            "SLpM": "4.80",
+            "SApM": "2.76",
+            "TD_Avg": "3.95",
+            "Sub_Avg": "1.39",
+            "Fight_Time": "12:54",
+            "Fight_Time_Seconds": 774,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "7"
+        },
+        "J\u00e9ssica Andrade": {
+            "Name": "J\u00e9ssica Andrade",
+            "Profile_URL": "https://www.ufc.com/athlete/jessica-andrade",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-08/ANDRADE_JESSICA_08-16.png?itok=X5Ylgsb_",
+            "Record": "26-15-0 (W-L-D)",
+            "SLpM": "6.37",
+            "SApM": "5.58",
+            "TD_Avg": "2.10",
+            "Sub_Avg": "0.31",
+            "Fight_Time": "09:33",
+            "Fight_Time_Seconds": 573,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "10"
+        },
+        "Tabatha Ricci": {
+            "Name": "Tabatha Ricci",
+            "Profile_URL": "https://www.ufc.com/athlete/tabatha-ricci",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/RICCI_TABATHA_07-18.png?itok=ZOB_aXH_",
+            "Record": "12-5-0 (W-L-D)",
+            "SLpM": "3.77",
+            "SApM": "4.79",
+            "TD_Avg": "2.37",
+            "Sub_Avg": "0.09",
+            "Fight_Time": "13:11",
+            "Fight_Time_Seconds": 791,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "12"
+        },
+        "Amanda Lemos": {
+            "Name": "Amanda Lemos",
+            "Profile_URL": "https://www.ufc.com/athlete/amanda-lemos",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/LEMOS_AMANDA_08-08.png?itok=4RBj8Aq0",
+            "Record": "15-7-1 (W-L-D)",
+            "SLpM": "2.84",
+            "SApM": "3.22",
+            "TD_Avg": "0.93",
+            "Sub_Avg": "0.68",
+            "Fight_Time": "11:02",
+            "Fight_Time_Seconds": 662,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "14"
+        },
+        "Amanda Ribas": {
+            "Name": "Amanda Ribas",
+            "Profile_URL": "https://www.ufc.com/athlete/amanda-ribas",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/RIBAS_AMANDA_07-26.png?itok=nzHwx5Po",
+            "Record": "13-7-0 (W-L-D)",
+            "SLpM": "4.26",
+            "SApM": "3.29",
+            "TD_Avg": "2.05",
+            "Sub_Avg": "0.56",
+            "Fight_Time": "12:23",
+            "Fight_Time_Seconds": 743,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "13"
+        },
+        "Angela Hill": {
+            "Name": "Angela Hill",
+            "Profile_URL": "https://www.ufc.com/athlete/angela-hill",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-05/HILL_ANGELA_05-30.png?itok=r6Vdtoaa",
+            "Record": "19-16-0 (W-L-D)",
+            "SLpM": "5.46",
+            "SApM": "5.00",
+            "TD_Avg": "0.76",
+            "Sub_Avg": "0.17",
+            "Fight_Time": "14:26",
+            "Fight_Time_Seconds": 866,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "14"
+        },
+        "Mizuki": {
+            "Name": "Mizuki",
+            "Profile_URL": "https://www.ufc.com/athlete/mizuki-inoue",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/MIZUKI_10-25.png?itok=yNUQpSrN",
+            "Record": "16-6-0 (W-L-D)",
+            "SLpM": "4.45",
+            "SApM": "4.65",
+            "TD_Avg": "0.75",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "15:00",
+            "Fight_Time_Seconds": 900,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "11"
+        },
+        "Maycee Barber": {
+            "Name": "Maycee Barber",
+            "Profile_URL": "https://www.ufc.com/athlete/maycee-barber",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/1/BARBER_MAYCEE_03-28.png?itok=IhBkGxn8",
+            "Record": "15-3-0 (W-L-D)",
+            "SLpM": "4.56",
+            "SApM": "2.78",
+            "TD_Avg": "1.56",
+            "Sub_Avg": "0.09",
+            "Fight_Time": "11:42",
+            "Fight_Time_Seconds": 702,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "9"
+        },
+        "Wang Cong": {
+            "Name": "Wang Cong",
+            "Profile_URL": "https://www.ufc.com/athlete/wang-cong",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/CONG_WANG_10-03.png?itok=pY3YYSO5",
+            "Record": "10-2-0 (W-L-D)",
+            "SLpM": "6.08",
+            "SApM": "3.15",
+            "TD_Avg": "0.46",
+            "Sub_Avg": "0.46",
+            "Fight_Time": "12:14",
+            "Fight_Time_Seconds": 734,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "8"
+        },
+        "Tracy Cortez": {
+            "Name": "Tracy Cortez",
+            "Profile_URL": "https://www.ufc.com/athlete/tracy-cortez",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-07/CORTEZ_TRACY_07-11.png?itok=eOke5S3T",
+            "Record": "12-4-0 (W-L-D)",
+            "SLpM": "3.95",
+            "SApM": "3.61",
+            "TD_Avg": "2.04",
+            "Sub_Avg": "0.29",
+            "Fight_Time": "15:28",
+            "Fight_Time_Seconds": 928,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "10"
+        },
+        "Miranda Maverick": {
+            "Name": "Miranda Maverick",
+            "Profile_URL": "https://www.ufc.com/athlete/miranda-maverick",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/MAVERICK_MIRANDA_06-14.png?itok=aUG9fUN1",
+            "Record": "17-6-0 (W-L-D)",
+            "SLpM": "3.22",
+            "SApM": "2.25",
+            "TD_Avg": "2.16",
+            "Sub_Avg": "0.38",
+            "Fight_Time": "13:17",
+            "Fight_Time_Seconds": 797,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "12"
+        },
+        "Karine Silva": {
+            "Name": "Karine Silva",
+            "Profile_URL": "https://www.ufc.com/athlete/karine-silva",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/SILVA_KARINE_04-18.png?itok=ppTTus42",
+            "Record": "19-7-0 (W-L-D)",
+            "SLpM": "2.24",
+            "SApM": "2.74",
+            "TD_Avg": "1.93",
+            "Sub_Avg": "1.61",
+            "Fight_Time": "10:23",
+            "Fight_Time_Seconds": 623,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "14"
+        },
+        "Casey O'Neill": {
+            "Name": "Casey O'Neill",
+            "Profile_URL": "https://www.ufc.com/athlete/casey-oneill",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/ONEILL_CASEY_09-19.png?itok=uru09x9v",
+            "Record": "12-2-0 (W-L-D)",
+            "SLpM": "7.60",
+            "SApM": "5.36",
+            "TD_Avg": "1.35",
+            "Sub_Avg": "0.84",
+            "Fight_Time": "09:55",
+            "Fight_Time_Seconds": 595,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "11"
+        },
+        "Eduarda Moura": {
+            "Name": "Eduarda Moura",
+            "Profile_URL": "https://www.ufc.com/athlete/eduarda-moura",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/MOURA_EDUARDA_09-19.png?itok=r8XNNPUA",
+            "Record": "12-3-0 (W-L-D)",
+            "SLpM": "2.49",
+            "SApM": "2.40",
+            "TD_Avg": "3.42",
+            "Sub_Avg": "0.60",
+            "Fight_Time": "10:39",
+            "Fight_Time_Seconds": 639,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "13"
+        },
+        "Gabriella Fernandes": {
+            "Name": "Gabriella Fernandes",
+            "Profile_URL": "https://www.ufc.com/athlete/gabriella-fernandes",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/FERNANDES_GABRIELLA_03-28.png?itok=N7cIy1OX",
+            "Record": "11-4-0 (W-L-D)",
+            "SLpM": "3.51",
+            "SApM": "5.31",
+            "TD_Avg": "0.42",
+            "Sub_Avg": "0.21",
+            "Fight_Time": "12:00",
+            "Fight_Time_Seconds": 720,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "14"
+        },
+        "Regina Tarin": {
+            "Name": "Regina Tarin",
+            "Profile_URL": "https://www.ufc.com/athlete/regina-malpica-rivera",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/TARIN_REGINA_09-12.png?itok=ID8vuApZ",
+            "Record": "9-0-0 (W-L-D)",
+            "SLpM": "6.37",
+            "SApM": "5.60",
+            "TD_Avg": "0.50",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "15:00",
+            "Fight_Time_Seconds": 900,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "13"
+        },
+        "Joselyne Edwards": {
+            "Name": "Joselyne Edwards",
+            "Profile_URL": "https://www.ufc.com/athlete/joselyne-edwards",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/EDWARDS_JOSELYNE_04-25.png?itok=eGbCGXCl",
+            "Record": "18-6-0 (W-L-D)",
+            "SLpM": "4.61",
+            "SApM": "3.26",
+            "TD_Avg": "1.29",
+            "Sub_Avg": "0.55",
+            "Fight_Time": "12:29",
+            "Fight_Time_Seconds": 749,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "1"
+        },
+        "Ailin Perez": {
+            "Name": "Ailin Perez",
+            "Profile_URL": "https://www.ufc.com/athlete/ailin-perez",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/PEREZ_AILIN_09-26.png?itok=C-Ork3IE",
+            "Record": "14-2-0 (W-L-D)",
+            "SLpM": "2.82",
+            "SApM": "1.79",
+            "TD_Avg": "4.34",
+            "Sub_Avg": "0.14",
+            "Fight_Time": "12:58",
+            "Fight_Time_Seconds": 778,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "2"
+        },
+        "Norma Dumont": {
+            "Name": "Norma Dumont",
+            "Profile_URL": "https://www.ufc.com/athlete/norma-dumont",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/DUMONT_NORMA_09-26.png?itok=nx8dzeIE",
+            "Record": "13-4-0 (W-L-D)",
+            "SLpM": "3.79",
+            "SApM": "2.34",
+            "TD_Avg": "1.40",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "14:53",
+            "Fight_Time_Seconds": 893,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "3"
+        },
+        "Yana Santos": {
+            "Name": "Yana Santos",
+            "Profile_URL": "https://www.ufc.com/athlete/yana-santos",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/SANTOS_YANA_10-04.png?itok=KtQbaZeq",
+            "Record": "17-8-0 (W-L-D)",
+            "SLpM": "4.41",
+            "SApM": "3.12",
+            "TD_Avg": "0.78",
+            "Sub_Avg": "0.10",
+            "Fight_Time": "12:48",
+            "Fight_Time_Seconds": 768,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "6"
+        },
+        "Luana Santos": {
+            "Name": "Luana Santos",
+            "Profile_URL": "https://www.ufc.com/athlete/luana-santos",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/SANTOS_LUANA_06-20.png?itok=9bIMcbhm",
+            "Record": "11-2-0 (W-L-D)",
+            "SLpM": "2.53",
+            "SApM": "2.45",
+            "TD_Avg": "2.14",
+            "Sub_Avg": "0.97",
+            "Fight_Time": "11:01",
+            "Fight_Time_Seconds": 661,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "4"
+        },
+        "Jacqueline Cavalcanti": {
+            "Name": "Jacqueline Cavalcanti",
+            "Profile_URL": "https://www.ufc.com/athlete/jacqueline-cavalcanti",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-05/CAVALCANTI_JACQUELINE_05-16.png?itok=kZLxevJl",
+            "Record": "10-2-0 (W-L-D)",
+            "SLpM": "5.30",
+            "SApM": "2.98",
+            "TD_Avg": "0.00",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "15:00",
+            "Fight_Time_Seconds": 900,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "7"
+        },
+        "Macy Chiasson": {
+            "Name": "Macy Chiasson",
+            "Profile_URL": "https://www.ufc.com/athlete/macy-chiasson",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/CHIASSON_MACY_02-28.png?itok=5cNJWaR5",
+            "Record": "11-6-0 (W-L-D)",
+            "SLpM": "3.21",
+            "SApM": "2.76",
+            "TD_Avg": "1.87",
+            "Sub_Avg": "0.39",
+            "Fight_Time": "10:54",
+            "Fight_Time_Seconds": 654,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "14"
+        },
+        "Karol Rosa": {
+            "Name": "Karol Rosa",
+            "Profile_URL": "https://www.ufc.com/athlete/karol-rosa",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/ROSA_KAROL_06-20.png?itok=xr46e3lO",
+            "Record": "19-8-0 (W-L-D)",
+            "SLpM": "5.47",
+            "SApM": "4.28",
+            "TD_Avg": "1.08",
+            "Sub_Avg": "0.15",
+            "Fight_Time": "15:00",
+            "Fight_Time_Seconds": 900,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "10"
+        },
+        "Bia Mesquita": {
+            "Name": "Bia Mesquita",
+            "Profile_URL": "https://www.ufc.com/athlete/bia-mesquita",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/MESQUITA_BIA_10-11.png?itok=C7NTZgWu",
+            "Record": "8-0-0 (W-L-D)",
+            "SLpM": "4.52",
+            "SApM": "1.27",
+            "TD_Avg": "3.57",
+            "Sub_Avg": "3.57",
+            "Fight_Time": "04:12",
+            "Fight_Time_Seconds": 252,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "11"
+        },
+        "Michelle Montague": {
+            "Name": "Michelle Montague",
+            "Profile_URL": "https://www.ufc.com/athlete/michelle-montague",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/MONTAGUE_MICHELLE_04-25.png?itok=olLpNJED",
+            "Record": "8-0-0 (W-L-D)",
+            "SLpM": "2.77",
+            "SApM": "2.47",
+            "TD_Avg": "3.50",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "15:00",
+            "Fight_Time_Seconds": 900,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "8"
+        },
+        "Nora Cornolle": {
+            "Name": "Nora Cornolle",
+            "Profile_URL": "https://www.ufc.com/athlete/nora-cornolle",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/CORNOLLE_NORA_09-05.png?itok=-vqnweOf",
+            "Record": "10-4-0 (W-L-D)",
+            "SLpM": "2.65",
+            "SApM": "1.95",
+            "TD_Avg": "0.91",
+            "Sub_Avg": "0.36",
+            "Fight_Time": "11:49",
+            "Fight_Time_Seconds": 709,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "13"
+        },
+        "Chelsea Chandler": {
+            "Name": "Chelsea Chandler",
+            "Profile_URL": "https://www.ufc.com/athlete/chelsea-chandler",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/CHANDLER_CHELSEA_10-17.png?itok=us4ZEoeW",
+            "Record": "8-4-0 (W-L-D)",
+            "SLpM": "3.43",
+            "SApM": "4.11",
+            "TD_Avg": "0.75",
+            "Sub_Avg": "0.50",
+            "Fight_Time": "08:37",
+            "Fight_Time_Seconds": 517,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "9"
+        },
+        "Alice Pereira": {
+            "Name": "Alice Pereira",
+            "Profile_URL": "https://www.ufc.com/athlete/alice-pereira",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/PEREIRA_ALICE_10-10.png?itok=zSGYbp52",
+            "Record": "8-1-0 (W-L-D)",
+            "SLpM": "3.03",
+            "SApM": "2.79",
+            "TD_Avg": "0.51",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "09:48",
+            "Fight_Time_Seconds": 588,
+            "Division": "Poids coq f\u00e9minins",
+            "Rank": "12"
+        },
+        "Piera Rodriguez": {
+            "Name": "Piera Rodriguez",
+            "Profile_URL": "https://www.ufc.com/athlete/piera-rodriguez",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/RODRIGUEZ_PIERA_03-14.png?itok=GYfh0bzR",
+            "Record": "12-2-0 (W-L-D)",
+            "SLpM": "4.04",
+            "SApM": "3.13",
+            "TD_Avg": "4.04",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "13:27",
+            "Fight_Time_Seconds": 807,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "9"
+        },
+        "Talita Alencar": {
+            "Name": "Talita Alencar",
+            "Profile_URL": "https://www.ufc.com/athlete/talita-alencar",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/ALENCAR_TALITA_04-25.png?itok=NffTBkLU",
+            "Record": "8-1-1 (W-L-D)",
+            "SLpM": "3.09",
+            "SApM": "3.67",
+            "TD_Avg": "3.01",
+            "Sub_Avg": "0.50",
+            "Fight_Time": "14:56",
+            "Fight_Time_Seconds": 896,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "13"
+        },
+        "Sam Hughes": {
+            "Name": "Sam Hughes",
+            "Profile_URL": "https://www.ufc.com/athlete/sam-hughes",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/HUGHES_SAM_03-14.png?itok=nNSKTIEY",
+            "Record": "11-7-0 (W-L-D)",
+            "SLpM": "4.41",
+            "SApM": "4.69",
+            "TD_Avg": "1.12",
+            "Sub_Avg": "0.19",
+            "Fight_Time": "13:24",
+            "Fight_Time_Seconds": 804,
+            "Division": "Poids paille f\u00e9minins",
+            "Rank": "15"
+        },
+        "Carli Judice": {
+            "Name": "Carli Judice",
+            "Profile_URL": "https://www.ufc.com/athlete/carli-judice",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/JUDICE_CARLI_08-22.png?itok=m0TX_yBL",
+            "Record": "7-2-0 (W-L-D)",
+            "SLpM": "9.33",
+            "SApM": "6.60",
+            "TD_Avg": "0.50",
+            "Sub_Avg": "0.00",
+            "Fight_Time": "09:58",
+            "Fight_Time_Seconds": 598,
+            "Division": "Poids mouche f\u00e9minins",
+            "Rank": "15"
+        },
+        "Melissa Croden": {
+            "Name": "Melissa Croden",
+            "Profile_URL": "https://www.ufc.com/athlete/melissa-croden",
+            "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/CRODEN_MELISSA_10-18.png?itok=j_REw9Gb",
+            "Record": "8-3-0 (W-L-D)",
+            "SLpM": "4.07",
+            "SApM": "2.17",
+            "TD_Avg": "2.13",
+            "Sub_Avg": "0.30",
+            "Fight_Time": "12:21",
+            "Fight_Time_Seconds": 741,
+            "Division": "Poids coq f\u00e9minins",
             "Rank": "15"
         }
     }
