@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Manel Kape",
-        "Profile_URL": "https://www.ufc.com/athlete/manel-kape",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/KAPE_MANEL_03-01.png?itok=tvtp-zUJ",
-        "Record": "21-7-0 (W-L-D)",
-        "SLpM": "5.04",
-        "SApM": "4.05",
-        "TD_Avg": "0.42",
-        "Sub_Avg": "0.28",
-        "Fight_Time": "12:00",
-        "Fight_Time_Seconds": 720,
+        "Name": "Alexandre Pantoja",
+        "Profile_URL": "https://www.ufc.com/athlete/alexandre-pantoja",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/PANTOJA_ALEXANDRE_BELT_06-28.png?itok=qhPySoZJ",
+        "Record": "30-5-0 (W-L-D)",
+        "SLpM": "4.36",
+        "SApM": "3.88",
+        "TD_Avg": "2.80",
+        "Sub_Avg": "0.98",
+        "Fight_Time": "12:37",
+        "Fight_Time_Seconds": 757,
         "Division": "Flyweight",
-        "Rank": "1",
-        "Selected_Date": "2026-10-22T09:59:21.387925Z"
+        "Rank": "2",
+        "Selected_Date": "2026-10-23T09:54:05.789060Z"
     },
     "past_fighters": [
-        "Tatsuro Taira",
         "Kamaru Usman",
         "Far\u00e8s Ziam",
         "Zhang Mingyang",
         "Steve Erceg",
         "Paulo Costa",
-        "Jamall Emmers"
+        "Jamall Emmers",
+        "Manel Kape"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -97,7 +97,7 @@
             "Fight_Time_Seconds": 757,
             "Division": "Flyweight",
             "Rank": "2",
-            "Selected_Date": "2026-08-21T05:38:43.877055Z"
+            "Selected_Date": "2026-10-23T09:54:05.789060Z"
         },
         "Alex Pereira": {
             "Name": "Alex Pereira",
