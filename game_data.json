@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alexandre Pantoja",
-        "Profile_URL": "https://www.ufc.com/athlete/alexandre-pantoja",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/PANTOJA_ALEXANDRE_BELT_06-28.png?itok=qhPySoZJ",
-        "Record": "30-5-0 (W-L-D)",
-        "SLpM": "4.36",
-        "SApM": "3.88",
-        "TD_Avg": "2.80",
-        "Sub_Avg": "0.98",
-        "Fight_Time": "12:37",
-        "Fight_Time_Seconds": 757,
-        "Division": "Flyweight",
-        "Rank": "2",
-        "Selected_Date": "2026-10-23T09:54:05.789060Z"
+        "Name": "Natalia Silva",
+        "Profile_URL": "https://www.ufc.com/athlete/natalia-silva",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/SILVA_NATALIA_BELT.png?itok=r7xtvRHA",
+        "Record": "21-5-1 (W-L-D)",
+        "SLpM": "4.72",
+        "SApM": "2.66",
+        "TD_Avg": "0.70",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "14:23",
+        "Fight_Time_Seconds": 863,
+        "Division": "Poids mouche f\u00e9minins",
+        "Rank": "C",
+        "Selected_Date": "2026-10-24T09:23:33.158224Z"
     },
     "past_fighters": [
-        "Kamaru Usman",
         "Far\u00e8s Ziam",
         "Zhang Mingyang",
         "Steve Erceg",
         "Paulo Costa",
         "Jamall Emmers",
-        "Manel Kape"
+        "Manel Kape",
+        "Alexandre Pantoja"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2876,7 +2876,8 @@
             "Fight_Time": "14:23",
             "Fight_Time_Seconds": 863,
             "Division": "Poids mouche f\u00e9minins",
-            "Rank": "C"
+            "Rank": "C",
+            "Selected_Date": "2026-10-24T09:23:33.158224Z"
         },
         "Mackenzie Dern": {
             "Name": "Mackenzie Dern",
