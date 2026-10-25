@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Natalia Silva",
-        "Profile_URL": "https://www.ufc.com/athlete/natalia-silva",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/SILVA_NATALIA_BELT.png?itok=r7xtvRHA",
-        "Record": "21-5-1 (W-L-D)",
-        "SLpM": "4.72",
-        "SApM": "2.66",
-        "TD_Avg": "0.70",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "14:23",
-        "Fight_Time_Seconds": 863,
-        "Division": "Poids mouche f\u00e9minins",
-        "Rank": "C",
-        "Selected_Date": "2026-10-24T09:23:33.158224Z"
+        "Name": "Gregory Rodrigues",
+        "Profile_URL": "https://www.ufc.com/athlete/gregory-rodrigues",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/RODRIGUES_GREGORY_11-15.png?itok=jNtCq099",
+        "Record": "18-6-0 (W-L-D)",
+        "SLpM": "5.60",
+        "SApM": "4.84",
+        "TD_Avg": "1.93",
+        "Sub_Avg": "0.39",
+        "Fight_Time": "08:59",
+        "Fight_Time_Seconds": 539,
+        "Division": "Middleweight",
+        "Rank": "7",
+        "Selected_Date": "2026-10-25T09:42:14.567541Z"
     },
     "past_fighters": [
-        "Far\u00e8s Ziam",
         "Zhang Mingyang",
         "Steve Erceg",
         "Paulo Costa",
         "Jamall Emmers",
         "Manel Kape",
-        "Alexandre Pantoja"
+        "Alexandre Pantoja",
+        "Natalia Silva"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1488,7 +1488,7 @@
             "Fight_Time_Seconds": 539,
             "Division": "Middleweight",
             "Rank": "7",
-            "Selected_Date": "2026-05-14T07:48:53.119913Z"
+            "Selected_Date": "2026-10-25T09:42:14.567541Z"
         },
         "Ji\u0159\u00ed Proch\u00e1zka": {
             "Name": "Ji\u0159\u00ed Proch\u00e1zka",
