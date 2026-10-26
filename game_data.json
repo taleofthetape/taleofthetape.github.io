@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Gregory Rodrigues",
-        "Profile_URL": "https://www.ufc.com/athlete/gregory-rodrigues",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/RODRIGUES_GREGORY_11-15.png?itok=jNtCq099",
-        "Record": "18-6-0 (W-L-D)",
-        "SLpM": "5.60",
-        "SApM": "4.84",
-        "TD_Avg": "1.93",
-        "Sub_Avg": "0.39",
-        "Fight_Time": "08:59",
-        "Fight_Time_Seconds": 539,
+        "Name": "Dricus Du Plessis",
+        "Profile_URL": "https://www.ufc.com/athlete/dricus-du-plessis",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-01/DU_PLESSIS_DRICUS_01-20.png?itok=RO5s6PAD",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.18",
+        "SApM": "4.33",
+        "TD_Avg": "2.22",
+        "Sub_Avg": "0.71",
+        "Fight_Time": "14:53",
+        "Fight_Time_Seconds": 893,
         "Division": "Middleweight",
-        "Rank": "7",
-        "Selected_Date": "2026-10-25T09:42:14.567541Z"
+        "Rank": "2",
+        "Selected_Date": "2026-10-26T10:55:57.752523Z"
     },
     "past_fighters": [
-        "Zhang Mingyang",
         "Steve Erceg",
         "Paulo Costa",
         "Jamall Emmers",
         "Manel Kape",
         "Alexandre Pantoja",
-        "Natalia Silva"
+        "Natalia Silva",
+        "Gregory Rodrigues"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -157,7 +157,7 @@
             "Fight_Time_Seconds": 893,
             "Division": "Middleweight",
             "Rank": "2",
-            "Selected_Date": "2026-09-29T11:14:45.295113Z"
+            "Selected_Date": "2026-10-26T10:55:57.752523Z"
         },
         "Max Holloway": {
             "Name": "Max Holloway",
