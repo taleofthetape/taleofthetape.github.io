@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alex Pereira",
-        "Profile_URL": "https://www.ufc.com/athlete/alex-pereira",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/PEREIRA_ALEX_BELT_03-08.png?itok=227qXfYv",
-        "Record": "13-3-0 (W-L-D)",
-        "SLpM": "5.16",
-        "SApM": "3.50",
-        "TD_Avg": "0.11",
-        "Sub_Avg": "0.23",
-        "Fight_Time": "11:04",
-        "Fight_Time_Seconds": 664,
-        "Division": "Heavyweight",
-        "Rank": "3",
-        "Selected_Date": "2026-10-28T11:11:42.900354Z"
+        "Name": "Marcus McGhee",
+        "Profile_URL": "https://www.ufc.com/athlete/marcus-mcghee",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MCGHEE_MARCUS_06-06.png?itok=FPAf7ePn",
+        "Record": "11-2-0 (W-L-D)",
+        "SLpM": "5.44",
+        "SApM": "3.64",
+        "TD_Avg": "0.24",
+        "Sub_Avg": "0.24",
+        "Fight_Time": "10:29",
+        "Fight_Time_Seconds": 629,
+        "Division": "Bantamweight",
+        "Rank": "9",
+        "Selected_Date": "2026-10-29T11:24:31.042136Z"
     },
     "past_fighters": [
-        "Jamall Emmers",
         "Manel Kape",
         "Alexandre Pantoja",
         "Natalia Silva",
         "Gregory Rodrigues",
         "Dricus Du Plessis",
-        "Nikita Krylov"
+        "Nikita Krylov",
+        "Alex Pereira"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -689,7 +689,7 @@
             "Fight_Time_Seconds": 629,
             "Division": "Bantamweight",
             "Rank": "9",
-            "Selected_Date": "2026-06-09T08:36:21.905027Z"
+            "Selected_Date": "2026-10-29T11:24:31.042136Z"
         },
         "Movsar Evloev": {
             "Name": "Movsar Evloev",
