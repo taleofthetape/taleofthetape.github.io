@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Jailton Almeida",
-        "Profile_URL": "https://www.ufc.com/athlete/jailton-almeida",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ALMEIDA_JAILTON_10-25.png?itok=BPFgM4Bw",
-        "Record": "22-4-0 (W-L-D)",
-        "SLpM": "2.25",
-        "SApM": "1.02",
-        "TD_Avg": "6.66",
-        "Sub_Avg": "1.98",
-        "Fight_Time": "07:35",
-        "Fight_Time_Seconds": 455,
+        "Name": "Josh Hokit",
+        "Profile_URL": "https://www.ufc.com/athlete/josh-hokit",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOKIT_JOSH_04-11.png?itok=PMyQcS1V",
+        "Record": "9-0-0 (W-L-D)",
+        "SLpM": "9.25",
+        "SApM": "6.81",
+        "TD_Avg": "3.89",
+        "Sub_Avg": "0.00",
+        "Fight_Time": "06:45",
+        "Fight_Time_Seconds": 405,
         "Division": "Heavyweight",
-        "Rank": "8",
-        "Selected_Date": "2026-10-31T10:49:28.074651Z"
+        "Rank": "5",
+        "Selected_Date": "2026-11-01T11:45:52.725175Z"
     },
     "past_fighters": [
-        "Natalia Silva",
         "Gregory Rodrigues",
         "Dricus Du Plessis",
         "Nikita Krylov",
         "Alex Pereira",
         "Marcus McGhee",
-        "Caio Borralho"
+        "Caio Borralho",
+        "Jailton Almeida"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2162,7 +2162,7 @@
         },
         "Tyrell Fortune": {
             "Name": "Tyrell Fortune",
-            "Profile_URL": "https://www.ufc.com/index%2ephp/athlete/tyrell-fortune",
+            "Profile_URL": "https://www.ufc.com/athlete/tyrell-fortune",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-03/FORTUNE_TYRELL_03-28.png?itok=r5E1psjZ",
             "Record": "18-3-0 (W-L-D)",
             "SLpM": "2.00",
@@ -2203,7 +2203,7 @@
             "Fight_Time_Seconds": 405,
             "Division": "Heavyweight",
             "Rank": "5",
-            "Selected_Date": "2026-07-22T07:37:58.895965Z"
+            "Selected_Date": "2026-11-01T11:45:52.725175Z"
         },
         "Mike Malott": {
             "Name": "Mike Malott",
