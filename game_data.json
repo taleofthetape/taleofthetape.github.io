@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Josh Hokit",
-        "Profile_URL": "https://www.ufc.com/athlete/josh-hokit",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOKIT_JOSH_04-11.png?itok=PMyQcS1V",
-        "Record": "9-0-0 (W-L-D)",
-        "SLpM": "9.25",
-        "SApM": "6.81",
-        "TD_Avg": "3.89",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "06:45",
-        "Fight_Time_Seconds": 405,
-        "Division": "Heavyweight",
-        "Rank": "5",
-        "Selected_Date": "2026-11-01T11:45:52.725175Z"
+        "Name": "Bryce Mitchell",
+        "Profile_URL": "https://www.ufc.com/athlete/bryce-mitchell",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/MITCHELL_BRYCE_06-06.png?itok=7luO88no",
+        "Record": "19-4-0 (W-L-D)",
+        "SLpM": "2.19",
+        "SApM": "1.51",
+        "TD_Avg": "3.12",
+        "Sub_Avg": "1.27",
+        "Fight_Time": "11:50",
+        "Fight_Time_Seconds": 710,
+        "Division": "Bantamweight",
+        "Rank": "13",
+        "Selected_Date": "2026-11-02T13:19:02.448868Z"
     },
     "past_fighters": [
-        "Gregory Rodrigues",
         "Dricus Du Plessis",
         "Nikita Krylov",
         "Alex Pereira",
         "Marcus McGhee",
         "Caio Borralho",
-        "Jailton Almeida"
+        "Jailton Almeida",
+        "Josh Hokit"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2400,7 +2400,8 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Bantamweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-11-02T13:19:02.448868Z"
         },
         "Pat Sabatini": {
             "Name": "Pat Sabatini",
