@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dustin Jacoby",
-        "Profile_URL": "https://www.ufc.com/athlete/dustin-jacoby",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-02/JACOBY_DUSTIN_02-07.png?itok=KyBLR6Te",
-        "Record": "22-9-1 (W-L-D)",
-        "SLpM": "5.40",
-        "SApM": "3.92",
-        "TD_Avg": "0.32",
-        "Sub_Avg": "0.00",
-        "Fight_Time": "09:58",
-        "Fight_Time_Seconds": 598,
-        "Division": "Light Heavyweight",
-        "Rank": "10",
-        "Selected_Date": "2026-11-06T12:49:19.953643Z"
+        "Name": "Joe Pyfer",
+        "Profile_URL": "https://www.ufc.com/athlete/joe-pyfer",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PYFER_JOE_10-04.png?itok=VhlKDlqd",
+        "Record": "15-3-0 (W-L-D)",
+        "SLpM": "3.47",
+        "SApM": "3.05",
+        "TD_Avg": "1.23",
+        "Sub_Avg": "1.02",
+        "Fight_Time": "08:10",
+        "Fight_Time_Seconds": 490,
+        "Division": "Middleweight",
+        "Rank": "5",
+        "Selected_Date": "2026-11-07T11:37:19.797487Z"
     },
     "past_fighters": [
-        "Caio Borralho",
         "Jailton Almeida",
         "Josh Hokit",
         "Bryce Mitchell",
         "Volkan Oezdemir",
         "Alexander Volkanovski",
-        "Macy Chiasson"
+        "Macy Chiasson",
+        "Dustin Jacoby"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1996,7 +1996,8 @@
             "Fight_Time": "08:10",
             "Fight_Time_Seconds": 490,
             "Division": "Middleweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-11-07T11:37:19.797487Z"
         },
         "Brunno Ferreira": {
             "Name": "Brunno Ferreira",
