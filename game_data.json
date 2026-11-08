@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Joe Pyfer",
-        "Profile_URL": "https://www.ufc.com/athlete/joe-pyfer",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/PYFER_JOE_10-04.png?itok=VhlKDlqd",
-        "Record": "15-3-0 (W-L-D)",
-        "SLpM": "3.47",
-        "SApM": "3.05",
-        "TD_Avg": "1.23",
-        "Sub_Avg": "1.02",
-        "Fight_Time": "08:10",
-        "Fight_Time_Seconds": 490,
+        "Name": "Bo Nickal",
+        "Profile_URL": "https://www.ufc.com/athlete/bo-nickal",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/NICKAL_BO_06-14.png?itok=sc2JlKnj",
+        "Record": "9-1-0 (W-L-D)",
+        "SLpM": "3.35",
+        "SApM": "2.07",
+        "TD_Avg": "3.10",
+        "Sub_Avg": "2.48",
+        "Fight_Time": "06:03",
+        "Fight_Time_Seconds": 363,
         "Division": "Middleweight",
-        "Rank": "5",
-        "Selected_Date": "2026-11-07T11:37:19.797487Z"
+        "Rank": "13",
+        "Selected_Date": "2026-11-08T11:49:27.037056Z"
     },
     "past_fighters": [
-        "Jailton Almeida",
         "Josh Hokit",
         "Bryce Mitchell",
         "Volkan Oezdemir",
         "Alexander Volkanovski",
         "Macy Chiasson",
-        "Dustin Jacoby"
+        "Dustin Jacoby",
+        "Joe Pyfer"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2331,7 +2331,8 @@
             "Fight_Time": "06:03",
             "Fight_Time_Seconds": 363,
             "Division": "Middleweight",
-            "Rank": "13"
+            "Rank": "13",
+            "Selected_Date": "2026-11-08T11:49:27.037056Z"
         },
         "Kevin Borjas": {
             "Name": "Kevin Borjas",
