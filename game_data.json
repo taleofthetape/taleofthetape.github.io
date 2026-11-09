@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Bo Nickal",
-        "Profile_URL": "https://www.ufc.com/athlete/bo-nickal",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/NICKAL_BO_06-14.png?itok=sc2JlKnj",
-        "Record": "9-1-0 (W-L-D)",
-        "SLpM": "3.35",
-        "SApM": "2.07",
-        "TD_Avg": "3.10",
-        "Sub_Avg": "2.48",
-        "Fight_Time": "06:03",
-        "Fight_Time_Seconds": 363,
-        "Division": "Middleweight",
-        "Rank": "13",
-        "Selected_Date": "2026-11-08T11:49:27.037056Z"
+        "Name": "Tatsuro Taira",
+        "Profile_URL": "https://www.ufc.com/athlete/tatsuro-taira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/TAIRA_TATSURO_08-02.png?itok=AKe72cIY",
+        "Record": "17-1-0 (W-L-D)",
+        "SLpM": "2.87",
+        "SApM": "2.54",
+        "TD_Avg": "3.21",
+        "Sub_Avg": "1.69",
+        "Fight_Time": "11:05",
+        "Fight_Time_Seconds": 665,
+        "Division": "Flyweight",
+        "Rank": "4",
+        "Selected_Date": "2026-11-09T13:44:45.434160Z"
     },
     "past_fighters": [
-        "Josh Hokit",
         "Bryce Mitchell",
         "Volkan Oezdemir",
         "Alexander Volkanovski",
         "Macy Chiasson",
         "Dustin Jacoby",
-        "Joe Pyfer"
+        "Joe Pyfer",
+        "Bo Nickal"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -316,7 +316,7 @@
             "Fight_Time_Seconds": 665,
             "Division": "Flyweight",
             "Rank": "4",
-            "Selected_Date": "2026-10-15T09:43:56.680727Z"
+            "Selected_Date": "2026-11-09T13:44:45.434160Z"
         },
         "Manel Kape": {
             "Name": "Manel Kape",
