@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Tatsuro Taira",
-        "Profile_URL": "https://www.ufc.com/athlete/tatsuro-taira",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/TAIRA_TATSURO_08-02.png?itok=AKe72cIY",
-        "Record": "17-1-0 (W-L-D)",
-        "SLpM": "2.87",
-        "SApM": "2.54",
-        "TD_Avg": "3.21",
-        "Sub_Avg": "1.69",
-        "Fight_Time": "11:05",
-        "Fight_Time_Seconds": 665,
-        "Division": "Flyweight",
-        "Rank": "4",
-        "Selected_Date": "2026-11-09T13:44:45.434160Z"
+        "Name": "Casey O'Neill",
+        "Profile_URL": "https://www.ufc.com/athlete/casey-oneill",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/ONEILL_CASEY_09-19.png?itok=uru09x9v",
+        "Record": "12-2-0 (W-L-D)",
+        "SLpM": "7.60",
+        "SApM": "5.36",
+        "TD_Avg": "1.35",
+        "Sub_Avg": "0.84",
+        "Fight_Time": "09:55",
+        "Fight_Time_Seconds": 595,
+        "Division": "Poids mouche f\u00e9minins",
+        "Rank": "11",
+        "Selected_Date": "2026-11-10T13:23:01.986016Z"
     },
     "past_fighters": [
-        "Bryce Mitchell",
         "Volkan Oezdemir",
         "Alexander Volkanovski",
         "Macy Chiasson",
         "Dustin Jacoby",
         "Joe Pyfer",
-        "Bo Nickal"
+        "Bo Nickal",
+        "Tatsuro Taira"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -792,7 +792,7 @@
             "Fight_Time": "11:32",
             "Fight_Time_Seconds": 692,
             "Division": "Featherweight",
-            "Rank": "9",
+            "Rank": "8",
             "Selected_Date": "2026-02-10T06:14:12.018791Z"
         },
         "Steve Garcia": {
@@ -807,7 +807,7 @@
             "Fight_Time": "05:50",
             "Fight_Time_Seconds": 350,
             "Division": "Featherweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2026-09-15T09:57:11.838022Z"
         },
         "Brian Ortega": {
@@ -866,7 +866,7 @@
             "Fight_Time": "16:04",
             "Fight_Time_Seconds": 964,
             "Division": "Featherweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-05-02T07:03:44.557378Z"
         },
         "Dan Ige": {
@@ -1641,7 +1641,7 @@
             "Fight_Time": "06:47",
             "Fight_Time_Seconds": 407,
             "Division": "Heavyweight",
-            "Rank": "12",
+            "Rank": "8",
             "Selected_Date": "2026-01-02T05:33:44.119763Z"
         },
         "Nikita Krylov": {
@@ -1743,7 +1743,7 @@
             "Fight_Time": "08:56",
             "Fight_Time_Seconds": 536,
             "Division": "Heavyweight",
-            "Rank": "6",
+            "Rank": "7",
             "Selected_Date": "2026-07-05T08:07:06.622649Z"
         },
         "Waldo Cortes Acosta": {
@@ -1758,7 +1758,7 @@
             "Fight_Time": "10:34",
             "Fight_Time_Seconds": 634,
             "Division": "Heavyweight",
-            "Rank": "8",
+            "Rank": "12",
             "Selected_Date": "2026-03-28T06:01:46.483223Z"
         },
         "Jailton Almeida": {
@@ -1952,7 +1952,7 @@
             "Fight_Time": "08:24",
             "Fight_Time_Seconds": 504,
             "Division": "Featherweight",
-            "Rank": "11"
+            "Rank": "10"
         },
         "Manuel Torres": {
             "Name": "Manuel Torres",
@@ -2040,7 +2040,7 @@
             "Fight_Time": "11:30",
             "Fight_Time_Seconds": 690,
             "Division": "Heavyweight",
-            "Rank": "7",
+            "Rank": "6",
             "Selected_Date": "2026-08-28T17:18:27.719317Z"
         },
         "Joseph Morales": {
@@ -2070,7 +2070,7 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-09-24T09:51:23.082439Z"
         },
         "Uro\u0161 Medi\u0107": {
@@ -2188,7 +2188,7 @@
             "Fight_Time": "09:11",
             "Fight_Time_Seconds": 551,
             "Division": "Featherweight",
-            "Rank": "10",
+            "Rank": "9",
             "Selected_Date": "2026-05-05T07:22:24.090442Z"
         },
         "Josh Hokit": {
@@ -2447,7 +2447,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Featherweight",
-            "Rank": "12"
+            "Rank": "11"
         },
         "Jose Miguel Delgado": {
             "Name": "Jose Miguel Delgado",
@@ -2661,7 +2661,7 @@
             "Fight_Time": "09:16",
             "Fight_Time_Seconds": 556,
             "Division": "Featherweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-10-21T10:01:30.692741Z"
         },
         "Rei Tsuruya": {
@@ -3272,7 +3272,8 @@
             "Fight_Time": "09:55",
             "Fight_Time_Seconds": 595,
             "Division": "Poids mouche f\u00e9minins",
-            "Rank": "11"
+            "Rank": "11",
+            "Selected_Date": "2026-11-10T13:23:01.986016Z"
         },
         "Eduarda Moura": {
             "Name": "Eduarda Moura",
