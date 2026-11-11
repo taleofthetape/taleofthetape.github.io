@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Casey O'Neill",
-        "Profile_URL": "https://www.ufc.com/athlete/casey-oneill",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-09/ONEILL_CASEY_09-19.png?itok=uru09x9v",
-        "Record": "12-2-0 (W-L-D)",
-        "SLpM": "7.60",
-        "SApM": "5.36",
-        "TD_Avg": "1.35",
-        "Sub_Avg": "0.84",
-        "Fight_Time": "09:55",
-        "Fight_Time_Seconds": 595,
-        "Division": "Poids mouche f\u00e9minins",
-        "Rank": "11",
-        "Selected_Date": "2026-11-10T13:23:01.986016Z"
+        "Name": "David Onama",
+        "Profile_URL": "https://www.ufc.com/athlete/david-onama",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/ONAMA_DAVID_11-01.png?itok=SIczG7cS",
+        "Record": "14-3-0 (W-L-D)",
+        "SLpM": "5.07",
+        "SApM": "4.89",
+        "TD_Avg": "1.05",
+        "Sub_Avg": "0.45",
+        "Fight_Time": "11:09",
+        "Fight_Time_Seconds": 669,
+        "Division": "Featherweight",
+        "Rank": "15",
+        "Selected_Date": "2026-11-11T12:34:29.196282Z"
     },
     "past_fighters": [
-        "Volkan Oezdemir",
         "Alexander Volkanovski",
         "Macy Chiasson",
         "Dustin Jacoby",
         "Joe Pyfer",
         "Bo Nickal",
-        "Tatsuro Taira"
+        "Tatsuro Taira",
+        "Casey O'Neill"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -419,7 +419,7 @@
             "Fight_Time": "12:22",
             "Fight_Time_Seconds": 742,
             "Division": "Flyweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-08-24T05:44:30.459725Z"
         },
         "Charles Johnson": {
@@ -733,7 +733,7 @@
             "Fight_Time": "13:14",
             "Fight_Time_Seconds": 794,
             "Division": "Featherweight",
-            "Rank": "6",
+            "Rank": "7",
             "Selected_Date": "2026-02-07T05:50:33.102348Z"
         },
         "Lerone Murphy": {
@@ -896,7 +896,8 @@
             "Fight_Time": "11:09",
             "Fight_Time_Seconds": 669,
             "Division": "Featherweight",
-            "Rank": "15"
+            "Rank": "15",
+            "Selected_Date": "2026-11-11T12:34:29.196282Z"
         },
         "Giga Chikadze": {
             "Name": "Giga Chikadze",
@@ -930,7 +931,7 @@
         },
         "Paddy Pimblett": {
             "Name": "Paddy Pimblett",
-            "Profile_URL": "https://www.ufc.com/athlete/paddy-pimblett",
+            "Profile_URL": "https://www.ufc.com/index%2ephp/athlete/paddy-pimblett",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-04/PIMBLETT_PADDY_04-12.png?itok=qIx4tGVD",
             "Record": "23-3-0 (W-L-D)",
             "SLpM": "5.19",
@@ -1062,7 +1063,7 @@
         },
         "Mauricio Ruffy": {
             "Name": "Mauricio Ruffy",
-            "Profile_URL": "https://www.ufc.com/athlete/mauricio-ruffy",
+            "Profile_URL": "https://www.ufc.com/index%2ephp/athlete/mauricio-ruffy",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/RUFFY_MAURICIO_09-06.png?itok=15LtP1OI",
             "Record": "12-2-0 (W-L-D)",
             "SLpM": "3.84",
@@ -1543,7 +1544,7 @@
             "Fight_Time": "12:49",
             "Fight_Time_Seconds": 769,
             "Division": "Light Heavyweight",
-            "Rank": "9"
+            "Rank": "11"
         },
         "Jamahal Hill": {
             "Name": "Jamahal Hill",
@@ -1614,7 +1615,7 @@
             "Fight_Time": "10:41",
             "Fight_Time_Seconds": 641,
             "Division": "Heavyweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-06-01T10:27:27.370121Z"
         },
         "Bogdan Guskov": {
@@ -1802,7 +1803,7 @@
             "Fight_Time": "08:52",
             "Fight_Time_Seconds": 532,
             "Division": "Heavyweight",
-            "Rank": "12",
+            "Rank": "14",
             "Selected_Date": "2026-01-03T05:29:44.234925Z"
         },
         "Ante Delija": {
@@ -1817,7 +1818,7 @@
             "Fight_Time": "03:01",
             "Fight_Time_Seconds": 181,
             "Division": "Heavyweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2026-05-28T08:49:20.701168Z"
         },
         "Marcin Tybura": {
@@ -2173,7 +2174,7 @@
             "Fight_Time": "15:00",
             "Fight_Time_Seconds": 900,
             "Division": "Heavyweight",
-            "Rank": "12",
+            "Rank": "13",
             "Selected_Date": "2026-06-15T11:19:02.186051Z"
         },
         "Aaron Pico": {
@@ -2237,7 +2238,7 @@
         },
         "Raoni Barcelos": {
             "Name": "Raoni Barcelos",
-            "Profile_URL": "https://www.ufc.com/athlete/raoni-barcelos",
+            "Profile_URL": "https://www.ufc.com/index%2ephp/athlete/raoni-barcelos",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/BARCELOS_RAONI_04-25.png?itok=afx586h5",
             "Record": "22-5-0 (W-L-D)",
             "SLpM": "4.65",
@@ -2609,7 +2610,7 @@
         },
         "Kevin Holland": {
             "Name": "Kevin Holland",
-            "Profile_URL": "https://www.ufc.com/athlete/kevin-holland",
+            "Profile_URL": "https://www.ufc.com/index%2ephp/athlete/kevin-holland",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOLLAND_KEVIN_04-11.png?itok=xjk8I5OI",
             "Record": "29-15-0 (W-L-D)",
             "SLpM": "4.24",
@@ -2771,7 +2772,7 @@
         },
         "Roman Kopylov": {
             "Name": "Roman Kopylov",
-            "Profile_URL": "https://www.ufc.com/athlete/roman-kopylov",
+            "Profile_URL": "https://www.ufc.com/index%2ephp/athlete/roman-kopylov",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-10/KOPYLOV_ROMAN_10-03.png?itok=ShiuNkJ1",
             "Record": "16-5-0 (W-L-D)",
             "SLpM": "4.54",
