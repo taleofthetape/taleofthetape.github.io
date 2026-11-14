@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Ilia Topuria",
-        "Profile_URL": "https://www.ufc.com/athlete/ilia-topuria",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/TOPURIA_ILIA_BELT_10-26.png?itok=ZD8DFM6O",
-        "Record": "17-0-0 (W-L-D)",
-        "SLpM": "4.81",
-        "SApM": "3.83",
-        "TD_Avg": "1.96",
-        "Sub_Avg": "1.07",
-        "Fight_Time": "09:22",
-        "Fight_Time_Seconds": 562,
-        "Division": "Lightweight",
+        "Name": "Joselyne Edwards",
+        "Profile_URL": "https://www.ufc.com/athlete/joselyne-edwards",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/EDWARDS_JOSELYNE_04-25.png?itok=eGbCGXCl",
+        "Record": "18-6-0 (W-L-D)",
+        "SLpM": "4.61",
+        "SApM": "3.26",
+        "TD_Avg": "1.29",
+        "Sub_Avg": "0.55",
+        "Fight_Time": "12:29",
+        "Fight_Time_Seconds": 749,
+        "Division": "Poids coq f\u00e9minins",
         "Rank": "1",
-        "Selected_Date": "2026-11-13T12:57:14.380289Z"
+        "Selected_Date": "2026-11-14T12:00:21.760111Z"
     },
     "past_fighters": [
-        "Dustin Jacoby",
         "Joe Pyfer",
         "Bo Nickal",
         "Tatsuro Taira",
         "Casey O'Neill",
         "David Onama",
-        "Jasmine Jasudavicius"
+        "Jasmine Jasudavicius",
+        "Ilia Topuria"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -3331,7 +3331,8 @@
             "Fight_Time": "12:29",
             "Fight_Time_Seconds": 749,
             "Division": "Poids coq f\u00e9minins",
-            "Rank": "1"
+            "Rank": "1",
+            "Selected_Date": "2026-11-14T12:00:21.760111Z"
         },
         "Ailin Perez": {
             "Name": "Ailin Perez",
