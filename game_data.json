@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Alexandre Pantoja",
-        "Profile_URL": "https://www.ufc.com/athlete/alexandre-pantoja",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-06/PANTOJA_ALEXANDRE_BELT_06-28.png?itok=qhPySoZJ",
-        "Record": "30-5-0 (W-L-D)",
-        "SLpM": "4.36",
-        "SApM": "3.88",
-        "TD_Avg": "2.80",
-        "Sub_Avg": "0.98",
-        "Fight_Time": "12:37",
-        "Fight_Time_Seconds": 757,
-        "Division": "Flyweight",
-        "Rank": "2",
-        "Selected_Date": "2026-11-15T12:37:11.488662Z"
+        "Name": "Sean Brady",
+        "Profile_URL": "https://www.ufc.com/athlete/sean-brady",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/BRADY_SEAN_11-15.png?itok=AC4QCIbp",
+        "Record": "18-2-0 (W-L-D)",
+        "SLpM": "3.96",
+        "SApM": "3.05",
+        "TD_Avg": "3.53",
+        "Sub_Avg": "0.91",
+        "Fight_Time": "13:11",
+        "Fight_Time_Seconds": 791,
+        "Division": "Welterweight",
+        "Rank": "5",
+        "Selected_Date": "2026-11-16T13:28:54.931486Z"
     },
     "past_fighters": [
-        "Bo Nickal",
         "Tatsuro Taira",
         "Casey O'Neill",
         "David Onama",
         "Jasmine Jasudavicius",
         "Ilia Topuria",
-        "Joselyne Edwards"
+        "Joselyne Edwards",
+        "Alexandre Pantoja"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1163,7 +1163,8 @@
             "Fight_Time": "13:11",
             "Fight_Time_Seconds": 791,
             "Division": "Welterweight",
-            "Rank": "5"
+            "Rank": "5",
+            "Selected_Date": "2026-11-16T13:28:54.931486Z"
         },
         "Kamaru Usman": {
             "Name": "Kamaru Usman",
