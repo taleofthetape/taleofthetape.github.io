@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Sean Brady",
-        "Profile_URL": "https://www.ufc.com/athlete/sean-brady",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/BRADY_SEAN_11-15.png?itok=AC4QCIbp",
-        "Record": "18-2-0 (W-L-D)",
-        "SLpM": "3.96",
-        "SApM": "3.05",
-        "TD_Avg": "3.53",
-        "Sub_Avg": "0.91",
-        "Fight_Time": "13:11",
-        "Fight_Time_Seconds": 791,
-        "Division": "Welterweight",
-        "Rank": "5",
-        "Selected_Date": "2026-11-16T13:28:54.931486Z"
+        "Name": "Vinicius Oliveira",
+        "Profile_URL": "https://www.ufc.com/athlete/vinicius-oliveira",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/OLIVEIRA_VINICIUS_07-19.png?itok=VrW5MdJe",
+        "Record": "23-3-0 (W-L-D)",
+        "SLpM": "5.28",
+        "SApM": "2.89",
+        "TD_Avg": "1.67",
+        "Sub_Avg": "0.24",
+        "Fight_Time": "12:33",
+        "Fight_Time_Seconds": 753,
+        "Division": "Bantamweight",
+        "Rank": "13",
+        "Selected_Date": "2026-11-17T14:14:09.697478Z"
     },
     "past_fighters": [
-        "Tatsuro Taira",
         "Casey O'Neill",
         "David Onama",
         "Jasmine Jasudavicius",
         "Ilia Topuria",
         "Joselyne Edwards",
-        "Alexandre Pantoja"
+        "Alexandre Pantoja",
+        "Sean Brady"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -659,7 +659,7 @@
             "Fight_Time_Seconds": 753,
             "Division": "Bantamweight",
             "Rank": "13",
-            "Selected_Date": "2026-02-18T06:05:43.847676Z"
+            "Selected_Date": "2026-11-17T14:14:09.697478Z"
         },
         "Kyler Phillips": {
             "Name": "Kyler Phillips",
@@ -807,7 +807,7 @@
             "Fight_Time": "05:50",
             "Fight_Time_Seconds": 350,
             "Division": "Featherweight",
-            "Rank": "13",
+            "Rank": "12",
             "Selected_Date": "2026-09-15T09:57:11.838022Z"
         },
         "Brian Ortega": {
@@ -866,7 +866,7 @@
             "Fight_Time": "16:04",
             "Fight_Time_Seconds": 964,
             "Division": "Featherweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-05-02T07:03:44.557378Z"
         },
         "Dan Ige": {
@@ -1178,7 +1178,7 @@
             "Fight_Time": "17:50",
             "Fight_Time_Seconds": 1070,
             "Division": "Welterweight",
-            "Rank": "11",
+            "Rank": "12",
             "Selected_Date": "2026-10-16T09:37:15.503138Z"
         },
         "Leon Edwards": {
@@ -1193,7 +1193,7 @@
             "Fight_Time": "16:47",
             "Fight_Time_Seconds": 1007,
             "Division": "Welterweight",
-            "Rank": "10",
+            "Rank": "11",
             "Selected_Date": "2026-09-19T09:21:08.016418Z"
         },
         "Joaquin Buckley": {
@@ -1208,7 +1208,7 @@
             "Fight_Time": "11:33",
             "Fight_Time_Seconds": 693,
             "Division": "Welterweight",
-            "Rank": "12"
+            "Rank": "13"
         },
         "Gabriel Bonfim": {
             "Name": "Gabriel Bonfim",
@@ -1369,7 +1369,7 @@
             "Fight_Time": "14:04",
             "Fight_Time_Seconds": 844,
             "Division": "Middleweight",
-            "Rank": "6",
+            "Rank": "5",
             "Selected_Date": "2026-10-30T11:16:40.132917Z"
         },
         "Reinier de Ridder": {
@@ -1998,7 +1998,7 @@
             "Fight_Time": "08:10",
             "Fight_Time_Seconds": 490,
             "Division": "Middleweight",
-            "Rank": "5",
+            "Rank": "6",
             "Selected_Date": "2026-11-07T11:37:19.797487Z"
         },
         "Brunno Ferreira": {
@@ -2087,7 +2087,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "9"
+            "Rank": "10"
         },
         "Vitor Petrino": {
             "Name": "Vitor Petrino",
@@ -2234,7 +2234,7 @@
             "Fight_Time": "03:14",
             "Fight_Time_Seconds": 194,
             "Division": "Welterweight",
-            "Rank": "13",
+            "Rank": "14",
             "Selected_Date": "2026-10-05T12:10:53.340132Z"
         },
         "Raoni Barcelos": {
@@ -2434,7 +2434,7 @@
             "Fight_Time": "13:32",
             "Fight_Time_Seconds": 812,
             "Division": "Featherweight",
-            "Rank": "8",
+            "Rank": "15",
             "Selected_Date": "2026-08-20T05:37:08.147950Z"
         },
         "Joanderson Brito": {
@@ -2621,7 +2621,7 @@
             "Fight_Time": "10:47",
             "Fight_Time_Seconds": 647,
             "Division": "Welterweight",
-            "Rank": "15"
+            "Rank": "9"
         },
         "Iwo Baraniewski": {
             "Name": "Iwo Baraniewski",
@@ -2663,7 +2663,7 @@
             "Fight_Time": "09:16",
             "Fight_Time_Seconds": 556,
             "Division": "Featherweight",
-            "Rank": "14",
+            "Rank": "13",
             "Selected_Date": "2026-10-21T10:01:30.692741Z"
         },
         "Rei Tsuruya": {
@@ -3586,7 +3586,7 @@
             "Fight_Time": "06:17",
             "Fight_Time_Seconds": 377,
             "Division": "Welterweight",
-            "Rank": "14"
+            "Rank": "15"
         }
     }
 }
