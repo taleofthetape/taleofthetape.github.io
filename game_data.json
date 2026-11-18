@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Vinicius Oliveira",
-        "Profile_URL": "https://www.ufc.com/athlete/vinicius-oliveira",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/OLIVEIRA_VINICIUS_07-19.png?itok=VrW5MdJe",
-        "Record": "23-3-0 (W-L-D)",
-        "SLpM": "5.28",
-        "SApM": "2.89",
-        "TD_Avg": "1.67",
-        "Sub_Avg": "0.24",
-        "Fight_Time": "12:33",
-        "Fight_Time_Seconds": 753,
-        "Division": "Bantamweight",
-        "Rank": "13",
-        "Selected_Date": "2026-11-17T14:14:09.697478Z"
+        "Name": "Dan Ige",
+        "Profile_URL": "https://www.ufc.com/athlete/dan-ige",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/IGE_DAN_07-19.png?itok=X917m801",
+        "Record": "19-10-0 (W-L-D)",
+        "SLpM": "3.64",
+        "SApM": "3.56",
+        "TD_Avg": "0.89",
+        "Sub_Avg": "0.22",
+        "Fight_Time": "12:49",
+        "Fight_Time_Seconds": 769,
+        "Division": "Featherweight",
+        "Rank": "14",
+        "Selected_Date": "2026-11-18T13:45:46.122141Z"
     },
     "past_fighters": [
-        "Casey O'Neill",
         "David Onama",
         "Jasmine Jasudavicius",
         "Ilia Topuria",
         "Joselyne Edwards",
         "Alexandre Pantoja",
-        "Sean Brady"
+        "Sean Brady",
+        "Vinicius Oliveira"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -882,7 +882,7 @@
             "Fight_Time_Seconds": 769,
             "Division": "Featherweight",
             "Rank": "14",
-            "Selected_Date": "2026-04-18T06:15:42.142216Z"
+            "Selected_Date": "2026-11-18T13:45:46.122141Z"
         },
         "David Onama": {
             "Name": "David Onama",
@@ -896,7 +896,7 @@
             "Fight_Time": "11:09",
             "Fight_Time_Seconds": 669,
             "Division": "Featherweight",
-            "Rank": "15",
+            "Rank": "14",
             "Selected_Date": "2026-11-11T12:34:29.196282Z"
         },
         "Giga Chikadze": {
@@ -1280,7 +1280,7 @@
             "Fight_Time": "11:50",
             "Fight_Time_Seconds": 710,
             "Division": "Welterweight",
-            "Rank": "14",
+            "Rank": "15",
             "Selected_Date": "2026-09-20T09:42:50.911573Z"
         },
         "Nassourdine Imavov": {
@@ -2087,7 +2087,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "10"
+            "Rank": "9"
         },
         "Vitor Petrino": {
             "Name": "Vitor Petrino",
@@ -2621,7 +2621,7 @@
             "Fight_Time": "10:47",
             "Fight_Time_Seconds": 647,
             "Division": "Welterweight",
-            "Rank": "9"
+            "Rank": "10"
         },
         "Iwo Baraniewski": {
             "Name": "Iwo Baraniewski",
