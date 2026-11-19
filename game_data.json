@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Dan Ige",
-        "Profile_URL": "https://www.ufc.com/athlete/dan-ige",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/IGE_DAN_07-19.png?itok=X917m801",
-        "Record": "19-10-0 (W-L-D)",
-        "SLpM": "3.64",
-        "SApM": "3.56",
-        "TD_Avg": "0.89",
-        "Sub_Avg": "0.22",
-        "Fight_Time": "12:49",
-        "Fight_Time_Seconds": 769,
-        "Division": "Featherweight",
-        "Rank": "14",
-        "Selected_Date": "2026-11-18T13:45:46.122141Z"
+        "Name": "Marcin Tybura",
+        "Profile_URL": "https://www.ufc.com/athlete/marcin-tybura",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-09/TYBURA_MARCIN_09-06.png?itok=0kcRoC2B",
+        "Record": "27-10-0 (W-L-D)",
+        "SLpM": "3.59",
+        "SApM": "3.33",
+        "TD_Avg": "1.38",
+        "Sub_Avg": "0.12",
+        "Fight_Time": "10:51",
+        "Fight_Time_Seconds": 651,
+        "Division": "Heavyweight",
+        "Rank": "15",
+        "Selected_Date": "2026-11-19T14:15:14.941022Z"
     },
     "past_fighters": [
-        "David Onama",
         "Jasmine Jasudavicius",
         "Ilia Topuria",
         "Joselyne Edwards",
         "Alexandre Pantoja",
         "Sean Brady",
-        "Vinicius Oliveira"
+        "Vinicius Oliveira",
+        "Dan Ige"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1835,7 +1835,7 @@
             "Fight_Time_Seconds": 651,
             "Division": "Heavyweight",
             "Rank": "15",
-            "Selected_Date": "2026-09-04T09:28:01.744974Z"
+            "Selected_Date": "2026-11-19T14:15:14.941022Z"
         },
         "Shamil Gaziev": {
             "Name": "Shamil Gaziev",
