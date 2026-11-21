@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mateusz Gamrot",
-        "Profile_URL": "https://www.ufc.com/athlete/mateusz-gamrot",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GAMROT_MATEUSZ_10-11.png?itok=bkRzb4y4",
-        "Record": "25-4-0 (W-L-D)",
-        "SLpM": "3.29",
-        "SApM": "2.96",
-        "TD_Avg": "5.15",
-        "Sub_Avg": "0.10",
-        "Fight_Time": "12:09",
-        "Fight_Time_Seconds": 729,
-        "Division": "Lightweight",
-        "Rank": "9",
-        "Selected_Date": "2026-11-20T13:55:35.074384Z"
+        "Name": "Colby Covington",
+        "Profile_URL": "https://www.ufc.com/athlete/colby-covington",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-01/5/COVINGTON_COLBY_12-14.png?itok=oW_iC6jD",
+        "Record": "17-5-0 (W-L-D)",
+        "SLpM": "3.81",
+        "SApM": "3.09",
+        "TD_Avg": "3.64",
+        "Sub_Avg": "0.16",
+        "Fight_Time": "16:57",
+        "Fight_Time_Seconds": 1017,
+        "Division": "Welterweight",
+        "Rank": "15",
+        "Selected_Date": "2026-11-21T13:19:55.688359Z"
     },
     "past_fighters": [
-        "Ilia Topuria",
         "Joselyne Edwards",
         "Alexandre Pantoja",
         "Sean Brady",
         "Vinicius Oliveira",
         "Dan Ige",
-        "Marcin Tybura"
+        "Marcin Tybura",
+        "Mateusz Gamrot"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -1253,7 +1253,7 @@
             "Fight_Time_Seconds": 1017,
             "Division": "Welterweight",
             "Rank": "15",
-            "Selected_Date": "2026-03-29T06:13:42.725521Z"
+            "Selected_Date": "2026-11-21T13:19:55.688359Z"
         },
         "Geoff Neal": {
             "Name": "Geoff Neal",
@@ -2088,7 +2088,7 @@
             "Fight_Time": "03:59",
             "Fight_Time_Seconds": 239,
             "Division": "Welterweight",
-            "Rank": "9"
+            "Rank": "10"
         },
         "Vitor Petrino": {
             "Name": "Vitor Petrino",
@@ -2622,7 +2622,7 @@
             "Fight_Time": "10:47",
             "Fight_Time_Seconds": 647,
             "Division": "Welterweight",
-            "Rank": "10"
+            "Rank": "9"
         },
         "Iwo Baraniewski": {
             "Name": "Iwo Baraniewski",
