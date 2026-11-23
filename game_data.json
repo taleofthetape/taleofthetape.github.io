@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Manuel Torres",
-        "Profile_URL": "https://www.ufc.com/athlete/manuel-torres",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-12/TORRES_MANUEL_12-06.png?itok=UUURt0dW",
-        "Record": "17-3-0 (W-L-D)",
-        "SLpM": "7.29",
-        "SApM": "4.08",
-        "TD_Avg": "1.72",
-        "Sub_Avg": "0.86",
-        "Fight_Time": "02:29",
-        "Fight_Time_Seconds": 149,
-        "Division": "Lightweight",
-        "Rank": "15",
-        "Selected_Date": "2026-11-22T13:12:17.675820Z"
+        "Name": "Kevin Holland",
+        "Profile_URL": "https://www.ufc.com/athlete/kevin-holland",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/HOLLAND_KEVIN_04-11.png?itok=xjk8I5OI",
+        "Record": "29-15-0 (W-L-D)",
+        "SLpM": "4.24",
+        "SApM": "3.21",
+        "TD_Avg": "0.79",
+        "Sub_Avg": "0.60",
+        "Fight_Time": "10:47",
+        "Fight_Time_Seconds": 647,
+        "Division": "Welterweight",
+        "Rank": "9",
+        "Selected_Date": "2026-11-23T15:49:33.783433Z"
     },
     "past_fighters": [
-        "Alexandre Pantoja",
         "Sean Brady",
         "Vinicius Oliveira",
         "Dan Ige",
         "Marcin Tybura",
         "Mateusz Gamrot",
-        "Colby Covington"
+        "Colby Covington",
+        "Manuel Torres"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -2622,7 +2622,8 @@
             "Fight_Time": "10:47",
             "Fight_Time_Seconds": 647,
             "Division": "Welterweight",
-            "Rank": "9"
+            "Rank": "9",
+            "Selected_Date": "2026-11-23T15:49:33.783433Z"
         },
         "Iwo Baraniewski": {
             "Name": "Iwo Baraniewski",
