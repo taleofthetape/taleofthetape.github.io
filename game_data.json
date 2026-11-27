@@ -1,27 +1,27 @@
 {
     "daily_fighter": {
-        "Name": "Mackenzie Dern",
-        "Profile_URL": "https://www.ufc.com/athlete/mackenzie-dern",
-        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/DERN_MACKENZIE_BELT_08-15.png?itok=qiicHeml",
-        "Record": "17-5-0 (W-L-D)",
-        "SLpM": "3.38",
-        "SApM": "3.74",
-        "TD_Avg": "1.07",
-        "Sub_Avg": "1.01",
-        "Fight_Time": "14:49",
-        "Fight_Time_Seconds": 889,
-        "Division": "Poids paille f\u00e9minins",
-        "Rank": "C",
-        "Selected_Date": "2026-11-26T14:55:53.990616Z"
+        "Name": "Karine Silva",
+        "Profile_URL": "https://www.ufc.com/athlete/karine-silva",
+        "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-04/SILVA_KARINE_04-18.png?itok=ppTTus42",
+        "Record": "19-7-0 (W-L-D)",
+        "SLpM": "2.24",
+        "SApM": "2.74",
+        "TD_Avg": "1.93",
+        "Sub_Avg": "1.61",
+        "Fight_Time": "10:23",
+        "Fight_Time_Seconds": 623,
+        "Division": "Poids mouche f\u00e9minins",
+        "Rank": "14",
+        "Selected_Date": "2026-11-27T14:52:19.178342Z"
     },
     "past_fighters": [
-        "Marcin Tybura",
         "Mateusz Gamrot",
         "Colby Covington",
         "Manuel Torres",
         "Kevin Holland",
         "Paulo Costa",
-        "Arnold Allen"
+        "Arnold Allen",
+        "Mackenzie Dern"
     ],
     "fighter_data": {
         "Islam Makhachev": {
@@ -320,7 +320,7 @@
         },
         "Manel Kape": {
             "Name": "Manel Kape",
-            "Profile_URL": "https://www.ufc.com/athlete/manel-kape",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/manel-kape",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-02/KAPE_MANEL_03-01.png?itok=tvtp-zUJ",
             "Record": "21-7-0 (W-L-D)",
             "SLpM": "5.04",
@@ -1124,7 +1124,7 @@
         },
         "Michael Morales": {
             "Name": "Michael Morales",
-            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/michael-morales",
+            "Profile_URL": "https://www.ufc.com/athlete/michael-morales",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-11/MORALES_MICHAEL_11-15.png?itok=14-c1F89",
             "Record": "19-0-0 (W-L-D)",
             "SLpM": "5.68",
@@ -1691,7 +1691,7 @@
         },
         "Ciryl Gane": {
             "Name": "Ciryl Gane",
-            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/ciryl-gane",
+            "Profile_URL": "https://www.ufc.com/athlete/ciryl-gane",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-10/GANE_CIRYL_10-25.png?itok=L3b-4RSq",
             "Record": "13-2-0 (W-L-D)",
             "SLpM": "5.29",
@@ -2324,7 +2324,7 @@
         },
         "Bo Nickal": {
             "Name": "Bo Nickal",
-            "Profile_URL": "https://www.ufc.com/athlete/bo-nickal",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/bo-nickal",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-06/NICKAL_BO_06-14.png?itok=sc2JlKnj",
             "Record": "9-1-0 (W-L-D)",
             "SLpM": "3.35",
@@ -2670,7 +2670,7 @@
         },
         "Rei Tsuruya": {
             "Name": "Rei Tsuruya",
-            "Profile_URL": "https://www.ufc.com/athlete/rei-tsuruya",
+            "Profile_URL": "https://www.ufc.com/index%2Ephp/athlete/rei-tsuruya",
             "Picture_URL": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2026-08/TSURUYA_REI_08-29.png?itok=Dd_qmDP3",
             "Record": "12-1-0 (W-L-D)",
             "SLpM": "2.85",
@@ -3264,7 +3264,8 @@
             "Fight_Time": "10:23",
             "Fight_Time_Seconds": 623,
             "Division": "Poids mouche f\u00e9minins",
-            "Rank": "14"
+            "Rank": "14",
+            "Selected_Date": "2026-11-27T14:52:19.178342Z"
         },
         "Casey O'Neill": {
             "Name": "Casey O'Neill",
